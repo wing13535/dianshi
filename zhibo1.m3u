@@ -391,6 +391,8 @@ http://183.3.134.56:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
 http://119.125.134.205:9902/tsfile/live/1010_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
+http://119.125.134.205:9902/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
 http://183.3.134.56:9901/tsfile/live/0019_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东大湾区卫视.png",广东大湾区卫视
 http://119.125.134.205:9902/tsfile/live/1015_1.m3u8
