@@ -4,6 +4,8 @@ http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8654&tk=e503191f8e20
 #EXTINF:29 group-title="新闻频道" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰中文
 http://119.125.134.205:9902/tsfile/live/1019_1.m3u8
 #EXTINF:29 group-title="新闻频道" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰中文
+http://59.32.97.71:9901/tsfile/live/1037_1.m3u8
+#EXTINF:29 group-title="新闻频道" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰中文
 http://prettyalan.vicp.cc:8888/udp/239.61.5.48:1025
 #EXTINF:29 group-title="新闻频道" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -12,13 +14,19 @@ http://114.33.60.49:8539/http/61.219.99.20:8078/hls/21/80/phoenixch.m3u8
 #EXTINF:30 group-title="新闻频道" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1581&tk=e503191f8e20
 #EXTINF:30 group-title="新闻频道" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
+https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
+#EXTINF:30 group-title="新闻频道" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
 http://prettyalan.vicp.cc:8888/udp/239.61.5.47:1025
 #EXTINF:30 group-title="新闻频道" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
 http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-4
 #EXTINF:30 group-title="新闻频道" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
 https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
 #EXTINF:30 group-title="新闻频道" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
+https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
+#EXTINF:30 group-title="新闻频道" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:30 group-title="新闻频道" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:31 group-title="新闻频道" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰香港
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5454&tk=e503191f8e20
 #EXTINF:31 group-title="新闻频道" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰香港
@@ -257,6 +265,8 @@ http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8654&tk=e503191f8e20
 #EXTINF:29 group-title="香港台湾" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰中文
 http://119.125.134.205:9902/tsfile/live/1019_1.m3u8
 #EXTINF:29 group-title="香港台湾" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰中文
+http://59.32.97.71:9901/tsfile/live/1037_1.m3u8
+#EXTINF:29 group-title="香港台湾" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰中文
 http://prettyalan.vicp.cc:8888/udp/239.61.5.48:1025
 #EXTINF:29 group-title="香港台湾" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -265,13 +275,17 @@ http://114.33.60.49:8539/http/61.219.99.20:8078/hls/21/80/phoenixch.m3u8
 #EXTINF:30 group-title="香港台湾" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1581&tk=e503191f8e20
 #EXTINF:30 group-title="香港台湾" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
+https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
+#EXTINF:30 group-title="香港台湾" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
 http://prettyalan.vicp.cc:8888/udp/239.61.5.47:1025
 #EXTINF:30 group-title="香港台湾" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
 http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-4
 #EXTINF:30 group-title="香港台湾" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
-https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
+https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
 #EXTINF:30 group-title="香港台湾" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:30 group-title="香港台湾" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:31 group-title="香港台湾" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰香港
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5454&tk=e503191f8e20
 #EXTINF:31 group-title="香港台湾" aktv-server-group="AKTV" " tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰香港
