@@ -43,6 +43,7 @@ CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 广东新闻,http://183.3.134.56:9901/tsfile/live/1005_1.m3u8
 無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+寰宇新聞台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3002&tk=e503191f8e20
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 东森新聞台,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 东森新聞台,http://114.33.60.49:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
@@ -61,6 +62,10 @@ TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 now聞台,https://live.hkdvb.com/hls/live/332.m3u8?token=815914873027890
 体育频道,#genre#
+广东体育http://219.159.194.83:8181/tsfile/live/1001_1.m3u8
+广东体育http://222.218.158.217:8181/tsfile/live/1001_1.m3u8
+广东体育http://219.159.194.4:8181/tsfile/live/1001_1.m3u8
+广东体育http://119.125.134.212:9902/tsfile/live/1013_1.m3u8
 广东体育,http://119.125.134.205:9902/tsfile/live/1013_1.m3u8
 广东体育,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
 广东体育,http://171.104.198.151:8181/tsfile/live/1026_1.m3u8
@@ -76,8 +81,10 @@ CCTV16,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?$%E8%AE%A2%E9%98%85%
 CCTV16,http://119.125.134.205:9902/tsfile/live/1008_1.m3u8
 CCTV16,http://wuyanjiang.cn:8012/udp/239.3.1.184:8001
 NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-魅力足球,http://111.8.242.100:9999/tsfile/live/1037_1.m3u8
+魅力足球,http://111.8.224.6:9999/tsfile/live/1037_1.m3u8
+魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
 魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8363&tk=e503191f8e20
+劲爆体育,http://111.8.224.6:9999/tsfile/live/1035_1.m3u8
 劲爆体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4995&tk=e503191f8e20
 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
 五星体育,http://223.166.234.149:7777/tsfile/live/1030_1.m3u8
@@ -206,6 +213,10 @@ Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 广东频道,#genre#
+广东体育http://219.159.194.83:8181/tsfile/live/1001_1.m3u8
+广东体育http://222.218.158.217:8181/tsfile/live/1001_1.m3u8
+广东体育http://219.159.194.4:8181/tsfile/live/1001_1.m3u8
+广东体育http://119.125.134.212:9902/tsfile/live/1013_1.m3u8
 广东体育,http://119.125.134.205:9902/tsfile/live/1013_1.m3u8
 广东体育,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
 广东体育,http://171.104.198.151:8181/tsfile/live/1026_1.m3u8
