@@ -751,47 +751,49 @@ http://wuyanjiang.cn:8012/udp/239.3.1.123:8164
 http://112.101.78.50:9901/tsfile/live/0138_1.m3u8
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://wuyanjiang.cn:8012/udp/239.3.1.47:8164
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",河北卫视
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://112.101.78.50:9901/tsfile/live/0110_1.m3u8
+#EXTINF:-1 group-title="卫视频道",河北卫视
 http://wuyanjiang.cn:8012/udp/239.3.1.148:8072
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",河北卫视
+#EXTINF:-1 group-title="卫视频道",河北卫视
 http://112.101.78.50:9901/tsfile/live/0117_1.m3u8
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",深圳卫视
+#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://wuyanjiang.cn:8012/udp/239.3.1.134:8020
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",深圳卫视
+#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://112.101.78.50:9901/tsfile/live/0126_1.m3u8
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",湖北卫视
+#EXTINF:-1 group-title="卫视频道",湖北卫视
 http://wuyanjiang.cn:8012/udp/239.3.1.138:8044
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",湖北卫视
+#EXTINF:-1 group-title="卫视频道",湖北卫视
 http://112.101.78.50:9901/tsfile/live/0132_1.m3u8
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",甘肃卫视
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://wuyanjiang.cn:8012/udp/239.3.1.49:8188
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",辽宁卫视
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://wuyanjiang.cn:8012/udp/239.3.1.210:8056
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",辽宁卫视
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://112.101.78.50:9901/tsfile/live/0121_1.m3u8
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",重庆卫视
+#EXTINF:-1 group-title="卫视频道",重庆卫视
 http://wuyanjiang.cn:8012/udp/239.3.1.122:8160
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",青海卫视
+#EXTINF:-1 group-title="卫视频道",青海卫视
 http://wuyanjiang.cn:8012/udp/239.3.1.44:8184
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",黑龙江卫视
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
 ttp://wuyanjiang.cn:8012/udp/239.3.1.133:8016
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",黑龙江卫视
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://112.101.78.50:9901/tsfile/live/0143_1.m3u8
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",山西卫视
+#EXTINF:-1 group-title="卫视频道",山西卫视
 http://wuyanjiang.cn:8012/udp/239.3.1.42:8172
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",河南卫视
+#EXTINF:-1 group-title="卫视频道",河南卫视
 http://wuyanjiang.cn:8012/udp/239.3.1.27:8128
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",四川卫视
+#EXTINF:-1 group-title="卫视频道",四川卫视
 http://112.101.78.50:9901/tsfile/live/0123_1.m3u8
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",四川卫视
+#EXTINF:-1 group-title="卫视频道",四川卫视
 http://wouu.net:9977/udp/239.93.0.169:5140
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",北京卫视
+#EXTINF:-1 group-title="卫视频道",北京卫视
 http://ds.shixd.cn:5957/rtp/239.49.8.0141:6000
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",北京卫视
+#EXTINF:-1 group-title="卫视频道",北京卫视
 http://112.101.78.50:9901/tsfile/live/0122_1.m3u8
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",海南卫视
+#EXTINF:-1 group-title="卫视频道",海南卫视
 http://150.158.112.123/公众号~玉玉软件库/mg.php?id=hinws
-#EXTINF:-1 group-title="西藏卫视http://112.101.78.50:9901/tsfile/live/0110_1.m3u8",陕西卫视
+#EXTINF:-1 group-title="卫视频道",陕西卫视
 http://wuyanjiang.cn:8012/udp/239.3.1.41:8140
 #EXTINF:-1 group-title="儿童频道",東森幼幼
 http://114.33.60.49:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
