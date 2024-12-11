@@ -36,8 +36,6 @@ http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 group-title="新闻频道",军事
 http://wuyanjiang.cn:8012/udp/239.3.1.76:4120
 #EXTINF:-1 group-title="新闻频道",CCTV1
-http://ds.shixd.cn:5957/rtp/239.49.8.0129:6000
-#EXTINF:-1 group-title="新闻频道",CCTV1
 http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv1
 #EXTINF:-1 group-title="新闻频道",CCTV1
 http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv1
@@ -47,8 +45,6 @@ http://wuyanjiang.cn:8012/udp/239.3.1.129:8008
 http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv1
 #EXTINF:-1 group-title="新闻频道",CCTV1
 http://z.b.bkpcp.top/m.php?id=cctv1
-#EXTINF:-1 group-title="新闻频道",CCTV4
-http://ds.shixd.cn:5957/rtp/239.49.8.0131:6000
 #EXTINF:-1 group-title="新闻频道",CCTV4
 http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv4
 #EXTINF:-1 group-title="新闻频道",CCTV4
