@@ -170,65 +170,73 @@ http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5p
 #EXTINF:-1 group-title="体育频道",CCTV5+
 http://z.b.bkpcp.top/m.php?id=cctv5p
 #EXTINF:-1 group-title="体育频道",CCTV16
-http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv16
-#EXTINF:-1 group-title="体育频道",CCTV16
-http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv16
-#EXTINF:-1 group-title="体育频道",CCTV16
 http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?$%E8%AE%A2%E9%98%85%E6%BA%90%7C3840x2160
 #EXTINF:-1 group-title="体育频道",CCTV16
 http://wuyanjiang.cn:8012/udp/239.3.1.184:8001
+#EXTINF:-1 group-title="体育频道",CCTV16
+http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv16
+#EXTINF:-1 group-title="体育频道",CCTV16
+http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv16
+#EXTINF:-1 group-title="体育频道",UFC
+http://139.196.228.200:5678/公众号搞机大师/mg.php?id=ufcgdjx
 #EXTINF:-1 group-title="体育频道",NBA
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-#EXTINF:-1 group-title="魅力足球,",魅力足球
+#EXTINF:-1 group-title="体育频道",魅力足球
+http://139.196.228.200:5678/公众号搞机大师/mg.php?id=mlzq
+#EXTINF:-1 group-title="体育频道",魅力足球
 http://z.b.bkpcp.top/m.php?id=mlzq
-#EXTINF:-1 group-title="魅力足球,",魅力足球
+#EXTINF:-1 group-title="体育频道",魅力足球
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8363&tk=e503191f8e20
-#EXTINF:-1 group-title="劲爆体育,",劲爆体育
+#EXTINF:-1 group-title="体育频道",劲爆体育
+http://139.196.228.200:5678/公众号搞机大师/mg.php?id=jbty
+#EXTINF:-1 group-title="体育频道",劲爆体育
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4995&tk=e503191f8e20
-#EXTINF:-1 group-title="劲爆体育,",劲爆体育
+#EXTINF:-1 group-title="体育频道",劲爆体育
 http://z.b.bkpcp.top/m.php?id=jbty
-#EXTINF:-1 group-title="劲爆体育,",五星体育
+#EXTINF:-1 group-title="体育频道",五星体育
 http://223.166.234.19:7777/tsfile/live/1030_1.m3u8
-#EXTINF:-1 group-title="劲爆体育,",五星体育
+#EXTINF:-1 group-title="体育频道",五星体育
 http://223.166.234.149:7777/tsfile/live/1030_1.m3u8
-#EXTINF:-1 group-title="劲爆体育,",五星体育
+#EXTINF:-1 group-title="体育频道",五星体育
 http://223.166.234.114:7777/tsfile/live/1030_1.m3u8
-#EXTINF:-1 group-title="劲爆体育,",五星体育
+#EXTINF:-1 group-title="体育频道",五星体育
 http://223.166.234.215:7777/tsfile/live/1030_1.m3u8
-#EXTINF:-1 group-title="劲爆体育,",纬来体育
+#EXTINF:-1 group-title="体育频道",纬来体育
 http://114.33.60.49:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-#EXTINF:-1 group-title="劲爆体育,",Red Bull TV
+#EXTINF:-1 group-title="体育频道",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="劲爆体育,",快乐垂钓
+#EXTINF:-1 group-title="体育频道",快乐垂钓
 http://113.57.109.48:1111/tsfile/live/1041_1.m3u8
-#EXTINF:-1 group-title="劲爆体育,",快乐垂钓
+#EXTINF:-1 group-title="体育频道",快乐垂钓
 http://223.166.234.114:7777/tsfile/live/1048_1.m3u8
-#EXTINF:-1 group-title="劲爆体育,",四海钓鱼
+#EXTINF:-1 group-title="体育频道",四海钓鱼
 https://tv.iill.top/migu/shdy
-#EXTINF:-1 group-title="劲爆体育,",ELEVEN體育1
+#EXTINF:-1 group-title="体育频道",ELEVEN體育1
 http://114.33.60.49:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
-#EXTINF:-1 group-title="劲爆体育,",ELEVEN體育2
+#EXTINF:-1 group-title="体育频道",ELEVEN體育2
 http://114.33.60.49:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
-#EXTINF:-1 group-title="劲爆体育,",新视觉体育
+#EXTINF:-1 group-title="体育频道",新视觉体育
 http://119.125.134.205:9902/tsfile/live/1057_1.m3u8
-#EXTINF:-1 group-title="劲爆体育,",TRA体育
+#EXTINF:-1 group-title="体育频道",TRA体育
 http://litv.zapi.us.kg/?id=4gtv-4gtv077
-#EXTINF:-1 group-title="劲爆体育,",TRA体育
+#EXTINF:-1 group-title="体育频道",TRA体育
 https://litv.zapi.us.kg/?id=4gtv-4gtv077
-#EXTINF:-1 group-title="劲爆体育,",英雄联盟1
+#EXTINF:-1 group-title="体育频道",英雄联盟1
 http://dns.yiandrive.com:16813/bilibili/6
-#EXTINF:-1 group-title="劲爆体育,",英雄联盟2
+#EXTINF:-1 group-title="体育频道",英雄联盟2
 http://dns.yiandrive.com:16813/huya/660000
-#EXTINF:-1 group-title="劲爆体育,",英雄联盟3
+#EXTINF:-1 group-title="体育频道",英雄联盟3
 http://dns.yiandrive.com:16813/douyu/424559
-#EXTINF:-1 group-title="劲爆体育,",咪咕体育1
+#EXTINF:-1 group-title="体育频道",咪咕体育1
 http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 group-title="劲爆体育,",咪咕体育1
+#EXTINF:-1 group-title="体育频道",咪咕体育1
 http://111.13.111.242/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 group-title="劲爆体育,",咪咕体育2
+#EXTINF:-1 group-title="体育频道",咪咕体育2
 http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 group-title="劲爆体育,",咪咕体育2
+#EXTINF:-1 group-title="体育频道",咪咕体育2
 http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="体育频道",NBA经典
+http://139.196.228.200:5678/公众号搞机大师/mg.php?id=nbajd
 #EXTINF:-1 group-title="电影频道",粤语电影1
 http://120.77.28.4:8648/douyu.php?id=1226741
 #EXTINF:-1 group-title="电影频道",粤语电影2
@@ -467,8 +475,12 @@ http://222.84.193.118:8181/tsfile/live/1015_1.m3u8
 http://183.3.134.56:9901/tsfile/live/0019_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东大湾区卫视
 http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=dwqws
+#EXTINF:-1 group-title="广东频道",广东大湾区卫视
+http://139.196.228.200:5678/公众号搞机大师/mg.php?id=dwqws
 #EXTINF:-1 group-title="广东频道",广东影视
 http://183.3.134.56:9901/tsfile/live/0117_1.m3u8
+#EXTINF:-1 group-title="广东频道",广东影视
+http://139.196.228.200:5678/公众号搞机大师/mg.php?id=gdys
 #EXTINF:-1 group-title="广东频道",广东卫视
 http://ds.shixd.cn:5957/rtp/239.49.8.0143:6000
 #EXTINF:-1 group-title="广东频道",广东卫视
@@ -646,13 +658,13 @@ http://wuyanjiang.cn:8012/udp/239.3.1.153:8136
 #EXTINF:-1 group-title="央视频道",CCTV15
 http://z.b.bkpcp.top/m.php?id=cctv15
 #EXTINF:-1 group-title="央视频道",CCTV16
-http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv16
-#EXTINF:-1 group-title="央视频道",CCTV16
-http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv16
-#EXTINF:-1 group-title="央视频道",CCTV16
 http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?$%E8%AE%A2%E9%98%85%E6%BA%90%7C3840x2160
 #EXTINF:-1 group-title="央视频道",CCTV16
 http://wuyanjiang.cn:8012/udp/239.3.1.184:8001
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv16
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv16
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://ds.shixd.cn:5957/rtp/239.49.8.0132:6000
 #EXTINF:-1 group-title="央视频道",CCTV17
