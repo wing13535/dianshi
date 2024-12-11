@@ -87,15 +87,16 @@ CCTV5+,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv5p
 CCTV5+,http://wuyanjiang.cn:8012/udp/239.3.1.130:8004
 CCTV5+,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5p
 CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV16,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv16
-CCTV16,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv16
 CCTV16,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?$%E8%AE%A2%E9%98%85%E6%BA%90%7C3840x2160
 CCTV16,http://wuyanjiang.cn:8012/udp/239.3.1.184:8001
+CCTV16,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv16
+CCTV16,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv16
+UFC,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=ufcgdjx
 NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-魅力足球,
+魅力足球,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=mlzq
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
 魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8363&tk=e503191f8e20
-劲爆体育,
+劲爆体育,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=jbty
 劲爆体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4995&tk=e503191f8e20
 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
 五星体育,http://223.166.234.19:7777/tsfile/live/1030_1.m3u8
@@ -119,7 +120,7 @@ TRA体育,https://litv.zapi.us.kg/?id=4gtv-4gtv077
 咪咕体育1,http://111.13.111.242/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 咪咕体育2,http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 咪咕体育2,http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-
+NBA经典,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=nbajd
 
 电影频道,#genre#
 粤语电影1,http://120.77.28.4:8648/douyu.php?id=1226741
@@ -137,7 +138,6 @@ Popc,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 影迷电影,http://119.125.134.212:9902/tsfile/live/1024_1.m3u8
-
 
 
 香港台湾,#genre#
@@ -172,7 +172,6 @@ ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-
 TVB 星河台,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 TVB 星河台,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 TVB 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
@@ -249,7 +248,9 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 广东珠江,http://222.84.193.118:8181/tsfile/live/1015_1.m3u8
 广东珠江,http://183.3.134.56:9901/tsfile/live/0019_1.m3u8
 广东大湾区卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=dwqws
+广东大湾区卫视,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=dwqws
 广东影视,http://183.3.134.56:9901/tsfile/live/0117_1.m3u8
+广东影视,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=gdys
 广东卫视,http://ds.shixd.cn:5957/rtp/239.49.8.0143:6000
 广东卫视,http://wuyanjiang.cn:8012/udp/239.3.1.142:8048
 广东卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=gdws
@@ -341,10 +342,10 @@ CCTV15,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv15
 CCTV15,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv15
 CCTV15,http://wuyanjiang.cn:8012/udp/239.3.1.153:8136
 CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV16,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv16
-CCTV16,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv16
 CCTV16,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?$%E8%AE%A2%E9%98%85%E6%BA%90%7C3840x2160
 CCTV16,http://wuyanjiang.cn:8012/udp/239.3.1.184:8001
+CCTV16,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv16
+CCTV16,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv16
 CCTV17,http://ds.shixd.cn:5957/rtp/239.49.8.0132:6000
 CCTV17,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv17
 CCTV17,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv17
