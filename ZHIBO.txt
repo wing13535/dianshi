@@ -487,7 +487,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 卡酷少儿,http://iptv.887979.xyz/itv/7851974109718180595.m3u8?cdn=bestzb
 卡酷少儿,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000040
 卡酷少儿,http://183.66.13.82:60033/tsfile/live/0126_2.m3u8?key=txiptv
-卡酷少儿,,http://112.101.78.50:9901/tsfile/live/1012_1.m3u8
+卡酷少儿,http://112.101.78.50:9901/tsfile/live/1012_1.m3u8
 靖天卡通,https://litv.zapi.us.kg/?id=4gtv-4gtv044
 金鹰卡通,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000039
 金鹰卡通,http://112.101.78.50:9901/tsfile/live/1016_1.m3u8
