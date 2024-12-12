@@ -206,6 +206,8 @@ http://php.jdshipin.com/TVOD/gsyd.php?id=9900000102
 #EXTINF:-1 group-title="体育频道",精品体育
 http://iptv.887979.xyz/itv/1000000004000014634.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="体育频道",超级体育
+http://iptv.887979.xyz/itv/1000000001000009601.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="体育频道",超级体育
 http://php.jdshipin.com/TVOD/gsyd.php?id=9900000020
 #EXTINF:-1 group-title="体育频道",UFC
 http://139.196.228.200:5678/公众号搞机大师/mg.php?id=ufcgdjx
@@ -214,6 +216,8 @@ http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 #EXTINF:-1 group-title="体育频道",NBA经典
 http://139.196.228.200:5678/公众号搞机大师/mg.php?id=nbajd
 #EXTINF:-1 group-title="体育频道",劲爆体育
+http://iptv.887979.xyz/itv/5000000002000029972.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="体育频道",劲爆体育
 http://139.196.228.200:5678/公众号搞机大师/mg.php?id=jbty
 #EXTINF:-1 group-title="体育频道",劲爆体育
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4995&tk=e503191f8e20
@@ -221,6 +225,8 @@ http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4995&tk=e503191f8e20
 http://z.b.bkpcp.top/m.php?id=jbty
 #EXTINF:-1 group-title="体育频道",五星体育
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000007
+#EXTINF:-1 group-title="体育频道",五星体育
+http://iptv.887979.xyz/itv/5000000010000017540.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="体育频道",五星体育
 http://223.166.234.19:7777/tsfile/live/1030_1.m3u8
 #EXTINF:-1 group-title="体育频道",五星体育
@@ -251,6 +257,8 @@ http://dns.yiandrive.com:16813/bilibili/6
 http://dns.yiandrive.com:16813/huya/660000
 #EXTINF:-1 group-title="体育频道",英雄联盟3
 http://dns.yiandrive.com:16813/douyu/424559
+#EXTINF:-1 group-title="体育频道",魅力足球
+http://iptv.887979.xyz/itv/5000000011000031207.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="体育频道",魅力足球
 http://139.196.228.200:5678/公众号搞机大师/mg.php?id=mlzq
 #EXTINF:-1 group-title="体育频道",魅力足球
@@ -918,10 +926,12 @@ http://183.3.134.56:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="儿童频道",龙华卡通
 http://litv.zapi.us.kg/?id=litv-longturn01
 #EXTINF:-1 group-title="儿童频道",卡酷少儿
+http://iptv.887979.xyz/itv/7851974109718180595.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="儿童频道",卡酷少儿
 http://php.jdshipin.com/TVOD/gsyd.php?id=9900000040
-#EXTINF:-1 group-title="儿童频道",卡酷动画
+#EXTINF:-1 group-title="儿童频道",卡酷少儿
 http://183.66.13.82:60033/tsfile/live/0126_2.m3u8?key=txiptv
-#EXTINF:-1 group-title="儿童频道" ,卡酷动画,
+#EXTINF:-1 group-title="儿童频道" ,卡酷少儿,
 http://112.101.78.50:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 group-title="儿童频道",靖天卡通
 https://litv.zapi.us.kg/?id=4gtv-4gtv044
@@ -935,27 +945,37 @@ http://218.13.170.98:9901/tsfile/live/1022_1.m3u8?key=txiptv
 http://php.jdshipin.com/TVOD/gsyd.php?id=9900000061
 #EXTINF:-1 group-title="儿童频道",嘉佳卡通
 http://183.66.13.82:60033/tsfile/live/0119_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="儿童频道",靖洋卡通台
+#EXTINF:-1 group-title="儿童频道" ,靖洋卡通,台
 https://litv.zapi.us.kg/?id=4gtv-4gtv057
 #EXTINF:-1 group-title="儿童频道",少儿动画
 http://183.66.13.82:60033/tsfile/live/0140_2.m3u8?key=txiptv
 #EXTINF:-1 group-title="儿童频道",哈哈炫动
+http://iptv.887979.xyz/itv/5000000011000031123.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="儿童频道",哈哈炫动
 http://php.jdshipin.com/TVOD/gsyd.php?id=9900000069
+#EXTINF:-1 group-title="儿童频道",黑莓动画
+http://iptv.887979.xyz/itv/1000000004000021734.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="儿童频道",黑莓动画
 http://php.jdshipin.com/TVOD/gsyd.php?id=9900000096
 #EXTINF:-1 group-title="其他频道",农业致富
+http://iptv.887979.xyz/itv/2000000003000000003.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="其他频道",农业致富
 http://php.jdshipin.com/TVOD/gsyd.php?id=9900000111
+#EXTINF:-1 group-title="其他频道",精品纪录
+http://iptv.887979.xyz/itv/1000000004000013730.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="其他频道",精品记录
 http://php.jdshipin.com/TVOD/gsyd.php?id=9900000109
 #EXTINF:-1 group-title="其他频道",動物星球
 http://114.33.60.49:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 #EXTINF:-1 group-title="其他频道",探索頻道
 http://114.33.60.49:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
-#EXTINF:-1 group-title="其他频道",人文纪实
+#EXTINF:-1 group-title="其他频道",纪实人文
 http://175.16.180.250:9901/tsfile/live/1000_1.m3u8
-#EXTINF:-1 group-title="其他频道",人文纪实
-http://fmbox.cc/公众号玉玉软件库/iptv6.php?id=00000333http://fmbox.cc/公众号玉玉软件库/iptv6.php?id=00000333
+#EXTINF:-1 group-title="其他频道",纪实人文
+http://iptv.887979.xyz/itv/1000000005000265021.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="其他频道",MuchTV
 http://114.33.60.49:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
 #EXTINF:-1 group-title="其他频道",人間衛視
 http://114.33.60.49:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
+#EXTINF:-1 group-title="其他频道",求索纪录
+http://iptv.887979.xyz/itv/6000000002000032052.m3u8?cdn=wasusyt
