@@ -539,7 +539,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 农业致富,http://iptv.887979.xyz/itv/2000000003000000003.m3u8?cdn=hnbblive
 农业致富,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000111
 精品纪录,http://iptv.887979.xyz/itv/1000000004000013730.m3u8?cdn=ystenlive
-精品记录,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000109
+精品纪录,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000109
 動物星球,http://114.33.60.49:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 探索頻道,http://114.33.60.49:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 纪实人文,http://175.16.180.250:9901/tsfile/live/1000_1.m3u8
