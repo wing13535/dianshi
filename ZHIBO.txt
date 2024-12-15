@@ -26,8 +26,8 @@
 军事评论,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000110
 军事评论,http://iptv.887979.xyz/itv/2000000003000000022.m3u8?cdn=hnbblive
 军事,http://wuyanjiang.cn:8012/udp/239.3.1.76:4120
-CCTV1,http://home.918518.xyz:12121/ysptp/cctv1.m3u8
 CCTV1,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv1
+CCTV1,http://home.918518.xyz:12121/ysptp/cctv1.m3u8
 CCTV1,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv1
 CCTV1,http://111.9.163.109:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://wuyanjiang.cn:8012/udp/239.3.1.129:8008
@@ -52,20 +52,10 @@ CCTV13,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv13
 CCTV13,http://wuyanjiang.cn:8012/udp/239.3.1.124:8128
 CCTV13,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv13
 CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
-广东民生,http://113.15.185.171:8181/tsfile/live/1002_1.m3u8
-广东民生,http://222.218.158.217:8181/tsfile/live/1002_1.m3u8
-广东民生,http://222.218.159.110:8181/tsfile/live/1002_1.m3u8
-广东民生,http://219.159.194.4:8181/tsfile/live/1002_1.m3u8
+广东民生,http://171.104.198.50:8181/tsfile/live/1020_1.m3u8
 广东民生,http://mom.cloudns.be:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://163.177.122.28:9901/tsfile/live/1009_1.m3u8
-广东新闻,http://163.177.122.29:9901/tsfile/live/1009_1.m3u8
-广东新闻,http://219.159.194.4:8181/tsfile/live/1007_1.m3u8
-广东新闻,http://222.218.159.110:8181/tsfile/live/1007_1.m3u8
-广东新闻,http://222.218.158.217:8181/tsfile/live/1007_1.m3u8
-广东新闻,http://113.15.185.171:8181/tsfile/live/1007_1.m3u8
+广东新闻,http://171.104.198.50:8181/tsfile/live/1019_1.m3u8
 广东新闻,http://183.3.134.56:9901/tsfile/live/1005_1.m3u8
-广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-20.m3u8
-广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-16.m3u8
 無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 寰宇新聞台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3002&tk=e503191f8e20
@@ -89,14 +79,9 @@ now聞台,https://live.hkdvb.com/hls/live/332.m3u8?token=815914873027890
 
 
 体育频道,#genre#
-广东体育,http://163.177.122.28:9901/tsfile/live/1011_1.m3u8
-广东体育,http://163.177.122.29:9901/tsfile/live/1011_1.m3u8
-广东体育,http://113.15.186.54:8181/tsfile/live/1001_1.m3u8
-广东体育,http://222.218.159.110:8181/tsfile/live/1001_1.m3u8
-广东体育,http://219.159.194.83:8181/tsfile/live/1001_1.m3u8
-广东体育,http://219.159.194.4:8181/tsfile/live/1001_1.m3u8
-广东体育,http://222.218.158.217:8181/tsfile/live/1001_1.m3u8
+广东体育,http://119.125.134.179:9901/tsfile/live/1007_1.m3u8
 广东体育,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
+广东体育,http://171.104.198.50:8181/tsfile/live/1026_1.m3u8
 CCTV5,http://home.918518.xyz:12121/ysptp/cctv5.m3u8
 CCTV5,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv5
 CCTV5,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv5
@@ -118,8 +103,8 @@ CCTV16,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv16
 CCTV16,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv16
 精品体育,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000102
 精品体育,http://iptv.887979.xyz/itv/1000000004000014634.m3u8?cdn=ystenlive
-超级体育,http://iptv.887979.xyz/itv/1000000001000009601.m3u8?cdn=ystenlive
 超级体育,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000020
+超级体育,http://iptv.887979.xyz/itv/1000000001000009601.m3u8?cdn=ystenlive
 劲爆体育,http://iptv.887979.xyz/itv/5000000002000029972.m3u8?cdn=bestzb
 劲爆体育,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=jbty
 劲爆体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4995&tk=e503191f8e20
@@ -214,6 +199,7 @@ ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 
+
 TVB 星河台,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 TVB 星河台,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 TVB 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
@@ -271,53 +257,35 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 
 
 广东频道,#genre#
-广东体育,http://163.177.122.28:9901/tsfile/live/1011_1.m3u8
-广东体育,http://163.177.122.29:9901/tsfile/live/1011_1.m3u8
-广东体育,http://113.15.186.54:8181/tsfile/live/1001_1.m3u8
-广东体育,http://222.218.159.110:8181/tsfile/live/1001_1.m3u8
-广东体育,http://219.159.194.83:8181/tsfile/live/1001_1.m3u8
-广东体育,http://219.159.194.4:8181/tsfile/live/1001_1.m3u8
-广东体育,http://222.218.158.217:8181/tsfile/live/1001_1.m3u8
+广东体育,http://119.125.134.179:9901/tsfile/live/1007_1.m3u8
 广东体育,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
-广东民生,http://113.15.185.171:8181/tsfile/live/1002_1.m3u8
-广东民生,http://222.218.158.217:8181/tsfile/live/1002_1.m3u8
-广东民生,http://222.218.159.110:8181/tsfile/live/1002_1.m3u8
-广东民生,http://219.159.194.4:8181/tsfile/live/1002_1.m3u8
+广东体育,http://171.104.198.50:8181/tsfile/live/1026_1.m3u8
+广东民生,http://171.104.198.50:8181/tsfile/live/1020_1.m3u8
 广东民生,http://mom.cloudns.be:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://163.177.122.28:9901/tsfile/live/1009_1.m3u8
-广东新闻,http://163.177.122.29:9901/tsfile/live/1009_1.m3u8
-广东新闻,http://219.159.194.4:8181/tsfile/live/1007_1.m3u8
-广东新闻,http://222.218.159.110:8181/tsfile/live/1007_1.m3u8
-广东新闻,http://222.218.158.217:8181/tsfile/live/1007_1.m3u8
-广东新闻,http://113.15.185.171:8181/tsfile/live/1007_1.m3u8
+广东新闻,http://171.104.198.50:8181/tsfile/live/1019_1.m3u8
 广东新闻,http://183.3.134.56:9901/tsfile/live/1005_1.m3u8
-广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-20.m3u8
-广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-16.m3u8
-广东珠江,http://222.218.158.217:8181/tsfile/live/1000_
-广东珠江,http://113.15.185.171:8181/tsfile/live/1000_1.m3u8
-广东珠江,http://219.159.194.4:8181/tsfile/live/1000_1.m3u8
-广东珠江,http://219.159.194.66:8181/tsfile/live/1000_1.m3u8
-广东珠江,http://163.177.122.28:9901/tsfile/live/1008_1.m3u8
-广东珠江,http://163.177.122.29:9901/tsfile/live/1008_1.m3u8
+广东珠江,http://119.125.134.179:9901/tsfile/live/1003_1.m3u8
 广东珠江,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
 广东珠江,http://183.3.134.56:9901/tsfile/live/0019_1.m3u8
+广东珠江,http://171.104.198.50:8181/tsfile/live/1015_1.m3u8
+广东大湾区卫视http://119.125.134.179:9901/tsfile/live/1004_1.m3u8
 广东大湾区卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dwqws
 广东大湾区卫视,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=dwqws
 广东大湾区卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=dwqws
-广东影视,http://113.15.185.171:8181/tsfile/live/1004_1.m3u8
-广东影视,http://222.218.159.110:8181/tsfile/live/1004_1.m3u8
-广东影视,http://222.218.158.217:8181/tsfile/live/1004_1.m3u8
-广东影视,http://219.159.194.4:8181/tsfile/live/1004_1.m3u8
+广东大湾区卫视,http://171.104.198.50:8181/tsfile/live/1008_1.m3u8
+广东影视,http://171.104.198.50:8181/tsfile/live/1045_1.m3u8
 广东影视,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=gdys
-广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://171.104.198.50:8181/tsfile/live/1165_1.m3u8
 广东卫视,http://wuyanjiang.cn:8012/udp/239.3.1.142:8048
 广东卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gdws
 广东卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=gdws
+广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8
+
 
 
 央视频道,#genre#
-CCTV1,http://home.918518.xyz:12121/ysptp/cctv1.m3u8
 CCTV1,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv1
+CCTV1,http://home.918518.xyz:12121/ysptp/cctv1.m3u8
 CCTV1,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv1
 CCTV1,http://111.9.163.109:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://wuyanjiang.cn:8012/udp/239.3.1.129:8008
@@ -536,10 +504,10 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 黑莓动画,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000096
 
 其他频道,#genre#
-农业致富,http://iptv.887979.xyz/itv/2000000003000000003.m3u8?cdn=hnbblive
 农业致富,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000111
-精品纪录,http://iptv.887979.xyz/itv/1000000004000013730.m3u8?cdn=ystenlive
+农业致富,http://iptv.887979.xyz/itv/2000000003000000003.m3u8?cdn=hnbblive
 精品纪录,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000109
+精品纪录,http://iptv.887979.xyz/itv/1000000004000013730.m3u8?cdn=ystenlive
 動物星球,http://114.33.60.49:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 探索頻道,http://114.33.60.49:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 纪实人文,http://175.16.180.250:9901/tsfile/live/1000_1.m3u8
