@@ -106,7 +106,7 @@ http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv13
 #EXTINF:-1 group-title="新闻频道",CCTV13
 http://z.b.bkpcp.top/m.php?id=cctv13
 #EXTINF:-1 group-title="新闻频道",广东民生
-http://219.159.194.172:8181/tsfile/live/1002_1.m3u8
+http://www.1328099.xyz:9000/rtp/239.77.0.225:5146
 #EXTINF:-1 group-title="新闻频道",广东民生
 http://113.15.186.220:8181/tsfile/live/1002_1.m3u8
 #EXTINF:-1 group-title="新闻频道",广东民生
@@ -114,9 +114,9 @@ http://222.218.158.64:8181/tsfile/live/1002_1.m3u8
 #EXTINF:-1 group-title="新闻频道",广东民生
 http://mom.cloudns.be:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="新闻频道",广东民生
-http://www.1328099.xyz:9000/rtp/239.77.0.225:5146
+http://219.159.194.172:8181/tsfile/live/1002_1.m3u8
 #EXTINF:-1 group-title="新闻频道",广东新闻
-http://113.15.186.220:8181/tsfile/live/1007_1.m3u8
+http://www.1328099.xyz:9000/rtp/239.77.0.173:5146
 #EXTINF:-1 group-title="新闻频道",广东新闻
 http://222.218.158.64:8181/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="新闻频道",广东新闻
@@ -124,7 +124,7 @@ http://219.159.194.172:8181/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="新闻频道",广东新闻
 http://183.3.134.56:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="新闻频道",广东新闻
-http://www.1328099.xyz:9000/rtp/239.77.0.173:5146
+http://113.15.186.220:8181/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="新闻频道",無線新聞台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="新闻频道",娛樂新聞台(HK)
@@ -166,7 +166,7 @@ http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="新闻频道",now聞台
 https://live.hkdvb.com/hls/live/332.m3u8?token=815914873027890
 #EXTINF:-1 group-title="体育频道",广东体育
-http://113.15.184.118:8181/tsfile/live/1001_1.m3u8
+http://www.1328099.xyz:9000/rtp/239.77.0.168:5146
 #EXTINF:-1 group-title="体育频道",广东体育
 http://219.159.194.172:8181/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="体育频道",广东体育
@@ -178,7 +178,7 @@ http://119.125.134.228:9902/tsfile/live/1013_1.m3u8
 #EXTINF:-1 group-title="体育频道",广东体育
 http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
 #EXTINF:-1 group-title="体育频道",广东体育
-http://www.1328099.xyz:9000/rtp/239.77.0.168:5146
+http://113.15.184.118:8181/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="体育频道",CCTV5
 http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv5
 #EXTINF:-1 group-title="体育频道",CCTV5
@@ -530,7 +530,7 @@ http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 #EXTINF:-1 group-title="香港台湾",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 group-title="广东频道",广东体育
-http://113.15.184.118:8181/tsfile/live/1001_1.m3u8
+http://www.1328099.xyz:9000/rtp/239.77.0.168:5146
 #EXTINF:-1 group-title="广东频道",广东体育
 http://219.159.194.172:8181/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东体育
@@ -542,9 +542,9 @@ http://119.125.134.228:9902/tsfile/live/1013_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东体育
 http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东体育
-http://www.1328099.xyz:9000/rtp/239.77.0.168:5146
+http://113.15.184.118:8181/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东民生
-http://219.159.194.172:8181/tsfile/live/1002_1.m3u8
+http://www.1328099.xyz:9000/rtp/239.77.0.225:5146
 #EXTINF:-1 group-title="广东频道",广东民生
 http://113.15.186.220:8181/tsfile/live/1002_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东民生
@@ -552,9 +552,9 @@ http://222.218.158.64:8181/tsfile/live/1002_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东民生
 http://mom.cloudns.be:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="广东频道",广东民生
-http://www.1328099.xyz:9000/rtp/239.77.0.225:5146
+http://219.159.194.172:8181/tsfile/live/1002_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东新闻
-http://113.15.186.220:8181/tsfile/live/1007_1.m3u8
+http://www.1328099.xyz:9000/rtp/239.77.0.173:5146
 #EXTINF:-1 group-title="广东频道",广东新闻
 http://222.218.158.64:8181/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东新闻
@@ -562,9 +562,9 @@ http://219.159.194.172:8181/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东新闻
 http://183.3.134.56:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东新闻
-http://www.1328099.xyz:9000/rtp/239.77.0.173:5146
+http://113.15.186.220:8181/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东珠江
-http://219.159.194.172:8181/tsfile/live/1000_1.m3u8
+http://www.1328099.xyz:9000/rtp/239.77.0.114:5146
 #EXTINF:-1 group-title="广东频道",广东珠江
 http://222.218.158.64:8181/tsfile/live/1000_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东珠江
@@ -582,17 +582,17 @@ http://183.3.134.56:9901/tsfile/live/0019_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东珠江
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6588&tk=97475bb89d45
 #EXTINF:-1 group-title="广东频道",广东珠江
-http://www.1328099.xyz:9000/rtp/239.77.0.114:5146
+http://219.159.194.172:8181/tsfile/live/1000_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东大湾区卫视
-http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dwqws
+http://www.1328099.xyz:9000/rtp/239.77.0.215:5146
 #EXTINF:-1 group-title="广东频道",广东大湾区卫视
 http://139.196.228.200:5678/公众号搞机大师/mg.php?id=dwqws
 #EXTINF:-1 group-title="广东频道",广东大湾区卫视
 http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=dwqws
 #EXTINF:-1 group-title="广东频道",广东大湾区卫视
-http://www.1328099.xyz:9000/rtp/239.77.0.215:5146
+http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dwqws
 #EXTINF:-1 group-title="广东频道",广东影视
-http://219.159.194.172:8181/tsfile/live/1004_1.m3u8
+http://www.1328099.xyz:9000/rtp/239.77.0.217:5146
 #EXTINF:-1 group-title="广东频道",广东影视
 http://222.218.158.64:8181/tsfile/live/1004_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东影视
@@ -602,7 +602,7 @@ http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1244&tk=97475bb89d45
 #EXTINF:-1 group-title="广东频道",广东影视
 http://139.196.228.200:5678/公众号搞机大师/mg.php?id=gdys
 #EXTINF:-1 group-title="广东频道",广东影视
-http://www.1328099.xyz:9000/rtp/239.77.0.217:5146
+http://219.159.194.172:8181/tsfile/live/1004_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东卫视
 http://175.16.180.250:9901/tsfile/live/0125_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东卫视
@@ -1068,9 +1068,11 @@ http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6193684637634073625
 #EXTINF:-1 group-title="其他频道",农业致富
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000003
 #EXTINF:-1 group-title="其他频道",精品纪录
-http://php.jdshipin.com/TVOD/gsyd.php?id=9900000109
+http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6298506997017621594
 #EXTINF:-1 group-title="其他频道",精品纪录
-http://iptv.887979.xyz/itv/1000000004000013730.m3u8?cdn=ystenlive
+http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000013730
+#EXTINF:-1 group-title="其他频道",精品纪录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 group-title="其他频道",動物星球
 http://114.33.60.49:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 #EXTINF:-1 group-title="其他频道",探索頻道
