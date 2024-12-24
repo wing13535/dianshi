@@ -133,22 +133,26 @@ CCTV16,http://wuyanjiang.cn:8012/udp/239.3.1.184:8001
 CCTV16,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv16
 CCTV16,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv16
 精品体育,http://iptv.887979.xyz/itv/1000000004000014634.m3u8?cdn=ystenlive
+精品体育,http://live.wqwqwq.sbs/itv/1000000004000014634.m3u8?cdn=ystenlive
 精品体育,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6460382139625130259
 精品体育,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000014634
 精品体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000021
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 超级体育,http://iptv.887979.xyz/itv/1000000001000009601.m3u8?cdn=ystenlive
+超级体育,http://live.wqwqwq.sbs/itv/1000000004000014634.m3u8?cdn=ystenlive
 超级体育,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000001000009204
 超级体育,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000007755
 超级体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000030
 超级体育,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000001000009601
 劲爆体育,http://cnfs.204999.xyz:30080/judy520/judy520/2
 劲爆体育,http://iptv.887979.xyz/itv/5000000002000029972.m3u8?cdn=bestzb
+劲爆体育,http://live.wqwqwq.sbs/itv/5000000002000029972.m3u8?cdn=bestzb
 劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000008
 劲爆体育,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=jbty
 劲爆体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4995&tk=e503191f8e20
 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
-iHOT体育,http://iptv.887979.xyz/itv/6000000006000290630.m3u8?cdn=wasusyt
+IHOT体育,http://iptv.887979.xyz/itv/6000000006000290630.m3u8?cdn=wasusyt
+IHOT体育,http://live.wqwqwq.sbs/itv/6000000006000290630.m3u8?cdn=wasusyt
 IHOT体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000060
 智林体育,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv101
 UFC,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=ufcgdjx
@@ -157,8 +161,10 @@ Now Sports1,https://live.hkdvb.com/hls/live/621.m3u8?token=841221052089160
 Now Sports632,https://live.hkdvb.com/hls/live/632.m3u8?token=841221052089160
 Now Sports641,https://live.hkdvb.com/hls/live/641.m3u8?token=841221052089160
 Now Sports642,https://live.hkdvb.com/hls/live/641.m3u8?token=841221052089160
+Now Sports Prime,https://live.hkdvb.com/hls/live/630.m3u8?token=841221052089160
 NBA经典,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=nbajd
 五星体育,http://iptv.887979.xyz/itv/5000000010000017540.m3u8?cdn=bestzb
+五星体育,http://live.wqwqwq.sbs/itv/5000000002000029972.m3u8?cdn=bestzb
 五星体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000007
 五星体育,http://223.166.234.19:7777/tsfile/live/1030_1.m3u8
 五星体育,http://223.166.234.215:7777/tsfile/live/1030_1.m3u8
@@ -189,11 +195,6 @@ TraceSports,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/
 快乐垂钓,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6741&tk=97475bb89d45
 四海钓鱼,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=shdy
 四海钓鱼,https://tv.iill.top/migu/shdy
-
-
-
-
-Now Sports Prime,https://live.hkdvb.com/hls/live/630.m3u8?token=841221052089160
 咪咕体育1,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 咪咕体育1,http://111.13.111.242/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 咪咕体育2,http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
@@ -622,11 +623,11 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 卡酷少儿,http://112.101.78.50:9901/tsfile/live/1012_1.m3u8
 动漫秀场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031113
 动漫秀场,http://iptv.887979.xyz/itv/5000000011000031113.m3u8?cdn=bestzb
+靖天卡通,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv044
 靖天卡通,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv044
 金鹰卡通,http://112.101.78.50:9901/tsfile/live/1016_1.m3u8
 金鹰卡通,http://218.13.170.98:9901/tsfile/live/1022_1.m3u8?key=txiptv
 嘉佳卡通,http://183.66.13.82:60033/tsfile/live/0119_1.m3u8?key=txiptv
-靖洋卡通,
 少儿动画,http://183.66.13.82:60033/tsfile/live/0140_2.m3u8?key=txiptv
 哈哈炫动,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031123
 黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
@@ -634,20 +635,24 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 
 其他频道,#genre#
 农业致富,http://iptv.887979.xyz/itv/2000000003000000003.m3u8?cdn=hnbblive
+农业致富,http://live.wqwqwq.sbs/itv/2000000003000000003.m3u8?cdn=hnbblive
 农业致富,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000003
 农业致富,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6193684637634073625
 精品纪录,http://iptv.887979.xyz/itv/1000000004000013730.m3u8?cdn=ystenlive
+精品纪录,http://live.wqwqwq.sbs/itv/1000000004000013730.m3u8?cdn=ystenlive
 精品纪录,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6298506997017621594
 精品纪录,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000013730
 精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+纪实人文,http://175.16.180.250:9901/tsfile/live/1000_1.m3u8
+纪实人文,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000001000021713
+求索动物,http://iptv.887979.xyz/itv/6000000002000010046.m3u8?cdn=wasusyt
+求索动物,http://live.wqwqwq.sbs/itv/6000000002000010046.m3u8?cdn=wasusyt
+求索纪录,http://iptv.887979.xyz/itv/6000000002000032052.m3u8?cdn=wasusyt
+求索纪录,http://live.wqwqwq.sbs/itv/6000000002000032052.m3u8?cdn=wasusyt
+求索纪录,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000010
+中国交通,http://175.16.180.250:9901/tsfile/live/1003_1.m3u8
+金鹰纪实,http://175.16.180.250:9901/tsfile/live/1001_1.m3u8
 MuchTV,http://114.33.60.49:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
 人間衛視,http://114.33.60.49:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
 動物星球,http://114.33.60.49:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
 探索頻道,http://114.33.60.49:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
-纪实人文,http://175.16.180.250:9901/tsfile/live/1000_1.m3u8
-纪实人文,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000001000021713
-求索动物,http://iptv.887979.xyz/itv/6000000002000010046.m3u8?cdn=wasusyt
-求索纪录,http://iptv.887979.xyz/itv/6000000002000032052.m3u8?cdn=wasusyt
-求索纪录,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000010
-中国交通,http://175.16.180.250:9901/tsfile/live/1003_1.m3u8
-金鹰纪实,http://175.16.180.250:9901/tsfile/live/1001_1.m3u8
