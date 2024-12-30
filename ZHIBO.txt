@@ -110,6 +110,7 @@ TVBS-新聞台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A50
 
 体育频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
+广东体育,rtp://239.77.0.112:5146
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/szds98hsrt6u57eujseth5i7463atgestjhsrjsrj.flv
 广东体育,http://cnfs.204999.xyz:30080/judy520/judy520/3
@@ -124,6 +125,7 @@ TVBS-新聞台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A50
 广东体育,http://219.159.194.252:8181/tsfile/live/1001_1.m3u8
 广东体育,http://171.110.42.238:8181/tsfile/live/1026_1.m3u8
 CCTV5,rtp://@239.77.0.170:5146
+CCTV5,rtp://239.77.0.170:5146
 CCTV5,http://222.209.208.234:7088/rtp/239.93.42.37:5140
 CCTV5,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv5
 CCTV5,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv5
