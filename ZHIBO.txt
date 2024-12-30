@@ -376,6 +376,7 @@ HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 广东体育,http://219.159.194.252:8181/tsfile/live/1001_1.m3u8
 广东体育,http://171.110.42.238:8181/tsfile/live/1026_1.m3u8
 广东体育,http://219.159.194.18:8181/tsfile/live/1001_1.m3u8
+广东民生,rtp:@//239.77.0.225:5146
 广东民生,http://171.110.42.238:8181/tsfile/live/1020_1.m3u8
 广东民生,http://222.217.230.195:8181/tsfile/live/1020_1.m3u8
 广东民生,http://222.217.230.192:8181/tsfile/live/1020_1.m3u8
