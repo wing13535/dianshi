@@ -60,6 +60,8 @@ CCTV13,http://wuyanjiang.cn:8012/udp/239.3.1.124:8128
 CCTV13,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv13
 CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 广东民生,rtp://@239.77.0.225:5146
+广东民生,http://mryx.fun:1025/udp/239.11.0.80:1025
+广东民生,http://mryx.fun:1025/udp/239.10.0.123:1025
 广东民生,http://171.110.42.238:8181/tsfile/live/1020_1.m3u8
 广东民生,http://222.217.230.195:8181/tsfile/live/1020_1.m3u8
 广东民生,http://222.217.230.192:8181/tsfile/live/1020_1.m3u8
@@ -70,6 +72,8 @@ CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 广东民生,http://222.218.158.64:8181/tsfile/live/1002_1.m3u8
 广东民生,http://219.159.194.172:8181/tsfile/live/1002_1.m3u8
 广东新闻,rtp://@239.77.0.173:5146
+广东新闻,http://mryx.fun:1025/udp/239.10.0.199:1025
+广东新闻,http://mryx.fun:1025/udp/239.10.0.122:1025
 广东新闻,http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
 广东新闻,http://14.212.185.71:9901/tsfile/live/1001_1.m3u8
 广东新闻,http://183.3.134.56:9901/tsfile/live/1005_1.m3u8
@@ -110,6 +114,7 @@ TVBS-新聞台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A50
 
 体育频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
+广东体育,http://mryx.fun:1025/udp/239.10.0.113:1025%24%E5%8D%8E%E4%B8%BA
 广东体育,http://219.159.194.18:8181/tsfile/live/1001_1.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/szds98hsrt6u57eujseth5i7463atgestjhsrjsrj.flv
@@ -117,7 +122,7 @@ TVBS-新聞台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A50
 广东体育,https://live.hkdvb.com/hls/live/503.m3u8?token=8889226534488240962
 广东体育,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
 广东体育,http://14.212.185.71:9901/tsfile/live/1003_1.m3u8
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育,http://13457610200.8866.org:2018/live/广东体育HD/index.m3u8
 广东体育,http://119.125.134.176:9901/tsfile/live/1007_1.m3u8
 广东体育,http://www.1328099.xyz:9000/rtp/239.77.0.168:5146
 广东体育,http://119.125.134.176:9901/tsfile/live/1007_1.m3u8
@@ -363,6 +368,7 @@ HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 
 广东频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
+广东体育,http://mryx.fun:1025/udp/239.10.0.113:1025%24%E5%8D%8E%E4%B8%BA
 广东体育,http://219.159.194.18:8181/tsfile/live/1001_1.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/szds98hsrt6u57eujseth5i7463atgestjhsrjsrj.flv
@@ -378,6 +384,8 @@ HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 广东体育,http://219.159.194.252:8181/tsfile/live/1001_1.m3u8
 广东体育,http://171.110.42.238:8181/tsfile/live/1026_1.m3u8
 广东民生,rtp://@239.77.0.225:5146
+广东民生,http://mryx.fun:1025/udp/239.11.0.80:1025
+广东民生,http://mryx.fun:1025/udp/239.10.0.123:1025
 广东民生,http://171.110.42.238:8181/tsfile/live/1020_1.m3u8
 广东民生,http://222.217.230.195:8181/tsfile/live/1020_1.m3u8
 广东民生,http://222.217.230.192:8181/tsfile/live/1020_1.m3u8
@@ -388,6 +396,8 @@ HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 广东民生,http://222.218.158.64:8181/tsfile/live/1002_1.m3u8
 广东民生,http://219.159.194.172:8181/tsfile/live/1002_1.m3u8
 广东新闻,rtp://@239.77.0.173:5146
+广东新闻,http://mryx.fun:1025/udp/239.10.0.199:1025
+广东新闻,http://mryx.fun:1025/udp/239.10.0.122:1025
 广东新闻,http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
 广东新闻,http://14.212.185.71:9901/tsfile/live/1001_1.m3u8
 广东新闻,http://183.3.134.56:9901/tsfile/live/1005_1.m3u8
@@ -398,6 +408,7 @@ HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 广东新闻,http://219.159.194.172:8181/tsfile/live/1007_1.m3u8
 广东新闻,http://113.15.186.220:8181/tsfile/live/1007_1.m3u8
 广东珠江,rtp://@239.77.0.1:5146
+广东珠江,http://mryx.fun:1025/udp/239.10.0.62:1025
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,http://www.1328099.xyz:9000/rtp/239.77.0.114:5146
@@ -410,12 +421,16 @@ HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 广东珠江,http://219.159.194.6:8181/tsfile/live/1000_1.m3u8
 广东珠江,http://219.159.194.172:8181/tsfile/live/1000_1.m3u8
 大湾区卫视,rtp://@239.77.0.215:5146
+大湾区卫视,http://mryx.fun:1025/udp/239.11.0.78:1025
+大湾区卫视,http://mryx.fun:1025/udp/239.10.0.135:1025
 大湾区卫视,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=dwqws
 大湾区卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=dwqws
 大湾区卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=dwqws
 大湾区卫视,http://119.125.134.228:9902/tsfile/live/1015_1.m3u8
 大湾区卫视,http://www.1328099.xyz:9000/rtp/239.77.0.215:5146
 广东影视,rtp://@239.77.0.217:5146
+广东影视,http://mryx.fun:1025/udp/239.11.0.79:1025
+广东影视,http://mryx.fun:1025/udp/239.10.0.127:1025
 广东影视,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=gdys
 广东影视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gdys
 广东影视,http://119.125.134.228:9902/tsfile/live/1016_1.m3u8
@@ -425,12 +440,13 @@ HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 广东影视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1244&tk=97475bb89d45
 广东影视,http://219.159.194.172:8181/tsfile/live/1004_1.m3u8
 广东卫视,rtp://@239.77.1.19:5146
+广东卫视,http://mryx.fun:1025/udp/239.10.0.111:1025
 广东卫视,http://cnfs.204999.xyz:30080/judy520/judy520/1
 广东卫视,http://175.16.180.250:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://wuyanjiang.cn:8012/udp/239.3.1.142:8048
 广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8
-
-
+广东经济,http://mryx.fun:1025/udp/239.10.0.112:1025
+广东经济,http://mryx.fun:1025/udp/239.10.0.201:1025
 
 央视频道,#genre#
 CCTV1,rtp://@239.77.1.17:5146
@@ -600,6 +616,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 江苏卫视,http://wuyanjiang.cn:8012/udp/239.3.1.135:8028
 江苏卫视,http://112.101.78.50:9901/tsfile/live/0127_1.m3u8
 广东卫视,rtp://@239.77.1.19:5146
+广东卫视,http://mryx.fun:1025/udp/239.10.0.111:1025
 广东卫视,http://222.209.208.234:7088/rtp/239.93.0.181:5140
 广东卫视,http://cnfs.204999.xyz:30080/judy520/judy520/1
 广东卫视,http://175.16.180.250:9901/tsfile/live/0125_1.m3u8
