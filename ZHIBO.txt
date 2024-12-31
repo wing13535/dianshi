@@ -25,6 +25,7 @@
 鳳凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5454&tk=e503191f8e20
 鳳凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
 鳳凰香港,http://dns.yiandrive.com:16813/phenix/fhhk
+军事评论,http://ott.mobaibox.com/PLTV/4/224/3221227544/index.m3u8
 军事评论,http://iptv.887979.xyz/itv/2000000003000000022.m3u8?cdn=hnbblive
 军事评论,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000022
 军事评论,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=5822616274253344775
@@ -119,9 +120,9 @@ TVBS-新聞台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A50
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/szds98hsrt6u57eujseth5i7463atgestjhsrjsrj.flv
 广东体育,http://cnfs.204999.xyz:30080/judy520/judy520/3
-广东体育,https://live.hkdvb.com/hls/live/503.m3u8?token=8889226534488240962
 广东体育,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
 广东体育,http://14.212.185.71:9901/tsfile/live/1003_1.m3u8
+广东体育,http://mzitv.cn:32/tsfile/live/1008_1.m3u8
 广东体育,http://13457610200.8866.org:2018/live/广东体育HD/index.m3u8
 广东体育,http://119.125.134.176:9901/tsfile/live/1007_1.m3u8
 广东体育,http://www.1328099.xyz:9000/rtp/239.77.0.168:5146
@@ -217,8 +218,8 @@ TRA体育,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/li
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
 魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8363&tk=e503191f8e20
 快乐垂钓,http://222.209.208.234:7088/rtp/239.93.1.151:5140
-四海钓鱼,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=shdy
-四海钓鱼,https://tv.iill.top/migu/shdy
+四海钓鱼,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1594642123_-1739463849/wd_r4/peoplecn/shdiaoyu/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073744&ContentId=265667494&timezone=UTC&mtv_session=62fe26ea17a6225b620ad6528d069bad&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=1dd468b7cedccd815604e427c9d0d8f7
+四海钓鱼,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=229
 咪咕体育1,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 咪咕体育1,http://111.13.111.242/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 咪咕体育2,http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
@@ -373,10 +374,10 @@ HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/szds98hsrt6u57eujseth5i7463atgestjhsrjsrj.flv
 广东体育,http://cnfs.204999.xyz:30080/judy520/judy520/3
-广东体育,https://live.hkdvb.com/hls/live/503.m3u8?token=8889226534488240962
 广东体育,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
 广东体育,http://14.212.185.71:9901/tsfile/live/1003_1.m3u8
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育,http://mzitv.cn:32/tsfile/live/1008_1.m3u8
+广东体育,http://13457610200.8866.org:2018/live/广东体育HD/index.m3u8
 广东体育,http://119.125.134.176:9901/tsfile/live/1007_1.m3u8
 广东体育,http://www.1328099.xyz:9000/rtp/239.77.0.168:5146
 广东体育,http://119.125.134.176:9901/tsfile/live/1007_1.m3u8
