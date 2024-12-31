@@ -25,7 +25,7 @@
 鳳凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5454&tk=e503191f8e20
 鳳凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
 鳳凰香港,http://dns.yiandrive.com:16813/phenix/fhhk
-军事评论,http://ott.mobaibox.com/PLTV/4/224/3221227544/index.m3u8
+军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 军事评论,http://iptv.887979.xyz/itv/2000000003000000022.m3u8?cdn=hnbblive
 军事评论,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000022
 军事评论,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=5822616274253344775
@@ -152,12 +152,14 @@ CCTV16,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?$%E8%AE%A2%E9%98%85%
 CCTV16,http://wuyanjiang.cn:8012/udp/239.3.1.184:8001
 CCTV16,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv16
 CCTV16,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv16
+精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 精品体育,http://iptv.887979.xyz/itv/1000000004000014634.m3u8?cdn=ystenlive
 精品体育,http://live.wqwqwq.sbs/itv/1000000004000014634.m3u8?cdn=ystenlive
 精品体育,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6460382139625130259
 精品体育,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000014634
 精品体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000021
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级体育,http://iptv.887979.xyz/itv/1000000001000009601.m3u8?cdn=ystenlive
 超级体育,http://live.wqwqwq.sbs/itv/1000000004000014634.m3u8?cdn=ystenlive
 超级体育,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000001000009204
@@ -202,7 +204,7 @@ ELEVEN體育2,http://114.33.60.49:8567/http/59.120.8.187:8078/hls/26/80/esport2.
 TRA体育,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv077
 晴彩篮球,rtp://239.77.1.21:5146
 晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-晴彩篮球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4122&tk=97475bb89d45
+晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 晴彩竞技,rtp://239.77.1.20:5146
 晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 晴彩竞技,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6603&tk=97475bb89d45
@@ -795,10 +797,12 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 
 
 其他频道,#genre#
+农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 农业致富,http://iptv.887979.xyz/itv/2000000003000000003.m3u8?cdn=hnbblive
 农业致富,http://live.wqwqwq.sbs/itv/2000000003000000003.m3u8?cdn=hnbblive
 农业致富,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000003
 农业致富,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6193684637634073625
+精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 精品纪录,http://iptv.887979.xyz/itv/1000000004000013730.m3u8?cdn=ystenlive
 精品纪录,http://live.wqwqwq.sbs/itv/1000000004000013730.m3u8?cdn=ystenlive
 精品纪录,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6298506997017621594
