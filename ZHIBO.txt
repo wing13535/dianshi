@@ -115,11 +115,12 @@ TVBS-新聞台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A50
 
 体育频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
+广东体育,https://www.livednow.us.kg/hami/guangdongtiyu/guangdongtiyu.m3u8
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
+广东体育,http://cnfs.204999.xyz:30080/judy520/judy520/3
+广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/szds98hsrt6u57eujseth5i7463atgestjhsrjsrj.flv
 广东体育,http://mryx.fun:1025/udp/239.10.0.113:1025%24%E5%8D%8E%E4%B8%BA
 广东体育,http://219.159.194.18:8181/tsfile/live/1001_1.m3u8
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
-广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/szds98hsrt6u57eujseth5i7463atgestjhsrjsrj.flv
-广东体育,http://cnfs.204999.xyz:30080/judy520/judy520/3
 广东体育,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
 广东体育,http://14.212.185.71:9901/tsfile/live/1003_1.m3u8
 广东体育,http://mzitv.cn:32/tsfile/live/1008_1.m3u8
@@ -284,6 +285,7 @@ ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 鳳凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5454&tk=e503191f8e20
 鳳凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
 鳳凰香港,http://dns.yiandrive.com:16813/phenix/fhhk
+翡翠台,https://www.livednow.us.kg/hami/guangdongtiyu/guangdongtiyu.m3u8
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 翡翠台,https://lb-mvtv-live.v2h-cdn.com/redirect/jade2/jade.stream?type=m3u8
 翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=660938530794730&edge=edge1.hkdvb.com
@@ -371,11 +373,12 @@ HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 
 广东频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
+广东体育,https://www.livednow.us.kg/hami/guangdongtiyu/guangdongtiyu.m3u8
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
+广东体育,http://cnfs.204999.xyz:30080/judy520/judy520/3
+广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/szds98hsrt6u57eujseth5i7463atgestjhsrjsrj.flv
 广东体育,http://mryx.fun:1025/udp/239.10.0.113:1025%24%E5%8D%8E%E4%B8%BA
 广东体育,http://219.159.194.18:8181/tsfile/live/1001_1.m3u8
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
-广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/szds98hsrt6u57eujseth5i7463atgestjhsrjsrj.flv
-广东体育,http://cnfs.204999.xyz:30080/judy520/judy520/3
 广东体育,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
 广东体育,http://14.212.185.71:9901/tsfile/live/1003_1.m3u8
 广东体育,http://mzitv.cn:32/tsfile/live/1008_1.m3u8
@@ -447,6 +450,9 @@ HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 广东卫视,http://cnfs.204999.xyz:30080/judy520/judy520/1
 广东卫视,http://175.16.180.250:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://wuyanjiang.cn:8012/udp/239.3.1.142:8048
+广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8
+广东卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gdws
+广东卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=gdws
 广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8
 广东经济,http://mryx.fun:1025/udp/239.10.0.112:1025
 广东经济,http://mryx.fun:1025/udp/239.10.0.201:1025
