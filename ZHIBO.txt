@@ -87,10 +87,10 @@ TVBS-新聞台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A50
 中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新聞台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv009
 中天新聞台,https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=4gtv-4gtv009
-華視新聞,https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=4gtv-4gtv052
-中視新聞,https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=4gtv-4gtv074
-台視新聞,https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=4gtv-4gtv051
-民事聞台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv002
+華視新聞,http://60.248.77.83/sat/tv111.flv
+中視新聞,http://60.248.77.83/sat/tv091.flv
+台視新聞,http://60.248.77.83/sat/tv071.flv
+民事聞台,http://60.248.77.83/sat/tv051.flv
 日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 
@@ -168,12 +168,15 @@ NBA经典,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=nbajd
 五星体育,http://223.166.234.19:7777/tsfile/live/1030_1.m3u8
 五星体育,http://223.166.234.215:7777/tsfile/live/1030_1.m3u8
 五星体育,http://223.166.234.114:7777/tsfile/live/1030_1.m3u8
+纬来体育,http://60.248.77.83/sat/tv721.flv
 纬来体育,https://iptv.vip-tptv.xyz/tv.php?id=7 
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+ELEVEN體育1http://60.248.77.83/sat/tv731.flv
 ELEVEN體育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育1,http://114.33.60.49:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+ELEVEN體育2,http://60.248.77.83/sat/tv741.flv
 ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
 ELEVEN體育2,http://114.33.60.49:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 爱尔达体育2,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
