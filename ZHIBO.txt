@@ -100,6 +100,7 @@ TVBS-新聞台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A50
 广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/szds98hsrt6u57eujseth5i7463atgestjhsrjsrj.flv
 广东体育,https://iptv.vip-tptv.xyz/cao.php?id=mediacorp6
 广东体育,http://113.81.20.157:10443/tsfile/live/1003_1.m3u8?key=txiptv
+广东体育,http://108.181.20.181/livehttpplay?channel_id=12028
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,http://cnfs.204999.xyz:30080/judy520/judy520/3
@@ -169,6 +170,7 @@ NBA经典,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=nbajd
 五星体育,http://223.166.234.215:7777/tsfile/live/1030_1.m3u8
 五星体育,http://223.166.234.114:7777/tsfile/live/1030_1.m3u8
 纬来体育,http://60.248.77.83/sat/tv721.flv
+纬来体育,http://116.93.98.236:8080/sat/tv721.flv
 纬来体育,https://iptv.vip-tptv.xyz/tv.php?id=7 
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
@@ -342,6 +344,7 @@ HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/szds98hsrt6u57eujseth5i7463atgestjhsrjsrj.flv
 广东体育,https://iptv.vip-tptv.xyz/cao.php?id=mediacorp6
 广东体育,http://113.81.20.157:10443/tsfile/live/1003_1.m3u8?key=txiptv
+广东体育,http://108.181.20.181/livehttpplay?channel_id=12028
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,http://cnfs.204999.xyz:30080/judy520/judy520/3
