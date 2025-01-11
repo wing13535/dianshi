@@ -52,8 +52,12 @@ CCTV13,http://wuyanjiang.cn:8012/udp/239.3.1.124:8128
 CCTV13,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv13
 CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 广东民生,rtp://@239.77.0.225:5146
+广东民生,http://huangtong-com.cn:9902/tsfile/live/1012_1.m3u8
+广东民生,http://113.81.20.157:10443/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://mryx.fun:1025/udp/239.10.0.123:1025
 广东新闻,rtp://@239.77.0.173:5146
+广东新闻,http://huangtong-com.cn:9902/tsfile/live/1011_1.m3u8
+广东新闻,http://113.81.20.157:10443/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,http://mryx.fun:1025/udp/239.10.0.122:1025
 广东新闻,http://183.3.134.56:9901/tsfile/live/1005_1.m3u8
 广东新闻,http://mom.coms.hk:9901/tsfile/live/1008_1.m3u8
@@ -100,9 +104,10 @@ TVBS-新聞台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A50
 广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/szds98hsrt6u57eujseth5i7463atgestjhsrjsrj.flv
 广东体育,https://iptv.vip-tptv.xyz/cao.php?id=mediacorp6
 广东体育,http://113.81.20.157:10443/tsfile/live/1003_1.m3u8?key=txiptv
-广东体育,http://108.181.20.181/livehttpplay?channel_id=12028
+广东体育,http://huangtong-com.cn:9902/tsfile/live/1013_1.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://cnfs.204999.xyz:30080/judy520/judy520/3
 广东体育,https://www.livednow.us.kg/hami/guangdongtiyu/guangdongtiyu.m3u8
 广东体育,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
@@ -169,16 +174,12 @@ NBA经典,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=nbajd
 五星体育,http://223.166.234.19:7777/tsfile/live/1030_1.m3u8
 五星体育,http://223.166.234.215:7777/tsfile/live/1030_1.m3u8
 五星体育,http://223.166.234.114:7777/tsfile/live/1030_1.m3u8
-纬来体育,http://60.248.77.83/sat/tv721.flv
-纬来体育,http://116.93.98.236:8080/sat/tv721.flv
 纬来体育,https://iptv.vip-tptv.xyz/tv.php?id=7 
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-ELEVEN體育1http://60.248.77.83/sat/tv731.flv
 ELEVEN體育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育1,http://114.33.60.49:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
-ELEVEN體育2,http://60.248.77.83/sat/tv741.flv
 ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
 ELEVEN體育2,http://114.33.60.49:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 爱尔达体育2,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
@@ -252,15 +253,14 @@ ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 鳳凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 鳳凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
-翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-翡翠台,https://lb-mvtv-live.v2h-cdn.com/redirect/jade2/jade.stream?type=m3u8
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠台,http://cdn.163189.xyz/live/fct4k/stream.m3u8
+翡翠台,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=660938530794730&edge=edge1.hkdvb.com
 翡翠台,https://live.hkdvb.com/hls/live/800.m3u8?token=660938530794730&edge=edge1.hkdvb.com
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://58.250.155.2:8180/TV00000000000000000032@HHZT
+翡翠台,https://lb-mvtv-live.v2h-cdn.com/redirect/jade2/jade.stream?type=m3u8
 星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=660938530794730&edge=edge1.hkdvb.com
 爆谷台,https://live.hkdvb.com/hls/live/133.m3u8?token=660938530794730&edge=edge1.hkdvb.com
 爆谷台,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
@@ -288,6 +288,7 @@ TVB J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+myTV SUPER 18台,http://60.248.77.83/sat/hk021.flv
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
@@ -311,9 +312,10 @@ TVBS-新聞台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A50
 中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新聞台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv009
 中天新聞台,https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=4gtv-4gtv009
-華視新聞,https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=4gtv-4gtv052
-中視新聞,https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=4gtv-4gtv074
-台視新聞,https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=4gtv-4gtv051
+華視新聞,http://60.248.77.83/sat/tv111.flv
+中視新聞,http://60.248.77.83/sat/tv091.flv
+台視新聞,http://60.248.77.83/sat/tv071.flv
+民事聞台,http://60.248.77.83/sat/tv051.flv
 日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
@@ -344,9 +346,10 @@ HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/szds98hsrt6u57eujseth5i7463atgestjhsrjsrj.flv
 广东体育,https://iptv.vip-tptv.xyz/cao.php?id=mediacorp6
 广东体育,http://113.81.20.157:10443/tsfile/live/1003_1.m3u8?key=txiptv
-广东体育,http://108.181.20.181/livehttpplay?channel_id=12028
+广东体育,http://huangtong-com.cn:9902/tsfile/live/1013_1.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://cnfs.204999.xyz:30080/judy520/judy520/3
 广东体育,https://www.livednow.us.kg/hami/guangdongtiyu/guangdongtiyu.m3u8
 广东体育,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
@@ -356,21 +359,28 @@ HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 广东体育,http://13457610200.8866.org:2018/live/广东体育HD/index.m3u8
 广东体育,http://113.86.205.6:808/hls/108/index.m3u8
 广东民生,rtp://@239.77.0.225:5146
+广东民生,http://huangtong-com.cn:9902/tsfile/live/1012_1.m3u8
+广东民生,http://113.81.20.157:10443/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://mryx.fun:1025/udp/239.10.0.123:1025
 广东民生,http://113.81.20.157:10443/tsfile/live/1006_1.m3u8?key=txiptv
 广东新闻,rtp://@239.77.0.173:5146
+广东新闻,http://huangtong-com.cn:9902/tsfile/live/1011_1.m3u8
+广东新闻,http://59.32.97.163:9902/tsfile/live/1011_1.m3u8
 广东新闻,http://mryx.fun:1025/udp/239.10.0.122:1025
 广东新闻,http://183.3.134.56:9901/tsfile/live/1005_1.m3u8
 广东新闻,http://113.81.20.157:10443/tsfile/live/1008_1.m3u8?key=txiptv
 广东新闻,http://mom.coms.hk:9901/tsfile/live/1008_1.m3u8
 广东珠江,rtp://@239.77.0.1:5146
+广东珠江,http://huangtong-com.cn:9902/tsfile/live/1010_1.m3u8
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东珠江,http://mryx.fun:1025/udp/239.10.0.62:1025
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,http://183.3.134.56:9901/tsfile/live/0019_1.m3u8
 广东珠江,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
 广东珠江,http://www.1328099.xyz:9000/rtp/239.77.0.114:5146
 大湾区卫视,rtp://@239.77.0.215:5146
+大湾区卫视,http://113.81.20.157:10443/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://mryx.fun:1025/udp/239.10.0.135:1025
 大湾区卫视,http://113.81.20.157:10443/tsfile/live/1004_1.m3u8?key=txiptv
 大湾区卫视,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=dwqws
@@ -379,6 +389,7 @@ HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 大湾区卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=dwqws
 大湾区卫视,http://www.1328099.xyz:9000/rtp/239.77.0.215:5146
 广东影视,rtp://@239.77.0.217:5146
+广东影视,http://113.81.20.157:10443/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://mryx.fun:1025/udp/239.10.0.127:1025
 广东影视,http://113.81.20.157:10443/tsfile/live/1005_1.m3u8?key=txiptv
 广东影视,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=gdys
@@ -399,6 +410,7 @@ HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 广东卫视,http://wuyanjiang.cn:8012/udp/239.3.1.142:8048
 广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8
+广东经济,http://huangtong-com.cn:9902/tsfile/live/1014_1.m3u8
 广东经济,http://mryx.fun:1025/udp/239.10.0.201:1025
 广东经济,http://mryx.fun:1025/udp/239.10.0.112:1025
 
