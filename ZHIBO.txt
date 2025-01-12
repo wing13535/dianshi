@@ -68,8 +68,10 @@ now新聞,https://live.hkdvb.com/hls/live/332.m3u8?token=660938530794730&edge=ed
 now新聞,https://iptv.vip-tptv.xyz/cao.php?id=now-news
 娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 HOY TV 資訊台,https://live.hkdvb.com/hls/live/78.m3u8?token=841221052089160
+寰宇新聞台,http://38.60.249.62:5222/index.m3u8?pid=litv-longturn14
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=litv-longturn14
+寰宇新闻台湾台,http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv156
 非凡新闻台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv010
 非凡新闻台,rtmp://f13h.mine.nu/sat/tv581
 东森新聞台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
@@ -79,27 +81,15 @@ TVBS新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新闻台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv072
 中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天亞洲台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv109
+中天新闻台,http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv009
 中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv009
 鏡新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv075
+台视新闻,http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv051
+华视新闻,http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv052
+中视新闻,http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv074
 日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-中視,http://60.248.77.83/sat/tv091.flv
-中視,http://116.93.98.236:8080/sat/tv091.flv
-中視,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv040
-華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-華視,http://60.248.77.83/sat/tv111.flv
-華視,http://116.93.98.236:8080/sat/tv111.flv
-華視,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv041
-台視,http://60.248.77.83/sat/tv071.flv
-台視,http://116.93.98.236:8080/sat/tv071.flv
-台視,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv066
-民視,http://60.248.77.83/sat/tv051.flv
-民視,http://116.93.98.236:8080/sat/tv051.flv
-民視,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv155
-日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 
  
@@ -107,6 +97,7 @@ TVBS新闻台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv07
 广东体育,rtp://@239.77.0.112:5146
 广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/szds98hsrt6u57eujseth5i7463atgestjhsrjsrj.flv
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+广东体育,https://iptv.vip-tptv.xyz/cao.php?id=mediacorp6
 广东体育,http://113.81.20.157:10443/tsfile/live/1003_1.m3u8?key=txiptv
 广东体育,http://huangtong-com.cn:9902/tsfile/live/1013_1.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
@@ -119,7 +110,6 @@ TVBS新闻台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv07
 广东体育,http://mzitv.cn:32/tsfile/live/1008_1.m3u8
 广东体育,http://13457610200.8866.org:2018/live/广东体育HD/index.m3u8
 广东体育,http://113.86.205.6:808/hls/108/index.m3u8
-广东体育,https://iptv.vip-tptv.xyz/cao.php?id=mediacorp6
 CCTV5,rtp://@239.77.0.170:5146
 CCTV5,http://222.209.208.234:7088/rtp/239.93.42.37:5140
 CCTV5,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv5
@@ -175,7 +165,7 @@ Now Sports Prime,https://iptv.vip-tptv.xyz/cao.php?id=now-sports-prime
 五星体育,http://live.wqwqwq.sbs/itv/5000000002000029972.m3u8?cdn=bestzb
 五星体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000007
 纬来体育,http://116.93.98.236:8080/sat/tv721.flv
-纬来体育,http://60.248.77.83/sat/tv701.flv
+纬来体育,http://60.248.77.83/sat/tv721.flv
 纬来体育,https://iptv.vip-tptv.xyz/tv.php?id=7 
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
@@ -292,17 +282,10 @@ TVB J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-myTV SUPER 18台,http://60.248.77.83/sat/hk021.flv
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel U Hd,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-Hoy 78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+寰宇新聞台,http://38.60.249.62:5222/index.m3u8?pid=litv-longturn14
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=litv-longturn14
+寰宇新闻台湾台,http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv156
 非凡新闻台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv010
 非凡新闻台,rtmp://f13h.mine.nu/sat/tv581
 东森新聞台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
@@ -312,20 +295,27 @@ TVBS新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新闻台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv072
 中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天亞洲台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv109
+中天新闻台,http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv009
 中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv009
 鏡新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv075
+台视新闻,http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv051
+华视新闻,http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv052
+中视新闻,http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv074
 日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+中視,http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv040
 中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 中視,http://60.248.77.83/sat/tv091.flv
 中視,http://116.93.98.236:8080/sat/tv091.flv
 中視,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv040
+華視,http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv041
 華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 華視,http://60.248.77.83/sat/tv111.flv
 華視,http://116.93.98.236:8080/sat/tv111.flv
 華視,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv041
+台視,http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv066
 台視,http://60.248.77.83/sat/tv071.flv
 台視,http://116.93.98.236:8080/sat/tv071.flv
 台視,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv066
@@ -336,6 +326,15 @@ TVBS新闻台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv07
 纬来育乐,http://60.248.77.83/sat/tv701.flv
 纬来日本,http://116.93.98.236:8080/sat/tv771.flv
 纬来日本,http://60.248.77.83/sat/tv771.flv
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+myTV SUPER 18台,http://60.248.77.83/sat/hk021.flv
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel U Hd,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+Hoy 78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
@@ -790,7 +789,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 動物星球,http://61.221.215.25:8800/hls/9/index.m3u8
 探索頻道,http://61.221.215.25:8800/hls/50/index.m3u8
-亞洲旅遊台,https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn17
+亞洲旅遊台,http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv076
 Smart知識台,https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn19
 
 
