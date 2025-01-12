@@ -140,9 +140,10 @@ CCTV5+,http://wuyanjiang.cn:8012/udp/239.3.1.130:8004
 CCTV5+,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5p
 CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
 CCTV16,rtp://@239.77.1.76:5146
+CCTV16,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024083703.m3u8 
 CCTV16,http://222.209.208.234:7088/rtp/239.93.42.54:5140
 CCTV16,http://home.918518.xyz:12121/ysptp/cctv16.m3u8
-CCTV16,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?$%E8%AE%A2%E9%98%85%E6%BA%90%7C3840x2160
+CCTV16,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540
 CCTV16,http://wuyanjiang.cn:8012/udp/239.3.1.184:8001
 CCTV16,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv16
 CCTV16,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv16
@@ -454,6 +455,8 @@ HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 广东影视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1244&tk=97475bb89d45
 广东影视,http://219.159.194.172:8181/tsfile/live/1004_1.m3u8
 广东卫视,rtp://@239.77.1.19:5146
+广东卫视,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060903.m3u8
+广东卫视,http://222.209.208.234:7088/rtp/239.93.0.181:5140
 广东卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gdws
 广东卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=gdws
 广东卫视,http://mryx.fun:1025/udp/239.10.0.111:1025
@@ -587,9 +590,10 @@ CCTV15,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv15
 CCTV15,http://wuyanjiang.cn:8012/udp/239.3.1.153:8136
 CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV16,rtp://@239.77.1.76:5146
+CCTV16,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024083703.m3u8 
 CCTV16,http://222.209.208.234:7088/rtp/239.93.42.54:5140
 CCTV16,http://home.918518.xyz:12121/ysptp/cctv16.m3u8
-CCTV16,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?$%E8%AE%A2%E9%98%85%E6%BA%90%7C3840x2160
+CCTV16,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540
 CCTV16,http://wuyanjiang.cn:8012/udp/239.3.1.184:8001
 CCTV16,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv16
 CCTV16,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv16
@@ -634,6 +638,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 江苏卫视,http://wuyanjiang.cn:8012/udp/239.3.1.135:8028
 江苏卫视,http://112.101.78.50:9901/tsfile/live/0127_1.m3u8
 广东卫视,rtp://@239.77.1.19:5146
+广东卫视,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060903.m3u8
 广东卫视,http://mryx.fun:1025/udp/239.10.0.111:1025
 广东卫视,http://222.209.208.234:7088/rtp/239.93.0.181:5140
 广东卫视,http://cnfs.204999.xyz:30080/judy520/judy520/1
