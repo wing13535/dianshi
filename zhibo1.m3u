@@ -276,11 +276,13 @@ http://z.b.bkpcp.top/m.php?id=cctv5p
 #EXTINF:-1 group-title="体育频道",CCTV16
 rtp://@239.77.1.76:5146
 #EXTINF:-1 group-title="体育频道",CCTV16
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024083703.m3u8
+#EXTINF:-1 group-title="体育频道",CCTV16
 http://222.209.208.234:7088/rtp/239.93.42.54:5140
 #EXTINF:-1 group-title="体育频道",CCTV16
 http://home.918518.xyz:12121/ysptp/cctv16.m3u8
 #EXTINF:-1 group-title="体育频道",CCTV16
-http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?$%E8%AE%A2%E9%98%85%E6%BA%90%7C3840x2160
+http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540
 #EXTINF:-1 group-title="体育频道",CCTV16
 http://wuyanjiang.cn:8012/udp/239.3.1.184:8001
 #EXTINF:-1 group-title="体育频道",CCTV16
@@ -884,6 +886,10 @@ http://219.159.194.172:8181/tsfile/live/1004_1.m3u8
 #EXTINF:-1 group-title="广东频道",广东卫视
 rtp://@239.77.1.19:5146
 #EXTINF:-1 group-title="广东频道",广东卫视
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060903.m3u8
+#EXTINF:-1 group-title="广东频道",广东卫视
+http://222.209.208.234:7088/rtp/239.93.0.181:5140
+#EXTINF:-1 group-title="广东频道",广东卫视
 http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gdws
 #EXTINF:-1 group-title="广东频道",广东卫视
 http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=gdws
@@ -1146,11 +1152,13 @@ http://z.b.bkpcp.top/m.php?id=cctv15
 #EXTINF:-1 group-title="央视频道",CCTV16
 rtp://@239.77.1.76:5146
 #EXTINF:-1 group-title="央视频道",CCTV16
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024083703.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV16
 http://222.209.208.234:7088/rtp/239.93.42.54:5140
 #EXTINF:-1 group-title="央视频道",CCTV16
 http://home.918518.xyz:12121/ysptp/cctv16.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV16
-http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?$%E8%AE%A2%E9%98%85%E6%BA%90%7C3840x2160
+http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540
 #EXTINF:-1 group-title="央视频道",CCTV16
 http://wuyanjiang.cn:8012/udp/239.3.1.184:8001
 #EXTINF:-1 group-title="央视频道",CCTV16
@@ -1231,6 +1239,8 @@ http://wuyanjiang.cn:8012/udp/239.3.1.135:8028
 http://112.101.78.50:9901/tsfile/live/0127_1.m3u8
 #EXTINF:-1 group-title="东方卫视,tp://@239.77.0.98:5146",广东卫视
 rtp://@239.77.1.19:5146
+#EXTINF:-1 group-title="东方卫视,tp://@239.77.0.98:5146",广东卫视
+http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060903.m3u8
 #EXTINF:-1 group-title="东方卫视,tp://@239.77.0.98:5146",广东卫视
 http://mryx.fun:1025/udp/239.10.0.111:1025
 #EXTINF:-1 group-title="东方卫视,tp://@239.77.0.98:5146",广东卫视
