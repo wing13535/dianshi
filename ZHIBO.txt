@@ -46,7 +46,7 @@ CCTV7,http://222.209.208.234:7088/rtp/239.93.1.67:5140
 CCTV7,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv7
 CCTV7,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv7
 CCTV7,http://wuyanjiang.cn:8012/udp/239.3.1.61:8104
-CCTV7,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv7http://wuyanjiang.cn:8012/udp/239.3.1.61:8104
+CCTV7,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv7
 CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
 CCTV13,rtp://@239.77.0.188:5146
 CCTV13,http://222.209.208.234:7088/rtp/239.93.0.66:5140
@@ -628,8 +628,7 @@ CCTV7,http://222.209.208.234:7088/rtp/239.93.1.67:5140
 CCTV7,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv7
 CCTV7,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv7
 CCTV7,http://wuyanjiang.cn:8012/udp/239.3.1.61:8104
-CCTV7,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv7http://wuyanjiang.cn:8012/udp/239.3.1.61:8104
-CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV7,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv7
 CCTV8,rtp://@239.77.0.172:5146
 CCTV8,http://222.209.208.234:7088/rtp/239.93.42.39:5140
 CCTV8,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv8
@@ -898,7 +897,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 广东少儿,rtp://239.77.0.250:5146
 嘉佳卡通,rtp://239.77.0.179:5146
 嘉佳卡通,https://stream1.freetv.fun/bee9044f047d4458c631c35b7af51298a624b14d6f9b74a4ea6985c8e4b36106.m3u8
-嘉佳卡通,http://14.117.234.149:9000/rtp/239.77.0.179:5146
+嘉佳卡通,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=jjkt
 卡酷少儿,http://lu.wqwqwq.sbs/itv/5000000011000265008.m3u8?cdn=bestzb
 卡酷少儿,http://116.232.111.241:4022/udp/239.45.0.8:5140
 卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140
@@ -906,6 +905,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 金鹰卡通,http://116.232.111.241:4022/udp/239.45.0.38:5140
 金鹰卡通,http://180.173.49.183:8888/udp/239.45.0.38:5140
 金鹰卡通,http://218.1.186.100:8881/udp/239.45.0.38:5140
+优漫卡通,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=ymkthttp://139.196.228.200:5678/公众号搞机大师/mg.php?id=ymkt
 哈哈炫动,http://lu.wqwqwq.sbs/itv/5000000011000031123.m3u8?cdn=bestzb
 哈哈炫动,http://116.232.111.241:4022/udp/239.45.1.55:5140
 哈哈炫动,http://180.173.49.183:8888/udp/239.45.1.55:5140
