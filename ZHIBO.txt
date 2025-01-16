@@ -16,9 +16,9 @@
 鳳凰資訊,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-4
 鳳凰資訊,https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 鳳凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
+鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=599647844641759&edge=edge1.hkdvb.com
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 鳳凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
 军事评论,http://lu.wqwqwq.sbs/itv/2000000003000000022.m3u8?cdn=hnbblive
 军事评论,http://mg.20191209.xyz:58888/itv/2000000003000000022.m3u8?cdn=hnbblive
