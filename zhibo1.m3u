@@ -34,13 +34,17 @@ https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791
 #EXTINF:-1 group-title="新闻频道",鳳凰資訊
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="新闻频道",鳳凰香港
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 group-title="新闻频道",鳳凰香港
 https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
+#EXTINF:-1 group-title="新闻频道",鳳凰香港
+https://live.hkdvb.com/hls/live/85.m3u8?token=599647844641759&edge=edge1.hkdvb.com
+#EXTINF:-1 group-title="新闻频道",鳳凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 group-title="新闻频道",鳳凰香港
 http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
 #EXTINF:-1 group-title="新闻频道",军事评论
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+http://lu.wqwqwq.sbs/itv/2000000003000000022.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="新闻频道",军事评论
+http://mg.20191209.xyz:58888/itv/2000000003000000022.m3u8?cdn=hnbblive
 #EXTINF:-1 group-title="新闻频道",军事评论
 http://live.wqwqwq.sbs/itv/2000000003000000022.m3u8?cdn=hnbblive
 #EXTINF:-1 group-title="新闻频道",军事
@@ -130,15 +134,17 @@ http://mom.coms.hk:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 group-title="新闻频道",無線新聞台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="新闻频道",now新聞
-https://live.hkdvb.com/hls/live/332.m3u8?token=660938530794730&edge=edge1.hkdvb.com
-#EXTINF:-1 group-title="新闻频道",now新聞
-https://iptv.vip-tptv.xyz/cao.php?id=now-news
-#EXTINF:-1 group-title="新闻频道",iNews 新聞台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=inews_twn&sp=chaojidianshi
+https://live.hkdvb.com/hls/live/332.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="新闻频道",娛樂新聞台(HK)
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 #EXTINF:-1 group-title="新闻频道",HOY TV 資訊台
-https://live.hkdvb.com/hls/live/78.m3u8?token=841221052089160
+https://live.hkdvb.com/hls/live/78.m3u8?token=599647844641759&edge=edge1.hkdvb.com
+#EXTINF:-1 group-title="新闻频道",寰宇新聞台
+http://211.75.171.121:8520/http/61.67.128.137:8081/hls/76/818/ch062.m3u8
+#EXTINF:-1 group-title="新闻频道",寰宇新聞台
+http://125.229.9.67:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
+#EXTINF:-1 group-title="新闻频道",寰宇新聞台
+http://220.133.220.232:8548/http/220.130.214.23:8088/hls/76/818/ch62.m3u8
 #EXTINF:-1 group-title="新闻频道",寰宇新聞台
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=huanyuxinwen_twn&sp=chaojidianshi
 #EXTINF:-1 group-title="新闻频道",寰宇新聞台
@@ -150,60 +156,118 @@ https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=litv-longturn14
 #EXTINF:-1 group-title="新闻频道",寰宇新闻台湾台
 http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv156
 #EXTINF:-1 group-title="新闻频道",年代新聞台
+http://211.75.171.121:8544/http/61.67.128.137:8081/hls/67/809/ch027.m3u8
+#EXTINF:-1 group-title="新闻频道",年代新聞台
+http://125.229.9.67:8538/http/220.130.87.218:8081/hls/67/809/ch027.m3u8
+#EXTINF:-1 group-title="新闻频道",年代新聞台
+http://220.133.220.232:8540/http/220.130.214.23:8088/hls/67/809/ch27.m3u8
+#EXTINF:-1 group-title="新闻频道",年代新聞台
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=niandainews_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="新闻频道",非凡新闻台
+http://211.75.171.121:8623/http/61.67.128.137:8081/hls/75/817/ch057.m3u8
+#EXTINF:-1 group-title="新闻频道",非凡新闻台
+http://125.229.9.67:8545/http/220.130.87.218:8081/hls/75/817/ch057.m3u8
+#EXTINF:-1 group-title="新闻频道",非凡新闻台
+http://220.133.220.232:8545/http/220.130.214.23:8088/hls/75/817/ch57.m3u8
 #EXTINF:-1 group-title="新闻频道",非凡新闻台
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=feifannews_twn&sp=chaojidianshi
 #EXTINF:-1 group-title="新闻频道",非凡新闻台
 https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv010
 #EXTINF:-1 group-title="新闻频道",非凡新闻台
 rtmp://f13h.mine.nu/sat/tv581
-#EXTINF:-1 group-title="新闻频道",东森新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",东森新聞台
+http://125.229.9.67:8539/http/220.130.87.218:8081/hls/63/805/ch010.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",东森新聞台
+http://220.133.220.232:8541/http/220.130.214.23:8088/hls/63/805/ch10.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",东森新聞台
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvnews&sp=chaojidianshi
-#EXTINF:-1 group-title="新闻频道",东森新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",东森新聞台
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:-1 group-title="新闻频道",东森新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",东森新聞台
 https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv152
-#EXTINF:-1 group-title="新闻频道",TVBS
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS
+http://211.75.171.121:8575/http/61.67.128.137:8081/hls/75/817/ch058.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS
+http://125.229.9.67:8544/http/220.130.87.218:8081/hls/75/817/ch058.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS
+http://220.133.220.232:8576/http/220.130.214.23:8088/hls/75/817/ch58.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs&sp=chaojidianshi
-#EXTINF:-1 group-title="新闻频道",TVBS
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 group-title="新闻频道",TVBS新闻台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS新闻台
+http://211.75.171.121:8574/http/61.67.128.137:8081/hls/75/817/ch059.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS新闻台
+http://125.229.9.67:8543/http/220.130.87.218:8081/hls/75/817/ch059.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS新闻台
+http://220.133.220.232:8575/http/220.130.214.23:8088/hls/75/817/ch59.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS新闻台
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs_n&sp=chaojidianshi
-#EXTINF:-1 group-title="新闻频道",TVBS新闻台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS新闻台
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 group-title="新闻频道",TVBS新闻台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS新闻台
 https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv072
-#EXTINF:-1 group-title="新闻频道",中天亞洲台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中天亞洲台
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1 group-title="新闻频道",中天亞洲台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中天亞洲台
 https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv109
-#EXTINF:-1 group-title="新闻频道",中天新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中天新聞台
+http://211.75.171.121:8534/http/61.67.128.137:8081/hls/78/80/ch063max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中天新聞台
+http://125.229.9.67:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中天新聞台
+http://220.133.220.232:8580/http/220.130.214.23:8088/hls/78/80/ch63max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中天新聞台
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctinews&sp=chaojidianshi
-#EXTINF:-1 group-title="新闻频道",中天新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中天新聞台
 http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv009
-#EXTINF:-1 group-title="新闻频道",中天新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中天新聞台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 group-title="新闻频道",中天新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中天新聞台
 https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv009
-#EXTINF:-1 group-title="新闻频道",鏡新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",三立新聞台
+http://211.75.171.121:8537/http/61.67.128.137:8081/hls/65/807/ch018.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",三立新聞台
+http://220.133.220.232:8544/http/220.130.214.23:8088/hls/65/807/ch18.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",三立新聞台
+http://125.229.9.67:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",壹新聞台
+http://211.75.171.121:8549/http/61.67.128.137:8081/hls/66/808/ch024.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",壹新聞台
+http://125.229.9.67:8549/http/220.130.87.218:8081/hls/66/808/ch024.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",壹新聞台
+http://220.133.220.232:8549/http/220.130.214.23:8088/hls/66/808/ch24.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",鏡新聞台
+http://211.75.171.121:8554/http/61.67.128.137:8092/upload/114/MNEWS_TS-1111_1.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",鏡新聞台
+http://125.229.9.67:8552/http/220.130.87.218:8092/upload/114/MNEWS_TS-1111_1.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",鏡新聞台
+http://220.133.220.232:8554/http/220.130.214.23:8092/upload/114/MNEWS_TS-1111_1.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",鏡新聞台
 https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv075
-#EXTINF:-1 group-title="新闻频道",台视新闻
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",民视新聞
+http://211.75.171.121:8535/http/61.67.128.137:8081/hls/85/80/FtvNews4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",民视新聞
+http://125.229.9.67:8541/http/220.130.87.218:8081/hls/85/80/FtvNews4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",民视新聞
+http://220.133.220.232:8543/http/220.130.214.23:8088/hls/85/80/FtvNews4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",台视新闻
 https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
-#EXTINF:-1 group-title="新闻频道",台视新闻
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",台视新闻
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ttvnews_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="新闻频道",台视新闻
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",台视新闻
 http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv051
-#EXTINF:-1 group-title="新闻频道",华视新闻
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",华视新闻
 http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv052
-#EXTINF:-1 group-title="新闻频道",中视新闻
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中视新闻
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshinews_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="新闻频道",中视新闻
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中视新闻
 http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv074
-#EXTINF:-1 group-title="新闻频道",日本全天新聞
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",日本全天新聞
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:-1 group-title="新闻频道",無線衛星新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",無線衛星新聞台
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="新闻频道",亞洲新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",亞洲新聞台
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="体育频道",广东体育
 rtp://@239.77.0.112:5146
@@ -286,13 +350,19 @@ http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv16
 #EXTINF:-1 group-title="体育频道",CCTV16
 http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv16
 #EXTINF:-1 group-title="体育频道",精品体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+http://lu.wqwqwq.sbs/itv/1000000004000014634.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="体育频道",精品体育
+http://mg.20191209.xyz:58888/itv/1000000004000014634.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="体育频道",精品体育
 http://live.wqwqwq.sbs/itv/1000000004000014634.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="体育频道",超级体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+http://lu.wqwqwq.sbs/itv/1000000001000009601.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="体育频道",超级体育
+http://mg.20191209.xyz:58888/itv/1000000001000009601.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="体育频道",超级体育
 http://live.wqwqwq.sbs/itv/1000000004000014634.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="体育频道",劲爆体育
+http://211.101.234.24:68/公众号猫月牙/mg.php?id=劲爆体育
 #EXTINF:-1 group-title="体育频道",劲爆体育
 http://z.b.bkpcp.top/m.php?id=jbty
 #EXTINF:-1 group-title="体育频道",劲爆体育
@@ -304,7 +374,11 @@ http://live.wqwqwq.sbs/itv/5000000002000029972.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="体育频道",劲爆体育
 http://cnfs.204999.xyz:30080/judy520/judy520/2
 #EXTINF:-1 group-title="体育频道",IHOT体育
+http://lu.wqwqwq.sbs/itv/6000000006000290630.m3u8?cdn=wasusyt
+#EXTINF:-1 group-title="体育频道",IHOT体育
 http://live.wqwqwq.sbs/itv/6000000006000290630.m3u8?cdn=wasusyt
+#EXTINF:-1 group-title="体育频道",IHOT赛车
+http://lu.wqwqwq.sbs/itv/6000000006000240630.m3u8?cdn=wasusyt
 #EXTINF:-1 group-title="体育频道",IHOT赛车
 http://222.209.208.234:7088/rtp/239.93.42.20:5140
 #EXTINF:-1 group-title="体育频道",IHOT赛车
@@ -320,17 +394,17 @@ http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 #EXTINF:-1 group-title="体育频道",NBA
 http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1 group-title="体育频道",Now Sports1
-https://live.hkdvb.com/hls/live/621.m3u8?token=660938530794730&edge=edge1.hkdvb.com
+https://live.hkdvb.com/hls/live/621.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="体育频道",Now Sports2
-https://live.hkdvb.com/hls/live/632.m3u8?token=660938530794730&edge=edge1.hkdvb.com
+https://live.hkdvb.com/hls/live/632.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="体育频道",Now Sports641
-https://live.hkdvb.com/hls/live/641.m3u8?token=660938530794730&edge=edge1.hkdvb.com
+https://live.hkdvb.com/hls/live/641.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="体育频道",Now Sports642
-https://live.hkdvb.com/hls/live/642.m3u8?token=660938530794730&edge=edge1.hkdvb.com
+https://live.hkdvb.com/hls/live/642.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="体育频道",Now Sports Prime
-https://live.hkdvb.com/hls/live/630.m3u8?token=660938530794730&edge=edge1.hkdvb.com
-#EXTINF:-1 group-title="体育频道",Now Sports Prime
-https://iptv.vip-tptv.xyz/cao.php?id=now-sports-prime
+https://live.hkdvb.com/hls/live/630.m3u8?token=599647844641759&edge=edge1.hkdvb.com
+#EXTINF:-1 group-title="体育频道",五星体育
+http://lu.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="体育频道",五星体育
 http://116.232.111.241:4022/udp/239.45.3.210:5140
 #EXTINF:-1 group-title="体育频道",五星体育
@@ -342,6 +416,14 @@ http://218.1.186.100:8881/udp/239.45.3.210:5140
 #EXTINF:-1 group-title="体育频道",五星体育
 http://live.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="体育频道",纬来体育
+http://211.75.171.121:8564/http/61.67.128.137:8081/hls/67/809/ch028.m3u8
+#EXTINF:-1 group-title="体育频道",纬来体育
+http://125.229.9.67:8562/http/220.130.87.218:8081/hls/67/809/ch028.m3u8
+#EXTINF:-1 group-title="体育频道",纬来体育
+http://122.117.71.103:8562/http/61.222.53.250:8081/hls/67/809/ch28.m3u8
+#EXTINF:-1 group-title="体育频道",纬来体育
+http://220.133.220.232:8564/http/220.130.214.23:8088/hls/67/809/ch28.m3u8
+#EXTINF:-1 group-title="体育频道",纬来体育
 http://116.93.98.236:8080/sat/tv721.flv
 #EXTINF:-1 group-title="体育频道",纬来体育
 http://60.248.77.83/sat/tv721.flv
@@ -351,8 +433,20 @@ https://iptv.vip-tptv.xyz/tv.php?id=7
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 group-title="体育频道",纬来体育
 rtmp://f13h.mine.nu:1935/sat/tv721
+#EXTINF:-1 group-title="体育频道",纬来育乐
+http://211.75.171.121:8563/http/61.67.128.137:8081/hls/68/810/ch030.m3u8
+#EXTINF:-1 group-title="体育频道",纬来育乐
+http://125.229.9.67:8561/http/220.130.87.218:8081/hls/68/810/ch030.m3u8
+#EXTINF:-1 group-title="体育频道",纬来育乐
+http://220.133.220.232:8563/http/220.130.214.23:8088/hls/68/810/ch30.m3u8
+#EXTINF:-1 group-title="体育频道",纬来育乐
+http://116.93.98.236:8080/sat/tv701.flv
+#EXTINF:-1 group-title="体育频道",纬来育乐
+http://60.248.77.83/sat/tv701.flv
 #EXTINF:-1 group-title="体育频道",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="体育频道",ELEVEN體育1
+http://220.133.220.232:8567/http/220.130.87.218:8078/hls/25/80/esport.m3u8
 #EXTINF:-1 group-title="体育频道",ELEVEN體育1
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=golfchannel_twn&sp=chaojidianshi
 #EXTINF:-1 group-title="体育频道",ELEVEN體育1
@@ -362,11 +456,19 @@ http://60.248.77.83/sat/tv731.flv
 #EXTINF:-1 group-title="体育频道",ELEVEN體育1
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 group-title="体育频道",ELEVEN體育2
+http://220.133.220.232:8568/http/220.130.87.218:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 group-title="体育频道",ELEVEN體育2
 http://116.93.98.236:8080/sat/tv741.flv
 #EXTINF:-1 group-title="体育频道",ELEVEN體育2
 http://60.248.77.83/sat/tv741.flv
 #EXTINF:-1 group-title="体育频道",ELEVEN體育2
 rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="体育频道",MOMO综合
+http://125.229.9.67:8564/http/220.130.87.218:8081/hls/76/818/momo_4max.m3u8
+#EXTINF:-1 group-title="体育频道",MOMO综合
+http://211.75.171.121:8596/http/61.67.128.137:8088/hls/68/810/ch032.m3u8
+#EXTINF:-1 group-title="体育频道",MOMO综合
+http://220.133.220.232:8566/http/220.130.214.23:8088/hls/76/818/momo_max.m3u8
 #EXTINF:-1 group-title="体育频道",MOMO综合
 http://116.93.98.236:8080/sat/tv761.flv
 #EXTINF:-1 group-title="体育频道",MOMO综合
@@ -374,13 +476,15 @@ http://60.248.77.83/sat/tv761.flv
 #EXTINF:-1 group-title="体育频道",晴彩篮球
 rtp://239.77.1.21:5146
 #EXTINF:-1 group-title="体育频道",晴彩篮球
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+http://lu.wqwqwq.sbs/rptv/miguaoyun01-AVS-4K01.m3u8?license=gitv
 #EXTINF:-1 group-title="体育频道",晴彩篮球
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+http://mg.20191209.xyz:58888/itv/2000000003000000061.m3u8?cdn=hnbblive
 #EXTINF:-1 group-title="体育频道",晴彩竞技
 rtp://239.77.1.20:5146
 #EXTINF:-1 group-title="体育频道",晴彩竞技
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+http://lu.wqwqwq.sbs/rptv/miguaoyun1-AVS.m3u8?license=gitv
+#EXTINF:-1 group-title="体育频道",晴彩竞技
+http://mg.20191209.xyz:58888/itv/2000000003000000060.m3u8?cdn=hnbblive
 #EXTINF:-1 group-title="体育频道",晴彩竞技
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6603&tk=97475bb89d45
 #EXTINF:-1 group-title="体育频道",英雄联盟1
@@ -390,7 +494,11 @@ http://live.iill.top/huya.php?id=660001
 #EXTINF:-1 group-title="体育频道",英雄联盟3
 http://live.iill.top/douyu.php?id=288016
 #EXTINF:-1 group-title="体育频道",央视台球
+http://lu.wqwqwq.sbs/rptv/G_TAIQIU-CQ.m3u8?license=gitv
+#EXTINF:-1 group-title="体育频道",央视台球
 http://222.209.208.234:7088/udp/239.93.0.218:5140
+#EXTINF:-1 group-title="体育频道",风云足球
+http://lu.wqwqwq.sbs/rptv/G_FENGSHANGZQ-CQ.m3u8?license=gitv
 #EXTINF:-1 group-title="体育频道",风云足球
 http://222.209.208.234:7088/udp/239.93.0.235:5140
 #EXTINF:-1 group-title="体育频道",魅力足球
@@ -413,6 +521,8 @@ http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport1_twn&s
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport2_twn&sp=chaojidianshi
 #EXTINF:-1 group-title="体育频道",快乐垂钓
 http://222.209.208.234:7088/rtp/239.93.1.151:5140
+#EXTINF:-1 group-title="体育频道",快乐垂钓
+http://lu.wqwqwq.sbs/itv/5000000011000031206.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="体育频道",四海钓鱼
 http://www.leo-nas.cn:9991/rtp/239.93.0.55:5140
 #EXTINF:-1 group-title="体育频道",四海钓鱼
@@ -434,15 +544,17 @@ http://zzy789.xyz/douyu1.php?id=5033502
 #EXTINF:-1 group-title="电影频道",周星驰
 http://43.136.119.99/huya.php?id=11336587
 #EXTINF:-1 group-title="电影频道",周星驰
-http://43.136.119.99/huya.php?id=11336587
+http://1.94.31.214:35455/huya/11336587
 #EXTINF:-1 group-title="电影频道",星影台
-https://live.hkdvb.com/hls/live/138.m3u8?token=660938530794730&edge=edge1.hkdvb.com
+https://live.hkdvb.com/hls/live/138.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="电影频道",爆谷台
-https://live.hkdvb.com/hls/live/133.m3u8?token=660938530794730&edge=edge1.hkdvb.com
+https://live.hkdvb.com/hls/live/133.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="电影频道",爆谷台
 http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 #EXTINF:-1 group-title="电影频道",美亞電影台(HK)
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 group-title="电影频道",美亞電影台(HK)
+https://live.hkdvb.com/hls/live/201.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="电影频道",美亞電影台(HK)
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 #EXTINF:-1 group-title="电影频道",龍華電影台
@@ -460,7 +572,7 @@ http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 group-title="电影频道",ROCK Action
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 group-title="电影频道",超级电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+http://lu.wqwqwq.sbs/itv/1000000003000012426.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="电影频道",超级电影
 http://live.wqwqwq.sbs/itv/1000000003000012426.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="电影频道",影迷电影
@@ -514,9 +626,9 @@ http://cdn.132.us.kg/live/fct4k/stream.m3u8
 #EXTINF:-1 group-title="香港台湾",翡翠台
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jade_twn&sp=chaojidianshi
 #EXTINF:-1 group-title="香港台湾",翡翠台
-https://live.hkdvb.com/hls/live/81.m3u8?token=660938530794730&edge=edge1.hkdvb.com
+https://live.hkdvb.com/hls/live/81.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="香港台湾",翡翠台
-https://live.hkdvb.com/hls/live/800.m3u8?token=660938530794730&edge=edge1.hkdvb.com
+https://live.hkdvb.com/hls/live/800.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="香港台湾",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1 group-title="香港台湾",翡翠台
@@ -524,9 +636,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct
 #EXTINF:-1 group-title="香港台湾",翡翠台
 https://lb-mvtv-live.v2h-cdn.com/redirect/jade2/jade.stream?type=m3u8
 #EXTINF:-1 group-title="香港台湾",星影台
-https://live.hkdvb.com/hls/live/138.m3u8?token=660938530794730&edge=edge1.hkdvb.com
+https://live.hkdvb.com/hls/live/138.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="香港台湾",爆谷台
-https://live.hkdvb.com/hls/live/133.m3u8?token=660938530794730&edge=edge1.hkdvb.com
+https://live.hkdvb.com/hls/live/133.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="香港台湾",爆谷台
 http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 #EXTINF:-1 group-title="香港台湾",C+台
@@ -546,7 +658,7 @@ http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 #EXTINF:-1 group-title="香港台湾",TVB 生活台
 http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8
 #EXTINF:-1 group-title="香港台湾",now新聞
-https://live.hkdvb.com/hls/live/332.m3u8?token=660938530794730&edge=edge1.hkdvb.com
+https://live.hkdvb.com/hls/live/332.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="香港台湾",now新聞
 https://iptv.vip-tptv.xyz/cao.php?id=now-news
 #EXTINF:-1 group-title="香港台湾",無線新聞台
@@ -580,6 +692,12 @@ http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 group-title="香港台湾",无线新闻台(北美)
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="香港台湾",寰宇新聞台
+http://211.75.171.121:8520/http/61.67.128.137:8081/hls/76/818/ch062.m3u8
+#EXTINF:-1 group-title="香港台湾",寰宇新聞台
+http://125.229.9.67:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
+#EXTINF:-1 group-title="香港台湾",寰宇新聞台
+http://220.133.220.232:8548/http/220.130.214.23:8088/hls/76/818/ch62.m3u8
+#EXTINF:-1 group-title="香港台湾",寰宇新聞台
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=huanyuxinwen_twn&sp=chaojidianshi
 #EXTINF:-1 group-title="香港台湾",寰宇新聞台
 http://38.60.249.62:5222/index.m3u8?pid=litv-longturn14
@@ -590,160 +708,252 @@ https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=litv-longturn14
 #EXTINF:-1 group-title="香港台湾",寰宇新闻台湾台
 http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv156
 #EXTINF:-1 group-title="香港台湾",年代新聞台
+http://211.75.171.121:8544/http/61.67.128.137:8081/hls/67/809/ch027.m3u8
+#EXTINF:-1 group-title="香港台湾",年代新聞台
+http://125.229.9.67:8538/http/220.130.87.218:8081/hls/67/809/ch027.m3u8
+#EXTINF:-1 group-title="香港台湾",年代新聞台
+http://220.133.220.232:8540/http/220.130.214.23:8088/hls/67/809/ch27.m3u8
+#EXTINF:-1 group-title="香港台湾",年代新聞台
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=niandainews_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="香港台湾",非凡新闻台
+http://211.75.171.121:8623/http/61.67.128.137:8081/hls/75/817/ch057.m3u8
+#EXTINF:-1 group-title="香港台湾",非凡新闻台
+http://125.229.9.67:8545/http/220.130.87.218:8081/hls/75/817/ch057.m3u8
+#EXTINF:-1 group-title="香港台湾",非凡新闻台
+http://220.133.220.232:8545/http/220.130.214.23:8088/hls/75/817/ch57.m3u8
 #EXTINF:-1 group-title="香港台湾",非凡新闻台
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=feifannews_twn&sp=chaojidianshi
 #EXTINF:-1 group-title="香港台湾",非凡新闻台
 https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv010
 #EXTINF:-1 group-title="香港台湾",非凡新闻台
 rtmp://f13h.mine.nu/sat/tv581
-#EXTINF:-1 group-title="香港台湾",东森新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",东森新聞台
+http://125.229.9.67:8539/http/220.130.87.218:8081/hls/63/805/ch010.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",东森新聞台
+http://220.133.220.232:8541/http/220.130.214.23:8088/hls/63/805/ch10.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",东森新聞台
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvnews&sp=chaojidianshi
-#EXTINF:-1 group-title="香港台湾",东森新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",东森新聞台
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",东森新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",东森新聞台
 https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv152
-#EXTINF:-1 group-title="香港台湾",TVBS
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS
+http://211.75.171.121:8575/http/61.67.128.137:8081/hls/75/817/ch058.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS
+http://125.229.9.67:8544/http/220.130.87.218:8081/hls/75/817/ch058.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS
+http://220.133.220.232:8576/http/220.130.214.23:8088/hls/75/817/ch58.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs&sp=chaojidianshi
-#EXTINF:-1 group-title="香港台湾",TVBS
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",TVBS新闻台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS新闻台
+http://211.75.171.121:8574/http/61.67.128.137:8081/hls/75/817/ch059.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS新闻台
+http://125.229.9.67:8543/http/220.130.87.218:8081/hls/75/817/ch059.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS新闻台
+http://220.133.220.232:8575/http/220.130.214.23:8088/hls/75/817/ch59.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS新闻台
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs_n&sp=chaojidianshi
-#EXTINF:-1 group-title="香港台湾",TVBS新闻台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS新闻台
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",TVBS新闻台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",TVBS新闻台
 https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv072
-#EXTINF:-1 group-title="香港台湾",中天亞洲台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中天亞洲台
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",中天亞洲台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中天亞洲台
 https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv109
-#EXTINF:-1 group-title="香港台湾",中天新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中天新聞台
+http://211.75.171.121:8534/http/61.67.128.137:8081/hls/78/80/ch063max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中天新聞台
+http://125.229.9.67:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中天新聞台
+http://220.133.220.232:8580/http/220.130.214.23:8088/hls/78/80/ch63max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中天新聞台
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctinews&sp=chaojidianshi
-#EXTINF:-1 group-title="香港台湾",中天新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中天新聞台
 http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv009
-#EXTINF:-1 group-title="香港台湾",中天新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中天新聞台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",中天新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中天新聞台
 https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv009
-#EXTINF:-1 group-title="香港台湾",鏡新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",三立新聞台
+http://211.75.171.121:8537/http/61.67.128.137:8081/hls/65/807/ch018.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",三立新聞台
+http://220.133.220.232:8544/http/220.130.214.23:8088/hls/65/807/ch18.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",三立新聞台
+http://125.229.9.67:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",壹新聞台
+http://211.75.171.121:8549/http/61.67.128.137:8081/hls/66/808/ch024.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",壹新聞台
+http://125.229.9.67:8549/http/220.130.87.218:8081/hls/66/808/ch024.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",壹新聞台
+http://220.133.220.232:8549/http/220.130.214.23:8088/hls/66/808/ch24.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",鏡新聞台
+http://211.75.171.121:8554/http/61.67.128.137:8092/upload/114/MNEWS_TS-1111_1.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",鏡新聞台
+http://125.229.9.67:8552/http/220.130.87.218:8092/upload/114/MNEWS_TS-1111_1.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",鏡新聞台
+http://220.133.220.232:8554/http/220.130.214.23:8092/upload/114/MNEWS_TS-1111_1.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",鏡新聞台
 https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv075
-#EXTINF:-1 group-title="香港台湾",台视新闻
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",民视新聞
+http://211.75.171.121:8535/http/61.67.128.137:8081/hls/85/80/FtvNews4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",民视新聞
+http://125.229.9.67:8541/http/220.130.87.218:8081/hls/85/80/FtvNews4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",民视新聞
+http://220.133.220.232:8543/http/220.130.214.23:8088/hls/85/80/FtvNews4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",台视新闻
 https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
-#EXTINF:-1 group-title="香港台湾",台视新闻
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",台视新闻
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ttvnews_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="香港台湾",台视新闻
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",台视新闻
 http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv051
-#EXTINF:-1 group-title="香港台湾",华视新闻
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",华视新闻
 http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv052
-#EXTINF:-1 group-title="香港台湾",中视新闻
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中视新闻
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshinews_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="香港台湾",中视新闻
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中视新闻
 http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv074
-#EXTINF:-1 group-title="香港台湾",日本全天新聞
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",日本全天新聞
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",無線衛星新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",無線衛星新聞台
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",亞洲新聞台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",亞洲新聞台
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",亞洲新聞台
-http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",公視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",公視
+http://211.75.171.121:8583/http/61.67.128.137:8081/hls/87/80/Pts4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",公視
+http://125.229.9.67:8505/http/220.130.87.218:8081/hls/87/80/Pts4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",公視
+http://220.133.220.232:8506/http/220.130.214.23:8088/hls/87/80/Pts4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",公視
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctv_taiwan&sp=chaojidianshi
-#EXTINF:-1 group-title="香港台湾",中視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中視
+http://211.75.171.121:8539/http/61.67.128.137:8081/hls/88/80/Ctv4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中視
+http://125.229.9.67:8502/http/220.130.87.218:8081/hls/88/80/Ctv4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中視
+http://220.133.220.232:8503/http/220.130.214.23:8088/hls/88/80/Ctv4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中視
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshihd_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="香港台湾",中視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中視
 http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv040
-#EXTINF:-1 group-title="香港台湾",中視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中視
 http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",中視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中視
 http://60.248.77.83/sat/tv091.flv
-#EXTINF:-1 group-title="香港台湾",中視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中視
 http://116.93.98.236:8080/sat/tv091.flv
-#EXTINF:-1 group-title="香港台湾",中視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",中視
 https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv040
-#EXTINF:-1 group-title="香港台湾",華視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",華視
+http://211.75.171.121:8536/http/61.67.128.137:8081/hls/89/80/Cts4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",華視
+http://125.229.9.67:8503/http/220.130.87.218:8081/hls/89/80/Cts4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",華視
+http://220.133.220.232:8504/http/220.130.214.23:8088/hls/89/80/Cts4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",華視
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctshd_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="香港台湾",華視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",華視
 http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv041
-#EXTINF:-1 group-title="香港台湾",華視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",華視
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",華視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",華視
 http://60.248.77.83/sat/tv111.flv
-#EXTINF:-1 group-title="香港台湾",華視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",華視
 http://116.93.98.236:8080/sat/tv111.flv
-#EXTINF:-1 group-title="香港台湾",華視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",華視
 https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv041
-#EXTINF:-1 group-title="香港台湾",台視
-http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv066
-#EXTINF:-1 group-title="香港台湾",台視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",台視
 http://60.248.77.83/sat/tv071.flv
-#EXTINF:-1 group-title="香港台湾",台視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",台視
+http://220.133.220.232:8502/http/220.130.214.23:8088/hls/86/80/Ttv4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",台視
+http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv066
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",台視
 http://116.93.98.236:8080/sat/tv071.flv
-#EXTINF:-1 group-title="香港台湾",台視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",台視
 https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv066
-#EXTINF:-1 group-title="香港台湾",民視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",民視
+http://211.75.171.121:8567/http/61.67.128.137:8081/hls/85/80/Ftv4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",民視
+http://125.229.9.67:8504/http/220.130.87.218:8081/hls/85/80/Ftv4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",民視
+http://220.133.220.232:8505/http/220.130.214.23:8088/hls/85/80/Ftv4max.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",民視
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvhd_taiwan&sp=chaojidianshi
-#EXTINF:-1 group-title="香港台湾",民視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",民視
 http://60.248.77.83/sat/tv051.flv
-#EXTINF:-1 group-title="香港台湾",民視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",民視
 http://116.93.98.236:8080/sat/tv051.flv
-#EXTINF:-1 group-title="香港台湾",民視
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",民視
 https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv155
-#EXTINF:-1 group-title="香港台湾",纬来育乐
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",纬来育乐
+http://211.75.171.121:8563/http/61.67.128.137:8081/hls/68/810/ch030.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",纬来育乐
+http://125.229.9.67:8561/http/220.130.87.218:8081/hls/68/810/ch030.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",纬来育乐
+http://220.133.220.232:8563/http/220.130.214.23:8088/hls/68/810/ch30.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",纬来育乐
 http://116.93.98.236:8080/sat/tv701.flv
-#EXTINF:-1 group-title="香港台湾",纬来育乐
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",纬来育乐
 http://60.248.77.83/sat/tv701.flv
-#EXTINF:-1 group-title="香港台湾",纬来日本
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",纬来日本
+http://125.229.9.67:8536/http/220.130.87.218:8081/hls/69/811/ch034.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",纬来日本
+http://220.133.220.232:8538/http/220.130.214.23:8088/hls/69/811/ch34.m3u8
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",纬来日本
 http://116.93.98.236:8080/sat/tv771.flv
-#EXTINF:-1 group-title="香港台湾",纬来日本
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",纬来日本
 http://60.248.77.83/sat/tv771.flv
-#EXTINF:-1 group-title="香港台湾",myTV SUPER 18台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",myTV SUPER 18台
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",myTV SUPER 18台
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",myTV SUPER 18台
 http://60.248.77.83/sat/hk021.flv
-#EXTINF:-1 group-title="香港台湾",PopC
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",ROCK Action
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",ROCK Action
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",28 AI 智慧賽馬
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",28 AI 智慧賽馬
 http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",Channel 5 HD
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",Channel 8 HD
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",Channel 8 HD
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",Channel U Hd
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",Channel U Hd
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",Hoy 78
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",Hoy 78
 http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",viutv 99
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",viutv 99
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",viutv6 96
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",viutv6 96
 http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",Animax-HK
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",Animax-HK
 http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",DW
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",DW
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",France 24
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",France 24
 http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",KIX
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",KIX
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",Love Nature HD
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",Love Nature HD
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",NHK World-Japan
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",NHK World-Japan
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",Nick Jr
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",Nick Jr
 http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",Nickelodeon
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",Nickelodeon
 http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",ROCK Action
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",ROCK Action
 http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",Thrill
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",Thrill
 http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",ZooMoo
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",ZooMoo
 http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",tvN
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 group-title="香港台湾",HOY TV
+#EXTINF:-1 group-title="东森新聞台http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8",HOY TV
 http://cdn.132.us.kg/live/hoy/stream.m3u8
 #EXTINF:-1 group-title="广东频道",广东体育
 rtp://@239.77.0.112:5146
@@ -1518,6 +1728,8 @@ http://222.209.208.234:7088/rtp/239.93.1.191:5140
 #EXTINF:-1 group-title="儿童频道",少儿天地
 http://222.209.208.234:7088/rtp/239.93.42.34:5140
 #EXTINF:-1 group-title="儿童频道",动漫秀场
+http://lu.wqwqwq.sbs/itv/5000000011000031113.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="儿童频道",动漫秀场
 http://116.232.111.241:4022/udp/239.45.3.134:5140
 #EXTINF:-1 group-title="儿童频道",动漫秀场
 http://180.173.49.183:8888/udp/239.45.3.134:5140
@@ -1532,6 +1744,8 @@ https://stream1.freetv.fun/bee9044f047d4458c631c35b7af51298a624b14d6f9b74a4ea698
 #EXTINF:-1 group-title="儿童频道",嘉佳卡通
 http://14.117.234.149:9000/rtp/239.77.0.179:5146
 #EXTINF:-1 group-title="儿童频道",卡酷少儿
+http://lu.wqwqwq.sbs/itv/5000000011000265008.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="儿童频道",卡酷少儿
 http://116.232.111.241:4022/udp/239.45.0.8:5140
 #EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",卡酷少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
@@ -1542,6 +1756,8 @@ http://180.173.49.183:8888/udp/239.45.0.38:5140
 #EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",金鹰卡通
 http://218.1.186.100:8881/udp/239.45.0.38:5140
 #EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",哈哈炫动
+http://lu.wqwqwq.sbs/itv/5000000011000031123.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",哈哈炫动
 http://116.232.111.241:4022/udp/239.45.1.55:5140
 #EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",哈哈炫动
 http://180.173.49.183:8888/udp/239.45.1.55:5140
@@ -1550,25 +1766,47 @@ http://218.1.186.100:8881/udp/239.45.1.55:5140
 #EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",哈哈炫动
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",黑莓动画
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
+http://lu.wqwqwq.sbs/itv/1000000004000021734.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",黑莓动画
+http://mg.20191209.xyz:58888/itv/1000000004000021734.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",黑莓动画
 http://live.wqwqwq.sbs/itv/1000000004000021734.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",靖天卡通
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtiancartoon_twn&sp=chaojidianshi
 #EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",東森幼幼
+http://211.75.171.121:8593/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
+#EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",東森幼幼
+http://122.117.71.103:8515/http/61.222.53.250:8081/hls/63/805/ch09.m3u8
+#EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",東森幼幼
+http://211.75.171.121:8593/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
+#EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",東森幼幼
+http://220.133.220.232:8516/http/220.130.214.23:8088/hls/63/805/ch09.m3u8
+#EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",東森幼幼
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=yoyo_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",龍華卡通
+http://211.75.171.121:8504/http/61.67.128.137:8068/hls/14/80/cstv14.m3u8
+#EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",龍華卡通
+http://211.75.171.121:8504/http/61.67.128.137:8068/hls/14/80/cstv14.m3u8
+#EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",龍華卡通
+http://122.117.71.103:8516/http/61.222.53.250:8068/hls/14/80/cstv14.m3u8
+#EXTINF:-1 group-title="卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140",龍華卡通
+http://220.133.220.232:8521/http/220.130.87.218:8068/hls/14/80/cstv14.m3u8
 #EXTINF:-1 group-title="其他频道",农业致富
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+http://lu.wqwqwq.sbs/itv/2000000003000000003.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="其他频道",农业致富
+http://mg.20191209.xyz:58888/itv/2000000003000000003.m3u8?cdn=hnbblive
 #EXTINF:-1 group-title="其他频道",农业致富
 http://live.wqwqwq.sbs/itv/2000000003000000003.m3u8?cdn=hnbblive
 #EXTINF:-1 group-title="其他频道",精品纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+http://lu.wqwqwq.sbs/itv/1000000004000013730.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="其他频道",精品纪录
+http://mg.20191209.xyz:58888/itv/1000000004000013730.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="其他频道",精品纪录
 http://live.wqwqwq.sbs/itv/1000000004000013730.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="其他频道",纪实人文
-http://222.209.208.234:7088/rtp/239.93.1.137:5140
+http://lu.wqwqwq.sbs/itv/5000000004000010282.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="其他频道",纪实人文
-http://yulang132.cn:4022/udp/239.93.1.137:5140
+http://lu.wqwqwq.sbs/itv/1000000005000265021.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="其他频道",全纪实
 http://116.232.111.241:4022/udp/239.45.3.135:5140
 #EXTINF:-1 group-title="其他频道",全纪实
@@ -1576,22 +1814,46 @@ http://180.173.49.183:8888/udp/239.45.3.135:5140
 #EXTINF:-1 group-title="其他频道",全纪实
 http://218.1.186.100:8881/udp/239.45.3.135:5140
 #EXTINF:-1 group-title="其他频道",求索动物
+http://lu.wqwqwq.sbs/itv/6000000002000010046.m3u8?cdn=wasusyt
+#EXTINF:-1 group-title="其他频道",求索动物
 http://tv.kmhlzxs.top:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 #EXTINF:-1 group-title="其他频道",求索动物
 http://live.wqwqwq.sbs/itv/6000000002000010046.m3u8?cdn=wasusyt
 #EXTINF:-1 group-title="其他频道",求索纪录
+http://lu.wqwqwq.sbs/itv/6000000002000032052.m3u8?cdn=wasusyt
+#EXTINF:-1 group-title="其他频道",求索纪录
 http://222.209.208.234:7088/rtp/239.93.42.24:5140
 #EXTINF:-1 group-title="其他频道",求索纪录
 http://live.wqwqwq.sbs/itv/6000000002000032052.m3u8?cdn=wasusyt
+#EXTINF:-1 group-title="其他频道",求索科学
+http://lu.wqwqwq.sbs/itv/6000000002000032344.m3u8?cdn=wasusyt
+#EXTINF:-1 group-title="其他频道",求索生活
+http://lu.wqwqwq.sbs/itv/6000000002000003382.m3u8?cdn=wasusyt
 #EXTINF:-1 group-title="其他频道",中国交通
 http://222.209.208.234:7088/rtp/239.93.0.142:5140
+#EXTINF:-1 group-title="其他频道",金鹰纪实
+http://lu.wqwqwq.sbs/itv/5000000011000031203.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="其他频道",金鹰纪实
 http://222.209.208.234:7088/rtp/239.93.0.130:5140
 #EXTINF:-1 group-title="其他频道",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="其他频道",動物星球
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=animalplanet_twn&sp=chaojidianshi
 #EXTINF:-1 group-title="其他频道",探索頻道
 http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 group-title="其他频道",亞洲旅遊台
-http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv076
+#EXTINF:-1 group-title="其他频道",旅遊生活
+http://211.75.171.121:8510/http/61.67.128.137:8088/hls/70/812/ch038.m3u8
+#EXTINF:-1 group-title="其他频道",旅遊生活
+http://125.229.9.67:8511/http/220.130.87.218:8081/hls/70/812/ch038.m3u8
+#EXTINF:-1 group-title="其他频道",旅遊生活
+http://220.133.220.232:8512/http/220.130.214.23:8088/hls/70/812/ch38.m3u8
+#EXTINF:-1 group-title="其他频道",動物星球
+http://211.75.171.121:8590/http/61.67.128.137:8088/hls/70/812/ch037.m3u8
+#EXTINF:-1 group-title="其他频道" ,動物星球,
+http://125.229.9.67:8512/http/220.130.87.218:8081/hls/70/812/ch037.m3u8
+#EXTINF:-1 group-title="其他频道",動物星球
+http://220.133.220.232:8513/http/220.130.214.23:8088/hls/70/812/ch37.m3u8
+#EXTINF:-1 group-title="其他频道",亞洲旅遊
+http://211.75.171.121:8512/http/61.67.128.137:8088/hls/76/818/ch061.m3u8
+#EXTINF:-1 group-title="其他频道",亞洲旅遊
+http://125.229.9.67:8513/http/220.130.87.218:8081/hls/76/818/ch061.m3u8
+#EXTINF:-1 group-title="其他频道",亞洲旅遊
+http://220.133.220.232:8514/http/220.130.214.23:8088/hls/76/818/ch61.m3u8
