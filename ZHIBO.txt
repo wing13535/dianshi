@@ -20,6 +20,7 @@
 鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 鳳凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 鳳凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
+军事评论,http://lu.wqwqwq.sbs/itv/2000000003000000022.m3u8?cdn=hnbblive
 军事评论,http://mg.20191209.xyz:58888/itv/2000000003000000022.m3u8?cdn=hnbblive
 军事评论,http://live.wqwqwq.sbs/itv/2000000003000000022.m3u8?cdn=hnbblive
 军事,http://www.leo-nas.cn:9991/rtp/239.93.0.204:9076
@@ -156,8 +157,10 @@ CCTV16,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540
 CCTV16,http://wuyanjiang.cn:8012/udp/239.3.1.184:8001
 CCTV16,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv16
 CCTV16,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv16
+精品体育,http://lu.wqwqwq.sbs/itv/1000000004000014634.m3u8?cdn=ystenlive
 精品体育,http://mg.20191209.xyz:58888/itv/1000000004000014634.m3u8?cdn=ystenlive
 精品体育,http://live.wqwqwq.sbs/itv/1000000004000014634.m3u8?cdn=ystenlive
+超级体育,http://lu.wqwqwq.sbs/itv/1000000001000009601.m3u8?cdn=ystenlive
 超级体育,http://mg.20191209.xyz:58888/itv/1000000001000009601.m3u8?cdn=ystenlive
 超级体育,http://live.wqwqwq.sbs/itv/1000000004000014634.m3u8?cdn=ystenlive
 劲爆体育,http://211.101.234.24:68/公众号猫月牙/mg.php?id=劲爆体育
@@ -166,7 +169,9 @@ CCTV16,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv16
 劲爆体育,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=jbty
 劲爆体育,http://live.wqwqwq.sbs/itv/5000000002000029972.m3u8?cdn=bestzb
 劲爆体育,http://cnfs.204999.xyz:30080/judy520/judy520/2
+IHOT体育,http://lu.wqwqwq.sbs/itv/6000000006000290630.m3u8?cdn=wasusyt
 IHOT体育,http://live.wqwqwq.sbs/itv/6000000006000290630.m3u8?cdn=wasusyt
+IHOT赛车,http://lu.wqwqwq.sbs/itv/6000000006000240630.m3u8?cdn=wasusyt
 IHOT赛车,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 IHOT赛车,http://live.wqwqwq.sbs/itv/6000000006000240630.m3u8?cdn=wasusyt
 NBA经典,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=nbajd
@@ -179,6 +184,7 @@ Now Sports2,https://live.hkdvb.com/hls/live/632.m3u8?token=599647844641759&edge=
 Now Sports641,https://live.hkdvb.com/hls/live/641.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 Now Sports642,https://live.hkdvb.com/hls/live/642.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 Now Sports Prime,https://live.hkdvb.com/hls/live/630.m3u8?token=599647844641759&edge=edge1.hkdvb.com
+五星体育,http://lu.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb
 五星体育,http://116.232.111.241:4022/udp/239.45.3.210:5140
 五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8
 五星体育,http://180.173.49.183:8888/udp/239.45.3.210:5140
@@ -208,14 +214,18 @@ MOMO综合,http://220.133.220.232:8566/http/220.130.214.23:8088/hls/76/818/momo_
 MOMO综合,http://116.93.98.236:8080/sat/tv761.flv
 MOMO综合,http://60.248.77.83/sat/tv761.flv
 晴彩篮球,rtp://239.77.1.21:5146
+晴彩篮球,http://lu.wqwqwq.sbs/rptv/miguaoyun01-AVS-4K01.m3u8?license=gitv
 晴彩篮球,http://mg.20191209.xyz:58888/itv/2000000003000000061.m3u8?cdn=hnbblive
 晴彩竞技,rtp://239.77.1.20:5146
+晴彩竞技,http://lu.wqwqwq.sbs/rptv/miguaoyun1-AVS.m3u8?license=gitv
 晴彩竞技,http://mg.20191209.xyz:58888/itv/2000000003000000060.m3u8?cdn=hnbblive
 晴彩竞技,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6603&tk=97475bb89d45
 英雄联盟1,http://live.iill.top/bilibili.php?id=6
 英雄联盟2,http://live.iill.top/huya.php?id=660001
 英雄联盟3,http://live.iill.top/douyu.php?id=288016
+央视台球,http://lu.wqwqwq.sbs/rptv/G_TAIQIU-CQ.m3u8?license=gitv
 央视台球,http://222.209.208.234:7088/udp/239.93.0.218:5140
+风云足球,http://lu.wqwqwq.sbs/rptv/G_FENGSHANGZQ-CQ.m3u8?license=gitv
 风云足球,http://222.209.208.234:7088/udp/239.93.0.235:5140
 魅力足球,http://222.209.208.234:7088/rtp/239.93.42.97:5140
 魅力足球,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=mlzq
@@ -227,6 +237,7 @@ MOMO综合,http://60.248.77.83/sat/tv761.flv
 博斯運動1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport1_twn&sp=chaojidianshi
 博斯運動2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport2_twn&sp=chaojidianshi
 快乐垂钓,http://222.209.208.234:7088/rtp/239.93.1.151:5140
+快乐垂钓,http://lu.wqwqwq.sbs/itv/5000000011000031206.m3u8?cdn=bestzb
 四海钓鱼,http://www.leo-nas.cn:9991/rtp/239.93.0.55:5140
 四海钓鱼,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=229
 
@@ -240,6 +251,7 @@ MOMO综合,http://60.248.77.83/sat/tv761.flv
 粤语电影3,http://43.136.119.99:35455/douyu/5033502
 粤语电影3,http://zzy789.xyz/douyu1.php?id=5033502
 周星驰,http://43.136.119.99/huya.php?id=11336587
+周星驰,http://1.94.31.214:35455/huya/11336587
 星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 爆谷台,https://live.hkdvb.com/hls/live/133.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 爆谷台,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
@@ -289,8 +301,8 @@ ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,https://lb-mvtv-live.v2h-cdn.com/redirect/jade2/jade.stream?type=m3u8
-星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=660938530794730&edge=edge1.hkdvb.com
-爆谷台,https://live.hkdvb.com/hls/live/133.m3u8?token=660938530794730&edge=edge1.hkdvb.com
+星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=599647844641759&edge=edge1.hkdvb.com
+爆谷台,https://live.hkdvb.com/hls/live/133.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 爆谷台,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 C+台,http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
 C+台,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
@@ -300,7 +312,7 @@ TVB 星河台,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 TVB 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB 华丽台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 TVB 生活台,http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8
-now新聞,https://live.hkdvb.com/hls/live/332.m3u8?token=660938530794730&edge=edge1.hkdvb.com
+now新聞,https://live.hkdvb.com/hls/live/332.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 now新聞,https://iptv.vip-tptv.xyz/cao.php?id=now-news
 無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
@@ -818,6 +830,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 中录动漫,http://222.209.208.234:7088/rtp/239.93.1.188:5140
 亲子趣学,http://222.209.208.234:7088/rtp/239.93.1.191:5140
 少儿天地,http://222.209.208.234:7088/rtp/239.93.42.34:5140
+动漫秀场,http://lu.wqwqwq.sbs/itv/5000000011000031113.m3u8?cdn=bestzb
 动漫秀场,http://116.232.111.241:4022/udp/239.45.3.134:5140
 动漫秀场,http://180.173.49.183:8888/udp/239.45.3.134:5140
 动漫秀场,http://218.1.186.100:8881/udp/239.45.3.134:5140
@@ -825,16 +838,19 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 嘉佳卡通,rtp://239.77.0.179:5146
 嘉佳卡通,https://stream1.freetv.fun/bee9044f047d4458c631c35b7af51298a624b14d6f9b74a4ea6985c8e4b36106.m3u8
 嘉佳卡通,http://14.117.234.149:9000/rtp/239.77.0.179:5146
+卡酷少儿,http://lu.wqwqwq.sbs/itv/5000000011000265008.m3u8?cdn=bestzb
 卡酷少儿,http://116.232.111.241:4022/udp/239.45.0.8:5140
 卡酷少儿http://180.173.49.183:8888/udp/239.45.0.8:5140
 卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 金鹰卡通,http://116.232.111.241:4022/udp/239.45.0.38:5140
 金鹰卡通,http://180.173.49.183:8888/udp/239.45.0.38:5140
 金鹰卡通,http://218.1.186.100:8881/udp/239.45.0.38:5140
+哈哈炫动,http://lu.wqwqwq.sbs/itv/5000000011000031123.m3u8?cdn=bestzb
 哈哈炫动,http://116.232.111.241:4022/udp/239.45.1.55:5140
 哈哈炫动,http://180.173.49.183:8888/udp/239.45.1.55:5140
 哈哈炫动,http://218.1.186.100:8881/udp/239.45.1.55:5140
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+黑莓动画,http://lu.wqwqwq.sbs/itv/1000000004000021734.m3u8?cdn=ystenlive
 黑莓动画,http://mg.20191209.xyz:58888/itv/1000000004000021734.m3u8?cdn=ystenlive
 黑莓动画,http://live.wqwqwq.sbs/itv/1000000004000021734.m3u8?cdn=ystenlive
 靖天卡通,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtiancartoon_twn&sp=chaojidianshi
@@ -849,8 +865,10 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 
 
 其他频道,#genre#
+农业致富,http://lu.wqwqwq.sbs/itv/2000000003000000003.m3u8?cdn=hnbblive
 农业致富,http://mg.20191209.xyz:58888/itv/2000000003000000003.m3u8?cdn=hnbblive
 农业致富,http://live.wqwqwq.sbs/itv/2000000003000000003.m3u8?cdn=hnbblive
+精品纪录,http://lu.wqwqwq.sbs/itv/1000000004000013730.m3u8?cdn=ystenlive
 精品纪录,http://mg.20191209.xyz:58888/itv/1000000004000013730.m3u8?cdn=ystenlive
 精品纪录,http://live.wqwqwq.sbs/itv/1000000004000013730.m3u8?cdn=ystenlive
 纪实人文,http://222.209.208.234:7088/rtp/239.93.1.137:5140
@@ -858,10 +876,14 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 全纪实,http://116.232.111.241:4022/udp/239.45.3.135:5140
 全纪实,http://180.173.49.183:8888/udp/239.45.3.135:5140
 全纪实,http://218.1.186.100:8881/udp/239.45.3.135:5140
+求索动物,http://lu.wqwqwq.sbs/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索动物,http://tv.kmhlzxs.top:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索动物,http://live.wqwqwq.sbs/itv/6000000002000010046.m3u8?cdn=wasusyt
+求索纪录,http://lu.wqwqwq.sbs/itv/6000000002000032052.m3u8?cdn=wasusyt
 求索纪录,http://222.209.208.234:7088/rtp/239.93.42.24:5140
 求索纪录,http://live.wqwqwq.sbs/itv/6000000002000032052.m3u8?cdn=wasusyt
+求索科学,http://lu.wqwqwq.sbs/itv/6000000002000032344.m3u8?cdn=wasusyt
+求索生活,http://lu.wqwqwq.sbs/itv/6000000002000003382.m3u8?cdn=wasusyt
 中国交通,http://222.209.208.234:7088/rtp/239.93.0.142:5140
 金鹰纪实,http://222.209.208.234:7088/rtp/239.93.0.130:5140
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
