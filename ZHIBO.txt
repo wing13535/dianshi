@@ -20,7 +20,7 @@
 鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 鳳凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 鳳凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
-军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+军事评论,http://mg.20191209.xyz:58888/itv/2000000003000000022.m3u8?cdn=hnbblive
 军事评论,http://live.wqwqwq.sbs/itv/2000000003000000022.m3u8?cdn=hnbblive
 军事,http://www.leo-nas.cn:9991/rtp/239.93.0.204:9076
 军事,http://wouu.net:9977/udp/239.93.0.204:9076
@@ -156,10 +156,11 @@ CCTV16,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540
 CCTV16,http://wuyanjiang.cn:8012/udp/239.3.1.184:8001
 CCTV16,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv16
 CCTV16,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv16
-精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+精品体育,http://mg.20191209.xyz:58888/itv/1000000004000014634.m3u8?cdn=ystenlive
 精品体育,http://live.wqwqwq.sbs/itv/1000000004000014634.m3u8?cdn=ystenlive
-超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+超级体育,http://mg.20191209.xyz:58888/itv/1000000001000009601.m3u8?cdn=ystenlive
 超级体育,http://live.wqwqwq.sbs/itv/1000000004000014634.m3u8?cdn=ystenlive
+劲爆体育,http://211.101.234.24:68/公众号猫月牙/mg.php?id=劲爆体育
 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
 劲爆体育,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=jbty
@@ -207,10 +208,9 @@ MOMO综合,http://220.133.220.232:8566/http/220.130.214.23:8088/hls/76/818/momo_
 MOMO综合,http://116.93.98.236:8080/sat/tv761.flv
 MOMO综合,http://60.248.77.83/sat/tv761.flv
 晴彩篮球,rtp://239.77.1.21:5146
-晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+晴彩篮球,http://mg.20191209.xyz:58888/itv/2000000003000000061.m3u8?cdn=hnbblive
 晴彩竞技,rtp://239.77.1.20:5146
-晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+晴彩竞技,http://mg.20191209.xyz:58888/itv/2000000003000000060.m3u8?cdn=hnbblive
 晴彩竞技,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6603&tk=97475bb89d45
 英雄联盟1,http://live.iill.top/bilibili.php?id=6
 英雄联盟2,http://live.iill.top/huya.php?id=660001
@@ -835,7 +835,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 哈哈炫动,http://180.173.49.183:8888/udp/239.45.1.55:5140
 哈哈炫动,http://218.1.186.100:8881/udp/239.45.1.55:5140
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
+黑莓动画,http://mg.20191209.xyz:58888/itv/1000000004000021734.m3u8?cdn=ystenlive
 黑莓动画,http://live.wqwqwq.sbs/itv/1000000004000021734.m3u8?cdn=ystenlive
 靖天卡通,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtiancartoon_twn&sp=chaojidianshi
 東森幼幼,http://122.117.71.103:8515/http/61.222.53.250:8081/hls/63/805/ch09.m3u8
@@ -849,9 +849,9 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 
 
 其他频道,#genre#
-农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+农业致富,http://mg.20191209.xyz:58888/itv/2000000003000000003.m3u8?cdn=hnbblive
 农业致富,http://live.wqwqwq.sbs/itv/2000000003000000003.m3u8?cdn=hnbblive
-精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+精品纪录,http://mg.20191209.xyz:58888/itv/1000000004000013730.m3u8?cdn=ystenlive
 精品纪录,http://live.wqwqwq.sbs/itv/1000000004000013730.m3u8?cdn=ystenlive
 纪实人文,http://222.209.208.234:7088/rtp/239.93.1.137:5140
 纪实人文,http://yulang132.cn:4022/udp/239.93.1.137:5140
