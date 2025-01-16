@@ -293,7 +293,7 @@ MOMO综合,http://60.248.77.83/sat/tv761.flv
 靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 Popc,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+超级电影,http://lu.wqwqwq.sbs/itv/1000000003000012426.m3u8?cdn=ystenlive
 超级电影,http://live.wqwqwq.sbs/itv/1000000003000012426.m3u8?cdn=ystenlive
 影迷电影,rtp://239.77.0.27:5146
 影迷电影,http://222.209.208.234:7088/udp/239.93.42.5:5140
@@ -936,8 +936,8 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 精品纪录,http://lu.wqwqwq.sbs/itv/1000000004000013730.m3u8?cdn=ystenlive
 精品纪录,http://mg.20191209.xyz:58888/itv/1000000004000013730.m3u8?cdn=ystenlive
 精品纪录,http://live.wqwqwq.sbs/itv/1000000004000013730.m3u8?cdn=ystenlive
-纪实人文,http://222.209.208.234:7088/rtp/239.93.1.137:5140
-纪实人文,http://yulang132.cn:4022/udp/239.93.1.137:5140
+纪实人文,http://lu.wqwqwq.sbs/itv/5000000004000010282.m3u8?cdn=bestzb
+纪实人文,http://lu.wqwqwq.sbs/itv/1000000005000265021.m3u8?cdn=ystenlive
 全纪实,http://116.232.111.241:4022/udp/239.45.3.135:5140
 全纪实,http://180.173.49.183:8888/udp/239.45.3.135:5140
 全纪实,http://218.1.186.100:8881/udp/239.45.3.135:5140
@@ -950,6 +950,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 求索科学,http://lu.wqwqwq.sbs/itv/6000000002000032344.m3u8?cdn=wasusyt
 求索生活,http://lu.wqwqwq.sbs/itv/6000000002000003382.m3u8?cdn=wasusyt
 中国交通,http://222.209.208.234:7088/rtp/239.93.0.142:5140
+金鹰纪实,http://lu.wqwqwq.sbs/itv/5000000011000031203.m3u8?cdn=bestzb
 金鹰纪实,http://222.209.208.234:7088/rtp/239.93.0.130:5140
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 探索頻道,http://61.221.215.25:8800/hls/50/index.m3u8
