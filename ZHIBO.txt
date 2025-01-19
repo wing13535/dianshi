@@ -191,10 +191,9 @@ Now Sports641,https://live.hkdvb.com/hls/live/641.m3u8?token=599647844641759&edg
 Now Sports642,https://live.hkdvb.com/hls/live/642.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 Now Sports Prime,https://live.hkdvb.com/hls/live/630.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 Now Sports英超,https://live.hkdvb.com/hls/live/621.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-五星体育,http://vds.91kds.cn/live2/shkk.m3u8?id=wxtyhd&app=com.jsbtv.tvhd&version=1.4.0&mac=fu:ck:92:92:ff&nwtime=1737184294&sign=67e8ba72fb274206d78e6163b3a1bf92&ev=20240918
 五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8
+五星体育,http://vds.91kds.cn/live2/shkk.m3u8?id=wxtyhd&app=com.jsbtv.tvhd&version=1.4.0&mac=fu:ck:92:92:ff&nwtime=1737184294&sign=67e8ba72fb274206d78e6163b3a1bf92&ev=20240918
 五星体育,http://live.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb
-五星体育,http://lu.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb
 纬来体育,http://211.75.171.121:8564/http/61.67.128.137:8081/hls/67/809/ch028.m3u8
 纬来体育,http://125.229.9.67:8562/http/220.130.87.218:8081/hls/67/809/ch028.m3u8
 纬来体育,http://122.117.71.103:8562/http/61.222.53.250:8081/hls/67/809/ch28.m3u8
@@ -244,7 +243,7 @@ MOMO综合,http://60.248.77.83/sat/tv761.flv
 魅力足球,http://222.209.208.234:7088/rtp/239.93.42.97:5140
 魅力足球,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/mlzuhd/51/20230411/01.m3u8?msisdn=65a284426ad5dcdf0f86091acf09485b&mdspid=&spid=600633&netType=4&sid=5910021597&pid=2028597139&Channel_ID=0116_0116_25000000-99000-100300010010001&ProgramID=796070308&ParentNodeID=-99&assertID=5910021597&client_ip=182.92.109.190&SecurityKey=20250118225116&promotionId=&mvid=5900005807&mcid=500020&playurlVersion=WX-A1-8.1.2-RELEASE&userid=&jmhm=&videocodec=h264&tid=ipad&conFee=0&mtv_session=84d976870c12a38ec9bfae7180f2785b&timestamp=20250118225116&encrypt=ef39152d1f465344e36099326b7f3b0e&HlsSubType=1&HlsProfileId=1&nphaid=0
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
-魅力足球,http://live.wqwqwq.sbs/itv/5000000011000031207.m3u8?cdn=bestzb
+魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=aef1ffa947e5328dd4ec2bb318b58b674fe32113222c6c9eab78bcdc2a9f31cf142a1d60536ea5a5ee039d3753e6bd98bef238d0ba7e3af9153e765e8b77e2a8c28451355b4a426d11c5c304f8
 愛爾達體育 1,http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 愛爾達體育 1,http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=MCAC1596259615962596&ct=20106&tsum=efb57430df47277b4d502ee56496615c
 愛爾達體育 2,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
@@ -266,13 +265,12 @@ MOMO综合,http://60.248.77.83/sat/tv761.flv
 
 
 电影频道,#genre#
-粤语电影1,http://43.136.119.99:35455/douyu/1226741
 粤语电影1,http://zzy789.xyz/douyu1.php?id=1226741
-粤语电影1,http://live.nctv.top/6688/dy.php?id=1226741
-粤语电影2,http://43.136.119.99:35455/douyu/6566671
+粤语电影1,http://43.136.119.99:35455/douyu/1226741
 粤语电影2,http://zzy789.xyz/douyu1.php?id=6566671
-粤语电影3,http://43.136.119.99:35455/douyu/5033502
+粤语电影2,http://43.136.119.99:35455/douyu/6566671
 粤语电影3,http://zzy789.xyz/douyu1.php?id=5033502
+粤语电影3,http://43.136.119.99:35455/douyu/5033502
 周星驰,http://43.136.119.99/huya.php?id=11336587
 周星驰,http://1.94.31.214:35455/huya/11336587
 星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=599647844641759&edge=edge1.hkdvb.com
@@ -281,11 +279,16 @@ MOMO综合,http://60.248.77.83/sat/tv761.flv
 美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 美亞電影台(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 美亞電影台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-漫威电影1,http://hs.flv.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.flv?ctype=tars_wap&fs=bgct&seqid=1737278842827&t=102&uid=1524434072&ver=1&wsSecret=fc01e2d49d7550f2d9c91337f8bd987a&wsTime=678d19b0
-漫威影院,,http://43.136.119.99:35455/douyu/6140589
+漫威电影,http://hs.flv.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.flv?ctype=tars_wap&fs=bgct&seqid=1737278842827&t=102&uid=1524434072&ver=1&wsSecret=fc01e2d49d7550f2d9c91337f8bd987a&wsTime=678d19b0
+漫威影院,http://zzy789.xyz/douyu1.php?id=6140589
+漫威影院,http://43.136.119.99:35455/douyu/6140589
+高分电影,http://zzy789.xyz/douyu1.php?id=7254536
 高分电影,http://43.136.119.99:35455/douyu/7254536
+变种人片,http://zzy789.xyz/douyu1.php?id=9651304
 变种人片,http://43.136.119.99:35455/douyu/9651304
+欧美大片,http://zzy789.xyz/douyu1.php?id=2793084
 欧美大片,http://43.136.119.99:35455/douyu/2793084
+舌尖美食,http://zzy789.xyz/douyu1.php?id=9650849
 舌尖美食,http://43.136.119.99:35455/douyu/9650849
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
@@ -852,10 +855,6 @@ Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 亞洲旅遊,http://211.75.171.121:8512/http/61.67.128.137:8088/hls/76/818/ch061.m3u8
 亞洲旅遊,http://125.229.9.67:8513/http/220.130.87.218:8081/hls/76/818/ch061.m3u8
 亞洲旅遊,http://220.133.220.232:8514/http/220.130.214.23:8088/hls/76/818/ch61.m3u8
-
-
-
-
 
 
 
