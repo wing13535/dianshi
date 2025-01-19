@@ -285,7 +285,6 @@ MOMO综合,http://60.248.77.83/sat/tv761.flv
 美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 美亞電影台(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 美亞電影台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-漫威电影,http://hs.flv.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.flv?ctype=tars_wap&fs=bgct&seqid=1737278842827&t=102&uid=1524434072&ver=1&wsSecret=fc01e2d49d7550f2d9c91337f8bd987a&wsTime=678d19b0
 漫威影院,http://zzy789.xyz/douyu1.php?id=6140589
 漫威影院,http://43.136.119.99:35455/douyu/6140589
 高分电影,http://zzy789.xyz/douyu1.php?id=7254536
