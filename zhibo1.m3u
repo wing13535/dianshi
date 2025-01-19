@@ -374,13 +374,11 @@ https://live.hkdvb.com/hls/live/630.m3u8?token=599647844641759&edge=edge1.hkdvb.
 #EXTINF:-1 group-title="体育频道",Now Sports英超
 https://live.hkdvb.com/hls/live/621.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="体育频道",五星体育
-http://vds.91kds.cn/live2/shkk.m3u8?id=wxtyhd&app=com.jsbtv.tvhd&version=1.4.0&mac=fu:ck:92:92:ff&nwtime=1737184294&sign=67e8ba72fb274206d78e6163b3a1bf92&ev=20240918
-#EXTINF:-1 group-title="体育频道",五星体育
 http://61.173.144.157:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 group-title="体育频道",五星体育
-http://live.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb
+http://vds.91kds.cn/live2/shkk.m3u8?id=wxtyhd&app=com.jsbtv.tvhd&version=1.4.0&mac=fu:ck:92:92:ff&nwtime=1737184294&sign=67e8ba72fb274206d78e6163b3a1bf92&ev=20240918
 #EXTINF:-1 group-title="体育频道",五星体育
-http://lu.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb
+http://live.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="体育频道",纬来体育
 http://211.75.171.121:8564/http/61.67.128.137:8081/hls/67/809/ch028.m3u8
 #EXTINF:-1 group-title="体育频道",纬来体育
@@ -478,7 +476,7 @@ http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/mlzuhd/51/20230411/01.m3u8?m
 #EXTINF:-1 group-title="ELEVEN體育2http://125.229.9.67:8566/http/220.130.87.218:8078/hls/26/80/esport2.m3u8",魅力足球
 http://z.b.bkpcp.top/m.php?id=mlzq
 #EXTINF:-1 group-title="ELEVEN體育2http://125.229.9.67:8566/http/220.130.87.218:8078/hls/26/80/esport2.m3u8",魅力足球
-http://live.wqwqwq.sbs/itv/5000000011000031207.m3u8?cdn=bestzb
+https://www.freetv.top/migu/796070308.m3u8?migutoken=aef1ffa947e5328dd4ec2bb318b58b674fe32113222c6c9eab78bcdc2a9f31cf142a1d60536ea5a5ee039d3753e6bd98bef238d0ba7e3af9153e765e8b77e2a8c28451355b4a426d11c5c304f8
 #EXTINF:-1 group-title="ELEVEN體育2http://125.229.9.67:8566/http/220.130.87.218:8078/hls/26/80/esport2.m3u8",愛爾達體育 1
 http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 #EXTINF:-1 group-title="ELEVEN體育2http://125.229.9.67:8566/http/220.130.87.218:8078/hls/26/80/esport2.m3u8",愛爾達體育 1
@@ -506,19 +504,17 @@ http://112.15.228.204:80/PLTV/88888888/224/3221231718/1.m3u8?1280x720
 #EXTINF:-1 group-title="ELEVEN體育2http://125.229.9.67:8566/http/220.130.87.218:8078/hls/26/80/esport2.m3u8",四海钓鱼
 http://112.15.228.205:80/PLTV/88888888/224/3221231718/1.m3u8?1280x720
 #EXTINF:-1 group-title="电影频道",粤语电影1
-http://43.136.119.99:35455/douyu/1226741
-#EXTINF:-1 group-title="电影频道",粤语电影1
 http://zzy789.xyz/douyu1.php?id=1226741
 #EXTINF:-1 group-title="电影频道",粤语电影1
-http://live.nctv.top/6688/dy.php?id=1226741
-#EXTINF:-1 group-title="电影频道",粤语电影2
-http://43.136.119.99:35455/douyu/6566671
+http://43.136.119.99:35455/douyu/1226741
 #EXTINF:-1 group-title="电影频道",粤语电影2
 http://zzy789.xyz/douyu1.php?id=6566671
-#EXTINF:-1 group-title="电影频道",粤语电影3
-http://43.136.119.99:35455/douyu/5033502
+#EXTINF:-1 group-title="电影频道",粤语电影2
+http://43.136.119.99:35455/douyu/6566671
 #EXTINF:-1 group-title="电影频道",粤语电影3
 http://zzy789.xyz/douyu1.php?id=5033502
+#EXTINF:-1 group-title="电影频道",粤语电影3
+http://43.136.119.99:35455/douyu/5033502
 #EXTINF:-1 group-title="电影频道",周星驰
 http://43.136.119.99/huya.php?id=11336587
 #EXTINF:-1 group-title="电影频道",周星驰
@@ -535,16 +531,26 @@ http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 https://live.hkdvb.com/hls/live/201.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="电影频道",美亞電影台(HK)
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-#EXTINF:-1 group-title="电影频道",漫威电影1
+#EXTINF:-1 group-title="电影频道",漫威电影
 http://hs.flv.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.flv?ctype=tars_wap&fs=bgct&seqid=1737278842827&t=102&uid=1524434072&ver=1&wsSecret=fc01e2d49d7550f2d9c91337f8bd987a&wsTime=678d19b0
-#EXTINF:-1 group-title="电影频道" ,漫威影院,
+#EXTINF:-1 group-title="电影频道",漫威影院
+http://zzy789.xyz/douyu1.php?id=6140589
+#EXTINF:-1 group-title="电影频道",漫威影院
 http://43.136.119.99:35455/douyu/6140589
+#EXTINF:-1 group-title="电影频道",高分电影
+http://zzy789.xyz/douyu1.php?id=7254536
 #EXTINF:-1 group-title="电影频道",高分电影
 http://43.136.119.99:35455/douyu/7254536
 #EXTINF:-1 group-title="电影频道",变种人片
+http://zzy789.xyz/douyu1.php?id=9651304
+#EXTINF:-1 group-title="电影频道",变种人片
 http://43.136.119.99:35455/douyu/9651304
 #EXTINF:-1 group-title="电影频道",欧美大片
+http://zzy789.xyz/douyu1.php?id=2793084
+#EXTINF:-1 group-title="电影频道",欧美大片
 http://43.136.119.99:35455/douyu/2793084
+#EXTINF:-1 group-title="电影频道",舌尖美食
+http://zzy789.xyz/douyu1.php?id=9650849
 #EXTINF:-1 group-title="电影频道",舌尖美食
 http://43.136.119.99:35455/douyu/9650849
 #EXTINF:-1 group-title="电影频道",龍華電影台
