@@ -21,6 +21,7 @@
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 鳳凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
 军事评论,http://117.144.58.42:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
+军事评论,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226985/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqRd0uU_hKSUti2u5P6u77Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 军事评论,http://b.zgjok.com:35455/itv/2000000003000000022.m3u8?cdn=hnbblive&Contentid=2000000003000000022
 军事评论,http://k2p.251177.xyz:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
 军事评论,http://live.wqwqwq.sbs/itv/2000000003000000022.m3u8?cdn=hnbblive
@@ -166,6 +167,7 @@ CCTV16,http://222.209.208.234:7088/rtp/239.93.42.54:5140
 CCTV16,http://171.88.145.30:4022/rtp/239.93.42.54:5140
 CCTV16,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 精品体育,http://117.144.58.42:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
+精品体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEZy1Vmu4k2lYOlZCsti1BQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 精品体育,http://live.wqwqwq.sbs/itv/1000000004000014634.m3u8?cdn=ystenlive
 超级体育,http://117.144.58.42:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
 超级体育,http://hms464nc1972679603.live.aikan.miguvideo.com/wh7f454c46tw4136476782_363832271/wd_r3/cctv/saishijingdian/600/01.m3u8?msisdn=c92fbaa724278c2a2dca6b8ce78c5eee&Channel_ID=0119_04102000-99000_400300000040002&client_ip=47.113.97.207&timestamp=20250118143713&ContentId=265218921&timezone=UTC&mtv_session=1ec8bb892a79178c08480e542f702b9e&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b3f56b942b6b2c59aac092aa955445c2
@@ -229,12 +231,14 @@ MOMO综合,http://116.93.98.236:8080/sat/tv761.flv
 MOMO综合,http://60.248.77.83/sat/tv761.flv
 睛彩篮球,rtp://239.77.1.21:5146
 睛彩篮球,http://113.108.59.138:8888/hls/50/index.m3u8
+睛彩篮球,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EKXl4MjVH6lXYRTccqcbi4w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 睛彩篮球,http://k2p.251177.xyz:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
 睛彩篮球,http://k2p.251177.xyz:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
 睛彩篮球,http://k2p.251177.xyz:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
 睛彩篮球,http://k2p.251177.xyz:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
 睛彩竞技,rtp://239.77.1.20:5146
 睛彩竞技,http://113.108.59.138:8888/hls/9/index.m3u8
+睛彩竞技,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELNKCwls2CgCuSsq57Mh8ug%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 睛彩竞技,http://k2p.251177.xyz:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
 睛彩竞技,http://k2p.251177.xyz:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
 英雄联盟1,http://live.iill.top/bilibili.php?id=6
@@ -271,6 +275,8 @@ MOMO综合,http://60.248.77.83/sat/tv761.flv
 粤语电影2,http://43.136.119.99:35455/douyu/6566671
 粤语电影3,http://zzy789.xyz/douyu1.php?id=5033502
 粤语电影3,http://43.136.119.99:35455/douyu/5033502
+粤语喜剧,https://live.iill.top/huya/11352894
+粤语喜剧,http://cdn.jdshipin.com:8880/huya.php?id=11352894
 周星驰,http://43.136.119.99/huya.php?id=11336587
 周星驰,http://1.94.31.214:35455/huya/11336587
 星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=599647844641759&edge=edge1.hkdvb.com
@@ -290,6 +296,7 @@ MOMO综合,http://60.248.77.83/sat/tv761.flv
 欧美大片,http://43.136.119.99:35455/douyu/2793084
 舌尖美食,http://zzy789.xyz/douyu1.php?id=9650849
 舌尖美食,http://43.136.119.99:35455/douyu/9650849
+黑莓电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
@@ -297,6 +304,8 @@ MOMO综合,http://60.248.77.83/sat/tv761.flv
 靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 Popc,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+超级电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EOKgJ-MarN4M0aStGnXjR0A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+超级电影,http://117.144.58.42:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
 超级电影,http://lu.wqwqwq.sbs/itv/1000000003000012426.m3u8?cdn=ystenlive
 超级电影,http://live.wqwqwq.sbs/itv/1000000003000012426.m3u8?cdn=ystenlive
 影迷电影,rtp://239.77.0.27:5146
@@ -818,9 +827,11 @@ CCTV17,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersi
 
 其他频道,#genre#
 农业致富,http://117.144.58.42:35455/itv/2000000003000000003.m3u8?cdn=hnbblive
+农业致富,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226962/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUhRIwwqVhPIhuesQTtJ55Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 农业致富,http://live.wqwqwq.sbs/itv/2000000003000000003.m3u8?cdn=hnbblive
 农业致富,http://mg.20191209.xyz:58888/itv/2000000003000000003.m3u8?cdn=hnbblive
 精品纪录,http://117.144.58.42:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
+精品纪录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EytT16QRYWEl2rKz4kPSdcQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 精品纪录,http://k2p.251177.xyz:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
 精品纪录,http://live.wqwqwq.sbs/itv/1000000004000013730.m3u8?cdn=ystenlive
 精品纪录,http://mg.20191209.xyz:58888/itv/1000000004000013730.m3u8?cdn=ystenlive
