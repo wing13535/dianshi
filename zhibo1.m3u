@@ -44,6 +44,8 @@ http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.
 #EXTINF:-1 group-title="新闻频道",军事评论
 http://117.144.58.42:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
 #EXTINF:-1 group-title="新闻频道",军事评论
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226985/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqRd0uU_hKSUti2u5P6u77Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="新闻频道",军事评论
 http://b.zgjok.com:35455/itv/2000000003000000022.m3u8?cdn=hnbblive&Contentid=2000000003000000022
 #EXTINF:-1 group-title="新闻频道",军事评论
 http://k2p.251177.xyz:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
@@ -324,6 +326,8 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType
 #EXTINF:-1 group-title="体育频道",精品体育
 http://117.144.58.42:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="体育频道",精品体育
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEZy1Vmu4k2lYOlZCsti1BQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="体育频道",精品体育
 http://live.wqwqwq.sbs/itv/1000000004000014634.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="体育频道",超级体育
 http://117.144.58.42:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
@@ -448,6 +452,8 @@ rtp://239.77.1.21:5146
 #EXTINF:-1 group-title="ELEVEN體育2http://125.229.9.67:8566/http/220.130.87.218:8078/hls/26/80/esport2.m3u8",睛彩篮球
 http://113.108.59.138:8888/hls/50/index.m3u8
 #EXTINF:-1 group-title="ELEVEN體育2http://125.229.9.67:8566/http/220.130.87.218:8078/hls/26/80/esport2.m3u8",睛彩篮球
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EKXl4MjVH6lXYRTccqcbi4w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="ELEVEN體育2http://125.229.9.67:8566/http/220.130.87.218:8078/hls/26/80/esport2.m3u8",睛彩篮球
 http://k2p.251177.xyz:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
 #EXTINF:-1 group-title="ELEVEN體育2http://125.229.9.67:8566/http/220.130.87.218:8078/hls/26/80/esport2.m3u8",睛彩篮球
 http://k2p.251177.xyz:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
@@ -459,6 +465,8 @@ http://k2p.251177.xyz:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
 rtp://239.77.1.20:5146
 #EXTINF:-1 group-title="ELEVEN體育2http://125.229.9.67:8566/http/220.130.87.218:8078/hls/26/80/esport2.m3u8",睛彩竞技
 http://113.108.59.138:8888/hls/9/index.m3u8
+#EXTINF:-1 group-title="ELEVEN體育2http://125.229.9.67:8566/http/220.130.87.218:8078/hls/26/80/esport2.m3u8",睛彩竞技
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELNKCwls2CgCuSsq57Mh8ug%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="ELEVEN體育2http://125.229.9.67:8566/http/220.130.87.218:8078/hls/26/80/esport2.m3u8",睛彩竞技
 http://k2p.251177.xyz:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
 #EXTINF:-1 group-title="ELEVEN體育2http://125.229.9.67:8566/http/220.130.87.218:8078/hls/26/80/esport2.m3u8",睛彩竞技
@@ -515,6 +523,10 @@ http://43.136.119.99:35455/douyu/6566671
 http://zzy789.xyz/douyu1.php?id=5033502
 #EXTINF:-1 group-title="电影频道",粤语电影3
 http://43.136.119.99:35455/douyu/5033502
+#EXTINF:-1 group-title="电影频道",粤语喜剧
+https://live.iill.top/huya/11352894
+#EXTINF:-1 group-title="电影频道",粤语喜剧
+http://cdn.jdshipin.com:8880/huya.php?id=11352894
 #EXTINF:-1 group-title="电影频道",周星驰
 http://43.136.119.99/huya.php?id=11336587
 #EXTINF:-1 group-title="电影频道",周星驰
@@ -553,6 +565,8 @@ http://43.136.119.99:35455/douyu/2793084
 http://zzy789.xyz/douyu1.php?id=9650849
 #EXTINF:-1 group-title="电影频道",舌尖美食
 http://43.136.119.99:35455/douyu/9650849
+#EXTINF:-1 group-title="电影频道",黑莓电影
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="电影频道",龍華電影台
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 #EXTINF:-1 group-title="电影频道",龍華電影台
@@ -567,6 +581,10 @@ http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 group-title="电影频道",ROCK Action
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 group-title="电影频道",超级电影
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EOKgJ-MarN4M0aStGnXjR0A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="电影频道",超级电影
+http://117.144.58.42:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="电影频道",超级电影
 http://lu.wqwqwq.sbs/itv/1000000003000012426.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="电影频道",超级电影
@@ -1550,11 +1568,15 @@ http://220.133.220.232:8521/http/220.130.87.218:8068/hls/14/80/cstv14.m3u8
 #EXTINF:-1 group-title="其他频道",农业致富
 http://117.144.58.42:35455/itv/2000000003000000003.m3u8?cdn=hnbblive
 #EXTINF:-1 group-title="其他频道",农业致富
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226962/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUhRIwwqVhPIhuesQTtJ55Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="其他频道",农业致富
 http://live.wqwqwq.sbs/itv/2000000003000000003.m3u8?cdn=hnbblive
 #EXTINF:-1 group-title="其他频道",农业致富
 http://mg.20191209.xyz:58888/itv/2000000003000000003.m3u8?cdn=hnbblive
 #EXTINF:-1 group-title="其他频道",精品纪录
 http://117.144.58.42:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="其他频道",精品纪录
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EytT16QRYWEl2rKz4kPSdcQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="其他频道",精品纪录
 http://k2p.251177.xyz:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="其他频道",精品纪录
