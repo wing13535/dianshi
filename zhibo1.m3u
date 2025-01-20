@@ -695,7 +695,7 @@ http://ali.hlspull.yximgs.com/live/tbgh3491_tLOUYGBFHTRFSVDE.flv
 https://live.hkdvb.com/hls/live/206.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="电影频道",PoPC
 http://ali.hlspull.yximgs.com/live/zn6yjiyf_smsnjxuytvghdbnretwgcsdf.flv
-#EXTINF:-1 group-title="电影频道",PopC
+#EXTINF:-1 group-title="电影频道",PoPC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 group-title="电影频道",中国电影
 http://ali.hlspull.yximgs.com/live/tbgh3491_sdlfkiuyrhnwgytfgdj.flv
@@ -981,7 +981,7 @@ http://ali.hlspull.yximgs.com/live/tbgh3491_tLOUYGBFHTRFSVDE.flv
 https://live.hkdvb.com/hls/live/206.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="香港频道",PoPC
 http://ali.hlspull.yximgs.com/live/zn6yjiyf_smsnjxuytvghdbnretwgcsdf.flv
-#EXTINF:-1 group-title="香港频道",PopC
+#EXTINF:-1 group-title="香港频道",PoPC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 group-title="香港频道",中国电影
 http://ali.hlspull.yximgs.com/live/tbgh3491_sdlfkiuyrhnwgytfgdj.flv
