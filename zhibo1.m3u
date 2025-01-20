@@ -481,6 +481,8 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 http://ali.hlspull.yximgs.com/live/ozirxtge_lapsoidnuchyskfg.flv
 #EXTINF:-1 group-title="体育频道",Now Sports Prime
 https://live.hkdvb.com/hls/live/630.m3u8?token=599647844641759&edge=edge1.hkdvb.com
+#EXTINF:-1 group-title="体育频道",Now Sports Prime
+http://ali.hlspull.yximgs.com/live/ozirxtge_aksjdlisuydhnxb.flv
 #EXTINF:-1 group-title="体育频道",Now Sports1
 http://ali.hlspull.yximgs.com/live/ozirxtge_aldoifytehnbchgvbduymjhe.flv
 #EXTINF:-1 group-title="体育频道",Now Sports2
@@ -497,8 +499,6 @@ http://ali.hlspull.yximgs.com/live/ozirxtge_sdkfiuyhbngtrepoislkj.flv
 http://ali.hlspull.yximgs.com/live/ozirxtge_adlppsiuyhbngtrefvdfad.flv
 #EXTINF:-1 group-title="体育频道",Now Sports7
 http://ali.hlspull.yximgs.com/live/ozirxtge_asalodiuyrnbhvkldgftyr.flv
-#EXTINF:-1 group-title="体育频道",Now Sports630
-http://ali.hlspull.yximgs.com/live/ozirxtge_aksjdlisuydhnxb.flv
 #EXTINF:-1 group-title="体育频道",Now Sports641
 https://live.hkdvb.com/hls/live/641.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="体育频道",Now Sports642
@@ -1027,6 +1027,8 @@ http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 http://ali.hlspull.yximgs.com/live/ozirxtge_lapsoidnuchyskfg.flv
 #EXTINF:-1 group-title="香港频道",Now Sports Prime
 https://live.hkdvb.com/hls/live/630.m3u8?token=599647844641759&edge=edge1.hkdvb.com
+#EXTINF:-1 group-title="香港频道",Now Sports Prime
+http://ali.hlspull.yximgs.com/live/ozirxtge_aksjdlisuydhnxb.flv
 #EXTINF:-1 group-title="香港频道",Now Sports1
 http://ali.hlspull.yximgs.com/live/ozirxtge_aldoifytehnbchgvbduymjhe.flv
 #EXTINF:-1 group-title="香港频道",Now Sports2
@@ -1043,8 +1045,6 @@ http://ali.hlspull.yximgs.com/live/ozirxtge_sdkfiuyhbngtrepoislkj.flv
 http://ali.hlspull.yximgs.com/live/ozirxtge_adlppsiuyhbngtrefvdfad.flv
 #EXTINF:-1 group-title="香港频道",Now Sports7
 http://ali.hlspull.yximgs.com/live/ozirxtge_asalodiuyrnbhvkldgftyr.flv
-#EXTINF:-1 group-title="香港频道",Now Sports630
-http://ali.hlspull.yximgs.com/live/ozirxtge_aksjdlisuydhnxb.flv
 #EXTINF:-1 group-title="香港频道",Now Sports641
 https://live.hkdvb.com/hls/live/641.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 #EXTINF:-1 group-title="香港频道",Now Sports642
