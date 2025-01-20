@@ -375,7 +375,7 @@ NOW爆谷,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 天影电影,http://ali.hlspull.yximgs.com/live/tbgh3491_tLOUYGBFHTRFSVDE.flv
 PoPC,https://live.hkdvb.com/hls/live/206.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 PoPC,http://ali.hlspull.yximgs.com/live/zn6yjiyf_smsnjxuytvghdbnretwgcsdf.flv
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+PoPC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 中国电影,http://ali.hlspull.yximgs.com/live/tbgh3491_sdlfkiuyrhnwgytfgdj.flv
 天影经典,https://live.hkdvb.com/hls/live/500.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 天影经典,http://ali.hlspull.yximgs.com/live/tbgh3491_dsfdsghjioiuyerweq.flv
@@ -531,7 +531,7 @@ NOW爆谷,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 天影电影,http://ali.hlspull.yximgs.com/live/tbgh3491_tLOUYGBFHTRFSVDE.flv
 PoPC,https://live.hkdvb.com/hls/live/206.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 PoPC,http://ali.hlspull.yximgs.com/live/zn6yjiyf_smsnjxuytvghdbnretwgcsdf.flv
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+PoPC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 中国电影,http://ali.hlspull.yximgs.com/live/tbgh3491_sdlfkiuyrhnwgytfgdj.flv
 天影经典,https://live.hkdvb.com/hls/live/500.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 天影经典,http://ali.hlspull.yximgs.com/live/tbgh3491_dsfdsghjioiuyerweq.flv
