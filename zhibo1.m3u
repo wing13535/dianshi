@@ -157,15 +157,33 @@ https://live.hkdvb.com/hls/live/78.m3u8?token=599647844641759&edge=edge1.hkdvb.c
 http://ali.hlspull.yximgs.com/live/ozirxtge_aldpodiujhyrnbewwer.flv
 #EXTINF:-1 group-title="新闻频道",HOY78
 http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
-#EXTINF:-1 group-title="新闻频道",TVBS
+#EXTINF:-1 group-title="新闻频道",民视新聞
+http://211.75.171.121:8535/http/61.67.128.137:8081/hls/85/80/FtvNews4max.m3u8
+#EXTINF:-1 group-title="新闻频道",民视新聞
+http://125.229.9.67:8541/http/220.130.87.218:8081/hls/85/80/FtvNews4max.m3u8
+#EXTINF:-1 group-title="新闻频道",民视新聞
+http://220.133.220.232:8543/http/220.130.214.23:8088/hls/85/80/FtvNews4max.m3u8
+#EXTINF:-1 group-title="新闻频道",台视新闻
+https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
+#EXTINF:-1 group-title="新闻频道",台视新闻
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ttvnews_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="新闻频道",台视新闻
+http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv051
+#EXTINF:-1 group-title="新闻频道",华视新闻
+http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv052
+#EXTINF:-1 group-title="新闻频道",中视新闻
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshinews_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="新闻频道",中视新闻
+http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv074
+#EXTINF:-1 group-title="新闻频道",Tvbs綜合台
 http://211.75.171.121:8575/http/61.67.128.137:8081/hls/75/817/ch058.m3u8
-#EXTINF:-1 group-title="新闻频道",TVBS
+#EXTINF:-1 group-title="新闻频道",Tvbs綜合台
 http://125.229.9.67:8544/http/220.130.87.218:8081/hls/75/817/ch058.m3u8
-#EXTINF:-1 group-title="新闻频道",TVBS
+#EXTINF:-1 group-title="新闻频道",Tvbs綜合台
 http://220.133.220.232:8576/http/220.130.214.23:8088/hls/75/817/ch58.m3u8
-#EXTINF:-1 group-title="新闻频道",TVBS
+#EXTINF:-1 group-title="新闻频道",Tvbs綜合台
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs&sp=chaojidianshi
-#EXTINF:-1 group-title="新闻频道",TVBS
+#EXTINF:-1 group-title="新闻频道",Tvbs綜合台
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 group-title="新闻频道",TVBS新闻台
 http://211.75.171.121:8574/http/61.67.128.137:8081/hls/75/817/ch059.m3u8
@@ -259,74 +277,6 @@ http://125.229.9.67:8552/http/220.130.87.218:8092/upload/114/MNEWS_TS-1111_1.m3u
 http://220.133.220.232:8554/http/220.130.214.23:8092/upload/114/MNEWS_TS-1111_1.m3u8
 #EXTINF:-1 group-title="新闻频道",鏡電視新聞
 https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv075
-#EXTINF:-1 group-title="新闻频道",台視電視台
-http://60.248.77.83/sat/tv071.flv
-#EXTINF:-1 group-title="新闻频道",台視電視台
-http://220.133.220.232:8502/http/220.130.214.23:8088/hls/86/80/Ttv4max.m3u8
-#EXTINF:-1 group-title="新闻频道",台視電視台
-http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv066
-#EXTINF:-1 group-title="新闻频道",台視電視台
-http://116.93.98.236:8080/sat/tv071.flv
-#EXTINF:-1 group-title="新闻频道",台視電視台
-https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv066
-#EXTINF:-1 group-title="新闻频道",中視電視台
-http://211.75.171.121:8539/http/61.67.128.137:8081/hls/88/80/Ctv4max.m3u8
-#EXTINF:-1 group-title="新闻频道",中視電視台
-http://125.229.9.67:8502/http/220.130.87.218:8081/hls/88/80/Ctv4max.m3u8
-#EXTINF:-1 group-title="新闻频道",中視電視台
-http://220.133.220.232:8503/http/220.130.214.23:8088/hls/88/80/Ctv4max.m3u8
-#EXTINF:-1 group-title="新闻频道",中視電視台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshihd_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="新闻频道",中視電視台
-http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv040
-#EXTINF:-1 group-title="新闻频道",中視電視台
-http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1 group-title="新闻频道",中視電視台
-http://60.248.77.83/sat/tv091.flv
-#EXTINF:-1 group-title="新闻频道",中視電視台
-http://116.93.98.236:8080/sat/tv091.flv
-#EXTINF:-1 group-title="新闻频道",中視電視台
-https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv040
-#EXTINF:-1 group-title="新闻频道",華視電視台
-http://211.75.171.121:8536/http/61.67.128.137:8081/hls/89/80/Cts4max.m3u8
-#EXTINF:-1 group-title="新闻频道",華視電視台
-http://125.229.9.67:8503/http/220.130.87.218:8081/hls/89/80/Cts4max.m3u8
-#EXTINF:-1 group-title="新闻频道",華視電視台
-http://220.133.220.232:8504/http/220.130.214.23:8088/hls/89/80/Cts4max.m3u8
-#EXTINF:-1 group-title="新闻频道",華視電視台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctshd_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="新闻频道",華視電視台
-http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv041
-#EXTINF:-1 group-title="新闻频道",華視電視台
-http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:-1 group-title="新闻频道",華視電視台
-http://60.248.77.83/sat/tv111.flv
-#EXTINF:-1 group-title="新闻频道",華視電視台
-http://116.93.98.236:8080/sat/tv111.flv
-#EXTINF:-1 group-title="新闻频道",華視電視台
-https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv041
-#EXTINF:-1 group-title="新闻频道",民視電視台
-http://211.75.171.121:8567/http/61.67.128.137:8081/hls/85/80/Ftv4max.m3u8
-#EXTINF:-1 group-title="新闻频道",民視電視台
-http://125.229.9.67:8504/http/220.130.87.218:8081/hls/85/80/Ftv4max.m3u8
-#EXTINF:-1 group-title="新闻频道",民視電視台
-http://220.133.220.232:8505/http/220.130.214.23:8088/hls/85/80/Ftv4max.m3u8
-#EXTINF:-1 group-title="新闻频道",民視電視台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvhd_taiwan&sp=chaojidianshi
-#EXTINF:-1 group-title="新闻频道",民視電視台
-http://60.248.77.83/sat/tv051.flv
-#EXTINF:-1 group-title="新闻频道",民視電視台
-http://116.93.98.236:8080/sat/tv051.flv
-#EXTINF:-1 group-title="新闻频道",民視電視台
-https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv155
-#EXTINF:-1 group-title="新闻频道" ,公視電視台,
-http://211.75.171.121:8583/http/61.67.128.137:8081/hls/87/80/Pts4max.m3u8
-#EXTINF:-1 group-title="新闻频道",公視電視台
-http://125.229.9.67:8505/http/220.130.87.218:8081/hls/87/80/Pts4max.m3u8
-#EXTINF:-1 group-title="新闻频道",公視電視台
-http://220.133.220.232:8506/http/220.130.214.23:8088/hls/87/80/Pts4max.m3u8
-#EXTINF:-1 group-title="新闻频道",公視電視台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctv_taiwan&sp=chaojidianshi
 #EXTINF:-1 group-title="新闻频道",非凡商業台
 http://211.75.171.121:8545/http/61.67.128.137:8081/hls/74/816/ch056.m3u8
 #EXTINF:-1 group-title="新闻频道",非凡商業台
@@ -337,6 +287,14 @@ http://211.75.171.121:8552/http/61.67.128.137:8078/hls/43/80/bloomber.m3u8
 http://125.229.9.67:8550/http/220.130.87.218:8078/hls/43/80/bloomber.m3u8
 #EXTINF:-1 group-title="新闻频道",東森財經台
 http://125.229.9.67:8547/http/220.130.87.218:8081/hls/63/805/ch011.m3u8
+#EXTINF:-1 group-title="新闻频道",鳯凰資訊台
+http://211.75.171.121:8576/http/61.67.128.137:8078/hls/20/80/phoenixif.m3u8
+#EXTINF:-1 group-title="新闻频道",鳯凰資訊台
+http://125.229.9.67:8573/http/220.130.87.218:8078/hls/20/80/phoenixif.m3u8
+#EXTINF:-1 group-title="新闻频道",鳯凰中文台
+http://211.75.171.121:8577/http/61.67.128.137:8078/hls/21/80/phoenixch.m3u8
+#EXTINF:-1 group-title="新闻频道",鳯凰中文台
+http://125.229.9.67:8574/http/220.130.87.218:8078/hls/21/80/phoenixch.m3u8
 #EXTINF:-1 group-title="新闻频道",無線衛星新聞台
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="新闻频道",亞洲新聞台
@@ -1097,10 +1055,74 @@ http://ali.hlspull.yximgs.com/live/ozirxtge_lpaoidujmsnhgftwuiw.flv
 http://ali.hlspull.yximgs.com/live/ozirxtge_alspodiusjnmhxyugtdfrs.flv
 #EXTINF:-1 group-title="香港频道",FashionbBox
 http://ali.hlspull.yximgs.com/live/ozirxtge_paloisujnmbxhyugdft.flv
-#EXTINF:-1 group-title="台湾频道",Tvbs綜合台
-http://211.75.171.121:8575/http/61.67.128.137:8081/hls/75/817/ch058.m3u8
-#EXTINF:-1 group-title="台湾频道",Tvbs綜合台
-http://125.229.9.67:8544/http/220.130.87.218:8081/hls/75/817/ch058.m3u8
+#EXTINF:-1 group-title="台湾频道",台視電視台
+http://60.248.77.83/sat/tv071.flv
+#EXTINF:-1 group-title="台湾频道",台視電視台
+http://220.133.220.232:8502/http/220.130.214.23:8088/hls/86/80/Ttv4max.m3u8
+#EXTINF:-1 group-title="台湾频道",台視電視台
+http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv066
+#EXTINF:-1 group-title="台湾频道",台視電視台
+http://116.93.98.236:8080/sat/tv071.flv
+#EXTINF:-1 group-title="台湾频道",台視電視台
+https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv066
+#EXTINF:-1 group-title="台湾频道",中視電視台
+http://211.75.171.121:8539/http/61.67.128.137:8081/hls/88/80/Ctv4max.m3u8
+#EXTINF:-1 group-title="台湾频道",中視電視台
+http://125.229.9.67:8502/http/220.130.87.218:8081/hls/88/80/Ctv4max.m3u8
+#EXTINF:-1 group-title="台湾频道",中視電視台
+http://220.133.220.232:8503/http/220.130.214.23:8088/hls/88/80/Ctv4max.m3u8
+#EXTINF:-1 group-title="台湾频道",中視電視台
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshihd_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台湾频道",中視電視台
+http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv040
+#EXTINF:-1 group-title="台湾频道",中視電視台
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+#EXTINF:-1 group-title="台湾频道",中視電視台
+http://60.248.77.83/sat/tv091.flv
+#EXTINF:-1 group-title="台湾频道",中視電視台
+http://116.93.98.236:8080/sat/tv091.flv
+#EXTINF:-1 group-title="台湾频道",中視電視台
+https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv040
+#EXTINF:-1 group-title="台湾频道",華視電視台
+http://211.75.171.121:8536/http/61.67.128.137:8081/hls/89/80/Cts4max.m3u8
+#EXTINF:-1 group-title="台湾频道",華視電視台
+http://125.229.9.67:8503/http/220.130.87.218:8081/hls/89/80/Cts4max.m3u8
+#EXTINF:-1 group-title="台湾频道",華視電視台
+http://220.133.220.232:8504/http/220.130.214.23:8088/hls/89/80/Cts4max.m3u8
+#EXTINF:-1 group-title="台湾频道",華視電視台
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctshd_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台湾频道",華視電視台
+http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv041
+#EXTINF:-1 group-title="台湾频道",華視電視台
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:-1 group-title="台湾频道",華視電視台
+http://60.248.77.83/sat/tv111.flv
+#EXTINF:-1 group-title="台湾频道",華視電視台
+http://116.93.98.236:8080/sat/tv111.flv
+#EXTINF:-1 group-title="台湾频道",華視電視台
+https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv041
+#EXTINF:-1 group-title="台湾频道",民視電視台
+http://211.75.171.121:8567/http/61.67.128.137:8081/hls/85/80/Ftv4max.m3u8
+#EXTINF:-1 group-title="台湾频道",民視電視台
+http://125.229.9.67:8504/http/220.130.87.218:8081/hls/85/80/Ftv4max.m3u8
+#EXTINF:-1 group-title="台湾频道",民視電視台
+http://220.133.220.232:8505/http/220.130.214.23:8088/hls/85/80/Ftv4max.m3u8
+#EXTINF:-1 group-title="台湾频道",民視電視台
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvhd_taiwan&sp=chaojidianshi
+#EXTINF:-1 group-title="台湾频道",民視電視台
+http://60.248.77.83/sat/tv051.flv
+#EXTINF:-1 group-title="台湾频道",民視電視台
+http://116.93.98.236:8080/sat/tv051.flv
+#EXTINF:-1 group-title="台湾频道",民視電視台
+https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv155
+#EXTINF:-1 group-title="台湾频道" ,公視電視台,
+http://211.75.171.121:8583/http/61.67.128.137:8081/hls/87/80/Pts4max.m3u8
+#EXTINF:-1 group-title="台湾频道",公視電視台
+http://125.229.9.67:8505/http/220.130.87.218:8081/hls/87/80/Pts4max.m3u8
+#EXTINF:-1 group-title="台湾频道",公視電視台
+http://220.133.220.232:8506/http/220.130.214.23:8088/hls/87/80/Pts4max.m3u8
+#EXTINF:-1 group-title="台湾频道",公視電視台
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctv_taiwan&sp=chaojidianshi
 #EXTINF:-1 group-title="台湾频道",Tvbs歡樂台
 http://211.75.171.121:8527/http/61.67.128.137:8081/hls/65/807/ch017.m3u8
 #EXTINF:-1 group-title="台湾频道",Tvbs歡樂台
@@ -1281,15 +1303,33 @@ http://125.229.9.67:8515/http/220.130.87.218:8081/hls/63/805/ch009.m3u8
 http://211.75.171.121:8504/http/61.67.128.137:8068/hls/14/80/cstv14.m3u8
 #EXTINF:-1 group-title="台湾频道",龍華卡通台
 http://125.229.9.67:8516/http/220.130.87.218:8068/hls/14/80/cstv14.m3u8
-#EXTINF:-1 group-title="台湾频道",TVBS
+#EXTINF:-1 group-title="台湾频道",民视新聞
+http://211.75.171.121:8535/http/61.67.128.137:8081/hls/85/80/FtvNews4max.m3u8
+#EXTINF:-1 group-title="台湾频道",民视新聞
+http://125.229.9.67:8541/http/220.130.87.218:8081/hls/85/80/FtvNews4max.m3u8
+#EXTINF:-1 group-title="台湾频道",民视新聞
+http://220.133.220.232:8543/http/220.130.214.23:8088/hls/85/80/FtvNews4max.m3u8
+#EXTINF:-1 group-title="台湾频道",台视新闻
+https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
+#EXTINF:-1 group-title="台湾频道",台视新闻
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ttvnews_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台湾频道",台视新闻
+http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv051
+#EXTINF:-1 group-title="台湾频道",华视新闻
+http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv052
+#EXTINF:-1 group-title="台湾频道",中视新闻
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshinews_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台湾频道",中视新闻
+http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv074
+#EXTINF:-1 group-title="台湾频道",Tvbs綜合台
 http://211.75.171.121:8575/http/61.67.128.137:8081/hls/75/817/ch058.m3u8
-#EXTINF:-1 group-title="台湾频道",TVBS
+#EXTINF:-1 group-title="台湾频道",Tvbs綜合台
 http://125.229.9.67:8544/http/220.130.87.218:8081/hls/75/817/ch058.m3u8
-#EXTINF:-1 group-title="台湾频道",TVBS
+#EXTINF:-1 group-title="台湾频道",Tvbs綜合台
 http://220.133.220.232:8576/http/220.130.214.23:8088/hls/75/817/ch58.m3u8
-#EXTINF:-1 group-title="台湾频道",TVBS
+#EXTINF:-1 group-title="台湾频道",Tvbs綜合台
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs&sp=chaojidianshi
-#EXTINF:-1 group-title="台湾频道",TVBS
+#EXTINF:-1 group-title="台湾频道",Tvbs綜合台
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 group-title="台湾频道",TVBS新闻台
 http://211.75.171.121:8574/http/61.67.128.137:8081/hls/75/817/ch059.m3u8
@@ -1383,74 +1423,6 @@ http://125.229.9.67:8552/http/220.130.87.218:8092/upload/114/MNEWS_TS-1111_1.m3u
 http://220.133.220.232:8554/http/220.130.214.23:8092/upload/114/MNEWS_TS-1111_1.m3u8
 #EXTINF:-1 group-title="台湾频道",鏡電視新聞
 https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv075
-#EXTINF:-1 group-title="台湾频道",台視電視台
-http://60.248.77.83/sat/tv071.flv
-#EXTINF:-1 group-title="台湾频道",台視電視台
-http://220.133.220.232:8502/http/220.130.214.23:8088/hls/86/80/Ttv4max.m3u8
-#EXTINF:-1 group-title="台湾频道",台視電視台
-http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv066
-#EXTINF:-1 group-title="台湾频道",台視電視台
-http://116.93.98.236:8080/sat/tv071.flv
-#EXTINF:-1 group-title="台湾频道",台視電視台
-https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv066
-#EXTINF:-1 group-title="台湾频道",中視電視台
-http://211.75.171.121:8539/http/61.67.128.137:8081/hls/88/80/Ctv4max.m3u8
-#EXTINF:-1 group-title="台湾频道",中視電視台
-http://125.229.9.67:8502/http/220.130.87.218:8081/hls/88/80/Ctv4max.m3u8
-#EXTINF:-1 group-title="台湾频道",中視電視台
-http://220.133.220.232:8503/http/220.130.214.23:8088/hls/88/80/Ctv4max.m3u8
-#EXTINF:-1 group-title="台湾频道",中視電視台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshihd_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台湾频道",中視電視台
-http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv040
-#EXTINF:-1 group-title="台湾频道",中視電視台
-http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1 group-title="台湾频道",中視電視台
-http://60.248.77.83/sat/tv091.flv
-#EXTINF:-1 group-title="台湾频道",中視電視台
-http://116.93.98.236:8080/sat/tv091.flv
-#EXTINF:-1 group-title="台湾频道",中視電視台
-https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv040
-#EXTINF:-1 group-title="台湾频道",華視電視台
-http://211.75.171.121:8536/http/61.67.128.137:8081/hls/89/80/Cts4max.m3u8
-#EXTINF:-1 group-title="台湾频道",華視電視台
-http://125.229.9.67:8503/http/220.130.87.218:8081/hls/89/80/Cts4max.m3u8
-#EXTINF:-1 group-title="台湾频道",華視電視台
-http://220.133.220.232:8504/http/220.130.214.23:8088/hls/89/80/Cts4max.m3u8
-#EXTINF:-1 group-title="台湾频道",華視電視台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctshd_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台湾频道",華視電視台
-http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv041
-#EXTINF:-1 group-title="台湾频道",華視電視台
-http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:-1 group-title="台湾频道",華視電視台
-http://60.248.77.83/sat/tv111.flv
-#EXTINF:-1 group-title="台湾频道",華視電視台
-http://116.93.98.236:8080/sat/tv111.flv
-#EXTINF:-1 group-title="台湾频道",華視電視台
-https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv041
-#EXTINF:-1 group-title="台湾频道",民視電視台
-http://211.75.171.121:8567/http/61.67.128.137:8081/hls/85/80/Ftv4max.m3u8
-#EXTINF:-1 group-title="台湾频道",民視電視台
-http://125.229.9.67:8504/http/220.130.87.218:8081/hls/85/80/Ftv4max.m3u8
-#EXTINF:-1 group-title="台湾频道",民視電視台
-http://220.133.220.232:8505/http/220.130.214.23:8088/hls/85/80/Ftv4max.m3u8
-#EXTINF:-1 group-title="台湾频道",民視電視台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvhd_taiwan&sp=chaojidianshi
-#EXTINF:-1 group-title="台湾频道",民視電視台
-http://60.248.77.83/sat/tv051.flv
-#EXTINF:-1 group-title="台湾频道",民視電視台
-http://116.93.98.236:8080/sat/tv051.flv
-#EXTINF:-1 group-title="台湾频道",民視電視台
-https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv155
-#EXTINF:-1 group-title="台湾频道" ,公視電視台,
-http://211.75.171.121:8583/http/61.67.128.137:8081/hls/87/80/Pts4max.m3u8
-#EXTINF:-1 group-title="台湾频道",公視電視台
-http://125.229.9.67:8505/http/220.130.87.218:8081/hls/87/80/Pts4max.m3u8
-#EXTINF:-1 group-title="台湾频道",公視電視台
-http://220.133.220.232:8506/http/220.130.214.23:8088/hls/87/80/Pts4max.m3u8
-#EXTINF:-1 group-title="台湾频道",公視電視台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctv_taiwan&sp=chaojidianshi
 #EXTINF:-1 group-title="台湾频道",非凡商業台
 http://211.75.171.121:8545/http/61.67.128.137:8081/hls/74/816/ch056.m3u8
 #EXTINF:-1 group-title="台湾频道",非凡商業台
