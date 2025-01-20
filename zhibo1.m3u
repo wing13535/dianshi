@@ -137,7 +137,7 @@ https://live.hkdvb.com/hls/live/583.m3u8?token=599647844641759&edge=edge1.hkdvb.
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="新闻频道",無線新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 group-title="新闻频道",无线新闻台(北美)
+#EXTINF:-1 group-title="新闻频道",無線新闻台(北美)
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="新闻频道",娛樂新聞台
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
@@ -779,7 +779,7 @@ https://live.hkdvb.com/hls/live/583.m3u8?token=599647844641759&edge=edge1.hkdvb.
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="香港频道",無線新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 group-title="香港频道",无线新闻台(北美)
+#EXTINF:-1 group-title="香港频道",無線新闻台(北美)
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="香港频道",娛樂新聞台
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
@@ -1143,11 +1143,11 @@ http://125.229.9.67:8517/http/220.130.87.218:8081/hls/68/810/ch032.m3u8
 http://211.75.171.121:8502/http/61.67.128.137:8081/hls/76/818/momo_4max.m3u8
 #EXTINF:-1 group-title="台湾频道",MOMO綜合
 http://125.229.9.67:8564/http/220.130.87.218:8081/hls/76/818/momo_4max.m3u8
-#EXTINF:-1 group-title="台湾频道",MOMO综合
+#EXTINF:-1 group-title="台湾频道",MOMO綜合
 http://220.133.220.232:8566/http/220.130.214.23:8088/hls/76/818/momo_max.m3u8
-#EXTINF:-1 group-title="台湾频道",MOMO综合
+#EXTINF:-1 group-title="台湾频道",MOMO綜合
 http://116.93.98.236:8080/sat/tv761.flv
-#EXTINF:-1 group-title="台湾频道",MOMO综合
+#EXTINF:-1 group-title="台湾频道",MOMO綜合
 http://60.248.77.83/sat/tv761.flv
 #EXTINF:-1 group-title="台湾频道",三立台湾台
 http://211.75.171.121:8516/http/61.67.128.137:8081/hls/65/807/ch020.m3u8
