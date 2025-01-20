@@ -70,7 +70,7 @@ CCTV13,http://171.88.145.30:4022/rtp/239.93.0.66:5140
 無線新聞台,https://live.hkdvb.com/hls/live/583.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+無線新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 娛樂新聞台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 娛樂新聞台,http://ali.hlspull.yximgs.com/live/rm7wrxvc_askjytrghenbgfjsiiwue.flv
 NOW新聞,https://live.hkdvb.com/hls/live/332.m3u8?token=599647844641759&edge=edge1.hkdvb.com
@@ -428,7 +428,7 @@ AXN亞洲台,http://125.229.9.67:8557/http/220.130.87.218:8081/hls/71/813/ch043.
 無線新聞台,https://live.hkdvb.com/hls/live/583.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+無線新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 娛樂新聞台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 娛樂新聞台,http://ali.hlspull.yximgs.com/live/rm7wrxvc_askjytrghenbgfjsiiwue.flv
 NOW新聞,https://live.hkdvb.com/hls/live/332.m3u8?token=599647844641759&edge=edge1.hkdvb.com
@@ -621,9 +621,9 @@ Tvbs歡樂台,http://125.229.9.67:8531/http/220.130.87.218:8081/hls/65/807/ch017
 緯來綜合台,http://125.229.9.67:8517/http/220.130.87.218:8081/hls/68/810/ch032.m3u8
 MOMO綜合,http://211.75.171.121:8502/http/61.67.128.137:8081/hls/76/818/momo_4max.m3u8
 MOMO綜合,http://125.229.9.67:8564/http/220.130.87.218:8081/hls/76/818/momo_4max.m3u8
-MOMO综合,http://220.133.220.232:8566/http/220.130.214.23:8088/hls/76/818/momo_max.m3u8
-MOMO综合,http://116.93.98.236:8080/sat/tv761.flv
-MOMO综合,http://60.248.77.83/sat/tv761.flv
+MOMO綜合,http://220.133.220.232:8566/http/220.130.214.23:8088/hls/76/818/momo_max.m3u8
+MOMO綜合,http://116.93.98.236:8080/sat/tv761.flv
+MOMO綜合,http://60.248.77.83/sat/tv761.flv
 三立台湾台,http://211.75.171.121:8516/http/61.67.128.137:8081/hls/65/807/ch020.m3u8
 三立台湾台,http://125.229.9.67:8520/http/220.130.87.218:8081/hls/65/807/ch020.m3u8
 三立都會台,http://211.75.171.121:8517/http/61.67.128.137:8081/hls/65/807/ch019.m3u8
