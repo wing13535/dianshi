@@ -597,7 +597,7 @@ FashionbBox,http://ali.hlspull.yximgs.com/live/ozirxtge_paloisujnmbxhyugdft.flv
 中視電視台,http://211.75.171.121:8539/http/61.67.128.137:8081/hls/88/80/Ctv4max.m3u8
 中視電視台,http://ali.hlspull.yximgs.com/live/haiouustliirlh_zhoasksakldsjsahsakngshi.flv
 中視電視台,http://125.229.9.67:8502/http/220.130.87.218:8081/hls/88/80/Ctv4max.m3u8
-視電視台,http://220.133.220.232:8503/http/220.130.214.23:8088/hls/88/80/Ctv4max.m3u8
+中視電視台,http://220.133.220.232:8503/http/220.130.214.23:8088/hls/88/80/Ctv4max.m3u8
 中視電視台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshihd_twn&sp=chaojidianshi
 中視電視台,http://38.60.249.62:5222/index.m3u8?pid=4gtv-4gtv040
 中視電視台,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
