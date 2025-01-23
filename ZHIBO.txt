@@ -1,12 +1,15 @@
+
 新闻频道,#genre#
 鳳凰中文,http://222.209.208.234:7088/rtp/239.93.0.162:2192
-鳳凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+鳳凰中文,http://ali.hlspull.yximgs.com/live/4a2132520e3a2caf57ac2fd56987e811.flv
+鳳凰中文,http://ali.hlspull.yximgs.com/live/2049842f9b9f8c4797e6a435fc1301fe.flv
 鳳凰中文,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.0.162:2192
 鳳凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 鳳凰中文,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-3
 鳳凰資訊,http://222.209.208.234:7088/rtp/239.93.0.118:2191
-鳳凰資訊,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+鳳凰資訊,http://ali.hlspull.yximgs.com/live/90938f91c9ab4630877b580ff30f2ee7.flv
+鳳凰資訊,http://ali.hlspull.yximgs.com/live/fe96e1df726d8447e295d7eca9eb9f2b.flv
 鳳凰資訊,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.0.118:2191
 鳳凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
@@ -14,7 +17,9 @@
 鳳凰資訊,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-4
 鳳凰資訊,https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-鳳凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
+鳳凰香港,http://ali.hlspull.yximgs.com/live/cb7eb820b9c35146a26071d705d80940.flv
+鳳凰香港,http://ali.hlspull.yximgs.com/live/Rr7shHO9tTH9BXhdMaLgIkKNWxOEANT9.flv
+鳳凰香港,http://ali.hlspull.yximgs.com/live/989fbcc06eeed59ea27faa6cfe11f412.flv
 鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 鳳凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
@@ -66,19 +71,23 @@ CCTV13,http://171.88.145.30:4022/rtp/239.93.0.66:5140
 广东新闻,http://huangtong-com.cn:9902/tsfile/live/1011_1.m3u8
 
 無線新聞台,https://live.hkdvb.com/hls/live/83.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-無線新聞台,http://ali.hlspull.yximgs.com/live/rm7wrxvc_dfr65yuhjcvbnhjyuttr.flv
+無線新聞台,http://ali.hlspull.yximgs.com/live/3b2674d8f1957974c940390603a3bdf7.flv
+無線新聞台,http://ali.hlspull.yximgs.com/live/f46ece4715508727b3f8db79766913de.flv
 無線新聞台,https://live.hkdvb.com/hls/live/583.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 無線新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 娛樂新聞台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-娛樂新聞台,http://ali.hlspull.yximgs.com/live/rm7wrxvc_askjytrghenbgfjsiiwue.flv
+娛樂新聞台,http://ali.hlspull.yximgs.com/live/0b9bbf46fef0b9d0e7ba06176da24b1c.flv
 NOW新聞,https://live.hkdvb.com/hls/live/332.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-NOW新聞,http://ali.hlspull.yximgs.com/live/fsys9br0_taisdefdswan2463s.flv
-NOW直播,http://ali.hlspull.yximgs.com/live/ozirxtge_kslio8wyhdn6sgtyx9.flv
-NOW财经,http://ali.hlspull.yximgs.com/live/ozirxtge_salpwoidunchytsg.flv
+NOW新聞,http://ali.hlspull.yximgs.com/live/28a6d8108312d8e673ae317019a5f866.flv
+NOW新聞,http://ali.hlspull.yximgs.com/live/d2f1e6e872811701d01e6cce37b1f22e.flv
+NOW直播,http://ali.hlspull.yximgs.com/live/46f98b8e10a31007dd6a18a0e87ef142.flv
+NOW财经,http://ali.hlspull.yximgs.com/live/bfbc9f7aea96b52f77020888cf5ff95c.flv
+NOW财经,http://ali.hlspull.yximgs.com/live/7e83ba89c18b5bd277bc741c72120669.flv
 HOY78,https://live.hkdvb.com/hls/live/78.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-HOY78,http://ali.hlspull.yximgs.com/live/ozirxtge_aldpodiujhyrnbewwer.flv
+HOY78,http://ali.hlspull.yximgs.com/live/df8aa7f1af9fd0c20b5174379e0831b3.flv
+HOY78,http://ali.hlspull.yximgs.com/live/BawuIeWiV5en6rSOvXel3d9nLrsvusH5.flv
 HOY78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 
 民視新聞,http://211.75.171.121:8535/http/61.67.128.137:8081/hls/85/80/FtvNews4max.m3u8
@@ -246,31 +255,35 @@ IHOT赛车,http://live.wqwqwq.sbs/itv/6000000006000240630.m3u8?cdn=wasusyt
 英雄联盟1,http://live.iill.top/bilibili.php?id=6
 英雄联盟2,http://live.iill.top/huya.php?id=660001
 英雄联盟3,http://live.iill.top/douyu.php?id=288016
-
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-NBA TV,http://ali.hlspull.yximgs.com/live/ozirxtge_lapsoidnuchyskfg.flv
+
+NBA TV,http://ali.hlspull.yximgs.com/live/4e3a14bf38caaebcf78993723f530677.flv
 Now Sports Prime,https://live.hkdvb.com/hls/live/630.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-Now Sports Prime,http://ali.hlspull.yximgs.com/live/ozirxtge_aksjdlisuydhnxb.flv
-Now Sports1,http://ali.hlspull.yximgs.com/live/ozirxtge_aldoifytehnbchgvbduymjhe.flv
+Now Sports1,http://ali.hlspull.yximgs.com/live/e5078ebe18847de0e283e16fc3e14f6c.flv
+Now Sports1,http://ali.hlspull.yximgs.com/live/7bda9862dd3941805332d583e18c4ecd.flv
 Now Sports2,https://live.hkdvb.com/hls/live/632.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-Now Sports2,http://ali.hlspull.yximgs.com/live/ozirxtge_apsoiduyhfnbstgcvfxd.flv
-Now Sports3,http://ali.hlspull.yximgs.com/live/ozirxtge_asaldouytwgbvhsgyfw.flv
-Now Sports4,http://ali.hlspull.yximgs.com/live/ozirxtge_adakudytrgbnjwhwytrggfs.flv
-Now Sports5,http://ali.hlspull.yximgs.com/live/ozirxtge_sdkfiuyhbngtrepoislkj.flv
-Now Sports6,http://ali.hlspull.yximgs.com/live/ozirxtge_adlppsiuyhbngtrefvdfad.flv
-Now Sports7,http://ali.hlspull.yximgs.com/live/ozirxtge_asalodiuyrnbhvkldgftyr.flv
+Now Sports2,http://ali.hlspull.yximgs.com/live/e6154af699819fe1ebd9db8118340966.flv
+Now Sports2,http://ali.hlspull.yximgs.com/live/7a6540215cc11f3014336a088d7f32ba.flv
+Now Sports3,http://ali.hlspull.yximgs.com/live/e041b6799b9ecaab11ce3f5d7e449592.flv
+Now Sports3,http://ali.hlspull.yximgs.com/live/f77173e5a9ed9416e36946114df05375.flv
+Now Sports4,http://ali.hlspull.yximgs.com/live/f77173e5a9ed9416e36946114df05375.flv
+Now Sports4,http://ali.hlspull.yximgs.com/live/bde90bb3105db4daa42a19917911364b.flv
+Now Sports5,http://ali.hlspull.yximgs.com/live/54eaa81ce85516e1025e90badfdc681e.flv
+Now Sports6,http://ali.hlspull.yximgs.com/live/b8c44ecdc9b735d91d778b56f805fcc2.flv
+Now Sports7,http://ali.hlspull.yximgs.com/live/aaf4bd5e38dd488ab4a89f4d858788e4.flv
 Now Sports641,https://live.hkdvb.com/hls/live/641.m3u8?token=599647844641759&edge=edge1.hkdvb.com
+Now Sports641,http://ali.hlspull.yximgs.com/live/4edcfe7015b64fe4947d51d7faaec9e7.flv
 Now Sports642,https://live.hkdvb.com/hls/live/642.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 Now Sports英超1,https://live.hkdvb.com/hls/live/621.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-Now Sports英超1,http://ali.hlspull.yximgs.com/live/ozirxtge_asdlpsoiuyehnbgcfhuytds.flv
-Now Sports英超2,http://ali.hlspull.yximgs.com/live/ozirxtge_adloaiuydnbvhxgtrbfg.flv
-Now Sports英超3,http://ali.hlspull.yximgs.com/live/ozirxtge_adloaiuydhnfbgtcf.flv
-Now Sports英超4,http://ali.hlspull.yximgs.com/live/ozirxtge_asdlpwoiuytrghebvfgds.flv
-Now Sports英超5,http://ali.hlspull.yximgs.com/live/ozirxtge_asdpauyrnhbvcgfjduytr.flv
-Now Sports英超6,http://ali.hlspull.yximgs.com/live/ozirxtge_sadlouwjnvmbhydgtfrvbcg.flv
-beINsports1,http://ali.hlspull.yximgs.com/live/ozirxtge_asdflpeuwnmvbhxgtfdvb.flv
-beINsports2,http://ali.hlspull.yximgs.com/live/ozirxtge_asdlpwiueynbgfdvf.flv
-beINsports3,http://ali.hlspull.yximgs.com/live/ozirxtge_adapeeunvbcghfyurtb.flv
+Now Sports英超1,http://ali.hlspull.yximgs.com/live/98bea9e392fdc25eb6cf2f75440b1773.flv
+Now Sports英超2,http://ali.hlspull.yximgs.com/live/f03760350c80a5d52c43e7c9f8463d0f.flv
+Now Sports英超3,http://ali.hlspull.yximgs.com/live/252d48ef63d0329adaf7bba063fc01fa.flv
+Now Sports英超4,http://ali.hlspull.yximgs.com/live/bd9a315353b4c39a0a5c3445e6a2d5bb.flv
+Now Sports英超5,http://ali.hlspull.yximgs.com/live/00890c4bc67e68cf5245a0c32175c74c.flv
+Now Sports英超6,http://ali.hlspull.yximgs.com/live/579aeb2643b29dd1496d98d28c9ccb2a.flv
+beINsports1,http://ali.hlspull.yximgs.com/live/f6a536e8b25f8de0653df862b0612759.flv
+beINsports2,http://ali.hlspull.yximgs.com/live/9d57079bd0964b07c018c347c46dea5a.flv
+beINsports3,http://ali.hlspull.yximgs.com/live/a16145f9a7b790f0ba291e2fe94b9a08.flv
 SuperSport LaLiga,https://live.hkdvb.com/hls/live/700.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 
 緯來體育台,http://211.75.171.121:8564/http/61.67.128.137:8081/hls/67/809/ch028.m3u8
@@ -345,26 +358,49 @@ DAZN二台,http://125.229.9.67:8566/http/220.130.87.218:8078/hls/26/80/esport2.m
 影迷电影,http://58.19.38.162:9901/tsfile/live/0119_1.m3u8
 
 NOW星影,https://live.hkdvb.com/hls/live/138.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-NOW星影,http://ali.hlspull.yximgs.com/live/ozirxtge_asldoau8w7uehndgs.flv
+NOW星影,http://ali.hlspull.yximgs.com/live/1f4282373da1bcbc495da220831b6bad.flv
+NOW星影,http://ali.hlspull.yximgs.com/live/e7c8b992b6bf9c231783a15e92746250.flv
+NOW星影,http://ali.hlspull.yximgs.com/live/ca8f0e34e70ebea510f85ac86debbc1b.flv
+NOW星影,http://ali.hlspull.yximgs.com/live/2ed9311234155332bcecabdf04563b2a.flv
 NOW爆谷,https://live.hkdvb.com/hls/live/133.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-NOW爆谷,http://ali.hlspull.yximgs.com/live/ozirxtge_salfaksjsuiwoiuejngc.flv
+NOW爆谷,http://ali.hlspull.yximgs.com/live/7fb3f9f840b32144a3866ac23b9105e5.flv
+NOW爆谷,http://ali.hlspull.yximgs.com/live/3650db3e3e89349b43d420545f92331e.flv
+NOW爆谷,http://ali.hlspull.yximgs.com/live/31692c9628aacd9428f352778555f08f.flv
+NOW爆谷,http://ali.hlspull.yximgs.com/live/43087300270e8fdb83d54aa08aef1977.flv
 NOW爆谷,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 美亞電影台(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-美亞電影台(HK),http://ali.hlspull.yximgs.com/live/tbgh3491_kaouytegbvndmjfg.flv
+美亞電影台(HK),http://ali.hlspull.yximgs.com/live/06e96e1e9325404204548f0014603ca7.flv
+美亞電影台(HK),http://ali.hlspull.yximgs.com/live/9cccd4559ce23675a556aac4d31c54b1.flv
+美亞電影台(HK),http://ali.hlspull.yximgs.com/live/0f14aee14881d2851039088c83e3a69d.flv
+美亞電影台(HK),http://ali.hlspull.yximgs.com/live/414612debea1fc802ecc60567c6a599d.flv
+美亞電影台(HK),http://ali.hlspull.yximgs.com/live/kHdfJNWsVYzd5uKKnDktqSBgISK4KRFr.flv
 美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 美亞電影台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-龙祥时代台,http://ali.hlspull.yximgs.com/live/tbgh3491_sajuyrhwkloicuyhbgtrd.flv
+龙祥时代台,http://ali.hlspull.yximgs.com/live/06a8526f337f1d2cd8598739477f2fe1.flv
 天影电影,https://live.hkdvb.com/hls/live/501.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 天影电影,http://ali.hlspull.yximgs.com/live/tbgh3491_tLOUYGBFHTRFSVDE.flv
 PoPC,https://live.hkdvb.com/hls/live/206.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-PoPC,http://ali.hlspull.yximgs.com/live/zn6yjiyf_smsnjxuytvghdbnretwgcsdf.flv
+PoPC,http://ali.hlspull.yximgs.com/live/fb98a279d198c56cf479697ca5b46a4f.flv
+PoPC,http://ali.hlspull.yximgs.com/live/fb1038bf00ed7f2f571c4884883d94fb.flv
 PoPC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-中国电影,http://ali.hlspull.yximgs.com/live/tbgh3491_sdlfkiuyrhnwgytfgdj.flv
+中国电影,http://ali.hlspull.yximgs.com/live/b690390b662349aecfcf16b087997e76.flv
+中国电影,http://ali.hlspull.yximgs.com/live/24c178964d58ed5f74d6ea1ab30ce057.flv
 天影经典,https://live.hkdvb.com/hls/live/500.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-天影经典,http://ali.hlspull.yximgs.com/live/tbgh3491_dsfdsghjioiuyerweq.flv
-ROCK超级娱乐,http://ali.hlspull.yximgs.com/live/ozirxtge_alspodiuwjnhgycfgsad.flv
-ROCK综艺娱乐,http://ali.hlspull.yximgs.com/live/ozirxtge_alsppdooiwuwnmjfhuytdgb.flv
+天影经典,http://ali.hlspull.yximgs.com/live/ccfb5ac3b1a51a4e3c4bb16142f4453f.flv
+天影经典,http://ali.hlspull.yximgs.com/live/f9fce9bfda70d6e5d2a6a51fd5f9238a.flv
+天影经典,http://ali.hlspull.yximgs.com/live/c9ab6af006237ff1926c347c3467119b.flv
+ROCK超级娱乐,http://ali.hlspull.yximgs.com/live/229664c828d5b79b9588a981116bd892.flv
+ROCK综艺娱乐,http://ali.hlspull.yximgs.com/live/c2324e2b44556100bd4e7bef7b5eb66f.flv
 HBO,https://live.hkdvb.com/hls/live/115.m3u8?token=599647844641759&edge=edge1.hkdvb.com
+HBO,http://ali.hlspull.yximgs.com/live/9ebd413a6d550a74d9364c9baae2d834.flv
+tvN,http://ali.hlspull.yximgs.com/live/78722e7f9de3a2bd938d775308440d74.flv
+tvN,http://ali.hlspull.yximgs.com/live/1e8a6aa118e35b15e862f5dc46cc73c1.flv
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+Kix,http://ali.hlspull.yximgs.com/live/35f3e3f0668a46e6b58c590e1d26c4f2.flv
+Kix,http://ali.hlspull.yximgs.com/live/54115142e7ea932d411438089a89b9f2.flv
+Kix,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
 
 CINEMAX,http://125.229.9.67:8558/http/220.130.87.218:8081/hls/71/813/ch042.m3u8
 HBO,http://ali.hlspull.yximgs.com/live/haiouuwbogitay_sghdftdhgfjjjkkhgg.flv
@@ -395,13 +431,15 @@ AXN亞洲台,http://125.229.9.67:8557/http/220.130.87.218:8081/hls/71/813/ch043.
 
 香港频道,#genre#
 鳳凰中文,http://222.209.208.234:7088/rtp/239.93.0.162:2192
-鳳凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+鳳凰中文,http://ali.hlspull.yximgs.com/live/4a2132520e3a2caf57ac2fd56987e811.flv
+鳳凰中文,http://ali.hlspull.yximgs.com/live/2049842f9b9f8c4797e6a435fc1301fe.flv
 鳳凰中文,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.0.162:2192
 鳳凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 鳳凰中文,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-3
 鳳凰資訊,http://222.209.208.234:7088/rtp/239.93.0.118:2191
-鳳凰資訊,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+鳳凰資訊,http://ali.hlspull.yximgs.com/live/90938f91c9ab4630877b580ff30f2ee7.flv
+鳳凰資訊,http://ali.hlspull.yximgs.com/live/fe96e1df726d8447e295d7eca9eb9f2b.flv
 鳳凰資訊,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.0.118:2191
 鳳凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
@@ -409,27 +447,36 @@ AXN亞洲台,http://125.229.9.67:8557/http/220.130.87.218:8081/hls/71/813/ch043.
 鳳凰資訊,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-4
 鳳凰資訊,https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-鳳凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
+鳳凰香港,http://ali.hlspull.yximgs.com/live/cb7eb820b9c35146a26071d705d80940.flv
+鳳凰香港,http://ali.hlspull.yximgs.com/live/Rr7shHO9tTH9BXhdMaLgIkKNWxOEANT9.flv
+鳳凰香港,http://ali.hlspull.yximgs.com/live/989fbcc06eeed59ea27faa6cfe11f412.flv
 鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 鳳凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
 無線新聞台,https://live.hkdvb.com/hls/live/83.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-無線新聞台,http://ali.hlspull.yximgs.com/live/rm7wrxvc_dfr65yuhjcvbnhjyuttr.flv
+無線新聞台,http://ali.hlspull.yximgs.com/live/3b2674d8f1957974c940390603a3bdf7.flv
+無線新聞台,http://ali.hlspull.yximgs.com/live/f46ece4715508727b3f8db79766913de.flv
 無線新聞台,https://live.hkdvb.com/hls/live/583.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 無線新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 娛樂新聞台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-娛樂新聞台,http://ali.hlspull.yximgs.com/live/rm7wrxvc_askjytrghenbgfjsiiwue.flv
+娛樂新聞台,http://ali.hlspull.yximgs.com/live/0b9bbf46fef0b9d0e7ba06176da24b1c.flv
 NOW新聞,https://live.hkdvb.com/hls/live/332.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-NOW新聞,http://ali.hlspull.yximgs.com/live/fsys9br0_taisdefdswan2463s.flv
-NOW直播,http://ali.hlspull.yximgs.com/live/ozirxtge_kslio8wyhdn6sgtyx9.flv
-NOW财经,http://ali.hlspull.yximgs.com/live/ozirxtge_salpwoidunchytsg.flv
+NOW新聞,http://ali.hlspull.yximgs.com/live/28a6d8108312d8e673ae317019a5f866.flv
+NOW新聞,http://ali.hlspull.yximgs.com/live/d2f1e6e872811701d01e6cce37b1f22e.flv
+NOW直播,http://ali.hlspull.yximgs.com/live/46f98b8e10a31007dd6a18a0e87ef142.flv
+NOW财经,http://ali.hlspull.yximgs.com/live/bfbc9f7aea96b52f77020888cf5ff95c.flv
+NOW财经,http://ali.hlspull.yximgs.com/live/7e83ba89c18b5bd277bc741c72120669.flv
 HOY78,https://live.hkdvb.com/hls/live/78.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-HOY78,http://ali.hlspull.yximgs.com/live/ozirxtge_aldpodiujhyrnbewwer.flv
+HOY78,http://ali.hlspull.yximgs.com/live/df8aa7f1af9fd0c20b5174379e0831b3.flv
+HOY78,http://ali.hlspull.yximgs.com/live/BawuIeWiV5en6rSOvXel3d9nLrsvusH5.flv
 HOY78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 
-翡翠台,http://ali.hlspull.yximgs.com/live/voya5ulo_kalasuidfjkdwyudfgf.flv
+
+翡翠台,http://ali.hlspull.yximgs.com/live/3386c067b6df4f155be0499edfc7c1f9.flv
+翡翠台,http://ali.hlspull.yximgs.com/live/73a880ac11ce13e13e942cc5fc8d2ba1.flv
+翡翠台,http://ali.hlspull.yximgs.com/live/WTYasHfR0pMa7ROTlOO82zNiT5tUxVUs.flv
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠台,http://cdn.163189.xyz/live/fct4k/stream.m3u8
 翡翠台,http://cdn.132.us.kg/live/fct4k/stream.m3u8
@@ -439,99 +486,140 @@ HOY78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,https://lb-mvtv-live.v2h-cdn.com/redirect/jade2/jade.stream?type=m3u8
-翡翠台(美加东时),http://ali.hlspull.yximgs.com/live/xqb5nz8v_taiwanaskwjwyhsjha.flv
-翡翠台(美加西时),http://ali.hlspull.yximgs.com/live/rm7wrxvc_asytuhjfgtrerxcvc.flv
-翡翠台(欧新时区),http://ali.hlspull.yximgs.com/live/rm7wrxvc_getrtyujkjnmnvbfd.flv
-翡翠台(英国时区),http://ali.hlspull.yximgs.com/live/rm7wrxvc_sdgftyyuiuoiklnmsdd.flv
+翡翠台(香港时区),http://ali.hlspull.yximgs.com/live/bf29398e2e707d402362d71b9cdeb123.flv
+翡翠台(香港时区),http://ali.hlspull.yximgs.com/live/bf29398e2e707d402362d71b9cdeb123.flv
+翡翠台(美加东时),http://ali.hlspull.yximgs.com/live/6b41fa40476bab1db4adfa73c527197b.flv
+翡翠台(美加西时),http://ali.hlspull.yximgs.com/live/f5d8196e994be1616645c3cab477bf36.flv
+翡翠台(欧新时区),http://ali.hlspull.yximgs.com/live/6fba403d998c1f71d64d41f693f287da.flv
+翡翠台(英国时区),http://ali.hlspull.yximgs.com/live/7bf7a6e951b725b9eb18ef8367bc8026.flv
 明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-明珠台,http://ali.hlspull.yximgs.com/live/rm7wrxvc_dfghghjkjoipoyyt.flv
+明珠台,http://ali.hlspull.yximgs.com/live/61c487667f64d9bc16e4851557f6fee6.flv
+明珠台,http://ali.hlspull.yximgs.com/live/8783894f14200a94b9703b2d97fa578d.flv
+明珠台,http://ali.hlspull.yximgs.com/live/QD6aV8zfWmPIexYersoGPmgUqgxWFQ88.flv
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 TVB Plus,https://live.hkdvb.com/hls/live/82.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-TVB Plus,http://ali.hlspull.yximgs.com/live/rm7wrxvc_rtyuuiioewdsfdgfhj.flv
+TVB Plus,http://ali.hlspull.yximgs.com/live/5268316065b06b30fb754fd73c743f13.flv
+TVB Plus,http://ali.hlspull.yximgs.com/live/v1lN7nygEOJHDNhJG9rDFURDZjX9laCo.flv
+TVB Plus,http://ali.hlspull.yximgs.com/live/a65df4f24bb81f48c5ae7ae21f005170.flv
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 TVB J1,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 TVB J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
-TVB 生活,http://ali.hlspull.yximgs.com/live/rm7wrxvc_dfhgyuiu7875cvbvnb.flv
+TVB 生活,http://ali.hlspull.yximgs.com/live/4a116ce2513f76c8ee5da8121227cfd6.flv
 C+台,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 C+台,http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
 HOY76,https://live.hkdvb.com/hls/live/76.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-HOY76,http://ali.hlspull.yximgs.com/live/ozirxtge_tsapwoeikdmxnjchygv.flv
+HOY76,http://ali.hlspull.yximgs.com/live/7e569c2439adfa68e17afff7f59c0077.flv
+HOY76,http://ali.hlspull.yximgs.com/live/VqrgqfVH4VjDPBS828YZNszf9Cf9EVw3.flv
 HOY77,https://live.hkdvb.com/hls/live/77.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-HOY77,http://ali.hlspull.yximgs.com/live/ozirxtge_salpdoisuywhnemgwq.flv
+HOY77,http://ali.hlspull.yximgs.com/live/b5781a01e823ce9403b4e9e2fc6a58b9.flv
+HOY77,http://ali.hlspull.yximgs.com/live/TrktaXPOBf7tk1bvkxJvLNyf3Xg6gyko.flv
 HOY77,http://cdn.132.us.kg/live/hoy/stream.m3u8
-新时代1,http://ali.hlspull.yximgs.com/live/ozirxtge_aldoisujjnhdyufhgtsfd.flv
-新时代2,http://ali.hlspull.yximgs.com/live/ozirxtge_aslodiujfhnxbhyuslkius.flv
+新时代1,http://ali.hlspull.yximgs.com/live/b2ade2b3affaca2bdcfc297c3df472c4.flv
+新时代2,http://ali.hlspull.yximgs.com/live/9ada8004836fd9dd18ddeb6dc218c1fb.flv
 ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-ViuTV,http://ali.hlspull.yximgs.com/live/ozirxtge_alpodiusyhngrtywewq.flv
+ViuTV,http://ali.hlspull.yximgs.com/live/83e0ad71509ef976d4b4c15d4bf3e6e9.flv
+ViuTV,http://ali.hlspull.yximgs.com/live/c6941ba827e9b183fb396124e8d6a043.flv
+ViuTV,http://ali.hlspull.yximgs.com/live/qWQhpjfmyvYWtahHbxz75ANSM7cO03Ho.flv
 ViuTV,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 ViuTV6,https://live.hkdvb.com/hls/live/96.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-ViuTV6,http://ali.hlspull.yximgs.com/live/ozirxtge_aslpaoisudyhnbgvxcfds.flv
+ViuTV6,http://ali.hlspull.yximgs.com/live/5f2f20fb1124ce0be8ddd4dae7ca3097.flv
 ViuTV6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 RHK31,https://live.hkdvb.com/hls/live/31.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-RHK31,http://ali.hlspull.yximgs.com/live/ozirxtge_lapoisuynbhwdfe.flv
+RHK31,http://ali.hlspull.yximgs.com/live/1dd1f04c32396812ae1452412547db03.flv
+RHK31,http://ali.hlspull.yximgs.com/live/a1e60dd3ab91e517cbab21563f535c15.flv
+RHK31,http://ali.hlspull.yximgs.com/live/9Ek2KTWn0eHOl1Vl5mNMULp05F8aGvKV.flv
 RHK32,https://live.hkdvb.com/hls/live/32.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-RHK32,http://ali.hlspull.yximgs.com/live/ozirxtge_alsopsiuayhnbghwyetrw.flv
+RHK32,http://ali.hlspull.yximgs.com/live/a1568bc96eda537e68e7e8245364b930.flv
+RHK32,http://ali.hlspull.yximgs.com/live/a4a80bb337d3d8db45daebc275f758cb.flv
+RHK32,http://ali.hlspull.yximgs.com/live/JYeRBoIFydw6b0buY9GYqqm74x8itcbA.flv
 Astro AOB,http://ali.hlspull.yximgs.com/live/vyswpz3r_tfghjdkslateyuwaiwan.flv
-TVB 星河台,http://ali.hlspull.yximgs.com/live/rm7wrxvc_akllkuyterwgebfns.flv
+TVB 星河台,http://ali.hlspull.yximgs.com/live/b75ea5ea157608973630116fced063ba.flv
 TVB 星河台,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 TVB 星河台,https://lb-mvtv-live.v2h-cdn.com/redirect/xinghe_1/xinghe_1.stream?type=m3u8
-TVB 星河台,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 TVB 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB 华丽台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 TVB 千禧經典台,https://live.hkdvb.com/hls/live/586.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-TVB 千禧經典台,http://ali.hlspull.yximgs.com/live/tbgh3491_iwurqejkafdasd.flv
+TVB 千禧經典台,http://ali.hlspull.yximgs.com/live/OrzLDkoqTwzYZpxGXkk754nzVn6ZvRsX.flv
 TVB 千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 TVB 千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB 千禧經典台,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
 TVB 明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 TVB 翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-TVB 功夫台,http://ali.hlspull.yximgs.com/live/tbgh3491_asdsflkfjhdsrtyulk.flv
+TVB 功夫台,http://ali.hlspull.yximgs.com/live/15962f4238f4aaa7fb91b58d7f3a80f5.flv
+TVB 功夫台,http://ali.hlspull.yximgs.com/live/d075968a9b4b339e29f55b3d59d61474.flv
 Mytv黃金翡翠台,https://live.hkdvb.com/hls/live/100.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-Mytv黃金翡翠台,http://ali.hlspull.yximgs.com/live/zn6yjiyf_vdytsgbnczlkuyhfngd.flv
+Mytv黃金翡翠台,http://ali.hlspull.yximgs.com/live/810e78ae1df4e1df6d158d342158c169.flv
+Mytv黃金翡翠台,http://ali.hlspull.yximgs.com/live/a0152adfdbf55b23606bc2fcf98e78c5.flv
 Mytv黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 Mytv千禧经典台,http://ali.hlspull.yximgs.com/live/zn6yjiyf_nvbxyrteghfsoiuejn.flv
-Mytv亚洲台,http://ali.hlspull.yximgs.com/live/zn6yjiyf_ehndbsjkxmnxhytrddsf.flv
+Mytv亚洲剧台,http://ali.hlspull.yximgs.com/live/f6aca1a70698c0a88507ff469b54eaff.flv
+Mytv亚洲剧台,http://ali.hlspull.yximgs.com/live/d87dfadb9e5f52ac787a60ad7768589f.flv
+Mytv亚洲剧台,http://ali.hlspull.yximgs.com/live/1449c4b46db0cdf31abe47cb41a913fa.flv
+Mytv亚洲剧台,http://ali.hlspull.yximgs.com/live/JSAaprilssKYnBw0FNN58vDYgAu4Whev.flv
 Mytv 华语剧台,https://live.hkdvb.com/hls/live/89.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-Mytv 华语剧台,http://ali.hlspull.yximgs.com/live/zn6yjiyf_gehynbcghdisuytrhbgfd.flv
-Mytv 戏曲台, http://ali.hlspull.yximgs.com/live/zn6yjiyf_pwlwmjuydhgdtrsvbfgdtre.flv
+Mytv 华语剧台,http://ali.hlspull.yximgs.com/live/e4f9b9313a29466aa4f055dc04e71b7b.flv
+Mytv 华语剧台,http://ali.hlspull.yximgs.com/live/90c4781a9f7660892f6316c699ab1309.flv
+Mytv 华语剧台,http://ali.hlspull.yximgs.com/live/86c4bb85878da1c52b896ab38a7c0c77.flv
+Mytv 华语剧台,http://ali.hlspull.yximgs.com/live/TkuCTMtmwIaA9EQ2gIspIGfu44zRmeZX.flv
+Mytv 戏曲台,http://ali.hlspull.yximgs.com/live/c4854497a4698a43c9294798f425bc89.flv
+Mytv 戏曲台,http://ali.hlspull.yximgs.com/live/VeUOBCj9l6ZkEZQy0h5XneqMN2zIrGdh.flv
 Mytv 粤语片台,https://live.hkdvb.com/hls/live/200.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-Mytv 粤语片台, http://ali.hlspull.yximgs.com/live/zn6yjiyf_alodikwmnjuxyhgdtfra.flv
-Mytv HandsUp台, http://ali.hlspull.yximgs.com/live/zn6yjiyf_euywhnbvgcftdrsfgduire.flv
-NOW华剧,http://ali.hlspull.yximgs.com/live/ozirxtge_jsakdiueyhwngbfhd.flv
-NOW剧集,http://ali.hlspull.yximgs.com/live/ozirxtge_laosidujhybcgxvfd.flv
+Mytv 粤语片台,http://ali.hlspull.yximgs.com/live/5b320eba5698aba52d1ff83b09889982.flv
+Mytv 粤语片台,http://ali.hlspull.yximgs.com/live/vVmsveDoiyjFIfOQHzwIowXLIc1LJM98.flv
+Mytv HandsUp台,http://ali.hlspull.yximgs.com/live/7dae95ea3e2f219087d4fca0099d0ac4.flv
+Mytv HandsUp台,http://ali.hlspull.yximgs.com/live/ZXNOiAWi5fEqSt201NqukKCnCpkRbAbW.flv
+Mytv HandsUp台,http://ali.hlspull.yximgs.com/live/df13e803dccbf88f07c8536b66734cd4.flv
+NOW华剧,http://ali.hlspull.yximgs.com/live/74fb3fd8b7aa2b4fa7097baa9ae9a548.flv
+NOW剧集,http://ali.hlspull.yximgs.com/live/3ece860df8ba124fa8e388a97d267af8.flv
+NOW剧集,http://ali.hlspull.yximgs.com/live/0f75473e3c41425b6da215004a8bdb91.flv
 黄金华剧台,https://live.hkdvb.com/hls/live/90.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-黄金华剧台,http://ali.hlspull.yximgs.com/live/zn6yjiyf_kejuyfhnbvcgtrfegwfg.flv
+黄金华剧台,http://ali.hlspull.yximgs.com/live/a20a857160797fc85c6d170eb1b008dd.flv
 HUB娱家,http://ali.hlspull.yximgs.com/live/vyswpz3r_bvncmgfhjdksl.flv
 HUB都会,http://ali.hlspull.yximgs.com/live/vyswpz3r_ghfdjkslawpwoeirutyq.flv
 Astro AEC,http://ali.hlspull.yximgs.com/live/vyswpz3r_tgfhjdtyeuiwobcnmxan.flv
 Astro 欢喜,http://ali.hlspull.yximgs.com/live/vyswpz3r_taiwghfjdktyrueiwan.flv
-
 NOW星影,https://live.hkdvb.com/hls/live/138.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-NOW星影,http://ali.hlspull.yximgs.com/live/ozirxtge_asldoau8w7uehndgs.flv
+NOW星影,http://ali.hlspull.yximgs.com/live/1f4282373da1bcbc495da220831b6bad.flv
+NOW星影,http://ali.hlspull.yximgs.com/live/e7c8b992b6bf9c231783a15e92746250.flv
+NOW星影,http://ali.hlspull.yximgs.com/live/ca8f0e34e70ebea510f85ac86debbc1b.flv
+NOW星影,http://ali.hlspull.yximgs.com/live/2ed9311234155332bcecabdf04563b2a.flv
 NOW爆谷,https://live.hkdvb.com/hls/live/133.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-NOW爆谷,http://ali.hlspull.yximgs.com/live/ozirxtge_salfaksjsuiwoiuejngc.flv
+NOW爆谷,http://ali.hlspull.yximgs.com/live/7fb3f9f840b32144a3866ac23b9105e5.flv
+NOW爆谷,http://ali.hlspull.yximgs.com/live/3650db3e3e89349b43d420545f92331e.flv
+NOW爆谷,http://ali.hlspull.yximgs.com/live/31692c9628aacd9428f352778555f08f.flv
+NOW爆谷,http://ali.hlspull.yximgs.com/live/43087300270e8fdb83d54aa08aef1977.flv
 NOW爆谷,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 美亞電影台(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-美亞電影台(HK),http://ali.hlspull.yximgs.com/live/tbgh3491_kaouytegbvndmjfg.flv
+美亞電影台(HK),http://ali.hlspull.yximgs.com/live/06e96e1e9325404204548f0014603ca7.flv
+美亞電影台(HK),http://ali.hlspull.yximgs.com/live/9cccd4559ce23675a556aac4d31c54b1.flv
+美亞電影台(HK),http://ali.hlspull.yximgs.com/live/0f14aee14881d2851039088c83e3a69d.flv
+美亞電影台(HK),http://ali.hlspull.yximgs.com/live/414612debea1fc802ecc60567c6a599d.flv
+美亞電影台(HK),http://ali.hlspull.yximgs.com/live/kHdfJNWsVYzd5uKKnDktqSBgISK4KRFr.flv
 美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 美亞電影台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-龙祥时代台,http://ali.hlspull.yximgs.com/live/tbgh3491_sajuyrhwkloicuyhbgtrd.flv
+龙祥时代台,http://ali.hlspull.yximgs.com/live/06a8526f337f1d2cd8598739477f2fe1.flv
 天影电影,https://live.hkdvb.com/hls/live/501.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 天影电影,http://ali.hlspull.yximgs.com/live/tbgh3491_tLOUYGBFHTRFSVDE.flv
 PoPC,https://live.hkdvb.com/hls/live/206.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-PoPC,http://ali.hlspull.yximgs.com/live/zn6yjiyf_smsnjxuytvghdbnretwgcsdf.flv
+PoPC,http://ali.hlspull.yximgs.com/live/fb98a279d198c56cf479697ca5b46a4f.flv
+PoPC,http://ali.hlspull.yximgs.com/live/fb1038bf00ed7f2f571c4884883d94fb.flv
 PoPC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-中国电影,http://ali.hlspull.yximgs.com/live/tbgh3491_sdlfkiuyrhnwgytfgdj.flv
+中国电影,http://ali.hlspull.yximgs.com/live/b690390b662349aecfcf16b087997e76.flv
+中国电影,http://ali.hlspull.yximgs.com/live/24c178964d58ed5f74d6ea1ab30ce057.flv
 天影经典,https://live.hkdvb.com/hls/live/500.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-天影经典,http://ali.hlspull.yximgs.com/live/tbgh3491_dsfdsghjioiuyerweq.flv
-ROCK超级娱乐,http://ali.hlspull.yximgs.com/live/ozirxtge_alspodiuwjnhgycfgsad.flv
-ROCK综艺娱乐,http://ali.hlspull.yximgs.com/live/ozirxtge_alsppdooiwuwnmjfhuytdgb.flv
+天影经典,http://ali.hlspull.yximgs.com/live/ccfb5ac3b1a51a4e3c4bb16142f4453f.flv
+天影经典,http://ali.hlspull.yximgs.com/live/f9fce9bfda70d6e5d2a6a51fd5f9238a.flv
+天影经典,http://ali.hlspull.yximgs.com/live/c9ab6af006237ff1926c347c3467119b.flv
+ROCK超级娱乐,http://ali.hlspull.yximgs.com/live/229664c828d5b79b9588a981116bd892.flv
+ROCK综艺娱乐,http://ali.hlspull.yximgs.com/live/c2324e2b44556100bd4e7bef7b5eb66f.flv
 HBO,https://live.hkdvb.com/hls/live/115.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-
-tvN,http://ali.hlspull.yximgs.com/live/ozirxtge_lapoiudytrebnxjhusyd.flv
+HBO,http://ali.hlspull.yximgs.com/live/9ebd413a6d550a74d9364c9baae2d834.flv
+tvN,http://ali.hlspull.yximgs.com/live/78722e7f9de3a2bd938d775308440d74.flv
+tvN,http://ali.hlspull.yximgs.com/live/1e8a6aa118e35b15e862f5dc46cc73c1.flv
 tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-Kix,http://ali.hlspull.yximgs.com/live/ozirxtge_alpsoiduyehngfbdjisu.flv
+Kix,http://ali.hlspull.yximgs.com/live/35f3e3f0668a46e6b58c590e1d26c4f2.flv
+Kix,http://ali.hlspull.yximgs.com/live/54115142e7ea932d411438089a89b9f2.flv
 Kix,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
@@ -547,41 +635,48 @@ Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 Channel U Hd,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 
-NBA TV,http://ali.hlspull.yximgs.com/live/ozirxtge_lapsoidnuchyskfg.flv
+NBA TV,http://ali.hlspull.yximgs.com/live/4e3a14bf38caaebcf78993723f530677.flv
 Now Sports Prime,https://live.hkdvb.com/hls/live/630.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-Now Sports Prime,http://ali.hlspull.yximgs.com/live/ozirxtge_aksjdlisuydhnxb.flv
-Now Sports1,http://ali.hlspull.yximgs.com/live/ozirxtge_aldoifytehnbchgvbduymjhe.flv
+Now Sports1,http://ali.hlspull.yximgs.com/live/e5078ebe18847de0e283e16fc3e14f6c.flv
+Now Sports1,http://ali.hlspull.yximgs.com/live/7bda9862dd3941805332d583e18c4ecd.flv
 Now Sports2,https://live.hkdvb.com/hls/live/632.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-Now Sports2,http://ali.hlspull.yximgs.com/live/ozirxtge_apsoiduyhfnbstgcvfxd.flv
-Now Sports3,http://ali.hlspull.yximgs.com/live/ozirxtge_asaldouytwgbvhsgyfw.flv
-Now Sports4,http://ali.hlspull.yximgs.com/live/ozirxtge_adakudytrgbnjwhwytrggfs.flv
-Now Sports5,http://ali.hlspull.yximgs.com/live/ozirxtge_sdkfiuyhbngtrepoislkj.flv
-Now Sports6,http://ali.hlspull.yximgs.com/live/ozirxtge_adlppsiuyhbngtrefvdfad.flv
-Now Sports7,http://ali.hlspull.yximgs.com/live/ozirxtge_asalodiuyrnbhvkldgftyr.flv
+Now Sports2,http://ali.hlspull.yximgs.com/live/e6154af699819fe1ebd9db8118340966.flv
+Now Sports2,http://ali.hlspull.yximgs.com/live/7a6540215cc11f3014336a088d7f32ba.flv
+Now Sports3,http://ali.hlspull.yximgs.com/live/e041b6799b9ecaab11ce3f5d7e449592.flv
+Now Sports3,http://ali.hlspull.yximgs.com/live/f77173e5a9ed9416e36946114df05375.flv
+Now Sports4,http://ali.hlspull.yximgs.com/live/f77173e5a9ed9416e36946114df05375.flv
+Now Sports4,http://ali.hlspull.yximgs.com/live/bde90bb3105db4daa42a19917911364b.flv
+Now Sports5,http://ali.hlspull.yximgs.com/live/54eaa81ce85516e1025e90badfdc681e.flv
+Now Sports6,http://ali.hlspull.yximgs.com/live/b8c44ecdc9b735d91d778b56f805fcc2.flv
+Now Sports7,http://ali.hlspull.yximgs.com/live/aaf4bd5e38dd488ab4a89f4d858788e4.flv
 Now Sports641,https://live.hkdvb.com/hls/live/641.m3u8?token=599647844641759&edge=edge1.hkdvb.com
+Now Sports641,http://ali.hlspull.yximgs.com/live/4edcfe7015b64fe4947d51d7faaec9e7.flv
 Now Sports642,https://live.hkdvb.com/hls/live/642.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 Now Sports英超1,https://live.hkdvb.com/hls/live/621.m3u8?token=599647844641759&edge=edge1.hkdvb.com
-Now Sports英超1,http://ali.hlspull.yximgs.com/live/ozirxtge_asdlpsoiuyehnbgcfhuytds.flv
-Now Sports英超2,http://ali.hlspull.yximgs.com/live/ozirxtge_adloaiuydnbvhxgtrbfg.flv
-Now Sports英超3,http://ali.hlspull.yximgs.com/live/ozirxtge_adloaiuydhnfbgtcf.flv
-Now Sports英超4,http://ali.hlspull.yximgs.com/live/ozirxtge_asdlpwoiuytrghebvfgds.flv
-Now Sports英超5,http://ali.hlspull.yximgs.com/live/ozirxtge_asdpauyrnhbvcgfjduytr.flv
-Now Sports英超6,http://ali.hlspull.yximgs.com/live/ozirxtge_sadlouwjnvmbhydgtfrvbcg.flv
-beINsports1,http://ali.hlspull.yximgs.com/live/ozirxtge_asdflpeuwnmvbhxgtfdvb.flv
-beINsports2,http://ali.hlspull.yximgs.com/live/ozirxtge_asdlpwiueynbgfdvf.flv
-beINsports3,http://ali.hlspull.yximgs.com/live/ozirxtge_adapeeunvbcghfyurtb.flv
+Now Sports英超1,http://ali.hlspull.yximgs.com/live/98bea9e392fdc25eb6cf2f75440b1773.flv
+Now Sports英超2,http://ali.hlspull.yximgs.com/live/f03760350c80a5d52c43e7c9f8463d0f.flv
+Now Sports英超3,http://ali.hlspull.yximgs.com/live/252d48ef63d0329adaf7bba063fc01fa.flv
+Now Sports英超4,http://ali.hlspull.yximgs.com/live/bd9a315353b4c39a0a5c3445e6a2d5bb.flv
+Now Sports英超5,http://ali.hlspull.yximgs.com/live/00890c4bc67e68cf5245a0c32175c74c.flv
+Now Sports英超6,http://ali.hlspull.yximgs.com/live/579aeb2643b29dd1496d98d28c9ccb2a.flv
+beINsports1,http://ali.hlspull.yximgs.com/live/f6a536e8b25f8de0653df862b0612759.flv
+beINsports2,http://ali.hlspull.yximgs.com/live/9d57079bd0964b07c018c347c46dea5a.flv
+beINsports3,http://ali.hlspull.yximgs.com/live/a16145f9a7b790f0ba291e2fe94b9a08.flv
 SuperSport LaLiga,https://live.hkdvb.com/hls/live/700.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 
-HKC18 跑马,http://ali.hlspull.yximgs.com/live/2cslsqim_sakdaueyegjlsoiure.flv
+HKC18 跑马,http://ali.hlspull.yximgs.com/live/59dc9cbeadfb8efea992b1bf40303968.flv
+HKC18 跑马,http://ali.hlspull.yximgs.com/live/XZeA4jf7U40D8kpbxxOzjbFDNPANPTl5.flv
 HKC18 跑马,http://60.248.77.83/sat/hk021.flv
-C18 跑马,http://ali.hlspull.yximgs.com/live/2cslsqim_owiwjsuchnfgytsa.flv
+C18 跑马,http://ali.hlspull.yximgs.com/live/f6e842c258723a71418863d588cfffde.flv
+C18 跑马,http://ali.hlspull.yximgs.com/live/b3d2750344dd4f6f115a3382e1e381c8.flv
 C18 跑马,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-88 跑马,http://ali.hlspull.yximgs.com/live/ozirxtge_alspodimnjufhhbncvcd.flv
-28 AI 智慧賽馬,http://ali.hlspull.yximgs.com/live/fsys9br0_taiwanlskiueyhwng.flv
+88 跑马,http://ali.hlspull.yximgs.com/live/4b05b66fe890272b0e5e0b67bfdb66e7.flv
+28 AI 智慧賽馬,http://ali.hlspull.yximgs.com/live/ef1d8df787aa29272bda6ba08a76d75c.flv
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-城市电视,http://ali.hlspull.yximgs.com/live/ozirxtge_lpaoidujmsnhgftwuiw.flv
-中旺电视,http://ali.hlspull.yximgs.com/live/ozirxtge_alspodiusjnmhxyugtdfrs.flv
-FashionbBox,http://ali.hlspull.yximgs.com/live/ozirxtge_paloisujnmbxhyugdft.flv
+城市电视,http://ali.hlspull.yximgs.com/live/4934c0a70b0a51ad077a1a71cec94fba.flv
+中旺电视,http://ali.hlspull.yximgs.com/live/0c48b2b93717a4a4aa9a70211019f772.flv
+FashionbBox,http://ali.hlspull.yximgs.com/live/0781c39561a9085fac20bc381aefda95.flv
+FashionbBox,http://ali.hlspull.yximgs.com/live/9f7457648d9458b01fc933560f0ba52b.flv
 
 
 
@@ -1225,23 +1320,3 @@ Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 亞洲旅遊,http://211.75.171.121:8512/http/61.67.128.137:8088/hls/76/818/ch061.m3u8
 亞洲旅遊,http://125.229.9.67:8513/http/220.130.87.218:8081/hls/76/818/ch061.m3u8
 亞洲旅遊,http://220.133.220.232:8514/http/220.130.214.23:8088/hls/76/818/ch61.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
