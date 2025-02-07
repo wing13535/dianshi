@@ -924,8 +924,8 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 澳视卫星,http://cdn.163189.xyz/live/as/stream.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 江苏卫视,rtp://@239.77.1.18:5146
-江苏卫视,http://127.0.0.1:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
-江苏卫视,http://127.0.0.1:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
+江苏卫视,http://61.140.160.60:9001/itv/1000000005000265030.m3u8?cdn=ystenlive
+江苏卫视,http://www.998969.xyz:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
 广西卫视,rtp://@239.77.0.139:5146
 广西卫视,http://61.140.160.60:9001/itv/5000000011000031118.m3u8?cdn=bestzb
 广西卫视,http://www.998969.xyz:35455/itv/5000000011000031118.m3u8?cdn=bestzb
