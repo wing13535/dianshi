@@ -86,6 +86,7 @@ TVBS新闻台,http://220.133.220.232:8575/http/220.130.214.23:8088/hls/75/817/ch
 TVBS新闻台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs_n&sp=chaojidianshi
 TVBS新闻台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv072
 寰宇新聞台,http://211.75.171.121:8520/http/61.67.128.137:8081/hls/76/818/ch062.m3u8
+寰宇新聞台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476270.m3u8
 寰宇新聞台,http://125.229.9.67:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
 寰宇新聞台,http://220.133.220.232:8548/http/220.130.214.23:8088/hls/76/818/ch62.m3u8
 寰宇新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=huanyuxinwen_twn&sp=chaojidianshi
@@ -703,6 +704,7 @@ TVBS新闻台,http://220.133.220.232:8575/http/220.130.214.23:8088/hls/75/817/ch
 TVBS新闻台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs_n&sp=chaojidianshi
 TVBS新闻台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv072
 寰宇新聞台,http://211.75.171.121:8520/http/61.67.128.137:8081/hls/76/818/ch062.m3u8
+寰宇新聞台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476270.m3u8
 寰宇新聞台,http://125.229.9.67:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
 寰宇新聞台,http://220.133.220.232:8548/http/220.130.214.23:8088/hls/76/818/ch62.m3u8
 寰宇新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=huanyuxinwen_twn&sp=chaojidianshi
