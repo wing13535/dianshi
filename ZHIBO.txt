@@ -1,5 +1,7 @@
 
 新闻频道,#genre#
+鳳凰中文,http://211.75.171.121:8577/http/61.67.128.137:8078/hls/21/80/phoenixch.m3u8
+鳳凰中文,http://125.229.9.67:8574/http/220.130.87.218:8078/hls/21/80/phoenixch.m3u8
 鳳凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳯凰資訊,http://211.75.171.121:8576/http/61.67.128.137:8078/hls/20/80/phoenixif.m3u8
