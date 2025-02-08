@@ -11,6 +11,7 @@
 鳯凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 鳯凰資訊,https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
 鳳凰香港,https://stream1.freetv.fun/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.ctv
+鳳凰香港,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476923.m3u8
 鳳凰香港,http://extraott.com:80/live/6772191932/1654508883/473557.m3u8
 鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=388753989581340&edge=edge1.hkdvb.com
 鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=599647844641759&edge=edge1.hkdvb.com
@@ -211,7 +212,7 @@ IHOT赛车,http://live.wqwqwq.sbs/itv/6000000006000240630.m3u8?cdn=wasusyt
 篮球人物,http://43.136.119.99:35455/douyu/8434598
 经典NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 经典NBA,http://212.102.60.231/NBA_TV/index.m3u8
-快乐垂钓,http://61.140.160.60:9001/5000000011000031206.m3u8?cdn=bestzb
+快乐垂钓,http://61.140.160.60:9001/itv/5000000011000031206.m3u8?cdn=bestzb
 快乐垂钓,http://www.998969.xyz:35455/itv/5000000011000031206.m3u8?cdn=bestzb
 快乐垂钓,http://222.210.223.83:3000/rtp/239.93.1.151:5140
 快乐垂钓,http://171.88.162.145:4022/rtp/239.93.1.151:5140
@@ -388,6 +389,7 @@ AXN亞洲台,http://125.229.9.67:8557/http/220.130.87.218:8081/hls/71/813/ch043.
 鳯凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 鳯凰資訊,https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
 鳳凰香港,https://stream1.freetv.fun/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.ctv
+鳳凰香港,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476923.m3u8
 鳳凰香港,http://extraott.com:80/live/6772191932/1654508883/473557.m3u8
 鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=388753989581340&edge=edge1.hkdvb.com
 鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=599647844641759&edge=edge1.hkdvb.com
