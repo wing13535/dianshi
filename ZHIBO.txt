@@ -5,6 +5,7 @@
 鳳凰中文,http://125.229.9.67:8574/http/220.130.87.218:8078/hls/21/80/phoenixch.m3u8
 鳳凰中文,http://6v.nx.tc/smrt.php?playurl=https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+鳳凰中文,http://222.209.208.234:7088/rtp/239.93.0.162:2192
 鳯凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳯凰資訊,http://211.75.171.121:8576/http/61.67.128.137:8078/hls/20/80/phoenixif.m3u8
 鳯凰資訊,http://125.229.9.67:8573/http/220.130.87.218:8078/hls/20/80/phoenixif.m3u8
@@ -12,6 +13,8 @@
 鳯凰資訊,https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
 鳯凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 鳯凰資訊,https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
+鳯凰資訊,http://222.209.208.234:7088/rtp/239.93.0.118:2191
+鳳凰香港,http://139.196.228.200:5678/公众号搞机大师/fhx.php?id=hk 
 鳳凰香港,https://stream1.freetv.fun/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.ctv
 鳳凰香港,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476923.m3u8
 鳳凰香港,http://extraott.com:80/live/6772191932/1654508883/473557.m3u8
@@ -393,6 +396,7 @@ AXN亞洲台,http://125.229.9.67:8557/http/220.130.87.218:8081/hls/71/813/ch043.
 鳯凰資訊,https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
 鳯凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 鳯凰資訊,https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
+鳳凰香港,http://139.196.228.200:5678/公众号搞机大师/fhx.php?id=hk 
 鳳凰香港,https://stream1.freetv.fun/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.ctv
 鳳凰香港,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476923.m3u8
 鳳凰香港,http://extraott.com:80/live/6772191932/1654508883/473557.m3u8
@@ -629,7 +633,7 @@ MOMO綜合,http://60.248.77.83/sat/tv761.flv
 緯來日本台,http://125.229.9.67:8536/http/220.130.87.218:8081/hls/69/811/ch034.m3u8
 緯來日本台,http://220.133.220.232:8538/http/220.130.214.23:8088/hls/69/811/ch34.m3u8
 緯來日本台,http://116.93.98.236:8080/sat/tv771.flv
-緯來日本台,,http://60.248.77.83/sat/tv771.flv
+緯來日本台,http://60.248.77.83/sat/tv771.flv
 龍華日韓台,http://211.75.171.121:8507/http/61.67.128.137:8068/hls/12/80/cstv12.m3u8
 龍華日韓台,http://125.229.9.67:8534/http/220.130.87.218:8068/hls/12/80/cstv12.m3u8
 龍華偶像台,http://211.75.171.121:8508/http/61.67.128.137:8068/hls/11/80/cstv11.m3u8
@@ -903,7 +907,7 @@ CCTV15,http://61.140.160.60:9001/itv/1000000005000265014.m3u8?cdn=ystenlive
 CCTV15,http://www.998969.xyz:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
 CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV16,rtp://@239.77.1.76:5146
-CCTV16,http://hlslive-tx-cdn.ysp.cctv.cn/A055AF6A050E9364F17130D4B53FEF05F2A1E0E2120990CD2E2854C43275C4B75BA7ED9D0315743FB2C22DE1B11E010665E0C946C58267B13C0790B1D8BDCED102BF8DEEE2BC59A7C8A9821374159AA77E52B50768727A50FD96CA1691785D1AF5604EDB3E39A1AC3E05E4E98787A5029109675116B1A16E573CEFA1CEBE4052D9E931E9938F12B9FDC7BAC2841307A4BFC3C7329AE82D7310701DA9FDE75B0D455DAC427575486AD75C0004559689E4/2024079301.m3u8?from=player&svrtime=1739016686&pid=600098637&cdn=5510&revoi=5E4F01A54E94F0FD838C2AEBAD984FEE5E2B889A3089D15C3BB7336E70A8F49F
+CCTV16,http://b.zgjok.com:35455/gaoma/cctv16.m3u8
 CCTV16,http://218.15.20.81:3388/hls/36/index.m3u8
 CCTV16,http://61.140.160.60:9001/itv/1000000006000233002.m3u8?cdn=ystenlive
 CCTV16,http://www.998969.xyz:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
