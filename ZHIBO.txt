@@ -38,7 +38,6 @@ CCTV4,http://113.108.59.138:8888/hls/44/index.m3u8
 CCTV4,http://www.998969.xyz:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
 CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
 CCTV7,rtp://@239.77.1.159:5146
-CCTV7,rtp://@239.77.1.159:5146
 CCTV7,http://psp94525.iask.in:6688/udp/239.93.1.67:5140
 CCTV7,http://router.goody.icu:4000/rtp/239.93.1.67:5140
 CCTV7,http://113.108.59.138:8888/hls/3/index.m3u8
