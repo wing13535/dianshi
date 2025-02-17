@@ -162,7 +162,7 @@ CCTV5+,http://router.goody.icu:4000/rtp/239.93.1.36:8004
 CCTV5+,http://mail.syswareonline.com:7088/rtp/239.93.1.36:8004
 CCTV5+,http://www.998969.xyz:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV16,rtp://@239.77.1.76:5146
+CCTV16,http://b.zgjok.com:35455/gaoma/cctv16.m3u8
 CCTV16,http://psp94525.iask.in:6688/udp/239.93.42.54:5140
 CCTV16,http://router.goody.icu:4000/rtp/239.93.42.54:5140
 CCTV16,http://218.15.20.81:3388/hls/36/index.m3u8
@@ -879,7 +879,7 @@ CCTV15,http://router.goody.icu:4000/rtp/239.93.0.103:5140
 CCTV15,http://218.15.20.81:3388/hls/35/index.m3u8
 CCTV15,http://www.998969.xyz:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
 CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV16,rtp://@239.77.1.76:5146
+CCTV16,http://b.zgjok.com:35455/gaoma/cctv16.m3u8
 CCTV16,http://psp94525.iask.in:6688/udp/239.93.42.54:5140
 CCTV16,http://router.goody.icu:4000/rtp/239.93.42.54:5140
 CCTV16,http://218.15.20.81:3388/hls/36/index.m3u8
