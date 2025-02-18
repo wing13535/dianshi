@@ -20,7 +20,7 @@
 鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=599647844601624&edge=edge1.hkdvb.com
 鳳凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
 
-
+军事评论,http://www.bing91.cn:12291/2000000003000000022/hnbblive/index.m3u8
 军事评论,http://www.998969.xyz:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
 军事评论,http://live.wqwqwq.sbs/itv/2000000003000000022.m3u8?cdn=hnbblive
 军事,http://psp94525.iask.in:6688/udp/239.93.0.204:9076
@@ -167,17 +167,27 @@ CCTV16,http://router.goody.icu:4000/rtp/239.93.42.54:5140
 CCTV16,http://218.15.20.81:3388/hls/36/index.m3u8
 CCTV16,http://www.998969.xyz:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 
-
+精品体育,http://www.bing91.cn:12291/2000000003000000021/hnbblive/index.m3u8
 精品体育,http://www.998969.xyz:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
 精品体育,http://live.wqwqwq.sbs/itv/1000000004000014634.m3u8?cdn=ystenlive
+超级体育,http://www.bing91.cn:12291/2000000003000000030/hnbblive/index.m3u8
+超级体育,http://www.bing91.cn:12291/1000000001000009601/ystenlive/index.m3u8
 超级体育,http://www.998969.xyz:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
 超级体育,http://live.wqwqwq.sbs/itv/1000000004000014634.m3u8?cdn=ystenlive
+劲爆体育,http://www.bing91.cn:12291/2000000002000000008/hnbblive/index.m3u8
+劲爆体育,http://www.bing91.cn:12291/5000000002000029972/bestzb/index.m3u8
 劲爆体育,http://www.998969.xyz:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 劲爆体育,http://live.wqwqwq.sbs/itv/5000000002000029972.m3u8?cdn=bestzb
+IHOT体育,http://www.bing91.cn:12291/2000000004000000060/hnbblive/index.m3u8
+IHOT体育,http://www.bing91.cn:12291/6000000006000290630/wasusyt/index.m3u8
 IHOT体育,http://www.998969.xyz:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
 IHOT体育,http://live.wqwqwq.sbs/itv/6000000006000290630.m3u8?cdn=wasusyt
+IHOT赛车,http://www.bing91.cn:12291/2000000004000000055/hnbblive/index.m3u8
+IHOT赛车,http://www.bing91.cn:12291/6000000006000240630/wasusyt/index.m3u8
 IHOT赛车,http://www.998969.xyz:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
 IHOT赛车,http://live.wqwqwq.sbs/itv/6000000006000240630.m3u8?cdn=wasusyt
+五星体育,http://www.bing91.cn:12291/5000000010000017540/bestzb/index.m3u8
+五星体育,http://www.bing91.cn:12291/2000000002000000007/hnbblive/index.m3u8
 五星体育,http://www.998969.xyz:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 五星体育,http://live.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb
 睛彩篮球,rtp://239.77.1.21:5146
@@ -1023,6 +1033,8 @@ CCTV4K,http://mail.syswareonline.com:7088/rtp/239.93.42.42:5140
 少儿动画,http://router.goody.icu:4000/rtp/239.93.0.193:9000
 青春动漫,http://router.goody.icu:4000/rtp/239.93.0.146:5140
 动漫秀场,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
+动漫秀场,http://www.bing91.cn:12291/5000000011000031113/bestzb/index.m3u8
+动漫秀场,http://www.bing91.cn:12291/5000000002000023636/bestzb/index.m3u8
 广东少儿,rtp://239.77.0.250:5146
 广东少儿,http://120.198.95.220:9901/tsfile/live/1014_1.m3u8?key=txiptv
 广东少儿,http://219.135.180.210:18888/hls/29/index.m3u8
@@ -1046,22 +1058,37 @@ CCTV4K,http://mail.syswareonline.com:7088/rtp/239.93.42.42:5140
 
 
 其他频道,#genre#
+乐游,http://www.bing91.cn:12291/5000000011000031112/bestzb/index.m3u8
+乐游,http://www.bing91.cn:12291/2000000002000000092/hnbblive/index.m3u8
 乐游,http://psp94525.iask.in:6688/udp/239.93.42.94:5140
 乐游,http://router.goody.icu:4000/rtp/239.93.42.94:5140
 解密,http://psp94525.iask.in:6688/udp/239.93.0.199:9048
 解密,http://router.goody.icu:4000/rtp/239.93.0.199:9048
+农业致富,http://www.bing91.cn:12291/2000000003000000003/hnbblive/index.m3u8
 农业致富,http://www.998969.xyz:35455/itv/2000000003000000003.m3u8?cdn=hnbblive
 农业致富,http://live.wqwqwq.sbs/itv/2000000003000000003.m3u8?cdn=hnbblive
+精品纪录,http://www.bing91.cn:12291/1000000004000013730/ystenlive/index.m3u8
+精品记录,http://www.bing91.cn:12291/2000000003000000019/hnbblive/index.m3u8
 精品纪录,http://www.998969.xyz:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
 精品纪录,http://live.wqwqwq.sbs/itv/1000000004000013730.m3u8?cdn=ystenlive
+纪实人文,http://www.bing91.cn:12291/1000000001000016545/ystenlive/index.m3u8
+纪实人文,http://www.bing91.cn:12291/1000000005000265021/ystenlive/index.m3u8
 纪实人文,http://www.998969.xyz:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
 纪实人文,http://live.wqwqwq.sbs/itv/1000000005000265021.m3u8?cdn=ystenlive
+求索动物,http://www.bing91.cn:12291/2000000004000000009/hnbblive/index.m3u8
+求索动物,http://www.bing91.cn:12291/6000000002000010046/wasusyt/index.m3u8
 求索动物,http://www.998969.xyz:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索动物,http://live.wqwqwq.sbs/itv/6000000002000010046.m3u8?cdn=wasusyt
+求索纪录,http://www.bing91.cn:12291/2000000004000000010/hnbblive/index.m3u8
+求索纪录,http://www.bing91.cn:12291/6000000002000032052/wasusyt/index.m3u8
 求索纪录,http://www.998969.xyz:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
 求索纪录,http://live.wqwqwq.sbs/itv/6000000002000032052.m3u8?cdn=wasusyt
+求索科学,http://www.bing91.cn:12291/2000000004000000011/hnbblive/index.m3u8
+求索科学,http://www.bing91.cn:12291/6000000002000032344/wasusyt/index.m3u8
 求索科学,http://www.998969.xyz:35455/itv/6000000002000032344.m3u8?cdn=wasusyt 
 求索科学,http://live.wqwqwq.sbs/itv/6000000002000032344.m3u8?cdn=wasusyt
+求索生活,http://www.bing91.cn:12291/2000000004000000008/hnbblive/index.m3u8
+求索生活,http://www.bing91.cn:12291/6000000002000003382/wasusyt/index.m3u8
 求索生活,http://www.998969.xyz:35455/itv/6000000002000003382.m3u8?cdn=wasusyt 
 求索生活,http://live.wqwqwq.sbs/itv/6000000002000003382.m3u8?cdn=wasusyt
 中国交通,http://mail.syswareonline.com:7088/rtp/239.93.0.142:5140
