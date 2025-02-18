@@ -13,12 +13,12 @@
 鳯凰資訊,https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
 鳯凰資訊,https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
 鳯凰資訊,http://222.209.208.234:7088/rtp/239.93.0.118:2191
-鳳凰香港,https://stream1.freetv.fun/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.ctv
+鳳凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=13389247903&pwd=Llxxcc1986|User-Agent=okhttp
 鳳凰香港,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476923.m3u8
 鳳凰香港,http://extraott.com:80/live/6772191932/1654508883/473557.m3u8
 鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=388753989581340&edge=edge1.hkdvb.com
 鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=599647844601624&edge=edge1.hkdvb.com
-鳳凰香港,http://qctv.fengshows.cn/live/0701phk48.flv?txSecret=07d2020813866c7d557f8f1ca23d5038&txTime=67a45c0c
+鳳凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
 
 
 军事评论,http://www.998969.xyz:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
@@ -137,7 +137,6 @@ Bloomberg News,http://122.117.109.23:8551/http/61.219.99.20:8078/hls/43/80/bloom
 
 
 体育频道,#genre#
-广东体育,rtp://@239.77.0.112:5146
 广东体育,rtp://@239.77.0.112:5146
 广东体育,http://108.181.20.181/livehttpplay?channel_id=12028
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
@@ -358,12 +357,12 @@ AMC電影台,http://122.117.109.23:8561/http/220.130.214.23:8092/upload/115/AMC_
 鳯凰資訊,https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
 鳯凰資訊,https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
 鳯凰資訊,http://222.209.208.234:7088/rtp/239.93.0.118:2191
-鳳凰香港,https://stream1.freetv.fun/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.ctv
+鳳凰香港,http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=13389247903&pwd=Llxxcc1986|User-Agent=okhttp
 鳳凰香港,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476923.m3u8
 鳳凰香港,http://extraott.com:80/live/6772191932/1654508883/473557.m3u8
 鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=388753989581340&edge=edge1.hkdvb.com
 鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=599647844601624&edge=edge1.hkdvb.com
-鳳凰香港,http://qctv.fengshows.cn/live/0701phk48.flv?txSecret=07d2020813866c7d557f8f1ca23d5038&txTime=67a45c0c
+鳳凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
 無線新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 無線新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 無線新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
@@ -546,7 +545,7 @@ TVBS歡樂台,http://122.117.109.23:8527/http/61.67.128.137:8081/hls/65/807/ch01
 東風衛視台,http://122.117.109.23:8527/http/220.130.87.218:8081/hls/68/810/ch031.m3u8
 三立都會台,http://122.117.109.23:8523/http/220.130.214.23:8088/hls/65/807/ch19.m3u8
 三立都會台,http://122.117.109.23:8521/http/220.130.87.218:8081/hls/65/807/ch019.m3u8
-中天亞洲台,
+中天亞洲台,http://extraott.com:80/live/6772191932/1654508883/191911.m3u8
 中天綜合台,http://122.117.109.23:8526/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
 中天綜合台,http://122.117.109.23:8527/http/220.130.214.23:8088/hls/67/809/ch25.m3u8
 中天綜合台,http://122.117.109.23:8521/http/61.67.128.137:8081/hls/67/809/ch025.m3u8
