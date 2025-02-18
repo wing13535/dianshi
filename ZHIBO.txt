@@ -100,6 +100,7 @@ TVBS新闻台,http://122.117.109.23:8574/http/61.67.128.137:8081/hls/75/817/ch05
 寰宇新聞台灣台,https://live.iill.top/youtube/w87VGpgd90U
 東森新聞台,https://live.iill.top/youtube/V1p33hqPrUk
 東森新聞台,http://hotelplay.net:80/live/pmb8krf68n4z/4d8cf4af8de3574c/476998.m3u8
+中天新聞台,http://tlive24.uk/livehttpplay?channel_id=20163
 中天新聞台,https://live.iill.top/youtube/vr3XyVCR4T0
 中天新聞台,https://zt.dracwoundshop.eu.org/live/stream.m3u8
 中天新聞台,http://122.117.109.23:8580/http/220.130.214.23:8088/hls/78/80/ch63max.m3u8
@@ -383,8 +384,10 @@ AMC電影台,http://122.117.109.23:8561/http/220.130.214.23:8092/upload/115/AMC_
 娛樂新聞台,https://live.hkdvb.com/hls/live/91.m3u8?token=599647844601624&edge=edge1.hkdvb.com
 娛樂新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+NOW新聞,http://live4play.uk/livehttpplay?channel_id=20041
 NOW新聞,https://live.hkdvb.com/hls/live/332.m3u8?token=388753989581340&edge=edge1.hkdvb.com
 NOW新聞,https://live.hkdvb.com/hls/live/332.m3u8?token=599647844601624&edge=edge1.hkdvb.com
+NOW财经,http://hkenlive.uk/livehttpplay?channel_id=13000
 NOW财经,https://live.hkdvb.com/hls/live/333.m3u8?token=388753989581340&edge=edge1.hkdvb.com
 NOW财经,https://live.hkdvb.com/hls/live/333.m3u8?token=599647844601624&edge=edge1.hkdvb.com
 HOY78,https://live.hkdvb.com/hls/live/78.m3u8?token=388753989581340&edge=edge1.hkdvb.com
@@ -457,8 +460,10 @@ Mytv 粤语片台,https://live.hkdvb.com/hls/live/200.m3u8?token=599647844601624
 黄金华剧台,https://live.hkdvb.com/hls/live/90.m3u8?token=388753989581340&edge=edge1.hkdvb.com
 黄金华剧台,https://live.hkdvb.com/hls/live/90.m3u8?token=599647844601624&edge=edge1.hkdvb.com
 
+NOW星影,http://hkenlive.uk/livehttpplay?channel_id=13003
 NOW星影,https://live.hkdvb.com/hls/live/138.m3u8?token=388753989581340&edge=edge1.hkdvb.com
 NOW星影,https://live.hkdvb.com/hls/live/138.m3u8?token=599647844601624&edge=edge1.hkdvb.com
+NOW爆谷,http://hkenlive.uk/livehttpplay?channel_id=13002
 NOW爆谷,https://live.hkdvb.com/hls/live/133.m3u8?token=388753989581340&edge=edge1.hkdvb.com
 NOW爆谷,https://live.hkdvb.com/hls/live/133.m3u8?token=599647844601624&edge=edge1.hkdvb.com
 美亞電影台(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=388753989581340&edge=edge1.hkdvb.com
@@ -494,6 +499,7 @@ Now Sports641,https://live.hkdvb.com/hls/live/641.m3u8?token=388753989581340&edg
 Now Sports641,https://live.hkdvb.com/hls/live/641.m3u8?token=599647844601624&edge=edge1.hkdvb.com
 Now Sports642,https://live.hkdvb.com/hls/live/642.m3u8?token=388753989581340&edge=edge1.hkdvb.com
 Now Sports642,https://live.hkdvb.com/hls/live/642.m3u8?token=599647844601624&edge=edge1.hkdvb.com
+Now Sports英超1,http://hkenlive.uk/livehttpplay?channel_id=13007
 Now Sports英超1,https://live.hkdvb.com/hls/live/621.m3u8?token=388753989581340&edge=edge1.hkdvb.com
 Now Sports英超1,https://live.hkdvb.com/hls/live/621.m3u8?token=599647844601624&edge=edge1.hkdvb.com
 Now Sports 4K,https://live.hkdvb.com/hls/live/644.m3u8?token=388753989581340&edge=edge1.hkdvb.com
@@ -693,6 +699,7 @@ TVBS新闻台,http://122.117.109.23:8574/http/61.67.128.137:8081/hls/75/817/ch05
 寰宇新聞台灣台,https://live.iill.top/youtube/w87VGpgd90U
 東森新聞台,https://live.iill.top/youtube/V1p33hqPrUk
 東森新聞台,http://hotelplay.net:80/live/pmb8krf68n4z/4d8cf4af8de3574c/476998.m3u8
+中天新聞台,http://tlive24.uk/livehttpplay?channel_id=20163
 中天新聞台,https://live.iill.top/youtube/vr3XyVCR4T0
 中天新聞台,https://zt.dracwoundshop.eu.org/live/stream.m3u8
 中天新聞台,http://122.117.109.23:8580/http/220.130.214.23:8088/hls/78/80/ch63max.m3u8
