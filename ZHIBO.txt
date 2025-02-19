@@ -1,12 +1,12 @@
 新闻频道,#genre#
+鳳凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 鳳凰中文,http://psp94525.iask.in:6688/udp/239.93.0.162:2192
-鳳凰中文,http://router.goody.icu:4000/rtp/239.93.0.162:2192
 鳳凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 鳳凰中文,http://6v.nx.tc/smrt.php?playurl=https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,http://222.209.208.234:7088/rtp/239.93.0.162:2192
+鳯凰資訊,http://live4play.uk/livehttpplay?channel_id=30015
 鳯凰資訊,http://psp94525.iask.in:6688/udp/239.93.0.118:2191
-鳯凰資訊,http://router.goody.icu:4000/rtp/239.93.0.118:2191
 鳯凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳯凰資訊,http://6v.nx.tc/smrt.php?playurl=http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳯凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -24,7 +24,6 @@
 军事评论,http://www.998969.xyz:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
 军事评论,http://live.wqwqwq.sbs/itv/2000000003000000022.m3u8?cdn=hnbblive
 军事,http://psp94525.iask.in:6688/udp/239.93.0.204:9076
-军事,http://router.goody.icu:4000/rtp/239.93.0.204:9076
 军事,http://222.209.208.234:7088/rtp/239.93.0.204:9076
 
 CCTV1,rtp://@239.77.1.17:5146
@@ -209,11 +208,9 @@ IHOT赛车,http://live.wqwqwq.sbs/itv/6000000006000240630.m3u8?cdn=wasusyt
 篮球人物,http://43.136.119.99:35455/douyu/8434598
 经典NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 经典NBA,http://212.102.60.231/NBA_TV/index.m3u8
-快乐垂钓,http://www.998969.xyz:35455/itv/5000000011000031206.m3u8?cdn=bestzb
 快乐垂钓,http://psp94525.iask.in:6688/udp/239.93.1.151:5140
-快乐垂钓,http://router.goody.icu:4000/rtp/239.93.1.151:5140
+快乐垂钓,http://www.998969.xyz:35455/itv/5000000011000031206.m3u8?cdn=bestzb
 来钓鱼吧,http://psp94525.iask.in:6688/udp/239.93.42.8:5140
-来钓鱼吧,http://router.goody.icu:4000/rtp/239.93.42.8:5140
 英雄联盟1,http://live.iill.top/bilibili.php?id=6
 英雄联盟2,http://live.iill.top/huya.php?id=660001
 英雄联盟3,http://live.iill.top/douyu.php?id=288016
@@ -299,7 +296,9 @@ DAZN二台,rtmp://f13h.mine.nu/sat/tv741
 欧美大片,http://43.136.119.99:35455/douyu/2793084
 荒野求生,http://43.136.119.99:35455/huya/24766781
 陈翔六点半,http://43.136.119.99:35455/huya/11274154
+黑莓电影,http://www.bing91.cn:12291/2000000003000000001/hnbblive/index.m3u8
 黑莓电影,http://www.998969.xyz:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+超级电影,http://www.bing91.cn:12291/2000000003000000031/hnbblive/index.m3u8
 超级电影,http://www.998969.xyz:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
 影迷电影,rtp://239.77.0.27:5146
 影迷电影,http://psp94525.iask.in:6688/udp/239.93.42.5:5140
@@ -368,14 +367,14 @@ AMC電影台,http://122.117.109.23:8561/http/220.130.214.23:8092/upload/115/AMC_
 
 
 香港频道,#genre#
+鳳凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 鳳凰中文,http://psp94525.iask.in:6688/udp/239.93.0.162:2192
-鳳凰中文,http://router.goody.icu:4000/rtp/239.93.0.162:2192
 鳳凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 鳳凰中文,http://6v.nx.tc/smrt.php?playurl=https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,http://222.209.208.234:7088/rtp/239.93.0.162:2192
+鳯凰資訊,http://live4play.uk/livehttpplay?channel_id=30015
 鳯凰資訊,http://psp94525.iask.in:6688/udp/239.93.0.118:2191
-鳯凰資訊,http://router.goody.icu:4000/rtp/239.93.0.118:2191
 鳯凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳯凰資訊,http://6v.nx.tc/smrt.php?playurl=http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳯凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -1076,15 +1075,12 @@ CCTV4K,http://mail.syswareonline.com:7088/rtp/239.93.42.42:5140
 
 
 儿童频道,#genre#
-中录动漫,http://router.goody.icu:4000/rtp/239.93.1.188:5140
 中录动漫,http://psp94525.iask.in:6688/udp/239.93.1.188:5140
-亲子趣学,http://router.goody.icu:4000/rtp/239.93.1.191:5140
 亲子趣学,http://psp94525.iask.in:6688/udp/239.93.1.191:5140
-少儿天地,http://router.goody.icu:4000/rtp/239.93.42.34:5140
 少儿天地,http://psp94525.iask.in:6688/udp/239.93.42.34:5140
-宝宝动画,http://router.goody.icu:4000/rtp/239.93.42.89:5140
-少儿动画,http://router.goody.icu:4000/rtp/239.93.0.193:9000
-青春动漫,http://router.goody.icu:4000/rtp/239.93.0.146:5140
+宝宝动画,http://psp94525.iask.in:6688/udp/239.93.42.89:5140
+少儿动画,http://psp94525.iask.in:6688/udp/239.93.0.193:9000
+青春动漫,http://psp94525.iask.in:6688/udp/239.93.0.146:5140
 动漫秀场,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
 动漫秀场,http://www.bing91.cn:12291/5000000011000031113/bestzb/index.m3u8
 动漫秀场,http://www.bing91.cn:12291/5000000002000023636/bestzb/index.m3u8
@@ -1098,6 +1094,7 @@ CCTV4K,http://mail.syswareonline.com:7088/rtp/239.93.42.42:5140
 金鹰卡通,http://psp94525.iask.in:6688/udp/239.93.0.5:5140
 哈哈炫动,http://psp94525.iask.in:6688/udp/239.93.0.173:5140
 优漫卡通,http://psp94525.iask.in:6688/udp/239.93.0.251:5140
+黑莓动画,http://www.bing91.cn:12291/2000000003000000002/hnbblive/index.m3u8
 黑莓动画,http://www.998969.xyz:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
 黑莓动画,http://live.wqwqwq.sbs/itv/1000000004000021734.m3u8?cdn=ystenlive
 東森幼幼台,http://122.117.109.23:8515/http/61.219.99.20:8081/hls/63/805/ch09.m3u8
@@ -1114,9 +1111,7 @@ CCTV4K,http://mail.syswareonline.com:7088/rtp/239.93.42.42:5140
 乐游,http://www.bing91.cn:12291/5000000011000031112/bestzb/index.m3u8
 乐游,http://www.bing91.cn:12291/2000000002000000092/hnbblive/index.m3u8
 乐游,http://psp94525.iask.in:6688/udp/239.93.42.94:5140
-乐游,http://router.goody.icu:4000/rtp/239.93.42.94:5140
 解密,http://psp94525.iask.in:6688/udp/239.93.0.199:9048
-解密,http://router.goody.icu:4000/rtp/239.93.0.199:9048
 农业致富,http://www.bing91.cn:12291/2000000003000000003/hnbblive/index.m3u8
 农业致富,http://www.998969.xyz:35455/itv/2000000003000000003.m3u8?cdn=hnbblive
 农业致富,http://live.wqwqwq.sbs/itv/2000000003000000003.m3u8?cdn=hnbblive
@@ -1144,10 +1139,8 @@ CCTV4K,http://mail.syswareonline.com:7088/rtp/239.93.42.42:5140
 求索生活,http://www.bing91.cn:12291/6000000002000003382/wasusyt/index.m3u8
 求索生活,http://www.998969.xyz:35455/itv/6000000002000003382.m3u8?cdn=wasusyt 
 求索生活,http://live.wqwqwq.sbs/itv/6000000002000003382.m3u8?cdn=wasusyt
-中国交通,http://mail.syswareonline.com:7088/rtp/239.93.0.142:5140
-中国交通,http://router.goody.icu:4000/rtp/239.93.0.142:5140
-金鹰纪实,http://mail.syswareonline.com:7088/rtp/239.93.0.130:5140
-金鹰纪实,http://router.goody.icu:4000/rtp/239.93.0.130:5140
+中国交通,http://psp94525.iask.in:6688/udp/239.93.0.142:5140
+金鹰纪实,http://psp94525.iask.in:6688/udp/239.93.0.130:5140
 探索發現台,http://122.117.109.23:8511/http/220.130.214.23:8088/hls/71/813/ch44.m3u8
 探索發現台,http://122.117.109.23:8515/http/61.67.128.137:8088/hls/71/813/ch044.m3u8
 探索發現台,http://122.117.109.23:8510/http/220.130.87.218:8081/hls/71/813/ch044.m3u8
