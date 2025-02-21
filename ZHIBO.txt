@@ -97,7 +97,9 @@ TVBS新闻台,https://live.iill.top/youtube/2mCSYvcfhtc
 TVBS新闻台,http://122.117.109.23:8587/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
 TVBS新闻台,http://122.117.109.23:8543/http/220.130.87.218:8081/hls/75/817/ch059.m3u8
 TVBS新闻台,http://122.117.109.23:8574/http/61.67.128.137:8081/hls/75/817/ch059.m3u8
+寰宇新聞台,http://yymall.top:50002/686f6e6479303031/index.m3u8?pid=litv-longturn14
 寰宇新聞台,https://live.iill.top/youtube/6IquAgfvYmc
+寰宇新聞台,http://tv4g.130707.xyz/446f75626c65303031/index.m3u8?pid=litv-longturn14
 寰宇新聞台,http://122.117.109.23:8513/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
 寰宇新聞台,http://122.117.109.23:8548/http/220.130.214.23:8088/hls/76/818/ch62.m3u8
 寰宇新聞台,http://122.117.109.23:8520/http/61.67.128.137:8081/hls/76/818/ch062.m3u8
@@ -727,14 +729,15 @@ TVBS新闻台,https://live.iill.top/youtube/2mCSYvcfhtc
 TVBS新闻台,http://122.117.109.23:8587/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
 TVBS新闻台,http://122.117.109.23:8543/http/220.130.87.218:8081/hls/75/817/ch059.m3u8
 TVBS新闻台,http://122.117.109.23:8574/http/61.67.128.137:8081/hls/75/817/ch059.m3u8
+寰宇新聞台,http://yymall.top:50002/686f6e6479303031/index.m3u8?pid=litv-longturn14
 寰宇新聞台,https://live.iill.top/youtube/6IquAgfvYmc
+寰宇新聞台,http://tv4g.130707.xyz/446f75626c65303031/index.m3u8?pid=litv-longturn14
 寰宇新聞台,http://122.117.109.23:8513/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
 寰宇新聞台,http://122.117.109.23:8548/http/220.130.214.23:8088/hls/76/818/ch62.m3u8
 寰宇新聞台,http://122.117.109.23:8520/http/61.67.128.137:8081/hls/76/818/ch062.m3u8
 寰宇新聞台,http://122.117.109.23:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
 寰宇新聞台,http://hotelplay.net:80/live/pmb8krf68n4z/4d8cf4af8de3574c/476270.m3u8
 寰宇新聞台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476270.m3u8
-寰宇新聞台灣台,https://live.iill.top/youtube/w87VGpgd90U
 東森新聞台,https://live.iill.top/youtube/V1p33hqPrUk
 東森新聞台,http://hotelplay.net:80/live/pmb8krf68n4z/4d8cf4af8de3574c/476998.m3u8
 中天新聞台,http://tlive24.uk/livehttpplay?channel_id=20163
