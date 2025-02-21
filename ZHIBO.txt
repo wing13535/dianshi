@@ -460,7 +460,7 @@ RHK32,http://vallest.uk/livehttpplay?channel_id=30067
 RHK32,https://live.hkdvb.com/hls/live/32.m3u8?token=388753989581340&edge=edge1.hkdvb.com
 RHK32,https://live.hkdvb.com/hls/live/32.m3u8?token=599647844601624&edge=edge1.hkdvb.com
 
-TVB 星河台http://go1.bkpcp.top/tl/null-7
+TVB 星河台,http://go1.bkpcp.top/tl/null-7
 TVB 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB 星河台,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 TVB 华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
