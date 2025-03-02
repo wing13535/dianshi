@@ -277,35 +277,35 @@ DAZN二台,rtmp://f13h.mine.nu/sat/tv741
 影迷电影,http://router.goody.icu:4000/rtp/239.93.42.5:5140
 
 NOW星影,http://hkenlive.uk/livehttpplay?channel_id=13003
-NOW星影,https://live.hkdvb.com/hls/live/138.m3u8?token=388753989581340&edge=edge1.hkdvb.com
-NOW星影,https://live.hkdvb.com/hls/live/138.m3u8?token=599647844601624&edge=edge1.hkdvb.com
+NOW星影,https://live.hkdvb.com/hls/live/138.m3u8?token=464398417806293&edge=edge1.hkdvb.com
+NOW星影,https://live.hkdvb.com/hls/live/138.m3u8?token=639771783493467&edge=edge1.hkdvb.com
 NOW爆谷,http://hkenlive.uk/livehttpplay?channel_id=13002
-NOW爆谷,https://live.hkdvb.com/hls/live/133.m3u8?token=388753989581340&edge=edge1.hkdvb.com
-NOW爆谷,https://live.hkdvb.com/hls/live/133.m3u8?token=599647844601624&edge=edge1.hkdvb.com
-美亞電影台(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=388753989581340&edge=edge1.hkdvb.com
-美亞電影台(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=599647844601624&edge=edge1.hkdvb.com
+NOW爆谷,https://live.hkdvb.com/hls/live/133.m3u8?token=464398417806293&edge=edge1.hkdvb.com
+NOW爆谷,https://live.hkdvb.com/hls/live/133.m3u8?token=639771783493467&edge=edge1.hkdvb.com
+美亞電影台(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=464398417806293&edge=edge1.hkdvb.com
+美亞電影台(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=639771783493467&edge=edge1.hkdvb.com
 美亞電影台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 天影电影,http://fr-us3.jdiptv.cc/live/typd.m3u8?kdstime=1737425765&kdssign=23a03f6052544c7d5d29cd4b99778c49
-天影电影,https://live.hkdvb.com/hls/live/501.m3u8?token=388753989581340&edge=edge1.hkdvb.com
-天影电影,https://live.hkdvb.com/hls/live/501.m3u8?token=599647844601624&edge=edge1.hkdvb.com
-PoPC,https://live.hkdvb.com/hls/live/206.m3u8?token=388753989581340&edge=edge1.hkdvb.com
-PoPC,https://live.hkdvb.com/hls/live/206.m3u8?token=599647844601624&edge=edge1.hkdvb.com
-天影经典,https://live.hkdvb.com/hls/live/500.m3u8?token=388753989581340&edge=edge1.hkdvb.com
-天影经典,https://live.hkdvb.com/hls/live/500.m3u8?token=599647844601624&edge=edge1.hkdvb.com
-Thrill,https://live.hkdvb.com/hls/live/506.m3u8?token=388753989581340&edge=edge1.hkdvb.com
-Thrill,https://live.hkdvb.com/hls/live/506.m3u8?token=599647844601624&edge=edge1.hkdvb.com
-AT-X,https://live.hkdvb.com/hls/live/507.m3u8?token=388753989581340&edge=edge1.hkdvb.com
-AT-X,https://live.hkdvb.com/hls/live/507.m3u8?token=599647844601624&edge=edge1.hkdvb.com
-AXN,https://live.hkdvb.com/hls/live/508.m3u8?token=388753989581340&edge=edge1.hkdvb.com
-AXN,https://live.hkdvb.com/hls/live/508.m3u8?token=599647844601624&edge=edge1.hkdvb.com
-Animax,https://live.hkdvb.com/hls/live/509.m3u8?token=388753989581340&edge=edge1.hkdvb.com
-Animax,https://live.hkdvb.com/hls/live/509.m3u8?token=599647844601624&edge=edge1.hkdvb.com
-TVN,https://live.hkdvb.com/hls/live/510.m3u8?token=388753989581340&edge=edge1.hkdvb.com
-TVN,https://live.hkdvb.com/hls/live/510.m3u8?token=599647844601624&edge=edge1.hkdvb.com
-BBC Earth,https://live.hkdvb.com/hls/live/511.m3u8?token=388753989581340&edge=edge1.hkdvb.com
-BBC Earth,https://live.hkdvb.com/hls/live/511.m3u8?token=599647844601624&edge=edge1.hkdvb.com
-HBO,https://live.hkdvb.com/hls/live/115.m3u8?token=388753989581340&edge=edge1.hkdvb.com
-HBO,https://live.hkdvb.com/hls/live/115.m3u8?token=599647844601624&edge=edge1.hkdvb.com
+天影电影,https://live.hkdvb.com/hls/live/501.m3u8?token=464398417806293&edge=edge1.hkdvb.com
+天影电影,https://live.hkdvb.com/hls/live/501.m3u8?token=639771783493467&edge=edge1.hkdvb.com
+PoPC,https://live.hkdvb.com/hls/live/206.m3u8?token=464398417806293&edge=edge1.hkdvb.com
+PoPC,https://live.hkdvb.com/hls/live/206.m3u8?token=639771783493467&edge=edge1.hkdvb.com
+天影经典,https://live.hkdvb.com/hls/live/500.m3u8?token=464398417806293&edge=edge1.hkdvb.com
+天影经典,https://live.hkdvb.com/hls/live/500.m3u8?token=639771783493467&edge=edge1.hkdvb.com
+Thrill,https://live.hkdvb.com/hls/live/506.m3u8?token=464398417806293&edge=edge1.hkdvb.com
+Thrill,https://live.hkdvb.com/hls/live/506.m3u8?token=639771783493467&edge=edge1.hkdvb.com
+AT-X,https://live.hkdvb.com/hls/live/507.m3u8?token=464398417806293&edge=edge1.hkdvb.com
+AT-X,https://live.hkdvb.com/hls/live/507.m3u8?token=639771783493467&edge=edge1.hkdvb.com
+AXN,https://live.hkdvb.com/hls/live/508.m3u8?token=464398417806293&edge=edge1.hkdvb.com
+AXN,https://live.hkdvb.com/hls/live/508.m3u8?token=639771783493467&edge=edge1.hkdvb.com
+Animax,https://live.hkdvb.com/hls/live/509.m3u8?token=464398417806293&edge=edge1.hkdvb.com
+Animax,https://live.hkdvb.com/hls/live/509.m3u8?token=639771783493467&edge=edge1.hkdvb.com
+TVN,https://live.hkdvb.com/hls/live/510.m3u8?token=464398417806293&edge=edge1.hkdvb.com
+TVN,https://live.hkdvb.com/hls/live/510.m3u8?token=639771783493467&edge=edge1.hkdvb.com
+BBC Earth,https://live.hkdvb.com/hls/live/511.m3u8?token=464398417806293&edge=edge1.hkdvb.com
+BBC Earth,https://live.hkdvb.com/hls/live/511.m3u8?token=639771783493467&edge=edge1.hkdvb.com
+HBO,https://live.hkdvb.com/hls/live/115.m3u8?token=464398417806293&edge=edge1.hkdvb.com
+HBO,https://live.hkdvb.com/hls/live/115.m3u8?token=639771783493467&edge=edge1.hkdvb.com
 
 
 
