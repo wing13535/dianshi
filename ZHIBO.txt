@@ -17,8 +17,8 @@
 鳯凰資訊,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
 鳳凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
 鳳凰香港,http://108.181.20.221:27347/livehttpplay?channel_id=20067
-鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=388753989581340&edge=edge1.hkdvb.com
-鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=599647844601624&edge=edge1.hkdvb.com
+鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=464398417806293&edge=edge1.hkdvb.com
+鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=639771783493467&edge=edge1.hkdvb.com
 
 TVBS新闻台,https://live.iill.top/youtube/2mCSYvcfhtc
 TVBS新闻台,http://122.117.109.23:8587/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
@@ -361,8 +361,8 @@ AMC電影台,http://122.117.109.23:8561/http/220.130.214.23:8092/upload/115/AMC_
 鳯凰資訊,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
 鳳凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
 鳳凰香港,http://108.181.20.221:27347/livehttpplay?channel_id=20067
-鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=388753989581340&edge=edge1.hkdvb.com
-鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=599647844601624&edge=edge1.hkdvb.com
+鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=464398417806293&edge=edge1.hkdvb.com
+鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=639771783493467&edge=edge1.hkdvb.com
 
 
 無線新聞台,http://vallest.uk/livehttpplay?channel_id=30024
