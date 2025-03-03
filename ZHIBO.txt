@@ -2,6 +2,7 @@
 鳳凰中文,http://yulang132.cn:4022/rtp/239.93.0.162:2192
 鳳凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
 鳳凰中文,http://6v.nx.tc/smrt.php?playurl=https://cdn.163189.xyz/live/fhzw/stream.m3u8
+鳳凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.m3u8
 鳳凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 鳳凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -9,6 +10,7 @@
 鳯凰資訊,http://yulang132.cn:4022/rtp/239.93.0.118:2191
 鳯凰資訊,http://dns.yiandrive.com:15907/phenix/fhzx
 鳯凰資訊,http://6v.nx.tc/smrt.php?playurl=http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+鳯凰資訊,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.m3u8
 鳯凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳯凰資訊,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 鳯凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -16,6 +18,7 @@
 鳯凰資訊,https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
 鳯凰資訊,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
 鳳凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
+鳳凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.m3u8
 鳳凰香港,http://108.181.20.221:27347/livehttpplay?channel_id=20067
 鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=464398417806293&edge=edge1.hkdvb.com
 鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=639771783493467&edge=edge1.hkdvb.com
@@ -65,12 +68,15 @@ CCTV13,http://113.108.59.138:8888/hls/31/index.m3u8
 CCTV13,http://yulang132.cn:4022/rtp/239.93.0.66:5140
 CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 广东民生,rtp://@239.77.0.225:5146
+广东民生,http://113.81.20.80:808/hls/24/index.m3u8
 广东民生,http://218.15.183.23:9901/tsfile/live/23011_1.m3u8
 广东民生,http://61.140.21.34:50085/hls/21/index.m3u8
 广东民生,http://219.135.180.210:18888/hls/33/index.m3u8
 广东民生,http://huangtong-com.cn:9902/tsfile/live/1012_1.m3u8
 广东新闻,rtp://@239.77.0.173:5146
+广东新闻,http://113.81.20.80:808/hls/26/index.m3u8
 广东新闻,http://218.15.183.23:9901/tsfile/live/23010_1.m3u8
+广东新闻,http://120.198.101.106:9901/tsfile/live/1013_1.m3u8
 广东新闻,http://61.140.21.34:50085/hls/23/index.m3u8
 广东新闻,http://219.135.180.210:18888/hls/34/index.m3u8
 广东新闻,http://huangtong-com.cn:9902/tsfile/live/1011_1.m3u8
@@ -289,7 +295,7 @@ NOW爆谷,https://live.hkdvb.com/hls/live/133.m3u8?token=639771783493467&edge=ed
 美亞電影台(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=464398417806293&edge=edge1.hkdvb.com
 美亞電影台(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=639771783493467&edge=edge1.hkdvb.com
 美亞電影台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-天影电影,http://fr-us3.jdiptv.cc/live/typd.m3u8?kdstime=1737425765&kdssign=23a03f6052544c7d5d29cd4b99778c49
+美亞電影台(HK),http://go1.bkpcp.top/tl/null-5
 天影电影,https://live.hkdvb.com/hls/live/501.m3u8?token=464398417806293&edge=edge1.hkdvb.com
 天影电影,https://live.hkdvb.com/hls/live/501.m3u8?token=639771783493467&edge=edge1.hkdvb.com
 PoPC,https://live.hkdvb.com/hls/live/206.m3u8?token=464398417806293&edge=edge1.hkdvb.com
@@ -346,6 +352,7 @@ AMC電影台,http://122.117.109.23:8561/http/220.130.214.23:8092/upload/115/AMC_
 鳳凰中文,http://yulang132.cn:4022/rtp/239.93.0.162:2192
 鳳凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
 鳳凰中文,http://6v.nx.tc/smrt.php?playurl=https://cdn.163189.xyz/live/fhzw/stream.m3u8
+鳳凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.m3u8
 鳳凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 鳳凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -353,6 +360,7 @@ AMC電影台,http://122.117.109.23:8561/http/220.130.214.23:8092/upload/115/AMC_
 鳯凰資訊,http://yulang132.cn:4022/rtp/239.93.0.118:2191
 鳯凰資訊,http://dns.yiandrive.com:15907/phenix/fhzx
 鳯凰資訊,http://6v.nx.tc/smrt.php?playurl=http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+鳯凰資訊,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.m3u8
 鳯凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳯凰資訊,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 鳯凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -360,6 +368,7 @@ AMC電影台,http://122.117.109.23:8561/http/220.130.214.23:8092/upload/115/AMC_
 鳯凰資訊,https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
 鳯凰資訊,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
 鳳凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
+鳳凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.m3u8
 鳳凰香港,http://108.181.20.221:27347/livehttpplay?channel_id=20067
 鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=464398417806293&edge=edge1.hkdvb.com
 鳳凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=639771783493467&edge=edge1.hkdvb.com
@@ -487,7 +496,7 @@ NOW爆谷,https://live.hkdvb.com/hls/live/133.m3u8?token=639771783493467&edge=ed
 美亞電影台(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=464398417806293&edge=edge1.hkdvb.com
 美亞電影台(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=639771783493467&edge=edge1.hkdvb.com
 美亞電影台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-天影电影,http://fr-us3.jdiptv.cc/live/typd.m3u8?kdstime=1737425765&kdssign=23a03f6052544c7d5d29cd4b99778c49
+美亞電影台(HK),http://go1.bkpcp.top/tl/null-5
 天影电影,https://live.hkdvb.com/hls/live/501.m3u8?token=464398417806293&edge=edge1.hkdvb.com
 天影电影,https://live.hkdvb.com/hls/live/501.m3u8?token=639771783493467&edge=edge1.hkdvb.com
 PoPC,https://live.hkdvb.com/hls/live/206.m3u8?token=464398417806293&edge=edge1.hkdvb.com
@@ -746,11 +755,11 @@ TVBS新闻台,http://122.117.109.23:8574/http/61.67.128.137:8081/hls/75/817/ch05
 非凡商業台,http://122.117.109.23:8546/http/220.130.214.23:8088/hls/74/816/ch56.m3u8
 非凡商業台,http://122.117.109.23:8545/http/61.67.128.137:8081/hls/74/816/ch056.m3u8
 非凡商業台,http://122.117.109.23:8546/http/220.130.87.218:8081/hls/74/816/ch056.m3u8
+彭博財經台,http://122.117.109.23:8551/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8
 彭博財經台,http://122.117.109.23:8552/http/61.67.128.137:8078/hls/43/80/bloomber.m3u8
 東森財經台,http://122.117.109.23:8546/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
-Bloomberg News,http://122.117.109.23:8551/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8
-鳯凰中文台,http://122.117.109.23:8576/http/61.67.128.137:8078/hls/20/80/phoenixif.m3u8
-鳯凰中文台,http://122.117.109.23:8576/http/61.219.99.20:8078/hls/20/80/phoenixif.m3u8
+鳯凰資訊台,http://122.117.109.23:8576/http/61.67.128.137:8078/hls/20/80/phoenixif.m3u8
+鳯凰資訊台,http://122.117.109.23:8576/http/61.219.99.20:8078/hls/20/80/phoenixif.m3u8
 鳯凰中文台,http://122.117.109.23:8577/http/61.219.99.20:8078/hls/21/80/phoenixch.m3u8
 鳯凰中文台,http://122.117.109.23:8577/http/61.67.128.137:8078/hls/21/80/phoenixch.m3u8
 
@@ -790,12 +799,15 @@ DAZN二台,rtmp://f13h.mine.nu/sat/tv741
 广东体育,http://huangtong-com.cn:9902/tsfile/live/1013_1.m3u8
 广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/szds98hsrt6u57eujseth5i7463atgestjhsrjsrj.flv
 广东民生,rtp://@239.77.0.225:5146
+广东民生,http://113.81.20.80:808/hls/24/index.m3u8
 广东民生,http://218.15.183.23:9901/tsfile/live/23011_1.m3u8
 广东民生,http://61.140.21.34:50085/hls/21/index.m3u8
 广东民生,http://219.135.180.210:18888/hls/33/index.m3u8
 广东民生,http://huangtong-com.cn:9902/tsfile/live/1012_1.m3u8
 广东新闻,rtp://@239.77.0.173:5146
+广东新闻,http://113.81.20.80:808/hls/26/index.m3u8
 广东新闻,http://218.15.183.23:9901/tsfile/live/23010_1.m3u8
+广东新闻,http://120.198.101.106:9901/tsfile/live/1013_1.m3u8
 广东新闻,http://61.140.21.34:50085/hls/23/index.m3u8
 广东新闻,http://219.135.180.210:18888/hls/34/index.m3u8
 广东新闻,http://huangtong-com.cn:9902/tsfile/live/1011_1.m3u8
