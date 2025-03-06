@@ -41,7 +41,7 @@ TVBS新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 
 CCTV1,rtp://@239.77.1.17:5146
 CCTV1,http://113.108.59.138:8888/hls/19/index.m3u8
-CCTV1,http://yulang132.cn:4022/rtp//rtp/239.93.0.58:5140
+CCTV1,http://yulang132.cn:4022/rtp/239.93.0.58:5140
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV4,rtp://@239.77.1.163:5146
 CCTV4,http://113.108.59.138:8888/hls/44/index.m3u8
@@ -825,12 +825,20 @@ CCTV4K,http://yulang132.cn:4022/rtp/239.93.42.42:5140
 
 其他频道,#genre#
 乐游,http://yulang132.cn:4022/rtp/239.93.42.94:5140
-解密,http://yulang132.cn:4022/rtp/239.93.0.199:9048
+乐游,http://182.150.169.232:7088/rtp/239.93.42.94:5140
+乐游,http://221.237.36.28:8888/rtp/239.93.42.94:5140
+乐游,http://125.71.119.143:7088/rtp/239.93.42.94:5140
+乐游,http://118.113.24.99:666/rtp/239.93.42.94:5140
+乐游,http://221.237.36.28:8888/rtp/239.93.42.94:5140
+乐游,http://221.237.8.26:8033/rtp/239.93.42.94:5140
+解密,http://yulang132.cn:4022/rtp/239.93.42.94:5140
 农业致富,http://chat.aigoo.xyz:5000/TVOD/2000000003000000003/hnbblive/index.m3u8$4M1080_湖南bblive
 农业致富,http://live.wqwqwq.sbs/itv/2000000003000000003.m3u8?cdn=hnbblive
 精品纪录,http://chat.aigoo.xyz:5000/TVOD/2000000003000000019/hnbblive/index.m3u8$4M1080_湖南bblive
 精品纪录,http://live.wqwqwq.sbs/itv/1000000004000013730.m3u8?cdn=ystenlive
-纪实人文,http://live.wqwqwq.sbs/itv/1000000005000265021.m3u8?cdn=ystenlive
+纪实人文,http://chat.aigoo.xyz:5000/TVOD/1000000001000016545/ystenlive/index.m3u8$8M1080_易视腾
+纪实人文,http://119.13.83.105:18855/TVOD/1000000001000016545/ystenlive/index.m3u8$8M1080_易视腾
+纪实人文,http://www.yaozhenguo.top:5000/TVOD/1000000001000016545/ystenlive/index.m3u8$8M1080_易视腾
 求索动物,http://chat.aigoo.xyz:5000/TVOD/6000000002000010046/wasusyt/index.m3u8$8M1080_华数
 求索动物,http://chat.aigoo.xyz:5000/TVOD/2000000004000000009/hnbblive/index.m3u8$7.5M1080_湖南bblive
 求索动物,http://live.wqwqwq.sbs/itv/6000000002000010046.m3u8?cdn=wasusyt
