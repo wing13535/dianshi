@@ -1,10 +1,8 @@
 新闻频道,#genre#
 鳳凰中文,http://118.113.24.99:666/rtp/239.93.0.162:2192
 鳳凰中文,http://125.71.119.143:7088/rtp/239.93.0.162:2192
-鳳凰中文,http://182.150.169.232:7088/rtp/239.93.0.162:2192
 鳳凰中文,http://221.237.36.28:8888/rtp/239.93.0.162:2192
 鳳凰中文,http://221.237.36.28:8888/rtp/239.93.0.162:2192
-鳳凰中文,http://221.237.8.26:8033/rtp/239.93.0.162:2192
 鳳凰中文,http://yulang132.cn:4022/rtp/239.93.0.162:2192
 鳳凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.m3u8
 鳳凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
@@ -13,12 +11,10 @@
 鳳凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,http://222.209.208.234:7088/rtp/239.93.0.162:2192
-鳳凰中文,http://118.113.24.99:666/rtp/239.93.0.118:2191
+鳯凰資訊,http://118.113.24.99:666/rtp/239.93.0.118:2191
 鳯凰資訊,http://125.71.119.143:7088/rtp/239.93.0.118:2191
-鳯凰資訊,http://182.150.169.232:7088/rtp/239.93.0.118:2191
 鳯凰資訊,http://221.237.36.28:8888/rtp/239.93.0.118:2191
 鳯凰資訊,http://221.237.36.28:8888/rtp/239.93.0.118:2191
-鳯凰資訊,http://221.237.8.26:8033/rtp/239.93.0.118:2191
 鳯凰資訊,http://yulang132.cn:4022/rtp/239.93.0.118:2191
 鳯凰資訊,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.m3u8
 鳯凰資訊,http://dns.yiandrive.com:15907/phenix/fhzx
@@ -68,9 +64,9 @@ CCTV13,http://113.108.59.138:8888/hls/31/index.m3u8
 CCTV13,http://yulang132.cn:4022/rtp/239.93.0.66:5140
 CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 广东民生,rtp://@239.77.0.225:5146
-广东民生,http://218.13.14.6:60050/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://113.105.29.43:60901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://113.81.20.80:808/hls/24/index.m3u8
+广东民生,http://218.13.14.6:60050/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://218.15.183.23:9901/tsfile/live/23011_1.m3u8
 广东民生,http://61.140.21.34:50085/hls/21/index.m3u8
 广东民生,http://219.135.180.210:18888/hls/33/index.m3u8
@@ -126,10 +122,10 @@ HOY78,https://live.hkdvb.com/hls/live/78.m3u8?token=639771783493467&edge=edge1.h
 
 体育频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
-广东体育,http://218.13.14.6:60050/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://113.105.29.43:60901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://113.81.20.80:808/hls/20/index.m3u8
 广东体育,http://113.108.59.138:8888/hls/34/index.m3u8
+广东体育,http://218.13.14.6:60050/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,https://live.hkdvb.com/hls/live/503.m3u8?token=464398417806293&edge=edge1.hkdvb.com
@@ -308,10 +304,8 @@ AMC電影台,
 香港频道,#genre#
 鳳凰中文,http://118.113.24.99:666/rtp/239.93.0.162:2192
 鳳凰中文,http://125.71.119.143:7088/rtp/239.93.0.162:2192
-鳳凰中文,http://182.150.169.232:7088/rtp/239.93.0.162:2192
 鳳凰中文,http://221.237.36.28:8888/rtp/239.93.0.162:2192
 鳳凰中文,http://221.237.36.28:8888/rtp/239.93.0.162:2192
-鳳凰中文,http://221.237.8.26:8033/rtp/239.93.0.162:2192
 鳳凰中文,http://yulang132.cn:4022/rtp/239.93.0.162:2192
 鳳凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.m3u8
 鳳凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
@@ -320,12 +314,10 @@ AMC電影台,
 鳳凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,http://222.209.208.234:7088/rtp/239.93.0.162:2192
-鳳凰中文,http://118.113.24.99:666/rtp/239.93.0.118:2191
+鳯凰資訊,http://118.113.24.99:666/rtp/239.93.0.118:2191
 鳯凰資訊,http://125.71.119.143:7088/rtp/239.93.0.118:2191
-鳯凰資訊,http://182.150.169.232:7088/rtp/239.93.0.118:2191
 鳯凰資訊,http://221.237.36.28:8888/rtp/239.93.0.118:2191
 鳯凰資訊,http://221.237.36.28:8888/rtp/239.93.0.118:2191
-鳯凰資訊,http://221.237.8.26:8033/rtp/239.93.0.118:2191
 鳯凰資訊,http://yulang132.cn:4022/rtp/239.93.0.118:2191
 鳯凰資訊,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.m3u8
 鳯凰資訊,http://dns.yiandrive.com:15907/phenix/fhzx
@@ -615,10 +607,10 @@ DAZN二台,rtmp://f13h.mine.nu/sat/tv741
 
 广东频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
-广东体育,http://218.13.14.6:60050/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://113.105.29.43:60901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://113.81.20.80:808/hls/20/index.m3u8
 广东体育,http://113.108.59.138:8888/hls/34/index.m3u8
+广东体育,http://218.13.14.6:60050/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,https://live.hkdvb.com/hls/live/503.m3u8?token=464398417806293&edge=edge1.hkdvb.com
@@ -629,9 +621,9 @@ DAZN二台,rtmp://f13h.mine.nu/sat/tv741
 广东体育,udp://239.77.0.112:5146
 广东体育,udp://@239.77.0.112:5146
 广东民生,rtp://@239.77.0.225:5146
-广东民生,http://218.13.14.6:60050/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://113.105.29.43:60901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://113.81.20.80:808/hls/24/index.m3u8
+广东民生,http://218.13.14.6:60050/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://218.15.183.23:9901/tsfile/live/23011_1.m3u8
 广东民生,http://61.140.21.34:50085/hls/21/index.m3u8
 广东民生,http://219.135.180.210:18888/hls/33/index.m3u8
@@ -645,10 +637,10 @@ DAZN二台,rtmp://f13h.mine.nu/sat/tv741
 广东新闻,http://219.135.180.210:18888/hls/34/index.m3u8
 广东新闻,http://huangtong-com.cn:9902/tsfile/live/1011_1.m3u8
 广东珠江,rtp://@239.77.0.1:5146
-广东珠江,http://218.13.14.6:60050/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://113.105.29.43:60901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://113.81.20.80:808/hls/21/index.m3u8
 广东珠江,http://120.198.95.220:9901/tsfile/live/1007_1.m3u8?key=txiptv
+广东珠江,http://218.13.14.6:60050/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东珠江,http://219.135.180.210:18888/hls/32/index.m3u8
@@ -862,13 +854,11 @@ CCTV4K,http://yulang132.cn:4022/rtp/239.93.42.42:5140
 
 
 其他频道,#genre#
-乐游,http://yulang132.cn:4022/rtp/239.93.42.94:5140
-乐游,http://182.150.169.232:7088/rtp/239.93.42.94:5140
 乐游,http://221.237.36.28:8888/rtp/239.93.42.94:5140
 乐游,http://125.71.119.143:7088/rtp/239.93.42.94:5140
 乐游,http://118.113.24.99:666/rtp/239.93.42.94:5140
 乐游,http://221.237.36.28:8888/rtp/239.93.42.94:5140
-乐游,http://221.237.8.26:8033/rtp/239.93.42.94:5140
+乐游,http://yulang132.cn:4022/rtp/239.93.42.94:5140
 解密,http://yulang132.cn:4022/rtp/239.93.42.94:5140
 农业致富,http://chat.aigoo.xyz:5000/TVOD/2000000003000000003/hnbblive/index.m3u8$4M1080_湖南bblive
 农业致富,http://live.wqwqwq.sbs/itv/2000000003000000003.m3u8?cdn=hnbblive
