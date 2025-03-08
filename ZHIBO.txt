@@ -141,6 +141,7 @@ CCTV5+,http://118.113.24.99:666/rtp/239.93.1.36:8004
 CCTV5+,http://chat.aigoo.xyz:5000/TVOD/6000000001000015875/wasusyt/index.m3u8$8M1080_华数
 CCTV5+,http://chat.aigoo.xyz:5000/TVOD/1000000001000018504/FifastbLive/index.m3u8$8M1080_易视腾
 CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV16,http://223.10.50.74:2008/hls/23/index.m3u8
 CCTV16,http://113.81.20.80:808/hls/16/index.m3u8
 CCTV16,http://118.113.24.99:666/rtp/239.93.42.54:5140
 CCTV16,http://chat.aigoo.xyz:5000/TVOD/5000000008000023253/bestzb/index.m3u8$6.8M1080_百视通
@@ -728,6 +729,7 @@ CCTV15,rtp://@239.77.1.120:5146
 CCTV15,http://118.113.24.99:666/rtp/239.93.0.103:5140
 CCTV15,http://218.15.20.81:3388/hls/35/index.m3u8
 CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV16,http://223.10.50.74:2008/hls/23/index.m3u8
 CCTV16,http://113.81.20.80:808/hls/16/index.m3u8
 CCTV16,http://118.113.24.99:666/rtp/239.93.42.54:5140
 CCTV16,http://chat.aigoo.xyz:5000/TVOD/5000000008000023253/bestzb/index.m3u8$6.8M1080_百视通
@@ -735,6 +737,7 @@ CCTV17,rtp://@239.77.1.121:5146
 CCTV17,http://118.113.24.99:666/rtp/239.93.0.92:5140
 CCTV17,http://218.15.20.81:3388/hls/37/index.m3u8
 CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
+CCTV4K,rtp://239.77.0.194:5146
 CCTV4K,http://yulang132.cn:4022/rtp/239.93.42.42:5140
 
 
