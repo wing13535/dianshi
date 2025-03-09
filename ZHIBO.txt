@@ -144,6 +144,9 @@ CCTV16,http://113.81.20.80:808/hls/16/index.m3u8
 CCTV16,http://221.237.36.28:8888/rtp/239.93.42.54:5140
 CCTV16,http://119.13.83.105:18855/TVOD/5000000008000023253/bestzb/index.m3u8$6.8M1080_百视通
 
+NBA TV,http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+FIGHT SPORTS,http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
+
 精品体育,http://119.13.83.105:18855/TVOD/2000000003000000021/hnbblive/index.m3u8$4M1080_湖南bblive
 精品体育,http://live.wqwqwq.sbs/itv/1000000004000014634.m3u8?cdn=ystenlive
 超级体育,http://119.13.83.105:18855/TVOD/2000000003000000030/hnbblive/index.m3u8$4M1080_湖南bblive
@@ -167,8 +170,6 @@ IHOT赛车,http://live.wqwqwq.sbs/itv/6000000006000240630.m3u8?cdn=wasusyt
 魅力足球,http://221.237.36.28:8888/rtp/239.93.42.97:5140
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
 篮球人物,http://43.136.119.99:35455/douyu/8434598
-经典NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-经典NBA,http://212.102.60.231/NBA_TV/index.m3u8
 快乐垂钓,http://221.237.36.28:8888/rtp/239.93.1.151:5140
 来钓鱼吧,http://221.237.36.28:8888/rtp/239.93.42.8:5140
 英雄联盟1,http://live.iill.top/bilibili.php?id=6
@@ -209,6 +210,7 @@ SPOTV 1,https://live.hkdvb.com/hls/live/710.m3u8?token=639771783493467&edge=edge
 SPOTV 2,https://live.hkdvb.com/hls/live/711.m3u8?token=464398417806293&edge=edge1.hkdvb.com
 SPOTV 2,https://live.hkdvb.com/hls/live/711.m3u8?token=639771783493467&edge=edge1.hkdvb.com
 
+緯來體育台,http://aktv_stream1.m16tv.cfd/stream/tuntun/null/AKTV.m3u8
 緯來體育台,http://108.181.21.27:27347/livehttpplay?channel_id=20120
 緯來體育台,http://116.93.98.236:8080/sat/tv721.flv
 緯來體育台,http://60.248.77.83/sat/tv721.flv
