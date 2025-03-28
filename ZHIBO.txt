@@ -989,7 +989,7 @@ TVBS NEWS,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs_n
 靖天国际,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jingtianintl_twn/playlist.m3u8
 
 
-测试222#genre#
+测试222,#genre#
 东森戏剧,http://198.16.100.186:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
 中天娱乐,http://198.16.100.186:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 靖天国际,http://198.16.100.186:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
