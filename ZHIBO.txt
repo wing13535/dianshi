@@ -952,6 +952,8 @@ Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
 Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
 
+
+测试22,#genre#
 中天新闻台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctinews/playlist.m3u8
 中视新闻台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/zhongshinews_twn/playlist.m3u8
 寰宇新闻台,https://stream1.freetv.fun/huan-yu-xin-wen-5.m3u8
