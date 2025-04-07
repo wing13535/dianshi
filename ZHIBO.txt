@@ -123,6 +123,7 @@ HOY78,http://live4play.uk/livehttpplay?channel_id=20191
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
 广东体育,http://113.108.59.138:8888/hls/34/index.m3u8
+广东体育,https://ali.hlspull.yximgs.com/live/diyp_gdty.flv
 CCTV5,rtp://@239.77.0.170:5146
 CCTV5,http://772765777.xyz:27777/rtp/239.93.1.12:2224
 CCTV5,http://113.105.29.43:60901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -139,9 +140,9 @@ CCTV16,http://hmjnas.drdjhmj.top:35455/gaoma/cctv16.m3u8
 
 NBA TV,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
 FIGHT SPORTS,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
-
+http://107.174.52.32/itv.php?id=%E5%86%9B%E4%BA%8B%E8%AF%84%E8%AE%BA
 精品体育,
-超级体育,
+超级体育,http://107.174.52.32/itv.php?id=%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2
 劲爆体育,
 IHOT体育,http://j.daysky.com:8000/rtp/239.93.42.19:5140
 IHOT赛车,http://j.daysky.com:8000/rtp/239.93.42.20:5140
@@ -202,10 +203,8 @@ CBS SPORTS NETWORK,http://aktv-stream.m16tv.cfd/stream/useradd1/cbssportsnetwork
 粤语电影2,
 粤语电影3,
 粤语喜剧,https://live.iill.top/huya/11352894
-黑莓电影,
-黑莓电影,
-超级电影,
-超级电影,
+黑莓电影,http://107.174.52.32/itv.php?id=%e9%bb%91%e8%8e%93%e7%94%b5%e5%bd%b1
+超级电影,http://107.174.52.32/itv.php?id=%e8%b6%85%e7%ba%a7%e7%94%b5%e5%bd%b1
 影迷电影,rtp://239.77.0.27:5146
 影迷电影,http://j.daysky.com:8000/rtp/239.93.42.5:5140
 
@@ -494,6 +493,7 @@ DAZN二台,rtmp://f13h.mine.nu/sat/tv741
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
 广东体育,http://113.108.59.138:8888/hls/34/index.m3u8
+广东体育,https://ali.hlspull.yximgs.com/live/diyp_gdty.flv
 广东民生,rtp://@239.77.0.225:5146
 广东民生,http://113.105.29.43:60901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://218.15.183.23:9901/tsfile/live/23011_1.m3u8
