@@ -1,79 +1,72 @@
 新闻频道,#genre#
 鳳凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-鳳凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-鳳凰中文,http://113.105.29.43:60901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-鳳凰中文,http://dsm.ccb912.top:9998/rtp/239.93.0.162:2192
 鳳凰中文,http://j.daysky.com:8000/rtp/239.93.0.162:2192
-鳳凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.m3u8
 鳳凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
-鳳凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 鳳凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
+鳳凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+鳳凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 鳯凰資訊,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-鳯凰資訊,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-鳯凰資訊,http://dsm.ccb912.top:9998/rtp/239.93.0.118:2191
 鳯凰資訊,http://j.daysky.com:8000/rtp/239.93.0.118:2191
-鳯凰資訊,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.m3u8
 鳯凰資訊,http://dns.yiandrive.com:15907/phenix/fhzx
-鳯凰資訊,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 鳯凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+鳯凰資訊,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 鳯凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+鳯凰資訊,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 鳳凰香港,http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 鳳凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-鳳凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.m3u8
 鳳凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
 鳳凰香港,http://108.181.20.221:27347/livehttpplay?channel_id=20067
 
-TVBS新闻台,https://live.iill.top/youtube/2mCSYvcfhtc
+
+TVBS新闻台,http://eu.huohuoaa.tech:1025/Smart.php?id=tvbs_n
 TVBS新闻台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
-寰宇新聞台,https://live.iill.top/youtube/6IquAgfvYmc
+TVBS新闻台,https://live.iill.top/youtube/2mCSYvcfhtc
+寰宇新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=huanyuxinwen_twn
 寰宇新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-東森新聞台,https://live.iill.top/youtube/V1p33hqPrUk
+寰宇新聞台,https://live.iill.top/youtube/6IquAgfvYmc
+東森新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=ettvnews
 東森新聞台,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-東森新聞台,http://kof97zip.dedyn.io/litv/litv.php?id=dsxw
+東森新聞台,https://live.iill.top/youtube/V1p33hqPrUk
 東森財經台,http://108.181.21.27:27347/livehttpplay?channel_id=20078
+中天新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=ctinews
 中天新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-中天新聞台,https://live.iill.top/youtube/vr3XyVCR4T0
 中天新聞台,https://zt.dracwoundshop.eu.org/live/stream.m3u8
+中天新聞台,https://live.iill.top/youtube/vr3XyVCR4T0
 中天新聞台2,https://live.iill.top/youtube/DM_PEM8GrIgm3u8?pid=4gtv-4gtv009
 
 
-军事评论,https://lives.catvod.com/TVOD/2000000003000000022/hnbblive/index.m3u8?OtherName=4M1080_湖南bblive
-军事,http://dsm.ccb912.top:9998/rtp/239.93.0.204:9076
+军事评论,
 军事,http://j.daysky.com:8000/rtp/239.93.0.204:9076
 
 CCTV1,rtp://@239.77.1.17:5146
-CCTV1,http://113.108.59.138:8888/hls/19/index.m3u8
+CCTV1,http://772765777.xyz:27777/rtp/239.93.0.58:5140
 CCTV1,http://113.105.29.43:60901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://222.85.43.241:19901/tsfile/live/54321_1.m3u8?key=txiptv&playlive=1&authid=0 
-CCTV1,http://yulang132.cn:4022/rtp/239.93.0.58:5140
+CCTV1,http://goo.bkpcp.top/mg/cctv1
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV4,rtp://@239.77.1.163:5146
-CCTV4,http://113.108.59.138:8888/hls/44/index.m3u8
+CCTV4,http://772765777.xyz:27777/rtp/239.93.1.105:5140
 CCTV4,http://113.105.29.43:60901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://222.85.43.241:19901/tsfile/live/54324_1.m3u8?key=txiptv&playlive=1&authid=0 
-CCTV4,http://yulang132.cn:4022/rtp/239.93.1.105:5140
+CCTV4,http://goo.bkpcp.top/mg/cctv4
 CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
 CCTV7,rtp://@239.77.1.159:5146
-CCTV7,http://113.108.59.138:8888/hls/3/index.m3u8
+CCTV7,http://772765777.xyz:27777/rtp/239.93.1.67:5140
 CCTV7,http://113.105.29.43:60901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://222.85.43.241:19901/tsfile/live/54326_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://yulang132.cn:4022/rtp/239.93.1.67:5140
+CCTV7,http://goo.bkpcp.top/mg/cctv7
 CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
 CCTV13,rtp://@239.77.0.188:5146
-CCTV13,http://113.108.59.138:8888/hls/31/index.m3u8
+CCTV13,http://772765777.xyz:27777/rtp/239.93.0.66:5140
 CCTV13,http://113.105.29.43:60901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://222.85.43.241:19901/tsfile/live/54333_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://yulang132.cn:4022/rtp/239.93.0.66:5140
+CCTV13,http://goo.bkpcp.top/mg/cctv13
 CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
+广东民生,rtp://@239.77.0.225:5146
 广东民生,http://113.105.29.43:60901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://218.15.183.23:9901/tsfile/live/23011_1.m3u8
 广东民生,http://61.140.21.34:50085/hls/21/index.m3u8
-广东民生,http://huangtong-com.cn:9902/tsfile/live/1012_1.m3u8
 广东新闻,rtp://@239.77.0.173:5146
+广东新闻,http://218.15.183.23:9901/tsfile/live/23010_1.m3u8
 广东新闻,http://61.140.21.34:50085/hls/23/index.m3u8
 广东新闻,http://120.198.101.106:9901/tsfile/live/1013_1.m3u8
-广东新闻,http://218.15.183.23:9901/tsfile/live/23010_1.m3u8
 
 無線新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 無線新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
@@ -84,24 +77,35 @@ CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 娛樂新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
-NOW新聞,
-NOW财经,
-HOY78,
+無線新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+無線新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+無線新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+娛樂新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+娛樂新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+娛樂新聞台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+NOW新聞,http://live4play.uk/livehttpplay?channel_id=20041
+HOY78,http://eu.huohuoaa.tech:1025/Smart.php?id=hoycaijing_twn
+HOY78,http://live4play.uk/livehttpplay?channel_id=20191
 
-民視新聞,https://live.iill.top/youtube/ylYJSBUgaMA
+
+民視新聞,http://eu.huohuoaa.tech:1025/Smart.php?id=ftvnew_taiwan
 民視新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20097
-台視新聞,https://live.iill.top/youtube/xL0ch83RAK8
+民視新聞,https://live.iill.top/youtube/ylYJSBUgaMA
+台視新聞,http://eu.huohuoaa.tech:1025/Smart.php?id=ttvnews_twn
 台視新聞,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
+台視新聞,https://live.iill.top/youtube/xL0ch83RAK8
+中視新聞,http://eu.huohuoaa.tech:1025/Smart.php?id=zhongshinews_twn
 中視新聞,https://live.iill.top/youtube/TCnaIE_SAtM
 華視新聞,https://live.iill.top/youtube/wM0g8EoUZ_E
 公視新聞,https://live.iill.top/youtube/quwqlazU-c8
+年代新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=niandainews_twn
 年代新聞台,http://108.181.21.27:27347/livehttpplay?channel_id=20033
-三立新聞台,
-非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
+三立新聞台,http://122.117.71.103:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8
+非凡新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=feifannews_twn
 壹電視新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 鏡電視新聞,https://live.iill.top/youtube/5n0y6b0Q25o
-非凡商業台,
-彭博財經台,
 亞洲新聞台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 
 
@@ -111,44 +115,43 @@ HOY78,
 
 体育频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
+广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://113.105.29.43:60901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://113.108.59.138:8888/hls/34/index.m3u8
+广东体育,http://14.212.185.146:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
+广东体育,http://113.108.59.138:8888/hls/34/index.m3u8
 CCTV5,rtp://@239.77.0.170:5146
-CCTV5,http://113.108.59.138:8888/hls/11/index.m3u8
+CCTV5,http://772765777.xyz:27777/rtp/239.93.1.12:2224
 CCTV5,http://113.105.29.43:60901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://222.85.43.241:19901/tsfile/live/54325_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://yulang132.cn:4022/rtp/239.93.42.37:5140
+CCTV5,http://goo.bkpcp.top/mg/cctv5
 CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV5+,rtp://@239.77.0.87:5146
+CCTV5+,http://772765777.xyz:27777/rtp/239.93.1.173:5140
 CCTV5+,http://113.105.29.43:60901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://yulang132.cn:4022/rtp/239.93.1.36:8004
+CCTV5+,http://goo.bkpcp.top/mg/cctv5p
 CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
 CCTV16,http://113.105.29.43:60901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://nas.ioiogoo.cn:54332/gaoma/cctv16.m3u8
 CCTV16,http://hmjnas.drdjhmj.top:35455/gaoma/cctv16.m3u8
-CCTV16,http://yulang132.cn:4022/rtp/239.93.42.54:5140
 
 NBA TV,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
 FIGHT SPORTS,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
 
-精品体育,https://lives.catvod.com/TVOD/2000000003000000021/hnbblive/index.m3u8?OtherName=4M1080_湖南bblive
-超级体育,https://lives.catvod.com/TVOD/2000000003000000030/hnbblive/index.m3u8?OtherName=4M1080_湖南bblive
-劲爆体育,https://lives.catvod.com/TVOD/2000000002000000008/hnbblive/index.m3u8?OtherName=1.2M540_湖南bblive
-IHOT体育,https://lives.catvod.com/TVOD/6000000006000290630/wasusyt/index.m3u8?OtherName=7.2M1080_华数
-IHOT体育,https://lives.catvod.com/TVOD/2000000004000000060/hnbblive/index.m3u8?OtherName=6.8M1080_湖南bblive
+精品体育,
+超级体育,
+劲爆体育,
+IHOT体育,http://j.daysky.com:8000/rtp/239.93.42.19:5140
 IHOT赛车,http://j.daysky.com:8000/rtp/239.93.42.20:5140
-IHOT赛车,https://lives.catvod.com/TVOD/6000000006000240630/wasusyt/index.m3u8?OtherName=7.2M1080_华数
-IHOT赛车,https://lives.catvod.com/TVOD/2000000004000000055/hnbblive/index.m3u8?OtherName=6.8M1080_湖南bblive
-五星体育,https://lives.catvod.com/TVOD/5000000010000017540/bestzb/index.m3u8?OtherName=4M1080_百视通
+五星体育,http://live4play.uk/livehttpplay?channel_id=20060
 睛彩篮球,rtp://239.77.1.21:5146
 睛彩篮球,http://113.108.59.138:8888/hls/50/index.m3u8
 睛彩竞技,rtp://239.77.1.20:5146
 睛彩竞技,http://113.108.59.138:8888/hls/9/index.m3u8
 魅力足球,http://j.daysky.com:8000/rtp/239.93.42.97:5140
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
-篮球人物,http://43.136.119.99:35455/douyu/8434598
 快乐垂钓,http://j.daysky.com:8000/rtp/239.93.1.151:5140
 来钓鱼吧,http://j.daysky.com:8000/rtp/239.93.42.8:5140
 英雄联盟1,http://live.iill.top/bilibili.php?id=6
@@ -156,38 +159,38 @@ IHOT赛车,https://lives.catvod.com/TVOD/2000000004000000055/hnbblive/index.m3u8
 英雄联盟3,http://live.iill.top/douyu.php?id=288016
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-Now Sports Prime,
-Now Sports2,
-Now Sports641,
-Now Sports642,
-Now Sports英超1,
-Now Sports 4K,
-SuperSport LaLiga,
-ELTA 1,
-ELTA 2,
-ELTA 3,
-ELTA 4,
-beIN SPORTS 1,
-beIN SPORTS 2,
-beIN SPORTS 3,
-SPOTV 1,
-SPOTV 2,
-
-
-緯來體育台,http://aktv-stream.m16tv.cfd/stream/tuntun/null/AKTV.m3u8
+緯來體育台,http://eu.huohuoaa.tech:1025/Smart.php?id=videolandsport
 緯來體育台,http://108.181.21.27:27347/livehttpplay?channel_id=20120
-緯來體育台,http://116.93.98.236:8080/sat/tv721.flv
+緯來體育台,http://live4play.uk/livehttpplay?channel_id=20120
 緯來體育台,http://60.248.77.83/sat/tv721.flv
 緯來體育台,rtmp://f13h.mine.nu/sat/tv721
 緯來體育台,rtmp://f13h.mine.nu:1935/sat/tv721
-博斯運動台,
-DAZN一台,http://116.93.98.236:8080/sat/tv731.flv
+ELTA体一,http://eu.huohuoaa.tech:1025/Smart.php?id=eltasport_twn
+ELTA体二,http://eu.huohuoaa.tech:1025/Smart.php?id=eltasport2_twn
+ELTA体三,http://eu.huohuoaa.tech:1025/Smart.php?id=eltasport3_twn
+DAZN一台,http://eu.huohuoaa.tech:1025/Smart.php?id=golfchannel_twn
+DAZN一台,http://live4play.uk/livehttpplay?channel_id=10104
 DAZN一台,http://60.248.77.83/sat/tv731.flv
 DAZN一台,rtmp://f13h.mine.nu/sat/tv731
-DAZN二台,http://116.93.98.236:8080/sat/tv741.flv
+DAZN二台,http://live4play.uk/livehttpplay?channel_id=10105
 DAZN二台,http://60.248.77.83/sat/tv741.flv
 DAZN二台,rtmp://f13h.mine.nu/sat/tv741
-城市運動台,
+博斯无限,,http://eu.huohuoaa.tech:1025/Smart.php?id=bosiunlimited_twn
+博斯网球,,http://eu.huohuoaa.tech:1025/Smart.php?id=bositennis_twn
+博斯動台壹,http://eu.huohuoaa.tech:1025/Smart.php?id=bosisport1_twn
+博斯動台贰,http://eu.huohuoaa.tech:1025/Smart.php?id=bosisport2_twn
+博斯高球壹,http://eu.huohuoaa.tech:1025/Smart.php?id=bosigolf1_twn
+博斯高球贰,http://eu.huohuoaa.tech:1025/Smart.php?id=bosigolf2_twn
+
+Now Sports Prime,
+PAC12,http://aktv-stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
+beIN SPORTS XTRA,http://aktv-stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
+Red Bull Sports,http://aktv-stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
+Tennis Channel DE,http://aktv-stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
+Tennis Channel US,http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
+Tennis Channel 2 US,http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
+CBS SPORTS NETWORK,http://aktv-stream.m16tv.cfd/stream/useradd1/cbssportsnetwork/AKTV.m3u8
+
 
 
 
@@ -195,68 +198,40 @@ DAZN二台,rtmp://f13h.mine.nu/sat/tv741
 
 
 电影频道,#genre#
-粤语电影1,http://zzy789.xyz/douyu1.php?id=1226741
-粤语电影1,http://43.136.119.99:35455/douyu/1226741
-粤语电影2,http://zzy789.xyz/douyu1.php?id=6566671
-粤语电影2,http://43.136.119.99:35455/douyu/6566671
-粤语电影3,http://zzy789.xyz/douyu1.php?id=5033502
-粤语电影3,http://43.136.119.99:35455/douyu/5033502
+粤语电影1
+粤语电影2,
+粤语电影3,
 粤语喜剧,https://live.iill.top/huya/11352894
-粤语喜剧,http://cdn.jdshipin.com:8880/huya.php?id=11352894
-周星驰,http://43.136.119.99/huya.php?id=11336587
-周星驰,http://1.94.31.214:35455/huya/11336587
-漫威影院,http://43.136.119.99:35455/huya/11602034
-动作电影,http://43.136.119.99:35455/huya/11602077
-欧美大片,http://zzy789.xyz/douyu1.php?id=2793084
-欧美大片,http://43.136.119.99:35455/douyu/2793084
-荒野求生,http://43.136.119.99:35455/huya/24766781
-陈翔六点半,http://43.136.119.99:35455/huya/11274154
-黑莓电影,https://lives.catvod.com/TVOD/2000000003000000001/hnbblive/index.m3u8?OtherName=4M1080_湖南bblive
-黑莓电影,https://lives.catvod.com/TVOD/1000000004000019624/ystenlive/index.m3u8?OtherName=4M1080_易视腾
-超级电影,https://lives.catvod.com/TVOD/2000000003000000031/hnbblive/index.m3u8?OtherName=4M1080_湖南bblive
-超级电影,https://lives.catvod.com/TVOD/1000000003000012426/ystenlive/index.m3u8?OtherName=8M1080_易视腾
+黑莓电影,
+黑莓电影,
+超级电影,
+超级电影,
 影迷电影,rtp://239.77.0.27:5146
-影迷电影,http://118.113.24.99:666/rtp/239.93.42.5:5140
-影迷电影,http://router.goody.icu:4000/rtp/239.93.42.5:5140
+影迷电影,http://j.daysky.com:8000/rtp/239.93.42.5:5140
 
-NOW星影,https://live.hkdvb.com/hls/live/138.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-NOW星影,https://live.hkdvb.com/hls/live/138.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-NOW爆谷,https://live.hkdvb.com/hls/live/133.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-NOW爆谷,https://live.hkdvb.com/hls/live/133.m3u8?token=639771783493467&edge=edge1.hkdvb.com
+NOW星影,
+NOW爆谷,
+美亞電影台(HK),http://live4play.uk/livehttpplay?channel_id=20197
 美亞電影台(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 美亞電影台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-美亞電影台(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-美亞電影台(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=639771783493467&edge=edge1.hkdvb.com
 美亞電影台(HK),http://go1.bkpcp.top/tl/null-5
-天影电影,https://live.hkdvb.com/hls/live/501.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-天影电影,https://live.hkdvb.com/hls/live/501.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-PoPC,https://live.hkdvb.com/hls/live/206.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-PoPC,https://live.hkdvb.com/hls/live/206.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-天影经典,https://live.hkdvb.com/hls/live/500.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-天影经典,https://live.hkdvb.com/hls/live/500.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-Thrill,http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
-Thrill,https://live.hkdvb.com/hls/live/506.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-Thrill,https://live.hkdvb.com/hls/live/506.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-AT-X,https://live.hkdvb.com/hls/live/507.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-AT-X,https://live.hkdvb.com/hls/live/507.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-AXN,https://live.hkdvb.com/hls/live/508.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-AXN,https://live.hkdvb.com/hls/live/508.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-Animax,https://live.hkdvb.com/hls/live/509.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-Animax,https://live.hkdvb.com/hls/live/509.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-TVN,https://live.hkdvb.com/hls/live/510.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-TVN,https://live.hkdvb.com/hls/live/510.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-BBC Earth,https://live.hkdvb.com/hls/live/511.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-BBC Earth,https://live.hkdvb.com/hls/live/511.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-HBO,https://live.hkdvb.com/hls/live/115.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-HBO,https://live.hkdvb.com/hls/live/115.m3u8?token=639771783493467&edge=edge1.hkdvb.com
+天影电影(国语),http://php.jdshipin.com/smt.php?id=Celestial
+PoPC,http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+PoPC,http://go1.bkpcp.top/tl/popc
+天影经典(国语),http://go1.bkpcp.top/tl/null-1
+Thrill,http://aktv-stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+ROCK Action,http://aktv-stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
+AXN,http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+Animax,http://aktv-stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+TVN,http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 
-CINEMAX,
-HBO亞洲台,
-AXN亞洲台,
-AMC電影台,
-好萊塢電影,
-龍華電影台,
-緯來電影台,
+CINEMAX,http://eu.huohuoaa.tech:1025/Smart.php?id=cinemax_twn
+HBO,http://eu.huohuoaa.tech:1025/Smart.php?id=hbohd_twn
+HBO famliy,http://eu.huohuoaa.tech:1025/Smart.php?id=fyi_twn
+AXN亞洲台,http://eu.huohuoaa.tech:1025/Smart.php?id=axn_twn
+好萊塢電影,http://eu.huohuoaa.tech:1025/Smart.php?id=hollywoodmovies_twn
+龍華電影台,http://eu.huohuoaa.tech:1025/Smart.php?id=xingwei_movie
+緯來電影台,http://eu.huohuoaa.tech:1025/Smart.php?id=videolandmovie
 
 
 
@@ -268,33 +243,25 @@ AMC電影台,
 
 香港频道,#genre#
 鳳凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-鳳凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-鳳凰中文,http://113.105.29.43:60901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-鳳凰中文,http://dsm.ccb912.top:9998/rtp/239.93.0.162:2192
 鳳凰中文,http://j.daysky.com:8000/rtp/239.93.0.162:2192
-鳳凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.m3u8
 鳳凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
-鳳凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 鳳凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
+鳳凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+鳳凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 鳯凰資訊,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-鳯凰資訊,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-鳯凰資訊,http://dsm.ccb912.top:9998/rtp/239.93.0.118:2191
 鳯凰資訊,http://j.daysky.com:8000/rtp/239.93.0.118:2191
-鳯凰資訊,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.m3u8
 鳯凰資訊,http://dns.yiandrive.com:15907/phenix/fhzx
-鳯凰資訊,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 鳯凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+鳯凰資訊,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 鳯凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+鳯凰資訊,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 鳳凰香港,http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 鳳凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-鳳凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.m3u8
 鳳凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
 鳳凰香港,http://108.181.20.221:27347/livehttpplay?channel_id=20067
 
 無線新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-無線新聞台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
-無線新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 無線新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 無線新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
@@ -302,48 +269,46 @@ AMC電影台,
 娛樂新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+NOW新聞,http://live4play.uk/livehttpplay?channel_id=20041
+HOY78,http://eu.huohuoaa.tech:1025/Smart.php?id=hoycaijing_twn
+HOY78,http://live4play.uk/livehttpplay?channel_id=20191
 
-NOW新聞,
-NOW财经,
-HOY78,
-
-翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 翡翠台,http://113.105.29.43:60901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,https://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://cdn.163189.xyz/live/fct4k/stream.m3u8
 翡翠台,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-明珠台,http://113.105.29.43:60901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 明珠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+明珠台,http://113.105.29.43:60901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-
+TVB Jade,http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
 TVB Plus,http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 TVB Plus,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
-TVB J1,http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+TVB J1,http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 TVB J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
 TVB J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 TVB J2,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 TVB J2,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 C+台,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-HOY76,
 HOY77,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY77,http://cdn.132.us.kg/live/hoy/stream.m3u8
-HOY77,
 ViuTV,http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-TVB 星河台,http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
+TVB 星河台,http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
 TVB 星河台,http://120.198.95.220:9901/tsfile/live/1011_1.m3u8?key=txiptv
 TVB 星河台,http://go1.bkpcp.top/tl/null-7
 TVB 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB 星河台,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+TVB 剧集台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 TVB 华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB 华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB 华丽台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
@@ -354,193 +319,166 @@ TVB 千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB 功夫台,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 翡翠剧集台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 明珠剧集台,http://aktv-stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
-Mytv黃金翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+Mytv黃金翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 Mytv千禧经典台,http://aktv-stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
-Mytv 亚洲剧台,http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
-Mytv 华语剧台,
-Mytv 粤语片台,
-黄金华剧台,
+Mytv 亚洲剧台,http://go1.bkpcp.top/tl/null-13
+Mytv 华语剧台,http://go1.bkpcp.top/tl/null-4
+Mytv 粤语片台,http://go1.bkpcp.top/tl/null-10
 
-NOW星影,https://live.hkdvb.com/hls/live/138.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-NOW星影,https://live.hkdvb.com/hls/live/138.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-NOW爆谷,https://live.hkdvb.com/hls/live/133.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-NOW爆谷,https://live.hkdvb.com/hls/live/133.m3u8?token=639771783493467&edge=edge1.hkdvb.com
+
+NOW星影,
+NOW爆谷,
+美亞電影台(HK),http://live4play.uk/livehttpplay?channel_id=20197
 美亞電影台(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 美亞電影台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-美亞電影台(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-美亞電影台(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=639771783493467&edge=edge1.hkdvb.com
 美亞電影台(HK),http://go1.bkpcp.top/tl/null-5
-天影电影,https://live.hkdvb.com/hls/live/501.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-天影电影,https://live.hkdvb.com/hls/live/501.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-PoPC,https://live.hkdvb.com/hls/live/206.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-PoPC,https://live.hkdvb.com/hls/live/206.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-天影经典,https://live.hkdvb.com/hls/live/500.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-天影经典,https://live.hkdvb.com/hls/live/500.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-Thrill,http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
-Thrill,https://live.hkdvb.com/hls/live/506.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-Thrill,https://live.hkdvb.com/hls/live/506.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-AT-X,https://live.hkdvb.com/hls/live/507.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-AT-X,https://live.hkdvb.com/hls/live/507.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-AXN,https://live.hkdvb.com/hls/live/508.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-AXN,https://live.hkdvb.com/hls/live/508.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-Animax,https://live.hkdvb.com/hls/live/509.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-Animax,https://live.hkdvb.com/hls/live/509.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-TVN,https://live.hkdvb.com/hls/live/510.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-TVN,https://live.hkdvb.com/hls/live/510.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-BBC Earth,https://live.hkdvb.com/hls/live/511.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-BBC Earth,https://live.hkdvb.com/hls/live/511.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-HBO,https://live.hkdvb.com/hls/live/115.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-HBO,https://live.hkdvb.com/hls/live/115.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-
-Now Sports Prime,https://live.hkdvb.com/hls/live/630.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-Now Sports Prime,https://live.hkdvb.com/hls/live/630.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-Now Sports2,https://live.hkdvb.com/hls/live/632.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-Now Sports2,https://live.hkdvb.com/hls/live/632.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-Now Sports641,https://live.hkdvb.com/hls/live/641.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-Now Sports641,https://live.hkdvb.com/hls/live/641.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-Now Sports642,https://live.hkdvb.com/hls/live/642.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-Now Sports642,https://live.hkdvb.com/hls/live/642.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-Now Sports英超1,https://live.hkdvb.com/hls/live/621.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-Now Sports英超1,https://live.hkdvb.com/hls/live/621.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-Now Sports 4K,https://live.hkdvb.com/hls/live/644.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-Now Sports 4K,https://live.hkdvb.com/hls/live/644.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-SuperSport LaLiga,https://live.hkdvb.com/hls/live/700.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-SuperSport LaLiga,https://live.hkdvb.com/hls/live/700.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-ELTA 1,https://live.hkdvb.com/hls/live/703.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-ELTA 1,https://live.hkdvb.com/hls/live/703.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-ELTA 2,https://live.hkdvb.com/hls/live/704.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-ELTA 2,https://live.hkdvb.com/hls/live/704.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-ELTA 3,https://live.hkdvb.com/hls/live/705.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-ELTA 3,https://live.hkdvb.com/hls/live/705.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-ELTA 4,https://live.hkdvb.com/hls/live/706.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-ELTA 4,https://live.hkdvb.com/hls/live/706.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-beIN SPORTS 1,https://live.hkdvb.com/hls/live/707.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-beIN SPORTS 1,https://live.hkdvb.com/hls/live/707.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-beIN SPORTS 2,https://live.hkdvb.com/hls/live/708.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-beIN SPORTS 2,https://live.hkdvb.com/hls/live/708.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-beIN SPORTS 3,https://live.hkdvb.com/hls/live/709.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-beIN SPORTS 3,https://live.hkdvb.com/hls/live/709.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-SPOTV 1,https://live.hkdvb.com/hls/live/710.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-SPOTV 1,https://live.hkdvb.com/hls/live/710.m3u8?token=639771783493467&edge=edge1.hkdvb.com
-SPOTV 2,https://live.hkdvb.com/hls/live/711.m3u8?token=604226109074069&edge=edge1.hkdvb.com
-SPOTV 2,https://live.hkdvb.com/hls/live/711.m3u8?token=639771783493467&edge=edge1.hkdvb.com
+天影电影(国语),http://php.jdshipin.com/smt.php?id=Celestial
+PoPC,http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+PoPC,http://go1.bkpcp.top/tl/popc
+天影经典(国语),http://go1.bkpcp.top/tl/null-1
+Thrill,http://aktv-stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+ROCK Action,http://aktv-stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
+AXN,http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+Animax,http://aktv-stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+TVN,http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 
 
-
-
+Now Sports Prime,
+PAC12,http://aktv-stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
+beIN SPORTS XTRA,http://aktv-stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
+Red Bull Sports,http://aktv-stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
+Tennis Channel DE,http://aktv-stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
+Tennis Channel US,http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
+Tennis Channel 2 US,http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
+CBS SPORTS NETWORK,http://aktv-stream.m16tv.cfd/stream/useradd1/cbssportsnetwork/AKTV.m3u8
 
 
 台湾频道,#genre#
-台視電視台,http://60.248.77.83/sat/tv071.flv
-台視電視台,http://116.93.98.236:8080/sat/tv071.flv
-中視電視台,http://60.248.77.83/sat/tv091.flv
-中視電視台,http://116.93.98.236:8080/sat/tv091.flv
-華視電視台,http://60.248.77.83/sat/tv111.flv
-華視電視台,http://116.93.98.236:8080/sat/tv111.flv
-民視電視台,http://60.248.77.83/sat/tv051.flv
-民視電視台,http://116.93.98.236:8080/sat/tv051.flv
-公視電視台,
+台視電視台,http://eu.huohuoaa.tech:1025/Smart.php?id=ttv_taiwan
+中視電視台,http://eu.huohuoaa.tech:1025/Smart.php?id=zhongshihd_twn
+華視電視台,http://eu.huohuoaa.tech:1025/Smart.php?id=ctshd_twn
+民視電視台,http://eu.huohuoaa.tech:1025/Smart.php?id=ftvhd_taiwan
+公視電視台,http://eu.huohuoaa.tech:1025/Smart.php?id=ctv2_twn
+TVBS綜合台,http://eu.huohuoaa.tech:1025/Smart.php?id=tvbs
 TVBS綜合台,http://108.181.21.27:27347/livehttpplay?channel_id=20085
+TVBS歡樂台,http://eu.huohuoaa.tech:1025/Smart.php?id=tvbshuanle_twn
 TVBS歡樂台,http://108.181.21.27:27347/livehttpplay?channel_id=20105
 TVBS精彩台,http://108.181.21.27:27347/livehttpplay?channel_id=20136
-年代綜合台,
-東風衛視台,
-三立都會台,
-中天亞洲台,http://extraott.com:80/live/6772191932/1654508883/191911.m3u8
+中天亞洲台,http://eu.huohuoaa.tech:1025/Smart.php?id=ctiasia_twn
+中天綜合台,http://eu.huohuoaa.tech:1025/Smart.php?id=ctizhonghe
 中天綜合台,http://108.181.21.27:27347/livehttpplay?channel_id=20064
-中天娛樂台,
+中天娛樂台,http://eu.huohuoaa.tech:1025/Smart.php?id=ctient
 八大綜合台,http://108.181.21.27:27347/livehttpplay?channel_id=20068
-東森綜合台,
-緯來綜合台,
-MOMO綜合,http://116.93.98.236:8080/sat/tv761.flv
+東森綜合台,http://eu.huohuoaa.tech:1025/Smart.php?id=ettvzhonghe
+緯來綜合台,http://eu.huohuoaa.tech:1025/Smart.php?id=videolandzonghe
 MOMO綜合,http://60.248.77.83/sat/tv761.flv
-三立台湾台,
+三立台湾台,http://eu.huohuoaa.tech:1025/Smart.php?id=sanlitaiwan
+三立綜合台,http://eu.huohuoaa.tech:1025/Smart.php?id=sanlizhonghe
 三立綜合台,http://108.181.21.27:27347/livehttpplay?channel_id=12038
+三立戲劇台,http://eu.huohuoaa.tech:1025/Smart.php?id=sanlixiju_twn
 三立戲劇台,http://108.181.21.27:27347/livehttpplay?channel_id=10125
 八大第一台,http://108.181.21.27:27347/livehttpplay?channel_id=20073
 八大精彩台,http://108.181.21.27:27347/livehttpplay?channel_id=20052
-八大戲劇台,
-東森戲劇台,
-東森超視台,
-緯來戲劇台,
-緯來育樂台,http://116.93.98.236:8080/sat/tv701.flv
-緯來育樂台,,http://60.248.77.83/sat/tv701.flv
-龍華戲劇台,
-韓國娛樂台,
-韓國娛樂台,
-緯來日本台,http://116.93.98.236:8080/sat/tv771.flv
+八大戲劇台,http://eu.huohuoaa.tech:1025/Smart.php?id=badadrama
+東森戲劇台,http://eu.huohuoaa.tech:1025/Smart.php?id=ettvdrama
+東森超視台,http://eu.huohuoaa.tech:1025/Smart.php?id=ettvsuper
+緯來育樂台,http://eu.huohuoaa.tech:1025/Smart.php?id=videolandyule
+緯來育樂台,http://60.248.77.83/sat/tv701.flv
+龍華戲劇台,http://eu.huohuoaa.tech:1025/Smart.php?id=lunghuaxiju_twn
+緯來日本台,http://eu.huohuoaa.tech:1025/Smart.php?id=videolandjapan
 緯來日本台,http://60.248.77.83/sat/tv771.flv
-龍華日韓台,
-龍華偶像台,
+龍華偶像台,http://eu.huohuoaa.tech:1025/Smart.php?id=lunghuaidol_twn
 
-CINEMAX,
-HBO亞洲台,
-AXN亞洲台,
-AMC電影台,
-好萊塢電影,
-龍華電影台,
-緯來電影台,
+CINEMAX,http://eu.huohuoaa.tech:1025/Smart.php?id=cinemax_twn
+HBO,http://eu.huohuoaa.tech:1025/Smart.php?id=hbohd_twn
+HBO famliy,http://eu.huohuoaa.tech:1025/Smart.php?id=fyi_twn
+AXN亞洲台,http://eu.huohuoaa.tech:1025/Smart.php?id=axn_twn
+好萊塢電影,http://eu.huohuoaa.tech:1025/Smart.php?id=hollywoodmovies_twn
+龍華電影台,http://eu.huohuoaa.tech:1025/Smart.php?id=xingwei_movie
+緯來電影台,http://eu.huohuoaa.tech:1025/Smart.php?id=videolandmovie
 
 
-探索發現台,
-旅遊生活台,
-動物星球台,http://108.181.21.27:27347/livehttpplay?channel_id=20106
-亞洲旅遊台,
-寵物俱樂部,
-人間衛視台,
-大愛電視台,
-好消息綜合,
-TaiwanPlus,
-NHK世界台,
-MOMO親子,
+探索亚洲,http://eu.huohuoaa.tech:1025/Smart.php?id=discoverytwn_twn
+国家地理,http://eu.huohuoaa.tech:1025/Smart.php?id=natgeohd_twn
+野生动物,http://eu.huohuoaa.tech:1025/Smart.php?id=natgeowild_twn
+美食星球,http://eu.huohuoaa.tech:1025/Smart.php?id=foodplanet_twn
+亚洲美食,http://eu.huohuoaa.tech:1025/Smart.php?id=afc_twn
+亚洲旅游,http://eu.huohuoaa.tech:1025/Smart.php?id=asiatravel_twn
+亚洲TLC,http://eu.huohuoaa.tech:1025/Smart.php?id=tlc_twn
+EYE-旅游,http://eu.huohuoaa.tech:1025/Smart.php?id=eyetvtravel_twn
+EYE-戏剧,http://eu.huohuoaa.tech:1025/Smart.php?id=eyetvxiju_twn
+MTv高清,http://eu.huohuoaa.tech:1025/Smart.php?id=mtvhd_twn
+Discover,http://eu.huohuoaa.tech:1025/Smart.php?id=discoverytwn_twn
+動物星球,http://eu.huohuoaa.tech:1025/Smart.php?id=animalplanet_twn
+動物星球,http://108.181.21.27:27347/livehttpplay?channel_id=20106
 
+
+東森幼幼台,http://eu.huohuoaa.tech:1025/Smart.php?id=yoyo_twn
 東森幼幼台,http://122.117.71.103:8515/http/61.222.53.250:8081/hls/63/805/ch09.m3u8
-龍華卡通台,http://122.117.71.103:8516/http/61.222.53.250:8068/hls/14/80/cstv14.m3u8
+龍華卡通台,https://cdn3.132.us.kg/live/lhkt/stream.m3u8
 CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
+CN卡通,,http://live4play.uk/livehttpplay?channel_id=20048
 尼克卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20089
+尼克卡通,,http://live4play.uk/livehttpplay?channel_id=20089
 
-民視新聞,https://live.iill.top/youtube/ylYJSBUgaMA
+
+民視新聞,http://eu.huohuoaa.tech:1025/Smart.php?id=ftvnew_taiwan
 民視新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20097
-台視新聞,https://live.iill.top/youtube/xL0ch83RAK8
+民視新聞,https://live.iill.top/youtube/ylYJSBUgaMA
+台視新聞,http://eu.huohuoaa.tech:1025/Smart.php?id=ttvnews_twn
 台視新聞,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
+台視新聞,https://live.iill.top/youtube/xL0ch83RAK8
+中視新聞,http://eu.huohuoaa.tech:1025/Smart.php?id=zhongshinews_twn
 中視新聞,https://live.iill.top/youtube/TCnaIE_SAtM
 華視新聞,https://live.iill.top/youtube/wM0g8EoUZ_E
 公視新聞,https://live.iill.top/youtube/quwqlazU-c8
 
+TVBS新闻台,http://eu.huohuoaa.tech:1025/Smart.php?id=tvbs_n
+TVBS新闻台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 TVBS新闻台,https://live.iill.top/youtube/2mCSYvcfhtc
-TVBS新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+寰宇新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=huanyuxinwen_twn
+寰宇新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 寰宇新聞台,https://live.iill.top/youtube/6IquAgfvYmc
-寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+東森新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=ettvnews
+東森新聞台,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 東森新聞台,https://live.iill.top/youtube/V1p33hqPrUk
-東森新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 東森財經台,http://108.181.21.27:27347/livehttpplay?channel_id=20078
-中天新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-中天新聞台,https://live.iill.top/youtube/vr3XyVCR4T0
+中天新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=ctinews
+中天新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 中天新聞台,https://zt.dracwoundshop.eu.org/live/stream.m3u8
+中天新聞台,https://live.iill.top/youtube/vr3XyVCR4T0
 中天新聞台2,https://live.iill.top/youtube/DM_PEM8GrIgm3u8?pid=4gtv-4gtv009
+
+年代新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=niandainews_twn
 年代新聞台,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 三立新聞台,http://122.117.71.103:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8
-非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
+非凡新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=feifannews_twn
 壹電視新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 鏡電視新聞,https://live.iill.top/youtube/5n0y6b0Q25o
-非凡商業台,
-彭博財經台,
-亞洲新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+亞洲新聞台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 
-
+緯來體育台,http://eu.huohuoaa.tech:1025/Smart.php?id=videolandsport
 緯來體育台,http://108.181.21.27:27347/livehttpplay?channel_id=20120
-緯來體育台,http://116.93.98.236:8080/sat/tv721.flv
+緯來體育台,http://live4play.uk/livehttpplay?channel_id=20120
 緯來體育台,http://60.248.77.83/sat/tv721.flv
 緯來體育台,rtmp://f13h.mine.nu/sat/tv721
 緯來體育台,rtmp://f13h.mine.nu:1935/sat/tv721
-博斯運動台,
-DAZN一台,http://116.93.98.236:8080/sat/tv731.flv
+ELTA体一,http://eu.huohuoaa.tech:1025/Smart.php?id=eltasport_twn
+ELTA体二,http://eu.huohuoaa.tech:1025/Smart.php?id=eltasport2_twn
+ELTA体三,http://eu.huohuoaa.tech:1025/Smart.php?id=eltasport3_twn
+DAZN一台,http://eu.huohuoaa.tech:1025/Smart.php?id=golfchannel_twn
+DAZN一台,http://live4play.uk/livehttpplay?channel_id=10104
 DAZN一台,http://60.248.77.83/sat/tv731.flv
 DAZN一台,rtmp://f13h.mine.nu/sat/tv731
-DAZN二台,http://116.93.98.236:8080/sat/tv741.flv
+DAZN二台,http://live4play.uk/livehttpplay?channel_id=10105
 DAZN二台,http://60.248.77.83/sat/tv741.flv
 DAZN二台,rtmp://f13h.mine.nu/sat/tv741
-城市運動台,
+博斯无限,,http://eu.huohuoaa.tech:1025/Smart.php?id=bosiunlimited_twn
+博斯网球,,http://eu.huohuoaa.tech:1025/Smart.php?id=bositennis_twn
+博斯動台壹,http://eu.huohuoaa.tech:1025/Smart.php?id=bosisport1_twn
+博斯動台贰,http://eu.huohuoaa.tech:1025/Smart.php?id=bosisport2_twn
+博斯高球壹,http://eu.huohuoaa.tech:1025/Smart.php?id=bosigolf1_twn
+博斯高球贰,http://eu.huohuoaa.tech:1025/Smart.php?id=bosigolf2_twn
 
 
 
@@ -548,21 +486,22 @@ DAZN二台,rtmp://f13h.mine.nu/sat/tv741
 
 广东频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-广东体育,http://113.108.59.138:8888/hls/34/index.m3u8
+广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://113.105.29.43:60901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://14.212.185.146:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,http://113.105.29.43:60901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
+广东体育,http://113.108.59.138:8888/hls/34/index.m3u8
 广东民生,rtp://@239.77.0.225:5146
 广东民生,http://113.105.29.43:60901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://218.15.183.23:9901/tsfile/live/23011_1.m3u8
 广东民生,http://61.140.21.34:50085/hls/21/index.m3u8
-广东民生,http://huangtong-com.cn:9902/tsfile/live/1012_1.m3u8
 广东新闻,rtp://@239.77.0.173:5146
+广东新闻,http://218.15.183.23:9901/tsfile/live/23010_1.m3u8
 广东新闻,http://61.140.21.34:50085/hls/23/index.m3u8
 广东新闻,http://120.198.101.106:9901/tsfile/live/1013_1.m3u8
-广东新闻,http://218.15.183.23:9901/tsfile/live/23010_1.m3u8
 广东珠江,rtp://@239.77.0.1:5146
 广东珠江,http://113.105.29.43:60901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://120.198.95.220:9901/tsfile/live/1007_1.m3u8?key=txiptv
@@ -577,8 +516,8 @@ DAZN二台,rtmp://f13h.mine.nu/sat/tv741
 广东影视,http://120.198.95.220:9901/tsfile/live/1006_1.m3u8?key=txiptv
 广东影视,http://61.140.21.34:50085/hls/20/index.m3u8
 广东卫视,rtp://@239.77.1.19:5146
-广东卫视,http://113.108.59.138:8888/hls/2/index.m3u8
 广东经济,http://113.105.29.43:60901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://113.108.59.138:8888/hls/2/index.m3u8
 广东经济,http://120.198.95.220:9901/tsfile/live/1040_1.m3u8?key=txiptv
 
 
@@ -586,87 +525,91 @@ DAZN二台,rtmp://f13h.mine.nu/sat/tv741
 
 央视频道,#genre#
 CCTV1,rtp://@239.77.1.17:5146
-CCTV1,http://113.108.59.138:8888/hls/19/index.m3u8
+CCTV1,http://772765777.xyz:27777/rtp/239.93.0.58:5140
 CCTV1,http://113.105.29.43:60901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://goo.bkpcp.top/mg/cctv1
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV2,rtp://@239.77.1.158:5146
-CCTV2,http://113.108.59.138:8888/hls/21/index.m3u8
+CCTV2,http://772765777.xyz:27777/rtp/239.93.1.23:6000
 CCTV2,http://113.105.29.43:60901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://goo.bkpcp.top/mg/cctv2
 CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV3,rtp://@239.77.0.169:5146
-CCTV3,http://goo.bkpcp.top/mg/cctv3
+CCTV3,http://772765777.xyz:27777/rtp/239.93.0.109:5140
 CCTV3,http://113.105.29.43:60901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://yulang132.cn:4022/rtp/239.93.0.109:5140
+CCTV3,http://goo.bkpcp.top/mg/cctv3
 CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
 CCTV4,rtp://@239.77.1.163:5146
-CCTV4,http://113.108.59.138:8888/hls/44/index.m3u8
+CCTV4,http://772765777.xyz:27777/rtp/239.93.1.105:5140
 CCTV4,http://113.105.29.43:60901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://goo.bkpcp.top/mg/cctv4
 CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
 CCTV5,rtp://@239.77.0.170:5146
-CCTV5,http://113.108.59.138:8888/hls/11/index.m3u8
+CCTV5,http://772765777.xyz:27777/rtp/239.93.1.12:2224
 CCTV5,http://113.105.29.43:60901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://goo.bkpcp.top/mg/cctv5
 CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV5+,rtp://@239.77.0.87:5146
+CCTV5+,http://772765777.xyz:27777/rtp/239.93.1.173:5140
 CCTV5+,http://113.105.29.43:60901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://goo.bkpcp.top/mg/cctv5p
 CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
 CCTV6,rtp://@239.77.0.171:5146
-CCTV6,http://113.108.59.138:8888/hls/7/index.m3u8
+CCTV6,http://772765777.xyz:27777/rtp/239.93.42.38:5140
+CCTV6,http://www.qiqi.pub:18889/rtp/239.93.42.38:5140
 CCTV6,http://113.105.29.43:60901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://goo.bkpcp.top/mg/cctv6
 CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV7,rtp://@239.77.1.159:5146
-CCTV7,http://113.108.59.138:8888/hls/3/index.m3u8
+CCTV7,http://772765777.xyz:27777/rtp/239.93.1.67:5140
 CCTV7,http://113.105.29.43:60901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://goo.bkpcp.top/mg/cctv7
 CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
 CCTV8,rtp://@239.77.0.172:5146
-CCTV8,http://113.108.59.138:8888/hls/13/index.m3u8
+CCTV8,http://772765777.xyz:27777/rtp/239.93.42.39:5140
 CCTV8,http://113.105.29.43:60901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://goo.bkpcp.top/mg/cctv8
 CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
 CCTV9,rtp://@239.77.1.160:5146
-CCTV9,http://113.108.59.138:8888/hls/20/index.m3u8
+CCTV9,http://772765777.xyz:27777/rtp/239.93.1.24:5140
 CCTV9,http://113.105.29.43:60901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://goo.bkpcp.top/mg/cctv9
 CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
 CCTV10,rtp://@239.77.1.113:5146
-CCTV10,http://113.108.59.138:8888/hls/28/index.m3u8
+CCTV10,http://772765777.xyz:27777/rtp/239.93.1.28:5140
 CCTV10,http://113.105.29.43:60901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://goo.bkpcp.top/mg/cctv10
 CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10
 CCTV11,rtp://@239.77.1.108:5146
-CCTV11,http://113.108.59.138:8888/hls/45/index.m3u8
+CCTV11,http://772765777.xyz:27777/rtp/239.93.0.102:5140
 CCTV11,http://113.105.29.43:60901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://goo.bkpcp.top/mg/cctv11
 CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11
 CCTV12,rtp://@239.77.1.109:5146
-CCTV12,http://113.108.59.138:8888/hls/30/index.m3u8
+CCTV12,http://772765777.xyz:27777/rtp/239.93.1.30:8124
 CCTV12,http://113.105.29.43:60901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://goo.bkpcp.top/mg/cctv12
 CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
 CCTV13,rtp://@239.77.0.188:5146
-CCTV13,http://113.108.59.138:8888/hls/31/index.m3u8
+CCTV13,http://772765777.xyz:27777/rtp/239.93.0.66:5140
 CCTV13,http://113.105.29.43:60901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://goo.bkpcp.top/mg/cctv13
 CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV14,rtp://@239.77.1.161:5146
-CCTV14,http://113.108.59.138:8888/hls/25/index.m3u8
+CCTV14,http://772765777.xyz:27777/rtp/239.93.1.29:6000
 CCTV14,http://113.105.29.43:60901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://goo.bkpcp.top/mg/cctv14
 CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV15,rtp://@239.77.1.120:5146
+CCTV15,http://772765777.xyz:27777/rtp/239.93.0.103:5140
 CCTV15,http://113.105.29.43:60901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://goo.bkpcp.top/mg/cctv15
 CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV16,http://113.105.29.43:60901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://nas.ioiogoo.cn:54332/gaoma/cctv16.m3u8
 CCTV16,http://hmjnas.drdjhmj.top:35455/gaoma/cctv16.m3u8
-CCTV16,http://yulang132.cn:4022/rtp/239.93.42.54:5140
 CCTV17,rtp://@239.77.1.121:5146
+CCTV17,http://772765777.xyz:27777/rtp/239.93.0.92:5140
 CCTV17,http://113.105.29.43:60901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://goo.bkpcp.top/mg/cctv17
 CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
@@ -674,131 +617,132 @@ CCTV4K,rtp://239.77.0.194:5146
 CCTV4K,http://xiaoya.crccxw.top:35455/gaoma/cctv4k.m3u8
 CCTV4K,http://hmjnas.drdjhmj.top:35455/gaoma/cctv4k.m3u8
 
-https://taoiptv.com/subs/44025.txt?token=7546b250b8650267
+
 卫视频道,#genre#
 星空卫视,http://j.daysky.com:8000/rtp/239.93.0.156:2193
+星空卫视,http://772765777.xyz:27777/rtp/239.93.0.156:2193
 澳视卫星,http://113.105.29.43:60901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 澳视卫星,http://cdn.163189.xyz/live/as/stream.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 江苏卫视,rtp://@239.77.1.18:5146
-江苏卫视,http://113.108.59.138:8888/hls/48/index.m3u8
+江苏卫视,http://772765777.xyz:27777/rtp/239.93.0.89:5140
 江苏卫视,http://goo.bkpcp.top/mg/jsws
-江苏卫视,http:/yulang132.cn:4022/rtp/239.93.0.89:5140
+江苏卫视,http://j.daysky.com:8000/rtp/239.93.0.89:5140
 广西卫视,rtp://@239.77.0.139:5146
-广西卫视,http://113.108.59.138:8888/hls/18/index.m3u8
-广西卫视,http://yulang132.cn:4022/rtp/239.93.42.46:5140
+广西卫视,http://772765777.xyz:27777/rtp/239.93.42.46:5140
+广西卫视,http://j.daysky.com:8000/rtp/239.93.42.46:5140
 四川卫视,rtp://@239.77.1.215:5146
-四川卫视,http://113.108.59.138:8888/hls/49/index.m3u8
+四川卫视,http://772765777.xyz:27777/rtp/239.93.0.20:1235
 四川卫视,http://goo.bkpcp.top/mg/scws
-四川卫视,http://yulang132.cn:4022/rtp/239.93.0.20:1235
+四川卫视,http://j.daysky.com:8000/rtp/239.93.0.20:1235
 湖南卫视,rtp://@239.77.1.5:5146
-湖南卫视,http://113.108.59.138:8888/hls/5/index.m3u8
+湖南卫视,http://772765777.xyz:27777/rtp/239.93.0.88:5140
 湖南卫视,http://goo.bkpcp.top/mg/hunws
-湖南卫视,http://yulang132.cn:4022/rtp/239.93.0.88:5140
+湖南卫视,http://j.daysky.com:8000/rtp/239.93.0.88:5140
 浙江卫视,rtp://@239.77.1.33:5146
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://113.108.59.138:8888/hls/46/index.m3u8
+浙江卫视,http://772765777.xyz:27777/rtp/239.93.0.124:5140
 浙江卫视,http://goo.bkpcp.top/mg/zjws
-浙江卫视,http://yulang132.cn:4022/rtp/239.93.0.124:5140
+浙江卫视,http://j.daysky.com:8000/rtp/239.93.0.124:5140
 东方卫视,rtp://@239.77.0.98:5146
-东方卫视,http://113.108.59.138:8888/hls/12/index.m3u8
+东方卫视,http://772765777.xyz:27777/rtp/239.93.0.123:5140
 东方卫视,http://goo.bkpcp.top/mg/dfws
-东方卫视,http://yulang132.cn:4022/rtp/239.93.0.123:5140
-北京卫视,http://113.108.59.138:8888/hls/24/index.m3u8
+东方卫视,http://j.daysky.com:8000/rtp/239.93.0.123:5140
+北京卫视,http://772765777.xyz:27777/rtp/239.93.0.180:5140
 北京卫视,http://goo.bkpcp.top/mg/bjws
-北京卫视,http://yulang132.cn:4022/rtp/239.93.0.180:5140
+北京卫视,http://j.daysky.com:8000/rtp/239.93.0.180:5140
 天津卫视,rtp://@239.77.0.131:5146
-天津卫视,http://113.108.59.138:8888/hls/39/index.m3u8
-天津卫视,http://yulang132.cn:4022/rtp/239.93.0.167:5140
+天津卫视,http://772765777.xyz:27777/rtp/239.93.0.167:5140
+天津卫视,http://j.daysky.com:8000/rtp/239.93.0.167:5140
 辽宁卫视,rtp://@239.77.1.103:5146
-辽宁卫视,http://113.105.29.43:60901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://yulang132.cn:4022/rtp/239.93.1.108:5140
+辽宁卫视,http://772765777.xyz:27777/rtp/239.93.1.108:5140
+辽宁卫视,http://j.daysky.com:8000/rtp/239.93.1.108:5140
 安徽卫视,rtp://@239.77.0.183:5146
-安徽卫视,http://113.108.59.138:8888/hls/4/index.m3u8
-安徽卫视,http://yulang132.cn:4022/rtp/239.93.1.106:5140
+安徽卫视,http://772765777.xyz:27777/rtp/239.93.1.106:5140
+安徽卫视,http://j.daysky.com:8000/rtp/239.93.1.106:5140
 黑龙江卫视,rtp://@239.77.1.179:5146
-黑龙江卫视,http://113.108.59.138:8888/hls/6/index.m3u8
-黑龙江卫视,http://yulang132.cn:4022/rtp/239.93.0.183:5140
+黑龙江卫视,http://772765777.xyz:27777/rtp/239.93.0.183:5140
+黑龙江卫视,http://j.daysky.com:8000/rtp/239.93.0.183:5140
 广东卫视,rtp://@239.77.1.19:5146
-广东卫视,http://113.108.59.138:8888/hls/2/index.m3u8
+广东卫视,http://772765777.xyz:27777/rtp/239.93.0.181:5140
 广东卫视,http://goo.bkpcp.top/mg/gdws
-广东卫视,http://yulang132.cn:4022/rtp/239.93.0.181:5140
+广东卫视,http://j.daysky.com:8000/rtp/239.93.0.181:5140
 深圳卫视,rtp://@239.77.0.130:5146
-深圳卫视,http://113.108.59.138:8888/hls/43/index.m3u8
-深圳卫视,http://yulang132.cn:4022/rtp/39.93.0.182:5140
+深圳卫视,http://772765777.xyz:27777/rtp/39.93.0.182:5140
+深圳卫视,http://j.daysky.com:8000/rtp/39.93.0.182:5140
 湖北卫视,rtp://@239.77.1.174:5146
-湖北卫视,http://113.108.59.138:8888/hls/14/index.m3u8
-湖北卫视,http://yulang132.cn:4022/rtp/239.93.0.250:5140
+湖北卫视,http://772765777.xyz:27777/rtp/239.93.0.250:5140
+湖北卫视,http://j.daysky.com:8000/rtp/239.93.0.250:5140
 吉林卫视,rtp://@239.77.0.150:5146
-吉林卫视,http://113.108.59.138:8888/hls/27/index.m3u8
-吉林卫视,http:/yulang132.cn:4022/rtp/239.93.0.248:5140
+吉林卫视,http://772765777.xyz:27777/rtp/239.93.0.248:5140
+吉林卫视,http://j.daysky.com:8000/rtp/239.93.0.248:5140
 山东卫视,rtp://@239.77.1.142:5146
-山东卫视,http://113.108.59.138:8888/hls/32/index.m3u8
-山东卫视,http://yulang132.cn:4022/rtp/239.93.0.168:5140
+山东卫视,http://772765777.xyz:27777/rtp/239.93.0.168:5140
+山东卫视,http://j.daysky.com:8000/rtp/239.93.0.168:5140
 江西卫视,rtp://@239.77.1.74:5146
-江西卫视,http://113.108.59.138:8888/hls/41/index.m3u8
-江西卫视,http://yulang132.cn:4022/rtp/239.93.0.134:5140
+江西卫视,http://772765777.xyz:27777/rtp/239.93.0.134:5140
+江西卫视,http://j.daysky.com:8000/rtp/239.93.0.134:5140
 河南卫视,rtp://@239.77.1.229:5146
-河南卫视,http://113.108.59.138:8888/hls/29/index.m3u8
-河南卫视,http://yulang132.cn:4022/rtp/239.93.42.45:5140
+河南卫视,http://772765777.xyz:27777/rtp/239.93.42.45:5140
+河南卫视,http://j.daysky.com:8000/rtp/239.93.42.45:5140
 河北卫视,rtp://@239.77.1.214:5146
-河北卫视,http://113.105.29.43:60901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://yulang132.cn:4022/rtp/239.93.0.132:5140
+河北卫视,http://772765777.xyz:27777/rtp/239.93.0.132:5140
+河北卫视,http://j.daysky.com:8000/rtp/239.93.0.132:5140
 甘肃卫视,rtp://@239.77.1.57:5146
-甘肃卫视,http://113.108.59.138:8888/hls/17/index.m3u8
-甘肃卫视,http://yulang132.cn:4022/rtp/239.93.0.81:5140
+甘肃卫视,http://772765777.xyz:27777/rtp/239.93.0.81:5140
+甘肃卫视,http://j.daysky.com:8000/rtp/239.93.0.81:5140
 重庆卫视,rtp://@239.77.1.162:5146
-重庆卫视,http://113.108.59.138:8888/hls/26/index.m3u8
-重庆卫视,http://yulang132.cn:4022/rtp/239.93.1.107:5140
+重庆卫视,http://772765777.xyz:27777/rtp/239.93.1.107:5140
+重庆卫视,http://j.daysky.com:8000/rtp/239.93.1.107:5140
 东南卫视,rtp://@239.77.1.104:5146
-东南卫视,http://113.108.59.138:8888/hls/1/index.m3u8
-东南卫视,http://yulang132.cn:4022/rtp/39.93.0.42:5140
+东南卫视,http://772765777.xyz:27777/rtp/39.93.0.42:5140
+东南卫视,http://j.daysky.com:8000/rtp/39.93.0.42:5140
 云南卫视,rtp://@239.253.43.100:5146
-云南卫视,http://113.108.59.138:8888/hls/33/index.m3u8
-云南卫视,http://yulang132.cn:4022/rtp/239.93.1.174:5140
+云南卫视,http://772765777.xyz:27777/rtp/239.93.1.174:5140
+云南卫视,http://j.daysky.com:8000/rtp/239.93.1.174:5140
 贵州卫视,rtp://@239.77.0.230:5146
-贵州卫视,http://113.108.59.138:8888/hls/42/index.m3u8
-贵州卫视,http://yulang132.cn:4022/rtp/239.93.0.131:5140
+贵州卫视,http://772765777.xyz:27777/rtp/239.93.0.131:5140
+贵州卫视,http://j.daysky.com:8000/rtp/239.93.0.131:5140
 海南卫视,rtp://@239.253.43.35:5146
-海南卫视,http://113.108.59.138:8888/hls/8/index.m3u8
-海南卫视,http://yulang132.cn:4022/rtp/239.93.0.80:5140
+海南卫视,http://772765777.xyz:27777/rtp/239.93.0.80:5140
+海南卫视,http://j.daysky.com:8000/rtp/239.93.0.80:5140
 陕西卫视,rtp://@239.77.1.54:5146
-陕西卫视,http://113.108.59.138:8888/hls/22/index.m3u8
-陕西卫视,http://yulang132.cn:4022/rtp/239.93.0.143:5140
+陕西卫视,http://772765777.xyz:27777/rtp/239.93.0.143:5140
+陕西卫视,http://j.daysky.com:8000/rtp/239.93.0.143:5140
 山西卫视,rtp://@239.77.1.74:5146
-山西卫视,http://113.108.59.138:8888/hls/23/index.m3u8
-山西卫视,http://yulang132.cn:4022/rtp/239.93.0.6:5140
+山西卫视,http://772765777.xyz:27777/rtp/239.93.0.6:5140
+山西卫视,http://j.daysky.com:8000/rtp/239.93.0.6:5140
 内蒙古卫视,rtp://@239.77.1.55:5146
-内蒙古卫视,http://113.108.59.138:8888/hls/35/index.m3u8
-内蒙古卫视,http://yulang132.cn:4022/rtp/239.93.0.8:5140
+内蒙古卫视,http://772765777.xyz:27777/rtp/239.93.0.8:5140
+内蒙古卫视,http://j.daysky.com:8000/rtp/239.93.0.8:5140
 青海卫视,rtp://@239.77.1.70:5146
-青海卫视,http://113.108.59.138:8888/hls/16/index.m3u8
-青海卫视,http://yulang132.cn:4022/rtp/239.93.0.192:5140
+青海卫视,http://772765777.xyz:27777/rtp/239.93.0.192:5140
+青海卫视,http://j.daysky.com:8000/rtp/239.93.0.192:5140
 宁夏卫视,rtp://@239.77.1.47:5146
-宁夏卫视,http://113.108.59.138:8888/hls/15/index.m3u8
-宁夏卫视,http://yulang132.cn:4022/rtp/239.93.0.247:5140
+宁夏卫视,http://772765777.xyz:27777/rtp/239.93.0.247:5140
+宁夏卫视,http://j.daysky.com:8000/rtp/239.93.0.247:5140
 西藏卫视,rtp://@239.77.1.49:5146
-西藏卫视,http://113.108.59.138:8888/hls/38/index.m3u8
-西藏卫视,http://yulang132.cn:4022/rtp/239.93.0.175:5140
+西藏卫视,http://772765777.xyz:27777/rtp/239.93.0.175:5140
+西藏卫视,http://j.daysky.com:8000/rtp/239.93.0.175:5140
 新疆卫视,rtp://@239.77.1.53:5146
-新疆卫视,http://113.108.59.138:8888/hls/40/index.m3u8
-新疆卫视,http://yulang132.cn:4022/rtp/239.93.0.194:5140
+新疆卫视,http://772765777.xyz:27777/rtp/239.93.0.194:5140
+新疆卫视,http://j.daysky.com:8000/rtp/239.93.0.194:5140
 兵团卫视,rtp://@239.77.1.80:5146
 兵团卫视,http://j.daysky.com:8000/rtp/239.93.42.43:5140
-兵团卫视,http://dsm.ccb912.top:9998/rtp//239.93.42.43:5140
-兵团卫视,http://yulang132.cn:4022/rtp/239.93.42.43:5140
+兵团卫视,http://772765777.xyz:27777/rtp/239.93.42.43:5140
+兵团卫视,http://www.qiqi.pub:18889/rtp/239.93.42.43:5140
 厦门卫视,rtp://@239.77.0.96:5146
 厦门卫视,http://j.daysky.com:8000/rtp/239.93.42.57:5140
-厦门卫视,http://dsm.ccb912.top:9998/rtp/239.93.42.57:5140
-厦门卫视,http://yulang132.cn:4022/rtp/239.93.42.57:5140
+厦门卫视,http://772765777.xyz:27777/rtp/239.93.42.57:5140
+厦门卫视,http://www.qiqi.pub:18889/rtp/239.93.42.57:5140
 三沙卫视,rtp://@239.253.43.113:5146
 三沙卫视,http://j.daysky.com:8000/rtp/239.93.42.58:5140
-三沙卫视,http://dsm.ccb912.top:9998/rtp/239.93.42.58:5140
-三沙卫视,http://yulang132.cn:4022/rtp/239.93.42.58:5140
+三沙卫视,http://772765777.xyz:27777/rtp/239.93.42.58:5140
+三沙卫视,http://www.qiqi.pub:18889/rtp/239.93.42.58:5140
 延边卫视,rtp://@239.77.1.99:5146
 延边卫视,http://j.daysky.com:8000/rtp/239.93.0.249:5140
-延边卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.249:5140
-延边卫视,http://yulang132.cn:4022/rtp/239.93.0.249:5140
+延边卫视,http://772765777.xyz:27777/rtp/239.93.0.249:5140
+延边卫视,http://www.qiqi.pub:18889/rtp/239.93.0.249:5140
 
 
 
@@ -824,8 +768,7 @@ https://taoiptv.com/subs/44025.txt?token=7546b250b8650267
 金鹰卡通,http://j.daysky.com:8000/rtp/239.93.0.5:5140
 哈哈炫动,http://j.daysky.com:8000/rtp/239.93.0.173:5140
 优漫卡通,http://j.daysky.com:8000/rtp/239.93.0.251:5140
-黑莓动画,https://lives.catvod.com/TVOD/2000000003000000002/hnbblive/index.m3u8?OtherName=4M1080_湖南bblive
-黑莓动画,https://lives.catvod.com/TVOD/1000000004000021734/ystenlive/index.m3u8?OtherName=4M1080_易视腾
+黑莓动画,
 
 
 
@@ -834,141 +777,22 @@ https://taoiptv.com/subs/44025.txt?token=7546b250b8650267
 其他频道,#genre#
 乐游,http://j.daysky.com:8000/rtp/239.93.42.94:5140
 解密,http://j.daysky.com:8000/rtp/239.93.42.94:5140
-农业致富,http://lives.catvod.com/TVOD/2000000003000000003/hnbblive/index.m3u8?OtherName=4M1080_湖南bblive
-精品纪录,https://lives.catvod.com/TVOD/1000000004000013730/ystenlive/index.m3u8?OtherName=4M1080_易视腾
-精品记录,https://lives.catvod.com/TVOD/2000000003000000019/hnbblive/index.m3u8?OtherName=4M1080_湖南bblive
-纪实人文,https://lives.catvod.com/TVOD/1000000001000016545/ystenlive/index.m3u8?OtherName=8M1080_易视腾
-纪实人文,https://lives.catvod.com/TVOD/1000000005000265021/ystenlive/index.m3u8?OtherName=5.5M1080HEVC_易视腾
-纪实人文,https://lives.catvod.com/TVOD/1000000001000010606/ystenlive/index.m3u8?OtherName=4M1080_易视腾
-求索动物,https://lives.catvod.com/TVOD/6000000002000010046/wasusyt/index.m3u8?OtherName=8M1080_华数
-求索动物,https://lives.catvod.com/TVOD/2000000004000000009/hnbblive/index.m3u8?OtherName=7.5M1080_湖南bblive
-求索纪录,https://lives.catvod.com/TVOD/6000000002000032052/wasusyt/index.m3u8?OtherName=8M1080_华数
-求索纪录,https://lives.catvod.com/TVOD/2000000004000000010/hnbblive/index.m3u8?OtherName=7.5M1080_湖南bblive
-求索科学,https://lives.catvod.com/TVOD/6000000002000032344/wasusyt/index.m3u8?OtherName=8M1080_华数
-求索科学,https://lives.catvod.com/TVOD/2000000004000000011/hnbblive/index.m3u8?OtherName=7.5M1080_湖南bblive
-求索生活,https://lives.catvod.com/TVOD/6000000002000003382/wasusyt/index.m3u8?OtherName=8M1080_华数
-求索生活,https://lives.catvod.com/TVOD/2000000004000000008/hnbblive/index.m3u8?OtherName=7.5M1080_湖南bblive
+农业致富,
+精品纪录,
+精品记录,
+纪实人文,
+求索动物,
+求索纪录,
+求索科学,
+求索生活,
 中国交通,http://j.daysky.com:8000/rtp/239.93.0.142:5140
 金鹰纪实,http://j.daysky.com:8000/rtp/239.93.0.130:5140
 
 
-AKTV,#genre#
-28 AI 智慧賽馬,http://aktv-stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
-Channel 5 HD,http://aktv-stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://aktv-stream.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://aktv-stream.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
-myTV SUPER 18台,http://aktv-stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
-PopC,http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
-ROCK Action,http://aktv-stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
-TVB Plus,http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-tvN,http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
-中天新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-千禧經典台(HK),http://aktv-stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
-娛樂新聞台(HK),http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
-寰宇新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-明珠剧集台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
-明珠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
-無線新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-美亞電影台(HK),http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
-翡翠剧集台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
-翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
-翡翠台 4K,http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
-翡翠综合台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
-鳳凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-鳳凰資訊,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-鳳凰香港,http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
-黃金翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
-AXN,http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-Love Nature HD,http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
-National Geographic,http://aktv-stream.m16tv.cfd/stream/aktv2/nationalgeographic/AKTV.m3u8
-无线新闻台(北美),http://aktv-stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
-東森新聞,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-Animax(HK),http://aktv-stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
-DW,http://aktv-stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
-France 24,http://aktv-stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
-KIX,http://aktv-stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
-NHK World-Japan,http://aktv-stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
-NHK東京総合,http://aktv-stream.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
-Nick Jr,http://aktv-stream.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv-stream.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
-Thrill,http://aktv-stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
-Xite Hits,http://aktv-stream.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
-Xite Rock,http://aktv-stream.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
-ZooMoo,http://aktv-stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
-亞洲新聞台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
-東方衛視國際頻道,http://aktv-stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
-無線衛星新聞台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
-Celestial Movies,http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
-CINEMAWORLD,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
-FIGHT SPORTS,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
-Mediacorp Entertainment Chinese,http://aktv-stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
-NBA TV,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
-Sukan,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
-TV9,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
-TVB Jade,http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
-TVB Xing He,http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
-Unifi Sport,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
-曼聯電視頻道,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
-朝鮮恩情台,http://aktv-stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
-ELTV生活英語台,http://aktv-stream.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
-三立新聞iNEWS,http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
-中視,http://aktv-stream.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
-中視新聞,http://aktv-stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
-倪珍英語新聞,http://aktv-stream.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
-台視,http://aktv-stream.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
-台視新聞,http://aktv-stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-華視,http://aktv-stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
-龍華偶像台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
-龍華日韓台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
-龍華經典台,http://aktv-stream.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
-龍華電影台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
-Astro Football,http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
-Astro IQIYI,http://aktv-stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
-Astro QJ,http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
-Astro 欢喜台,http://aktv-stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
-NTV NEWS 24,http://aktv-stream.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
-viuTV,http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
 
 
 
-gogo,#genre#
-无线新闻,https://www.insurancegogogo.com/4987/inews_twn/playlist.m3u8
-凤凰香港台,https://www.insurancegogogo.com/4987/hkphoenix_twn/playlist.m3u8
-凤凰中文台,https://www.insurancegogogo.com/4987/phoenixtv_hd/playlist.m3u8
-凤凰资讯台,https://www.insurancegogogo.com/4987/phoenixinfo_hd/playlist.m3u8
-ViuTV,https://www.insurancegogogo.com/4987/viu_twn/playlist.m3u8
-Viu1TV,https://www.insurancegogogo.com/4987/viu1_twn/playlist.m3u8
-民事,https://www.insurancegogogo.com/4987/ftvhd_taiwan/playlist.m3u8
-三立台湾,https://www.insurancegogogo.com/4987/sanlitaiwan/playlist.m3u8
-三立综合,https://www.insurancegogogo.com/4987/sanlizhonghe/playlist.m3u8
-民视台湾台,https://www.insurancegogogo.com/4987/ftvtaiwan_twn/playlist.m3u8
-TVBS HD,https://www.insurancegogogo.com/4987/tvbs/playlist.m3u8
-TVBS新闻台,https://www.insurancegogogo.com/4987/tvbs_n/playlist.m3u8
 
 
- TVB翡翠台MY,p3p://108.181.32.169:58940/6533f6f8000f2ebd2d03af9d53e46544
- 无线新闻台,p3p://108.181.32.169:58940/66c413ed0002eb3047eaefcf31980454
- 无线新闻台B,p3p://108.181.32.169:58940/66c414110003f1f047eb7cb30cd84a38
- 无线财经台,p3p://108.181.32.169:58940/64100aec000c7bc59804a081537730cb
- TVB明珠台Pearl,p3p://108.181.32.169:58940/6533f84d00047c732d08e0ea71ab4e92
- TVB星河粤语,p3p://108.181.32.169:58940/641021c50003c5af985dddf037af353c
- TVB星河国语,p3p://108.181.32.169:58940/641021e900026b0f985e6a374d7d56bb
- HOY 78,p3p://108.181.32.169:58940/676747550002dc76c568044f0ac04b1e
- Hoy 77,p3p://108.181.32.169:58940/641022340009a273985f91092cb6113d
- NOW财经台,p3p://108.181.32.169:58940/641020d00004bf91985a212731011c3c
- NOW直播台,p3p://108.181.32.169:58940/6417e77b0007feb1b6b9f4ca25bc6e04
- NOW新闻台,p3p://108.181.32.169:58940/676746e2000a6d2dc56645077f356b6b
- TVB功夫台,p3p://108.181.32.169:58940/6411291b0004b01b9c62861646d00929
- TVB娱乐新闻台,p3p://108.181.32.169:58940/64102219000c6f74985f28485a5a5799
- TVB J2,p3p://108.181.32.169:58940/641021800006a527985cd1244315142d
- 新时代,p3p://108.181.32.169:58940/673bfb69000723791c484da526413354
- 新时代2,p3p://108.181.32.169:58940/673bfb9b000310101c490fea44ce2cbc
- TVB经典台,p3p://108.181.32.169:58940/6410219e0000704b985d44bd2a501d47
- TVB爆谷台(不稳定),p3p://108.181.32.169:58940/641af90c000328bac2b691f11db2274a
- TVB星影台(不稳定),p3p://108.181.32.169:58940/641af926000cc2b9c2b6f9f75c8d2b97
- 电影一台,p3p://108.181.32.169:58940/6410224e00097a01985ff68e53d22e70
- VIU TV,p3p://108.181.32.169:58940/641021400008eb86985bd7b90b510a5b
-
-
-
+ 
