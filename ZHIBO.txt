@@ -1,70 +1,72 @@
 新闻频道,#genre#
-鳳凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-鳳凰中文,http://j.daysky.com:8000/rtp/239.93.0.162:2192
+鳳凰中文,http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+鳳凰中文,http://222.209.122.32:666/rtp/239.93.0.162:2192
+鳳凰中文,http://222.209.208.234:7788/rtp/239.93.0.162:2192
 鳳凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
 鳳凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 鳳凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-鳯凰資訊,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-鳯凰資訊,http://j.daysky.com:8000/rtp/239.93.0.118:2191
+鳯凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+鳯凰資訊,http://222.209.122.32:666/rtp/239.93.0.118:2191
+鳯凰資訊,http://222.209.208.234:7788/rtp/239.93.0.118:2191
 鳯凰資訊,http://dns.yiandrive.com:15907/phenix/fhzx
 鳯凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳯凰資訊,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 鳯凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 鳯凰資訊,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-鳳凰香港,http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 鳳凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 鳳凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
 鳳凰香港,http://108.181.20.221:27347/livehttpplay?channel_id=20067
 
 
-TVBS新闻台,http://eu.huohuoaa.tech:1025/Smart.php?id=tvbs_n
-TVBS新闻台,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs_n
-TVBS新闻台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 TVBS新闻台,https://live.iill.top/youtube/2mCSYvcfhtc
-寰宇新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=huanyuxinwen_twn
-寰宇新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=huanyuxinwen_twn
-寰宇新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+TVBS新闻台,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs_n
+TVBS新闻台,http://aktv_stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 寰宇新聞台,https://live.iill.top/youtube/6IquAgfvYmc
-東森新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=ettvnews
-東森新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvnews
-東森新聞台,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+寰宇新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=huanyuxinwen_twn
+寰宇新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 東森新聞台,https://live.iill.top/youtube/V1p33hqPrUk
+東森新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvnews
+東森新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 東森財經台,http://108.181.21.27:27347/livehttpplay?channel_id=20078
-中天新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=ctinews
-中天新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
-中天新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 中天新聞台,https://zt.dracwoundshop.eu.org/live/stream.m3u8
 中天新聞台,https://live.iill.top/youtube/vr3XyVCR4T0
+中天新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
+中天新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 中天新聞台2,https://live.iill.top/youtube/DM_PEM8GrIgm3u8?pid=4gtv-4gtv009
 
 
 军事评论,
-军事,http://j.daysky.com:8000/rtp/239.93.0.204:9076
-军事,http://772765777.xyz:27777/rtp/239.93.0.204:9076
+军事,http://222.209.122.32:666/rtp/239.93.0.204:9076
+军事,http://222.209.208.234:7788/rtp/239.93.0.204:9076
 军事,http://www.qiqi.pub:18889/rtp/239.93.0.204:9076
 
-CCTV1,rtp://@239.77.1.17:5146
-CCTV1,http://772765777.xyz:27777/rtp/239.93.0.58:5140
-CCTV1,http://113.105.29.43:60901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://goo.bkpcp.top/mg/cctv1
-CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV4,rtp://@239.77.1.163:5146
-CCTV4,http://772765777.xyz:27777/rtp/239.93.1.105:5140
-CCTV4,http://113.105.29.43:60901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://goo.bkpcp.top/mg/cctv4
-CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV7,rtp://@239.77.1.159:5146
-CCTV7,http://772765777.xyz:27777/rtp/239.93.1.67:5140
-CCTV7,http://113.105.29.43:60901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://goo.bkpcp.top/mg/cctv7
-CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV13,rtp://@239.77.0.188:5146
-CCTV13,http://772765777.xyz:27777/rtp/239.93.0.66:5140
-CCTV13,http://113.105.29.43:60901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://goo.bkpcp.top/mg/cctv13
-CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV1,rtp://@239.77.1.17:5146  
+CCTV1,http://222.209.122.32:666/rtp/239.93.0.58:5140  
+CCTV1,http://121.29.169.234:8888/rtp/239.253.92.83:8012  
+CCTV1,http://j.daysky.com:8000/rtp/239.93.0.58:5140  
+CCTV1,http://772765777.xyz:27777/rtp/239.93.0.58:5140  
+CCTV1,http://www.qiqi.pub:18889/rtp/239.93.0.58:5140  
+CCTV4,rtp://@239.77.1.163:5146  
+CCTV4,http://222.209.122.32:666/rtp/239.93.1.105:5140  
+CCTV4,http://121.29.169.234:8888/rtp/239.253.92.251:6141  
+CCTV4,http://j.daysky.com:8000/rtp/239.93.1.105:5140  
+CCTV4,http://772765777.xyz:27777/rtp/239.93.1.105:5140  
+CCTV4,http://www.qiqi.pub:18889/rtp/239.93.1.105:5140  
+CCTV7,rtp://@239.77.1.159:5146  
+CCTV7,http://222.209.122.32:666/rtp/239.93.1.67:5140  
+CCTV7,http://121.29.169.234:8888/rtp/239.253.92.194:6059  
+CCTV7,http://j.daysky.com:8000/rtp/239.93.1.67:5140  
+CCTV7,http://772765777.xyz:27777/rtp/239.93.1.67:5140  
+CCTV7,http://www.qiqi.pub:18889/rtp/239.93.1.67:5140  
+CCTV13,rtp://@239.77.0.188:5146  
+CCTV13,http://222.209.122.32:666/rtp/239.93.0.66:5140  
+CCTV13,http://121.29.169.234:8888/rtp/239.253.92.13:8008  
+CCTV13,http://j.daysky.com:8000/rtp/239.93.0.66:5140  
+CCTV13,http://772765777.xyz:27777/rtp/239.93.0.66:5140  
+CCTV13,http://www.qiqi.pub:18889/rtp/239.93.0.66:5140  
 广东民生,rtp://@239.77.0.225:5146
 广东民生,http://113.105.29.43:60901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://218.15.183.23:9901/tsfile/live/23011_1.m3u8
@@ -74,7 +76,7 @@ CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 广东新闻,http://61.140.21.34:50085/hls/23/index.m3u8
 广东新闻,http://120.198.101.106:9901/tsfile/live/1013_1.m3u8
 
-無線新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 無線新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 無線新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 無線新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
@@ -82,12 +84,12 @@ CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 
 娛樂新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-娛樂新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
-無線新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+娛樂新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 無線新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 無線新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-娛樂新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+娛樂新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 娛樂新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
@@ -100,28 +102,23 @@ HOY78,http://eu.huohuoaa.tech:1025/Smart.php?id=hoycaijing_twn
 
 
 
-民視新聞,http://eu.huohuoaa.tech:1025/Smart.php?id=ftvnew_taiwan
+民視新聞,https://live.iill.top/youtube/ylYJSBUgaMA
 民視新聞,https://pixman.mytvsuper.com.mp/Smart.php?id=ftvnew_taiwan
 民視新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20097
-民視新聞,https://live.iill.top/youtube/ylYJSBUgaMA
-台視新聞,http://eu.huohuoaa.tech:1025/Smart.php?id=ttvnews_twn
+台視新聞,https://live.iill.top/youtube/xL0ch83RAK8
 台視新聞,https://pixman.mytvsuper.com.mp/Smart.php?id=ttvnews_twn
 台視新聞,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
-台視新聞,https://live.iill.top/youtube/xL0ch83RAK8
-中視新聞,http://eu.huohuoaa.tech:1025/Smart.php?id=zhongshinews_twn
-中視新聞,https://pixman.mytvsuper.com.mp/Smart.php?id=zhongshinews_twn
 中視新聞,https://live.iill.top/youtube/TCnaIE_SAtM
+中視新聞,https://pixman.mytvsuper.com.mp/Smart.php?id=zhongshinews_twn
 華視新聞,https://live.iill.top/youtube/wM0g8EoUZ_E
 公視新聞,https://live.iill.top/youtube/quwqlazU-c8
-年代新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=niandainews_twn  
 年代新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=niandainews_twn  
 年代新聞台,http://108.181.21.27:27347/livehttpplay?channel_id=20033  
 三立新聞台,http://122.117.71.103:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8  
-非凡新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=feifannews_twn  
 非凡新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=feifannews_twn  
 壹電視新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028  
 鏡電視新聞,https://live.iill.top/youtube/5n0y6b0Q25o  
-亞洲新聞台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8  
+亞洲新聞台,http://aktv_stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8  
 
 
 
@@ -137,22 +134,24 @@ HOY78,http://eu.huohuoaa.tech:1025/Smart.php?id=hoycaijing_twn
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
 广东体育,http://113.105.29.43:60901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,rtp://@239.77.0.170:5146
-CCTV5,http://772765777.xyz:27777/rtp/239.93.1.12:2224
-CCTV5,http://113.105.29.43:60901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://goo.bkpcp.top/mg/cctv5
-CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV5+,rtp://@239.77.0.87:5146
-CCTV5+,http://772765777.xyz:27777/rtp/239.93.1.173:5140
-CCTV5+,http://113.105.29.43:60901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://goo.bkpcp.top/mg/cctv5p
-CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV16,http://113.105.29.43:60901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16,http://nas.ioiogoo.cn:54332/gaoma/cctv16.m3u8
-CCTV16,http://hmjnas.drdjhmj.top:35455/gaoma/cctv16.m3u8
-
-NBA TV,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
-FIGHT SPORTS,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
+CCTV5,rtp://@239.77.0.170:5146  
+CCTV5,http://222.209.122.32:666/rtp/239.93.42.37:5140  
+CCTV5,http://121.29.169.234:8888/rtp/239.253.92.181:6046  
+CCTV5,http://j.daysky.com:8000/rtp/239.93.1.12:2224  
+CCTV5,http://772765777.xyz:27777/rtp/239.93.1.12:2224  
+CCTV5,http://www.qiqi.pub:18889/rtp/239.93.1.12:2224  
+CCTV5+,rtp://@239.77.0.87:5146  
+CCTV5+,http://222.209.122.32:666/rtp/239.93.1.36:8004  
+CCTV5+,http://121.29.169.234:8888/rtp/239.253.92.82:8013  
+CCTV5+,http://j.daysky.com:8000/rtp/239.77.0.87:5140  
+CCTV5+,http://772765777.xyz:27777/rtp/239.77.0.87:5140  
+CCTV5+,http://www.qiqi.pub:18889/rtp/239.77.0.87:5140  
+CCTV16,rtp://@239.77.1.122:5146  
+CCTV16,http://222.209.122.32:666/rtp/239.93.42.54:5140  
+CCTV16,http://nas.ioiogoo.cn:54332/gaoma/cctv16.m3u8  
+CCTV16,http://hmjnas.drdjhmj.top:35455/gaoma/cctv16.m3u8  
+NBA TV,http://aktv_stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+FIGHT SPORTS,http://aktv_stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
 
 精品体育,
 超级体育,http://107.174.52.32/itv.php?id=%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2
@@ -172,57 +171,51 @@ IHOT赛车,http://www.qiqi.pub:18889/rtp/239.93.42.20:5140
 睛彩竞技,rtp://239.77.1.20:5146
 睛彩竞技,http://home.kuaidi521.com:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 睛彩竞技http://home.kuaidi521.com:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
-魅力足球,http://j.daysky.com:8000/rtp/239.93.42.97:5140
+魅力足球,http://222.209.122.32:666/rtp/239.93.42.97:5140
+魅力足球,http://222.209.208.234:7788/rtp/239.93.42.97:5140
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
-快乐垂钓,http://j.daysky.com:8000/rtp/239.93.1.151:5140
-来钓鱼吧,http://j.daysky.com:8000/rtp/239.93.42.8:5140
+快乐垂钓,http://222.209.122.32:666/rtp/239.93.1.151:5140
+来钓鱼吧,http://222.209.122.32:666/rtp/239.93.42.8:5140
 英雄联盟1,http://live.iill.top/bilibili.php?id=6
 英雄联盟2,http://live.iill.top/huya.php?id=660001
 英雄联盟3,http://live.iill.top/douyu.php?id=288016
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-緯來體育台,http://eu.huohuoaa.tech:1025/Smart.php?id=videolandsport  
-緯來體育台,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandsport  
 緯來體育台,http://108.181.21.27:27347/livehttpplay?channel_id=20120  
 緯來體育台,http://live4play.uk/livehttpplay?channel_id=20120  
+緯來體育台,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandsport  
 緯來體育台,http://60.248.77.83/sat/tv721.flv  
 緯來體育台,rtmp://f13h.mine.nu/sat/tv721  
 緯來體育台,rtmp://f13h.mine.nu:1935/sat/tv721  
-ELTA体一,http://eu.huohuoaa.tech:1025/Smart.php?id=eltasport_twn  
+ELTA体一,http://108.181.20.197/livehttpplay?channel_id=20129
 ELTA体一,https://pixman.mytvsuper.com.mp/Smart.php?id=eltasport_twn  
-ELTA体二,http://eu.huohuoaa.tech:1025/Smart.php?id=eltasport2_twn  
+ELTA体二,http://108.181.20.197/livehttpplay?channel_id=20107
 ELTA体二,https://pixman.mytvsuper.com.mp/Smart.php?id=eltasport2_twn  
-ELTA体三,http://eu.huohuoaa.tech:1025/Smart.php?id=eltasport3_twn  
 ELTA体三,https://pixman.mytvsuper.com.mp/Smart.php?id=eltasport3_twn  
-DAZN一台,http://eu.huohuoaa.tech:1025/Smart.php?id=golfchannel_twn  
+DAZN一台,http://108.181.20.197/livehttpplay?channel_id=10104
 DAZN一台,https://pixman.mytvsuper.com.mp/Smart.php?id=golfchannel_twn  
 DAZN一台,http://live4play.uk/livehttpplay?channel_id=10104  
 DAZN一台,http://60.248.77.83/sat/tv731.flv  
 DAZN一台,rtmp://f13h.mine.nu/sat/tv731  
+DAZN二台,http://108.181.20.197/livehttpplay?channel_id=10105
 DAZN二台,http://live4play.uk/livehttpplay?channel_id=10105  
 DAZN二台,http://60.248.77.83/sat/tv741.flv  
 DAZN二台,rtmp://f13h.mine.nu/sat/tv741  
-博斯无限,http://eu.huohuoaa.tech:1025/Smart.php?id=bosiunlimited_twn  
 博斯无限,https://pixman.mytvsuper.com.mp/Smart.php?id=bosiunlimited_twn  
-博斯网球,http://eu.huohuoaa.tech:1025/Smart.php?id=bositennis_twn  
 博斯网球,https://pixman.mytvsuper.com.mp/Smart.php?id=bositennis_twn  
-博斯動台壹,http://eu.huohuoaa.tech:1025/Smart.php?id=bosisport1_twn  
 博斯動台壹,https://pixman.mytvsuper.com.mp/Smart.php?id=bosisport1_twn  
-博斯動台贰,http://eu.huohuoaa.tech:1025/Smart.php?id=bosisport2_twn  
 博斯動台贰,https://pixman.mytvsuper.com.mp/Smart.php?id=bosisport2_twn  
-博斯高球壹,http://eu.huohuoaa.tech:1025/Smart.php?id=bosigolf1_twn  
 博斯高球壹,https://pixman.mytvsuper.com.mp/Smart.php?id=bosigolf1_twn  
-博斯高球贰,http://eu.huohuoaa.tech:1025/Smart.php?id=bosigolf2_twn  
 博斯高球贰,https://pixman.mytvsuper.com.mp/Smart.php?id=bosigolf2_twn  
 
 Now Sports Prime,
-PAC12,http://aktv-stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
-beIN SPORTS XTRA,http://aktv-stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
-Red Bull Sports,http://aktv-stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
-Tennis Channel DE,http://aktv-stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
-Tennis Channel US,http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
-Tennis Channel 2 US,http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
-CBS SPORTS NETWORK,http://aktv-stream.m16tv.cfd/stream/useradd1/cbssportsnetwork/AKTV.m3u8
+PAC12,http://aktv_stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
+beIN SPORTS XTRA,http://aktv_stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
+Red Bull Sports,http://aktv_stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
+Tennis Channel DE,http://aktv_stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
+Tennis Channel US,http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
+Tennis Channel 2 US,http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
+CBS SPORTS NETWORK,http://aktv_stream.m16tv.cfd/stream/useradd1/cbssportsnetwork/AKTV.m3u8
 
 
 
@@ -243,32 +236,26 @@ CBS SPORTS NETWORK,http://aktv-stream.m16tv.cfd/stream/useradd1/cbssportsnetwork
 NOW星影,
 NOW爆谷,
 美亞電影台(HK),http://live4play.uk/livehttpplay?channel_id=20197
-美亞電影台(HK),http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+美亞電影台(HK),http://aktv_stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 美亞電影台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亞電影台(HK),http://go1.bkpcp.top/tl/null-5
 天影电影(国语),http://php.jdshipin.com/smt.php?id=Celestial
-PoPC,http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+PoPC,http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 PoPC,http://go1.bkpcp.top/tl/popc
 天影经典(国语),http://go1.bkpcp.top/tl/null-1
-Thrill,http://aktv-stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
-ROCK Action,http://aktv-stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
-AXN,http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-Animax,http://aktv-stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
-TVN,http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+Thrill,http://aktv_stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+ROCK Action,http://aktv_stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
+AXN,http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+Animax,http://aktv_stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+TVN,http://aktv_stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 
-CINEMAX,http://eu.huohuoaa.tech:1025/Smart.php?id=cinemax_twn  
+
 CINEMAX,https://pixman.mytvsuper.com.mp/Smart.php?id=cinemax_twn  
-HBO,http://eu.huohuoaa.tech:1025/Smart.php?id=hbohd_twn  
 HBO,https://pixman.mytvsuper.com.mp/Smart.php?id=hbohd_twn  
-HBO famliy,http://eu.huohuoaa.tech:1025/Smart.php?id=fyi_twn  
 HBO famliy,https://pixman.mytvsuper.com.mp/Smart.php?id=fyi_twn  
-AXN亞洲台,http://eu.huohuoaa.tech:1025/Smart.php?id=axn_twn  
 AXN亞洲台,https://pixman.mytvsuper.com.mp/Smart.php?id=axn_twn  
-好萊塢電影,http://eu.huohuoaa.tech:1025/Smart.php?id=hollywoodmovies_twn  
 好萊塢電影,https://pixman.mytvsuper.com.mp/Smart.php?id=hollywoodmovies_twn  
-龍華電影台,http://eu.huohuoaa.tech:1025/Smart.php?id=xingwei_movie  
 龍華電影台,https://pixman.mytvsuper.com.mp/Smart.php?id=xingwei_movie  
-緯來電影台,http://eu.huohuoaa.tech:1025/Smart.php?id=videolandmovie  
 緯來電影台,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie  
 
 
@@ -280,30 +267,32 @@ AXN亞洲台,https://pixman.mytvsuper.com.mp/Smart.php?id=axn_twn
 
 
 香港频道,#genre#
-鳳凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-鳳凰中文,http://j.daysky.com:8000/rtp/239.93.0.162:2192
+鳳凰中文,http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+鳳凰中文,http://222.209.122.32:666/rtp/239.93.0.162:2192
+鳳凰中文,http://222.209.208.234:7788/rtp/239.93.0.162:2192
 鳳凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
 鳳凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 鳳凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-鳯凰資訊,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-鳯凰資訊,http://j.daysky.com:8000/rtp/239.93.0.118:2191
+鳯凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+鳯凰資訊,http://222.209.122.32:666/rtp/239.93.0.118:2191
+鳯凰資訊,http://222.209.208.234:7788/rtp/239.93.0.118:2191
 鳯凰資訊,http://dns.yiandrive.com:15907/phenix/fhzx
 鳯凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳯凰資訊,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 鳯凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 鳯凰資訊,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-鳳凰香港,http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 鳳凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 鳳凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
 鳳凰香港,http://108.181.20.221:27347/livehttpplay?channel_id=20067
 
-無線新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 無線新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 無線新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-娛樂新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+娛樂新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 娛樂新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
@@ -311,23 +300,21 @@ NOW新聞,http://live4play.uk/livehttpplay?channel_id=20041
 HOY78,http://108.181.20.197/livehttpplay?channel_id=20191
 HOY78,https://pixman.mytvsuper.com.mp/Smart.php?id=hoycaijing_twn  
 
-翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
-翡翠台,http://113.105.29.43:60901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://aktv_stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,https://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://cdn.163189.xyz/live/fct4k/stream.m3u8
 翡翠台,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-明珠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
-明珠台,http://113.105.29.43:60901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+明珠台,http://aktv_stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-TVB Jade,http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
-TVB Plus,http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+TVB Jade,http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
+TVB Plus,http://aktv_stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 TVB Plus,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
-TVB J1,http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+TVB J1,http://aktv_stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 TVB J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
 TVB J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
@@ -336,17 +323,17 @@ TVB J2,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 C+台,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 HOY77,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY77,http://cdn.132.us.kg/live/hoy/stream.m3u8
-ViuTV,http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
+ViuTV,http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-TVB 星河台,http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
+TVB 星河台,http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
 TVB 星河台,http://120.198.95.220:9901/tsfile/live/1011_1.m3u8?key=txiptv
 TVB 星河台,http://go1.bkpcp.top/tl/null-7
 TVB 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB 星河台,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
-TVB 剧集台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+TVB 剧集台(北美),http://aktv_stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 TVB 华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB 华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB 华丽台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
@@ -355,10 +342,10 @@ TVB 千禧經典台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 TVB 千禧經典台,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 TVB 千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB 功夫台,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
-翡翠剧集台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
-明珠剧集台,http://aktv-stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
-Mytv黃金翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
-Mytv千禧经典台,http://aktv-stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+翡翠剧集台(北美),http://aktv_stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+明珠剧集台,http://aktv_stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+Mytv黃金翡翠台,http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+Mytv千禧经典台,http://aktv_stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 Mytv 亚洲剧台,http://go1.bkpcp.top/tl/null-13
 Mytv 华语剧台,http://go1.bkpcp.top/tl/null-4
 Mytv 粤语片台,http://go1.bkpcp.top/tl/null-10
@@ -367,28 +354,28 @@ Mytv 粤语片台,http://go1.bkpcp.top/tl/null-10
 NOW星影,
 NOW爆谷,
 美亞電影台(HK),http://live4play.uk/livehttpplay?channel_id=20197
-美亞電影台(HK),http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+美亞電影台(HK),http://aktv_stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 美亞電影台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亞電影台(HK),http://go1.bkpcp.top/tl/null-5
 天影电影(国语),http://php.jdshipin.com/smt.php?id=Celestial
-PoPC,http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+PoPC,http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 PoPC,http://go1.bkpcp.top/tl/popc
 天影经典(国语),http://go1.bkpcp.top/tl/null-1
-Thrill,http://aktv-stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+Thrill,http://aktv_stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
 ROCK Action,http://aktv-stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
-AXN,http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-Animax,http://aktv-stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
-TVN,http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+AXN,http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+Animax,http://aktv_stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+TVN,http://aktv_stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 
 
 Now Sports Prime,
-PAC12,http://aktv-stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
-beIN SPORTS XTRA,http://aktv-stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
-Red Bull Sports,http://aktv-stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
-Tennis Channel DE,http://aktv-stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
-Tennis Channel US,http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
-Tennis Channel 2 US,http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
-CBS SPORTS NETWORK,http://aktv-stream.m16tv.cfd/stream/useradd1/cbssportsnetwork/AKTV.m3u8
+PAC12,http://aktv_stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
+beIN SPORTS XTRA,http://aktv_stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
+Red Bull Sports,http://aktv_stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
+Tennis Channel DE,http://aktv_stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
+Tennis Channel US,http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
+Tennis Channel 2 US,http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
+CBS SPORTS NETWORK,http://aktv_stream.m16tv.cfd/stream/useradd1/cbssportsnetwork/AKTV.m3u8
 
 
 台湾频道,#genre#
@@ -500,84 +487,69 @@ CN卡通,http://live4play.uk/livehttpplay?channel_id=20048
 尼克卡通,http://live4play.uk/livehttpplay?channel_id=20089  
 
 
-民視新聞,http://eu.huohuoaa.tech:1025/Smart.php?id=ftvnew_taiwan
+民視新聞,https://live.iill.top/youtube/ylYJSBUgaMA
 民視新聞,https://pixman.mytvsuper.com.mp/Smart.php?id=ftvnew_taiwan
 民視新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20097
-民視新聞,https://live.iill.top/youtube/ylYJSBUgaMA
-台視新聞,http://eu.huohuoaa.tech:1025/Smart.php?id=ttvnews_twn
+台視新聞,https://live.iill.top/youtube/xL0ch83RAK8
 台視新聞,https://pixman.mytvsuper.com.mp/Smart.php?id=ttvnews_twn
 台視新聞,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
-台視新聞,https://live.iill.top/youtube/xL0ch83RAK8
-中視新聞,http://eu.huohuoaa.tech:1025/Smart.php?id=zhongshinews_twn
-中視新聞,https://pixman.mytvsuper.com.mp/Smart.php?id=zhongshinews_twn
 中視新聞,https://live.iill.top/youtube/TCnaIE_SAtM
+中視新聞,https://pixman.mytvsuper.com.mp/Smart.php?id=zhongshinews_twn
 華視新聞,https://live.iill.top/youtube/wM0g8EoUZ_E
 公視新聞,https://live.iill.top/youtube/quwqlazU-c8
 
-TVBS新闻台,http://eu.huohuoaa.tech:1025/Smart.php?id=tvbs_n  
-TVBS新闻台,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs_n  
-TVBS新闻台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8  
-TVBS新闻台,https://live.iill.top/youtube/2mCSYvcfhtc  
-寰宇新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=huanyuxinwen_twn  
-寰宇新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=huanyuxinwen_twn  
-寰宇新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8  
-寰宇新聞台,https://live.iill.top/youtube/6IquAgfvYmc  
-東森新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=ettvnews  
-東森新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvnews  
-東森新聞台,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8  
-東森新聞台,https://live.iill.top/youtube/V1p33hqPrUk  
-東森財經台,http://108.181.21.27:27347/livehttpplay?channel_id=20078  
-中天新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=ctinews  
-中天新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews  
-中天新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8  
-中天新聞台,https://zt.dracwoundshop.eu.org/live/stream.m3u8  
-中天新聞台,https://live.iill.top/youtube/vr3XyVCR4T0  
-中天新聞台2,https://live.iill.top/youtube/DM_PEM8GrIgm3u8?pid=4gtv-4gtv009  
 
-年代新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=niandainews_twn  
+TVBS新闻台,https://live.iill.top/youtube/2mCSYvcfhtc
+TVBS新闻台,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs_n
+TVBS新闻台,http://aktv_stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+寰宇新聞台,https://live.iill.top/youtube/6IquAgfvYmc
+寰宇新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=huanyuxinwen_twn
+寰宇新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+東森新聞台,https://live.iill.top/youtube/V1p33hqPrUk
+東森新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvnews
+東森新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+東森財經台,http://108.181.21.27:27347/livehttpplay?channel_id=20078
+中天新聞台,https://zt.dracwoundshop.eu.org/live/stream.m3u8
+中天新聞台,https://live.iill.top/youtube/vr3XyVCR4T0
+中天新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
+中天新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+中天新聞台2,https://live.iill.top/youtube/DM_PEM8GrIgm3u8?pid=4gtv-4gtv009
+
 年代新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=niandainews_twn  
 年代新聞台,http://108.181.21.27:27347/livehttpplay?channel_id=20033  
 三立新聞台,http://122.117.71.103:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8  
-非凡新聞台,http://eu.huohuoaa.tech:1025/Smart.php?id=feifannews_twn  
 非凡新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=feifannews_twn  
 壹電視新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028  
 鏡電視新聞,https://live.iill.top/youtube/5n0y6b0Q25o  
-亞洲新聞台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8  
+亞洲新聞台,http://aktv_stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8  
 
-緯來體育台,http://eu.huohuoaa.tech:1025/Smart.php?id=videolandsport  
-緯來體育台,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandsport  
+
 緯來體育台,http://108.181.21.27:27347/livehttpplay?channel_id=20120  
 緯來體育台,http://live4play.uk/livehttpplay?channel_id=20120  
+緯來體育台,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandsport  
 緯來體育台,http://60.248.77.83/sat/tv721.flv  
 緯來體育台,rtmp://f13h.mine.nu/sat/tv721  
 緯來體育台,rtmp://f13h.mine.nu:1935/sat/tv721  
-ELTA体一,http://eu.huohuoaa.tech:1025/Smart.php?id=eltasport_twn  
+ELTA体一,http://108.181.20.197/livehttpplay?channel_id=20129
 ELTA体一,https://pixman.mytvsuper.com.mp/Smart.php?id=eltasport_twn  
-ELTA体二,http://eu.huohuoaa.tech:1025/Smart.php?id=eltasport2_twn  
+ELTA体二,http://108.181.20.197/livehttpplay?channel_id=20107
 ELTA体二,https://pixman.mytvsuper.com.mp/Smart.php?id=eltasport2_twn  
-ELTA体三,http://eu.huohuoaa.tech:1025/Smart.php?id=eltasport3_twn  
 ELTA体三,https://pixman.mytvsuper.com.mp/Smart.php?id=eltasport3_twn  
-DAZN一台,http://eu.huohuoaa.tech:1025/Smart.php?id=golfchannel_twn  
+DAZN一台,http://108.181.20.197/livehttpplay?channel_id=10104
 DAZN一台,https://pixman.mytvsuper.com.mp/Smart.php?id=golfchannel_twn  
 DAZN一台,http://live4play.uk/livehttpplay?channel_id=10104  
 DAZN一台,http://60.248.77.83/sat/tv731.flv  
 DAZN一台,rtmp://f13h.mine.nu/sat/tv731  
+DAZN二台,http://108.181.20.197/livehttpplay?channel_id=10105
 DAZN二台,http://live4play.uk/livehttpplay?channel_id=10105  
 DAZN二台,http://60.248.77.83/sat/tv741.flv  
 DAZN二台,rtmp://f13h.mine.nu/sat/tv741  
-博斯无限,http://eu.huohuoaa.tech:1025/Smart.php?id=bosiunlimited_twn  
 博斯无限,https://pixman.mytvsuper.com.mp/Smart.php?id=bosiunlimited_twn  
-博斯网球,http://eu.huohuoaa.tech:1025/Smart.php?id=bositennis_twn  
 博斯网球,https://pixman.mytvsuper.com.mp/Smart.php?id=bositennis_twn  
-博斯動台壹,http://eu.huohuoaa.tech:1025/Smart.php?id=bosisport1_twn  
 博斯動台壹,https://pixman.mytvsuper.com.mp/Smart.php?id=bosisport1_twn  
-博斯動台贰,http://eu.huohuoaa.tech:1025/Smart.php?id=bosisport2_twn  
 博斯動台贰,https://pixman.mytvsuper.com.mp/Smart.php?id=bosisport2_twn  
-博斯高球壹,http://eu.huohuoaa.tech:1025/Smart.php?id=bosigolf1_twn  
 博斯高球壹,https://pixman.mytvsuper.com.mp/Smart.php?id=bosigolf1_twn  
-博斯高球贰,http://eu.huohuoaa.tech:1025/Smart.php?id=bosigolf2_twn  
 博斯高球贰,https://pixman.mytvsuper.com.mp/Smart.php?id=bosigolf2_twn  
-
 
 
 
@@ -622,128 +594,113 @@ DAZN二台,rtmp://f13h.mine.nu/sat/tv741
 
 央视频道,#genre#
 CCTV1,rtp://@239.77.1.17:5146  
+CCTV1,http://222.209.122.32:666/rtp/239.93.0.58:5140  
+CCTV1,http://121.29.169.234:8888/rtp/239.253.92.83:8012  
 CCTV1,http://j.daysky.com:8000/rtp/239.93.0.58:5140  
 CCTV1,http://772765777.xyz:27777/rtp/239.93.0.58:5140  
 CCTV1,http://www.qiqi.pub:18889/rtp/239.93.0.58:5140  
-CCTV1,http://113.105.29.43:60901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV1,http://goo.bkpcp.top/mg/cctv1  
-CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1  
 CCTV2,rtp://@239.77.1.158:5146  
+CCTV2,http://222.209.122.32:666/rtp/239.93.1.23:6000  
+CCTV2,http://121.29.169.234:8888/rtp/239.253.92.190:6065  
 CCTV2,http://j.daysky.com:8000/rtp/239.93.1.23:6000  
 CCTV2,http://772765777.xyz:27777/rtp/239.93.1.23:6000  
 CCTV2,http://www.qiqi.pub:18889/rtp/239.93.1.23:6000  
-CCTV2,http://113.105.29.43:60901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV2,http://goo.bkpcp.top/mg/cctv2  
-CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2  
 CCTV3,rtp://@239.77.0.169:5146  
+CCTV3,http://222.209.122.32:666/rtp/239.93.0.109:5140  
+CCTV3,http://121.29.169.234:8888/rtp/239.253.92.191:6057  
 CCTV3,http://j.daysky.com:8000/rtp/239.93.0.109:5140  
 CCTV3,http://772765777.xyz:27777/rtp/239.93.0.109:5140  
 CCTV3,http://www.qiqi.pub:18889/rtp/239.93.0.109:5140  
-CCTV3,http://113.105.29.43:60901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV3,http://goo.bkpcp.top/mg/cctv3  
-CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3  
 CCTV4,rtp://@239.77.1.163:5146  
+CCTV4,http://222.209.122.32:666/rtp/239.93.1.105:5140  
+CCTV4,http://121.29.169.234:8888/rtp/239.253.92.251:6141  
 CCTV4,http://j.daysky.com:8000/rtp/239.93.1.105:5140  
 CCTV4,http://772765777.xyz:27777/rtp/239.93.1.105:5140  
 CCTV4,http://www.qiqi.pub:18889/rtp/239.93.1.105:5140  
-CCTV4,http://113.105.29.43:60901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV4,http://goo.bkpcp.top/mg/cctv4  
-CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4  
 CCTV5,rtp://@239.77.0.170:5146  
+CCTV5,http://222.209.122.32:666/rtp/239.93.42.37:5140  
+CCTV5,http://121.29.169.234:8888/rtp/239.253.92.181:6046  
 CCTV5,http://j.daysky.com:8000/rtp/239.93.1.12:2224  
 CCTV5,http://772765777.xyz:27777/rtp/239.93.1.12:2224  
 CCTV5,http://www.qiqi.pub:18889/rtp/239.93.1.12:2224  
-CCTV5,http://113.105.29.43:60901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV5,http://goo.bkpcp.top/mg/cctv5  
-CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5  
 CCTV5+,rtp://@239.77.0.87:5146  
+CCTV5+,http://222.209.122.32:666/rtp/239.93.1.36:8004  
+CCTV5+,http://121.29.169.234:8888/rtp/239.253.92.82:8013  
 CCTV5+,http://j.daysky.com:8000/rtp/239.77.0.87:5140  
 CCTV5+,http://772765777.xyz:27777/rtp/239.77.0.87:5140  
 CCTV5+,http://www.qiqi.pub:18889/rtp/239.77.0.87:5140  
-CCTV5+,http://113.105.29.43:60901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV5+,http://goo.bkpcp.top/mg/cctv5p  
-CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p  
 CCTV6,rtp://@239.77.0.171:5146  
+CCTV6,http://222.209.122.32:666/rtp/239.93.42.38:5140  
+CCTV6,http://121.29.169.234:8888/rtp/239.253.92.193:6058  
 CCTV6,http://j.daysky.com:8000/rtp/239.93.42.38:5140  
 CCTV6,http://772765777.xyz:27777/rtp/239.93.42.38:5140  
 CCTV6,http://www.qiqi.pub:18889/rtp/239.93.42.38:5140  
-CCTV6,http://113.105.29.43:60901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV6,http://goo.bkpcp.top/mg/cctv6  
-CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6  
 CCTV7,rtp://@239.77.1.159:5146  
+CCTV7,http://222.209.122.32:666/rtp/239.93.1.67:5140  
+CCTV7,http://121.29.169.234:8888/rtp/239.253.92.194:6059  
 CCTV7,http://j.daysky.com:8000/rtp/239.93.1.67:5140  
 CCTV7,http://772765777.xyz:27777/rtp/239.93.1.67:5140  
 CCTV7,http://www.qiqi.pub:18889/rtp/239.93.1.67:5140  
-CCTV7,http://113.105.29.43:60901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV7,http://goo.bkpcp.top/mg/cctv7  
-CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7  
 CCTV8,rtp://@239.77.0.172:5146  
+CCTV8,http://222.209.122.32:666/rtp/239.93.42.39:5140  
+CCTV8,http://121.29.169.234:8888/rtp/239.253.92.195:6060  
 CCTV8,http://j.daysky.com:8000/rtp/239.93.42.39:5140  
 CCTV8,http://772765777.xyz:27777/rtp/239.93.42.39:5140  
 CCTV8,http://www.qiqi.pub:18889/rtp/239.93.42.39:5140  
-CCTV8,http://113.105.29.43:60901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV8,http://goo.bkpcp.top/mg/cctv8  
-CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8  
 CCTV9,rtp://@239.77.1.160:5146  
+CCTV9,http://222.209.122.32:666/rtp/239.93.1.24:5140  
+CCTV9,http://121.29.169.234:8888/rtp/239.253.92.107:6020  
 CCTV9,http://j.daysky.com:8000/rtp/239.93.1.24:5140  
 CCTV9,http://772765777.xyz:27777/rtp/239.93.1.24:5140  
 CCTV9,http://www.qiqi.pub:18889/rtp/239.93.1.24:5140  
-CCTV9,http://113.105.29.43:60901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV9,http://goo.bkpcp.top/mg/cctv9  
-CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9  
 CCTV10,rtp://@239.77.1.113:5146  
+CCTV10,http://222.209.122.32:666/rtp/239.93.1.28:5140  
+CCTV10,http://121.29.169.234:8888/rtp/239.253.92.196:6061  
 CCTV10,http://j.daysky.com:8000/rtp/239.93.1.28:5140  
 CCTV10,http://772765777.xyz:27777/rtp/239.93.1.28:5140  
 CCTV10,http://www.qiqi.pub:18889/rtp/239.93.1.28:5140  
-CCTV10,http://113.105.29.43:60901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV10,http://goo.bkpcp.top/mg/cctv10  
-CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10  
 CCTV11,rtp://@239.77.1.108:5146  
+CCTV11,http://222.209.122.32:666/rtp/239.93.0.102:5140  
+CCTV11,http://121.29.169.234:8888/rtp/239.253.93.153:6321  
 CCTV11,http://j.daysky.com:8000/rtp/239.93.0.102:5140  
 CCTV11,http://772765777.xyz:27777/rtp/239.93.0.102:5140  
 CCTV11,http://www.qiqi.pub:18889/rtp/239.93.0.102:5140  
-CCTV11,http://113.105.29.43:60901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV11,http://goo.bkpcp.top/mg/cctv11  
-CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11  
 CCTV12,rtp://@239.77.1.109:5146  
+CCTV12,http://222.209.122.32:666/rtp/239.93.1.30:8124  
+CCTV12,http://121.29.169.234:8888/rtp/239.253.92.197:6062  
 CCTV12,http://j.daysky.com:8000/rtp/239.93.1.30:8124  
 CCTV12,http://772765777.xyz:27777/rtp/239.93.1.30:8124  
 CCTV12,http://www.qiqi.pub:18889/rtp/239.93.1.30:8124  
-CCTV12,http://113.105.29.43:60901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV12,http://goo.bkpcp.top/mg/cctv12  
-CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12  
 CCTV13,rtp://@239.77.0.188:5146  
+CCTV13,http://222.209.122.32:666/rtp/239.93.0.66:5140  
+CCTV13,http://121.29.169.234:8888/rtp/239.253.92.13:8008  
 CCTV13,http://j.daysky.com:8000/rtp/239.93.0.66:5140  
 CCTV13,http://772765777.xyz:27777/rtp/239.93.0.66:5140  
 CCTV13,http://www.qiqi.pub:18889/rtp/239.93.0.66:5140  
-CCTV13,http://113.105.29.43:60901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV13,http://goo.bkpcp.top/mg/cctv13  
-CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13  
 CCTV14,rtp://@239.77.1.161:5146  
+CCTV14,http://222.209.122.32:666/rtp/239.93.1.29:6000  
+CCTV14,http://121.29.169.234:8888/rtp/239.253.92.198:6063  
 CCTV14,http://j.daysky.com:8000/rtp/239.93.1.29:6000  
 CCTV14,http://772765777.xyz:27777/rtp/239.93.1.29:6000  
 CCTV14,http://www.qiqi.pub:18889/rtp/239.93.1.29:6000  
-CCTV14,http://113.105.29.43:60901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV14,http://goo.bkpcp.top/mg/cctv14  
-CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14  
 CCTV15,rtp://@239.77.1.120:5146  
+CCTV15,http://222.209.122.32:666/rtp/239.93.0.103:5140  
+CCTV15,http://121.29.169.234:8888/rtp/239.253.93.154:6322  
 CCTV15,http://j.daysky.com:8000/rtp/239.93.0.103:5140  
 CCTV15,http://772765777.xyz:27777/rtp/239.93.0.103:5140  
 CCTV15,http://www.qiqi.pub:18889/rtp/239.93.0.103:5140  
-CCTV15,http://113.105.29.43:60901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV15,http://goo.bkpcp.top/mg/cctv15  
-CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15  
-CCTV16,http://113.105.29.43:60901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0  
+CCTV16,rtp://@239.77.1.122:5146  
+CCTV16,http://222.209.122.32:666/rtp/239.93.42.54:5140  
 CCTV16,http://nas.ioiogoo.cn:54332/gaoma/cctv16.m3u8  
 CCTV16,http://hmjnas.drdjhmj.top:35455/gaoma/cctv16.m3u8  
 CCTV17,rtp://@239.77.1.121:5146  
+CCTV17,http://222.209.122.32:666/rtp/239.93.0.92:5140  
+CCTV17,http://121.29.169.234:8888/rtp/239.253.93.150:6318  
 CCTV17,http://j.daysky.com:8000/rtp/239.93.0.92:5140  
 CCTV17,http://772765777.xyz:27777/rtp/239.93.0.92:5140  
 CCTV17,http://www.qiqi.pub:18889/rtp/239.93.0.92:5140  
-CCTV17,http://113.105.29.43:60901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0  
-CCTV17,http://goo.bkpcp.top/mg/cctv17  
-CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17  
-CCTV4K,rtp://239.77.0.194:5146  
+CCTV4K,rtp://@239.77.0.194:5146  
+CCTV4K,http://222.209.122.32:666/rtp/239.93.42.42:5140  
 CCTV4K,http://xiaoya.crccxw.top:35455/gaoma/cctv4k.m3u8  
 CCTV4K,http://hmjnas.drdjhmj.top:35455/gaoma/cctv4k.m3u8  
 
@@ -755,147 +712,219 @@ CCTV4K,http://hmjnas.drdjhmj.top:35455/gaoma/cctv4k.m3u8
 澳视卫星,http://113.105.29.43:60901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0  
 澳视卫星,http://cdn.163189.xyz/live/as/stream.m3u8  
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8  
-江苏卫视,rtp://@239.77.1.18:5146  
-江苏卫视,http://772765777.xyz:27777/rtp/239.93.0.89:5140  
-江苏卫视,http://j.daysky.com:8000/rtp/239.93.0.89:5140  
-江苏卫视,http://www.qiqi.pub:18889/rtp/239.93.0.89:5140  
-广西卫视,rtp://@239.77.0.139:5146  
-广西卫视,http://772765777.xyz:27777/rtp/239.93.42.46:5140  
-广西卫视,http://j.daysky.com:8000/rtp/239.93.42.46:5140  
-广西卫视,http://www.qiqi.pub:18889/rtp/239.93.42.46:5140  
-四川卫视,rtp://@239.77.1.215:5146  
-四川卫视,http://772765777.xyz:27777/rtp/239.93.0.20:1235  
-四川卫视,http://j.daysky.com:8000/rtp/239.93.0.20:1235  
-四川卫视,http://www.qiqi.pub:18889/rtp/239.93.0.20:1235  
-湖南卫视,rtp://@239.77.1.5:5146  
-湖南卫视,http://772765777.xyz:27777/rtp/239.93.0.88:5140  
-湖南卫视,http://j.daysky.com:8000/rtp/239.93.0.88:5140  
-湖南卫视,http://www.qiqi.pub:18889/rtp/239.93.0.88:5140  
-浙江卫视,rtp://@239.77.1.33:5146  
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8  
-浙江卫视,http://772765777.xyz:27777/rtp/239.93.0.124:5140  
-浙江卫视,http://j.daysky.com:8000/rtp/239.93.0.124:5140  
-浙江卫视,http://www.qiqi.pub:18889/rtp/239.93.0.124:5140  
-东方卫视,rtp://@239.77.0.98:5146  
-东方卫视,http://772765777.xyz:27777/rtp/239.93.0.123:5140  
-东方卫视,http://j.daysky.com:8000/rtp/239.93.0.123:5140  
-东方卫视,http://www.qiqi.pub:18889/rtp/239.93.0.123:5140  
-北京卫视,http://772765777.xyz:27777/rtp/239.93.0.180:5140  
-北京卫视,http://j.daysky.com:8000/rtp/239.93.0.180:5140  
-北京卫视,http://www.qiqi.pub:18889/rtp/239.93.0.180:5140  
-天津卫视,rtp://@239.77.0.131:5146  
-天津卫视,http://772765777.xyz:27777/rtp/239.93.0.167:5140  
-天津卫视,http://j.daysky.com:8000/rtp/239.93.0.167:5140  
-天津卫视,http://www.qiqi.pub:18889/rtp/239.93.0.167:5140  
-辽宁卫视,rtp://@239.77.1.103:5146  
-辽宁卫视,http://772765777.xyz:27777/rtp/239.93.1.108:5140  
-辽宁卫视,http://j.daysky.com:8000/rtp/239.93.1.108:5140  
-辽宁卫视,http://www.qiqi.pub:18889/rtp/239.93.1.108:5140  
-安徽卫视,rtp://@239.77.0.183:5146  
-安徽卫视,http://772765777.xyz:27777/rtp/239.93.1.106:5140  
-安徽卫视,http://j.daysky.com:8000/rtp/239.93.1.106:5140  
-安徽卫视,http://www.qiqi.pub:18889/rtp/239.93.1.106:5140  
-黑龙江卫视,rtp://@239.77.1.179:5146  
-黑龙江卫视,http://772765777.xyz:27777/rtp/239.93.0.183:5140  
-黑龙江卫视,http://j.daysky.com:8000/rtp/239.93.0.183:5140  
-黑龙江卫视,http://www.qiqi.pub:18889/rtp/239.93.0.183:5140  
-广东卫视,rtp://@239.77.1.19:5146  
-广东卫视,http://772765777.xyz:27777/rtp/239.93.0.181:5140  
-广东卫视,http://j.daysky.com:8000/rtp/239.93.0.181:5140  
-广东卫视,http://www.qiqi.pub:18889/rtp/239.93.0.181:5140  
-深圳卫视,rtp://@239.77.0.130:5146  
-深圳卫视,http://772765777.xyz:27777/rtp/39.93.0.182:5140  
-深圳卫视,http://j.daysky.com:8000/rtp/39.93.0.182:5140  
-深圳卫视,http://www.qiqi.pub:18889/rtp/39.93.0.182:5140  
-湖北卫视,rtp://@239.77.1.174:5146  
-湖北卫视,http://772765777.xyz:27777/rtp/239.93.0.250:5140  
-湖北卫视,http://j.daysky.com:8000/rtp/239.93.0.250:5140  
-湖北卫视,http://www.qiqi.pub:18889/rtp/239.93.0.250:5140  
-吉林卫视,rtp://@239.77.0.150:5146  
-吉林卫视,http://772765777.xyz:27777/rtp/239.93.0.248:5140  
-吉林卫视,http://j.daysky.com:8000/rtp/239.93.0.248:5140  
-吉林卫视,http://www.qiqi.pub:18889/rtp/239.93.0.248:5140  
-山东卫视,rtp://@239.77.1.142:5146  
-山东卫视,http://772765777.xyz:27777/rtp/239.93.0.168:5140  
-山东卫视,http://j.daysky.com:8000/rtp/239.93.0.168:5140  
-山东卫视,http://www.qiqi.pub:18889/rtp/239.93.0.168:5140  
-江西卫视,rtp://@239.77.1.74:5146  
-江西卫视,http://772765777.xyz:27777/rtp/239.93.0.134:5140  
-江西卫视,http://j.daysky.com:8000/rtp/239.93.0.134:5140  
-江西卫视,http://www.qiqi.pub:18889/rtp/239.93.0.134:5140  
-河南卫视,rtp://@239.77.1.229:5146  
-河南卫视,http://772765777.xyz:27777/rtp/239.93.42.45:5140  
-河南卫视,http://j.daysky.com:8000/rtp/239.93.42.45:5140  
-河南卫视,http://www.qiqi.pub:18889/rtp/239.93.42.45:5140  
-河北卫视,rtp://@239.77.1.214:5146  
-河北卫视,http://772765777.xyz:27777/rtp/239.93.0.132:5140  
-河北卫视,http://j.daysky.com:8000/rtp/239.93.0.132:5140  
-河北卫视,http://www.qiqi.pub:18889/rtp/239.93.0.132:5140  
-甘肃卫视,rtp://@239.77.1.57:5146  
-甘肃卫视,http://772765777.xyz:27777/rtp/239.93.0.81:5140  
-甘肃卫视,http://j.daysky.com:8000/rtp/239.93.0.81:5140  
-甘肃卫视,http://www.qiqi.pub:18889/rtp/239.93.0.81:5140  
+江苏卫视,rtp://@239.77.1.18:5146
+江苏卫视,http://222.209.122.32:666/rtp/239.93.0.89:5140
+江苏卫视,http://222.209.208.234:7788/rtp/239.93.0.89:5140
+江苏卫视,http://772765777.xyz:27777/rtp/239.93.0.89:5140
+江苏卫视,http://j.daysky.com:8000/rtp/239.93.0.89:5140
+江苏卫视,http://www.qiqi.pub:18889/rtp/239.93.0.89:5140
+广西卫视,rtp://@239.77.0.139:5146
+广西卫视,http://222.209.122.32:666/rtp/239.93.42.46:5140
+广西卫视,http://222.209.208.234:7788/rtp/239.93.42.46:5140
+广西卫视,http://772765777.xyz:27777/rtp/239.93.42.46:5140
+广西卫视,http://j.daysky.com:8000/rtp/239.93.42.46:5140
+广西卫视,http://www.qiqi.pub:18889/rtp/239.93.42.46:5140
+四川卫视,rtp://@239.77.1.215:5146
+四川卫视,http://222.209.122.32:666/rtp/239.93.0.20:1235
+四川卫视,http://222.209.208.234:7788/rtp/239.93.0.20:1235
+四川卫视,http://772765777.xyz:27777/rtp/239.93.0.20:1235
+四川卫视,http://j.daysky.com:8000/rtp/239.93.0.20:1235
+四川卫视,http://www.qiqi.pub:18889/rtp/239.93.0.20:1235
+湖南卫视,rtp://@239.77.1.5:5146
+湖南卫视,http://222.209.122.32:666/rtp/239.93.0.88:5140
+湖南卫视,http://222.209.208.234:7788/rtp/239.93.0.88:5140
+湖南卫视,http://772765777.xyz:27777/rtp/239.93.0.88:5140
+湖南卫视,http://j.daysky.com:8000/rtp/239.93.0.88:5140
+湖南卫视,http://www.qiqi.pub:18889/rtp/239.93.0.88:5140
+浙江卫视,rtp://@239.77.1.33:5146
+浙江卫视,http://222.209.122.32:666/rtp/239.93.0.124:5140
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://222.209.208.234:7788/rtp/239.93.0.124:5140
+浙江卫视,http://772765777.xyz:27777/rtp/239.93.0.124:5140
+浙江卫视,http://j.daysky.com:8000/rtp/239.93.0.124:5140
+浙江卫视,http://www.qiqi.pub:18889/rtp/239.93.0.124:5140
+东方卫视,rtp://@239.77.0.98:5146
+东方卫视,http://222.209.122.32:666/rtp/239.93.0.123:5140
+东方卫视,http://222.209.208.234:7788/rtp/239.93.0.123:5140
+东方卫视,http://772765777.xyz:27777/rtp/239.93.0.123:5140
+东方卫视,http://j.daysky.com:8000/rtp/239.93.0.123:5140
+东方卫视,http://www.qiqi.pub:18889/rtp/239.93.0.123:5140
+北京卫视,http://222.209.122.32:666/rtp/239.93.0.180:5140
+北京卫视,http://222.209.208.234:7788/rtp/239.93.0.180:5140
+北京卫视,http://772765777.xyz:27777/rtp/239.93.0.180:5140
+北京卫视,http://j.daysky.com:8000/rtp/239.93.0.180:5140
+北京卫视,http://www.qiqi.pub:18889/rtp/239.93.0.180:5140
+天津卫视,rtp://@239.77.0.131:5146
+天津卫视,http://222.209.122.32:666/rtp/239.93.0.167:5140
+天津卫视,http://222.209.208.234:7788/rtp/239.93.0.167:5140
+天津卫视,http://772765777.xyz:27777/rtp/239.93.0.167:5140
+天津卫视,http://j.daysky.com:8000/rtp/239.93.0.167:5140
+天津卫视,http://www.qiqi.pub:18889/rtp/239.93.0.167:5140
+辽宁卫视,rtp://@239.77.1.103:5146
+辽宁卫视,http://222.209.122.32:666/rtp/239.93.1.108:5140
+辽宁卫视,http://222.209.208.234:7788/rtp/239.93.1.108:5140
+辽宁卫视,http://772765777.xyz:27777/rtp/239.93.1.108:5140
+辽宁卫视,http://j.daysky.com:8000/rtp/239.93.1.108:5140
+辽宁卫视,http://www.qiqi.pub:18889/rtp/239.93.1.108:5140
+安徽卫视,rtp://@239.77.0.183:5146
+安徽卫视,http://222.209.122.32:666/rtp/239.93.1.106:5140
+安徽卫视,http://222.209.208.234:7788/rtp/239.93.1.106:5140
+安徽卫视,http://772765777.xyz:27777/rtp/239.93.1.106:5140
+安徽卫视,http://j.daysky.com:8000/rtp/239.93.1.106:5140
+安徽卫视,http://www.qiqi.pub:18889/rtp/239.93.1.106:5140
+黑龙江卫视,rtp://@239.77.1.179:5146
+黑龙江卫视,http://222.209.122.32:666/rtp/239.93.0.183:5140
+黑龙江卫视,http://222.209.208.234:7788/rtp/239.93.0.183:5140
+黑龙江卫视,http://772765777.xyz:27777/rtp/239.93.0.183:5140
+黑龙江卫视,http://j.daysky.com:8000/rtp/239.93.0.183:5140
+黑龙江卫视,http://www.qiqi.pub:18889/rtp/239.93.0.183:5140
+广东卫视,rtp://@239.77.1.19:5146
+广东卫视,http://222.209.122.32:666/rtp/239.93.0.181:5140
+广东卫视,http://222.209.208.234:7788/rtp/239.93.0.181:5140
+广东卫视,http://772765777.xyz:27777/rtp/239.93.0.181:5140
+广东卫视,http://j.daysky.com:8000/rtp/239.93.0.181:5140
+广东卫视,http://www.qiqi.pub:18889/rtp/239.93.0.181:5140
+深圳卫视,rtp://@239.77.0.130:5146
+深圳卫视,http://222.209.122.32:666/rtp/39.93.0.182:5140
+深圳卫视,http://222.209.208.234:7788/rtp/239.93.0.182:5140
+深圳卫视,http://772765777.xyz:27777/rtp/39.93.0.182:5140
+深圳卫视,http://j.daysky.com:8000/rtp/39.93.0.182:5140
+深圳卫视,http://www.qiqi.pub:18889/rtp/39.93.0.182:5140
+湖北卫视,rtp://@239.77.1.174:5146
+湖北卫视,http://222.209.122.32:666/rtp/239.93.0.250:5140
+湖北卫视,http://222.209.208.234:7788/rtp/239.93.0.250:5140
+湖北卫视,http://772765777.xyz:27777/rtp/239.93.0.250:5140
+湖北卫视,http://j.daysky.com:8000/rtp/239.93.0.250:5140
+湖北卫视,http://www.qiqi.pub:18889/rtp/239.93.0.250:5140
+吉林卫视,rtp://@239.77.0.150:5146
+吉林卫视,http://222.209.122.32:666/rtp/239.93.0.248:5140
+吉林卫视,http://222.209.208.234:7788/rtp/239.93.0.248:5140
+吉林卫视,http://772765777.xyz:27777/rtp/239.93.0.248:5140
+吉林卫视,http://j.daysky.com:8000/rtp/239.93.0.248:5140
+吉林卫视,http://www.qiqi.pub:18889/rtp/239.93.0.248:5140
+山东卫视,rtp://@239.77.1.142:5146
+山东卫视,http://222.209.122.32:666/rtp/239.93.0.168:5140
+山东卫视,http://222.209.208.234:7788/rtp/239.93.0.168:5140
+山东卫视,http://772765777.xyz:27777/rtp/239.93.0.168:5140
+山东卫视,http://j.daysky.com:8000/rtp/239.93.0.168:5140
+山东卫视,http://www.qiqi.pub:18889/rtp/239.93.0.168:5140
+江西卫视,rtp://@239.77.1.74:5146
+江西卫视,http://222.209.122.32:666/rtp/239.93.0.134:5140
+江西卫视,http://222.209.208.234:7788/rtp/239.93.0.134:5140
+江西卫视,http://772765777.xyz:27777/rtp/239.93.0.134:5140
+江西卫视,http://j.daysky.com:8000/rtp/239.93.0.134:5140
+江西卫视,http://www.qiqi.pub:18889/rtp/239.93.0.134:5140
+河南卫视,rtp://@239.77.1.229:5146
+河南卫视,http://222.209.122.32:666/rtp/239.93.42.45:5140
+河南卫视,http://222.209.208.234:7788/rtp/239.93.42.45:5140
+河南卫视,http://772765777.xyz:27777/rtp/239.93.42.45:5140
+河南卫视,http://j.daysky.com:8000/rtp/239.93.42.45:5140
+河南卫视,http://www.qiqi.pub:18889/rtp/239.93.42.45:5140
+河北卫视,rtp://@239.77.1.214:5146
+河北卫视,http://222.209.122.32:666/rtp/239.93.0.132:5140
+河北卫视,http://222.209.208.234:7788/rtp/239.93.0.132:5140
+河北卫视,http://772765777.xyz:27777/rtp/239.93.0.132:5140
+河北卫视,http://j.daysky.com:8000/rtp/239.93.0.132:5140
+河北卫视,http://www.qiqi.pub:18889/rtp/239.93.0.132:5140
+甘肃卫视,rtp://@239.77.1.57:5146
+甘肃卫视,http://222.209.122.32:666/rtp/239.93.0.81:5140
+甘肃卫视,http://222.209.208.234:7788/rtp/239.93.0.81:5140
+甘肃卫视,http://772765777.xyz:27777/rtp/239.93.0.81:5140
+甘肃卫视,http://j.daysky.com:8000/rtp/239.93.0.81:5140
+甘肃卫视,http://www.qiqi.pub:18889/rtp/239.93.0.81:5140
 重庆卫视,rtp://@239.77.1.162:5146  
+重庆卫视,http://222.209.122.32:666/rtp/239.93.1.107:5140  
+重庆卫视,http://222.209.208.234:7788/rtp/239.93.1.107:5140
 重庆卫视,http://772765777.xyz:27777/rtp/239.93.1.107:5140  
 重庆卫视,http://j.daysky.com:8000/rtp/239.93.1.107:5140  
 重庆卫视,http://www.qiqi.pub:18889/rtp/239.93.1.107:5140  
 东南卫视,rtp://@239.77.1.104:5146  
+东南卫视,http://222.209.122.32:666/rtp/239.93.0.42:5140  
+东南卫视,http://222.209.208.234:7788/rtp/239.93.0.42:5140
 东南卫视,http://772765777.xyz:27777/rtp/39.93.0.42:5140  
 东南卫视,http://j.daysky.com:8000/rtp/39.93.0.42:5140  
 东南卫视,http://www.qiqi.pub:18889/rtp/39.93.0.42:5140  
 云南卫视,rtp://@239.253.43.100:5146  
+云南卫视,http://222.209.122.32:666/rtp/239.93.1.174:5140  
+云南卫视,http://222.209.208.234:7788/rtp/239.93.1.174:5140
 云南卫视,http://772765777.xyz:27777/rtp/239.93.1.174:5140  
 云南卫视,http://j.daysky.com:8000/rtp/239.93.1.174:5140  
 云南卫视,http://www.qiqi.pub:18889/rtp/239.93.1.174:5140  
 贵州卫视,rtp://@239.77.0.230:5146  
+贵州卫视,http://222.209.122.32:666/rtp/239.93.0.131:5140  
+贵州卫视,http://222.209.208.234:7788/rtp/239.93.0.131:5140
 贵州卫视,http://772765777.xyz:27777/rtp/239.93.0.131:5140  
 贵州卫视,http://j.daysky.com:8000/rtp/239.93.0.131:5140  
 贵州卫视,http://www.qiqi.pub:18889/rtp/239.93.0.131:5140  
 海南卫视,rtp://@239.253.43.35:5146  
+海南卫视,http://222.209.122.32:666/rtp/239.93.0.80:5140  
+海南卫视,http://222.209.208.234:7788/rtp/239.93.0.80:5140
 海南卫视,http://772765777.xyz:27777/rtp/239.93.0.80:5140  
 海南卫视,http://j.daysky.com:8000/rtp/239.93.0.80:5140  
 海南卫视,http://www.qiqi.pub:18889/rtp/239.93.0.80:5140  
 陕西卫视,rtp://@239.77.1.54:5146  
+陕西卫视,http://222.209.122.32:666/rtp/239.93.0.143:5140  
+陕西卫视,http://222.209.208.234:7788/rtp/239.93.0.143:5140
 陕西卫视,http://772765777.xyz:27777/rtp/239.93.0.143:5140  
 陕西卫视,http://j.daysky.com:8000/rtp/239.93.0.143:5140  
 陕西卫视,http://www.qiqi.pub:18889/rtp/239.93.0.143:5140  
 山西卫视,rtp://@239.77.1.74:5146  
+山西卫视,http://222.209.122.32:666/rtp/239.93.0.6:5140  
+山西卫视,http://222.209.208.234:7788/rtp/239.93.0.6:5140
 山西卫视,http://772765777.xyz:27777/rtp/239.93.0.6:5140  
 山西卫视,http://j.daysky.com:8000/rtp/239.93.0.6:5140  
 山西卫视,http://www.qiqi.pub:18889/rtp/239.93.0.6:5140  
 内蒙古卫视,rtp://@239.77.1.55:5146  
+内蒙古卫视,http://222.209.122.32:666/rtp/239.93.0.8:5140  
+内蒙古卫视,http://222.209.208.234:7788/rtp/239.93.0.8:5140
 内蒙古卫视,http://772765777.xyz:27777/rtp/239.93.0.8:5140  
 内蒙古卫视,http://j.daysky.com:8000/rtp/239.93.0.8:5140  
 内蒙古卫视,http://www.qiqi.pub:18889/rtp/239.93.0.8:5140  
 青海卫视,rtp://@239.77.1.70:5146  
+青海卫视,http://222.209.122.32:666/rtp/239.93.0.192:5140  
+青海卫视,http://222.209.208.234:7788/rtp/239.93.0.192:5140
 青海卫视,http://772765777.xyz:27777/rtp/239.93.0.192:5140  
 青海卫视,http://j.daysky.com:8000/rtp/239.93.0.192:5140  
 青海卫视,http://www.qiqi.pub:18889/rtp/239.93.0.192:5140  
 宁夏卫视,rtp://@239.77.1.47:5146  
+宁夏卫视,http://222.209.122.32:666/rtp/239.93.0.247:5140  
+宁夏卫视,http://222.209.208.234:7788/rtp/239.93.0.247:5140
 宁夏卫视,http://772765777.xyz:27777/rtp/239.93.0.247:5140  
 宁夏卫视,http://j.daysky.com:8000/rtp/239.93.0.247:5140  
 宁夏卫视,http://www.qiqi.pub:18889/rtp/239.93.0.247:5140  
 西藏卫视,rtp://@239.77.1.49:5146  
+西藏卫视,http://222.209.122.32:666/rtp/239.93.0.175:5140  
+西藏卫视,http://222.209.208.234:7788/rtp/239.93.0.175:5140
 西藏卫视,http://772765777.xyz:27777/rtp/239.93.0.175:5140  
 西藏卫视,http://j.daysky.com:8000/rtp/239.93.0.175:5140  
 西藏卫视,http://www.qiqi.pub:18889/rtp/239.93.0.175:5140  
 新疆卫视,rtp://@239.77.1.53:5146  
+新疆卫视,http://222.209.122.32:666/rtp/239.93.0.194:5140  
+新疆卫视,http://222.209.208.234:7788/rtp/239.93.0.194:5140
 新疆卫视,http://772765777.xyz:27777/rtp/239.93.0.194:5140  
 新疆卫视,http://j.daysky.com:8000/rtp/239.93.0.194:5140  
 新疆卫视,http://www.qiqi.pub:18889/rtp/239.93.0.194:5140  
 兵团卫视,rtp://@239.77.1.80:5146  
+兵团卫视,http://222.209.122.32:666/rtp/239.93.42.43:5140  
+兵团卫视,http://222.209.208.234:7788/rtp/239.93.42.43:5140
 兵团卫视,http://j.daysky.com:8000/rtp/239.93.42.43:5140  
 兵团卫视,http://772765777.xyz:27777/rtp/239.93.42.43:5140  
 兵团卫视,http://www.qiqi.pub:18889/rtp/239.93.42.43:5140  
 厦门卫视,rtp://@239.77.0.96:5146  
+厦门卫视,http://222.209.122.32:666/rtp/239.93.42.57:5140  
+厦门卫视,http://222.209.208.234:7788/rtp/239.93.42.57:5140
 厦门卫视,http://j.daysky.com:8000/rtp/239.93.42.57:5140  
 厦门卫视,http://772765777.xyz:27777/rtp/239.93.42.57:5140  
 厦门卫视,http://www.qiqi.pub:18889/rtp/239.93.42.57:5140  
 三沙卫视,rtp://@239.253.43.113:5146  
+三沙卫视,http://222.209.122.32:666/rtp/239.93.42.58:5140  
+三沙卫视,http://222.209.208.234:7788/rtp/239.93.42.58:5140
 三沙卫视,http://j.daysky.com:8000/rtp/239.93.42.58:5140  
 三沙卫视,http://772765777.xyz:27777/rtp/239.93.42.58:5140  
 三沙卫视,http://www.qiqi.pub:18889/rtp/239.93.42.58:5140  
 延边卫视,rtp://@239.77.1.99:5146  
+延边卫视,http://222.209.122.32:666/rtp/239.93.0.249:5140  
+延边卫视,http://222.209.208.234:7788/rtp/239.93.0.249:5140
 延边卫视,http://j.daysky.com:8000/rtp/239.93.0.249:5140  
 延边卫视,http://772765777.xyz:27777/rtp/239.93.0.249:5140  
 延边卫视,http://www.qiqi.pub:18889/rtp/239.93.0.249:5140  
@@ -905,24 +934,25 @@ CCTV4K,http://hmjnas.drdjhmj.top:35455/gaoma/cctv4k.m3u8
 
 
 
+
 儿童频道,#genre#
-中录动漫,http://j.daysky.com:8000/rtp/239.93.1.188:5140  
-中录动漫,http://772765777.xyz:27777/rtp/239.93.1.188:5140  
+中录动漫,http://222.209.122.32:666/rtp/239.93.1.188:5140  
+中录动漫,http://222.209.208.234:7788/rtp/239.93.1.188:5140  
 中录动漫,http://www.qiqi.pub:18889/rtp/239.93.1.188:5140  
-亲子趣学,http://j.daysky.com:8000/rtp/239.93.1.191:5140  
-亲子趣学,http://772765777.xyz:27777/rtp/239.93.1.191:5140  
+亲子趣学,http://222.209.122.32:666/rtp/239.93.1.191:5140  
+亲子趣学,http://222.209.208.234:7788/rtp/239.93.1.191:5140  
 亲子趣学,http://www.qiqi.pub:18889/rtp/239.93.1.191:5140  
-少儿天地,http://j.daysky.com:8000/rtp/239.93.42.34:5140  
-少儿天地,http://772765777.xyz:27777/rtp/239.93.42.34:5140  
+少儿天地,http://222.209.122.32:666/rtp/239.93.42.34:5140  
+少儿天地,http://222.209.208.234:7788/rtp/239.93.42.34:5140  
 少儿天地,http://www.qiqi.pub:18889/rtp/239.93.42.34:5140  
-宝宝动画,http://j.daysky.com:8000/rtp/239.93.42.89:5140  
-宝宝动画,http://772765777.xyz:27777/rtp/239.93.42.89:5140  
+宝宝动画,http://222.209.122.32:666/rtp/239.93.42.89:5140  
+宝宝动画,http://222.209.208.234:7788/rtp/239.93.42.89:5140  
 宝宝动画,http://www.qiqi.pub:18889/rtp/239.93.42.89:5140  
-少儿动画,http://j.daysky.com:8000/rtp/239.93.0.193:9000  
-少儿动画,http://772765777.xyz:27777/rtp/239.93.0.193:9000  
+少儿动画http://222.209.122.32:666/rtp/239.93.0.193:9000  
+少儿动画,http://222.209.208.234:7788/rtp/239.93.0.193:9000  
 少儿动画,http://www.qiqi.pub:18889/rtp/239.93.0.193:9000  
-青春动漫,http://j.daysky.com:8000/rtp/239.93.0.146:5140  
-青春动漫,http://772765777.xyz:27777/rtp/239.93.0.146:5140  
+青春动漫,http://222.209.122.32:666/rtp/239.93.0.146:5140  
+青春动漫,http://222.209.208.234:7788/rtp/239.93.0.146:5140  
 青春动漫,http://www.qiqi.pub:18889/rtp/239.93.0.146:5140  
 动漫秀场,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8  
 广东少儿,rtp://239.77.0.250:5146  
@@ -931,20 +961,20 @@ CCTV4K,http://hmjnas.drdjhmj.top:35455/gaoma/cctv4k.m3u8
 嘉佳卡通,rtp://239.77.0.179:5146  
 嘉佳卡通,http://218.15.183.23:9901/tsfile/live/23043_1.m3u8  
 嘉佳卡通,http://219.135.180.210:18888/hls/48/index.m3u8  
-卡酷少儿,http://j.daysky.com:8000/rtp/239.93.42.1:5140  
-卡酷少儿,http://772765777.xyz:27777/rtp/239.93.42.1:5140  
+卡酷少儿,http://222.209.122.32:666/rtp/239.93.42.1:5140  
+卡酷少儿,http://222.209.208.234:7788/rtp/239.93.42.1:5140  
 卡酷少儿,http://www.qiqi.pub:18889/rtp/239.93.42.1:5140  
-金鹰卡通,http://j.daysky.com:8000/rtp/239.93.0.5:5140  
-金鹰卡通,http://772765777.xyz:27777/rtp/239.93.0.5:5140  
+金鹰卡通,http://222.209.122.32:666/rtp/239.93.0.5:5140  
+金鹰卡通,http://222.209.208.234:7788/rtp/239.93.0.5:5140  
 金鹰卡通,http://www.qiqi.pub:18889/rtp/239.93.0.5:5140  
-哈哈炫动,http://j.daysky.com:8000/rtp/239.93.0.173:5140  
-哈哈炫动,http://772765777.xyz:27777/rtp/239.93.0.173:5140  
+哈哈炫动,http://222.209.122.32:666/rtp/239.93.0.173:5140  
+哈哈炫动,http://222.209.208.234:7788/rtp/239.93.0.173:5140  
 哈哈炫动,http://www.qiqi.pub:18889/rtp/239.93.0.173:5140  
-优漫卡通,http://j.daysky.com:8000/rtp/239.93.0.251:5140  
-优漫卡通,http://772765777.xyz:27777/rtp/239.93.0.251:5140  
+优漫卡通,http://222.209.122.32:666/rtp/239.93.0.251:5140  
+优漫卡通,http://222.209.208.234:7788/rtp/239.93.0.251:5140  
 优漫卡通,http://www.qiqi.pub:18889/rtp/239.93.0.251:5140  
-黑莓动画,http://j.daysky.com:8000/rtp/239.93.0.193:9000  
-黑莓动画,http://772765777.xyz:27777/rtp/239.93.0.193:9000  
+黑莓动画,http://222.209.122.32:666/rtp/239.93.0.193:9000  
+黑莓动画,http://222.209.208.234:7788/rtp/239.93.0.193:9000  
 黑莓动画,http://www.qiqi.pub:18889/rtp/239.93.0.193:9000  
 
 
@@ -952,27 +982,27 @@ CCTV4K,http://hmjnas.drdjhmj.top:35455/gaoma/cctv4k.m3u8
 
 
 其他频道,#genre#
-乐游,http://j.daysky.com:8000/rtp/239.93.42.94:5140  
-乐游,http://772765777.xyz:27777/rtp/239.93.42.94:5140  
+乐游,http://222.209.122.32:666/rtp/239.93.42.94:5140  
+乐游,http://222.209.208.234:7788/rtp/239.93.42.94:5140  
 乐游,http://www.qiqi.pub:18889/rtp/239.93.42.94:5140  
-解密,http://j.daysky.com:8000/rtp/239.93.42.94:5140  
-解密,http://772765777.xyz:27777/rtp/239.93.42.94:5140  
+解密,http://222.209.122.32:666/rtp/239.93.42.94:5140  
+解密,http://222.209.208.234:7788/rtp/239.93.42.94:5140  
 解密,http://www.qiqi.pub:18889/rtp/239.93.42.94:5140  
 农业致富,  
 精品纪录,  
 精品记录,  
 纪实人文,  
 求索动物,  
-求索纪录,http://j.daysky.com:8000/rtp/239.93.42.24:5140
-求索纪录,http://772765777.xyz:27777/rtp/239.93.42.24:5140 
+求索纪录,http://222.209.122.32:666/rtp/239.93.42.24:5140
+求索纪录,http://www.qiqi.pub:18889/rtp/239.93.42.24:5140 
 求索纪录,http://www.qiqi.pub:18889/rtp/239.93.42.24:5140 
 求索科学,  
 求索生活,  
-中国交通,http://j.daysky.com:8000/rtp/239.93.0.142:5140  
-中国交通,http://772765777.xyz:27777/rtp/239.93.0.142:5140  
+中国交通,http://222.209.122.32:666/rtp/239.93.0.142:5140  
 中国交通,http://www.qiqi.pub:18889/rtp/239.93.0.142:5140  
-金鹰纪实,http://j.daysky.com:8000/rtp/239.93.0.130:5140  
-金鹰纪实,http://772765777.xyz:27777/rtp/239.93.0.130:5140  
+中国交通,http://www.qiqi.pub:18889/rtp/239.93.0.142:5140  
+金鹰纪实,http://222.209.122.32:666/rtp/239.93.0.130:5140  
+金鹰纪实,http://www.qiqi.pub:18889/rtp/239.93.0.130:5140  
 金鹰纪实,http://www.qiqi.pub:18889/rtp/239.93.0.130:5140  
 
 
@@ -1163,95 +1193,3 @@ TVB星河,http://108.181.20.197/livehttpplay?channel_id=20070
 
 
 
-闽南4Gtv,#genre#
-中天新闻4Gtv,http://rjc6.love:50007/4gtv-4gtv009/index.m3u8
-东森新闻4Gtv,http://rjc6.love:50007/4gtv-4gtv152/index.m3u8
-tvbs新闻4Gtv,http://rjc6.love:50007/4gtv-4gtv072/index.m3u8
-寰宇新闻4Gtv,http://rjc6.love:50007/litv-longturn14/index.m3u8
-非凡新闻4Gtv,http://rjc6.love:50007/4gtv-4gtv010/index.m3u8
-闽镜新闻4Gtv,http://rjc6.love:50007/4gtv-4gtv075/index.m3u8
-民视新闻4Gtv,http://rjc6.love:50007/litv-ftv13/index.m3u8
-中视新闻4Gtv,http://rjc6.love:50007/4gtv-4gtv074/index.m3u8
-华视新闻4Gtv,http://rjc6.love:50007/4gtv-4gtv052/index.m3u8
-台视新闻4Gtv,http://rjc6.love:50007/4gtv-4gtv051/index.m3u8
-民视闽南4Gtv,http://rjc6.love:50007/4gtv-4gtv002/index.m3u8
-民视闽南4Gtv,http://rjc6.love:50007/4gtv-4gtv155/index.m3u8
-中视闽南4Gtv,http://rjc6.love:50007/4gtv-4gtv040/index.m3u8
-华视闽南4Gtv,http://rjc6.love:50007/4gtv-4gtv041/index.m3u8
-台视闽南4Gtv,http://rjc6.love:50007/4gtv-4gtv066/index.m3u8
-寰宇闽南4Gtv,http://rjc6.love:50007/litv-longturn15/index.m3u8
-tvbs闽南4Gtv,http://rjc6.love:50007/4gtv-4gtv073/index.m3u8
-民视台湾4Gtv,http://rjc6.love:50007/4gtv-4gtv001/index.m3u8
-民视台湾4Gtv,http://rjc6.love:50007/4gtv-4gtv156/index.m3u8
-民视第一4Gtv,http://rjc6.love:50007/4gtv-4gtv003/index.m3u8
-民视旅游4Gtv,http://rjc6.love:50007/litv-ftv07/index.m3u8
-民视影剧4Gtv,http://rjc6.love:50007/litv-ftv09/index.m3u8
-民视综艺4Gtv,http://rjc6.love:50007/4gtv-4gtv004/index.m3u8
-中视菁采4Gtv,http://rjc6.love:50007/4gtv-4gtv064/index.m3u8
-中视经典4Gtv,http://rjc6.love:50007/4gtv-4gtv080/index.m3u8
-台视财经4Gtv,http://rjc6.love:50007/4gtv-4gtv056/index.m3u8
-公视戏剧4Gtv,http://rjc6.love:50007/4gtv-4gtv042/index.m3u8
-闽南戏剧4Gtv,http://rjc6.love:50007/litv-longturn22/index.m3u8
-国际财经4Gtv,http://rjc6.love:50007/4gtv-4gtv104/index.m3u8
-东森财经4Gtv,http://rjc6.love:50007/4gtv-4gtv153/index.m3u8
-tvbs精采4Gtv,http://rjc6.love:50007/4gtv-4gtv067/index.m3u8
-tvbs欢乐4Gtv,http://rjc6.love:50007/4gtv-4gtv068/index.m3u8
-八大精彩4Gtv,http://rjc6.love:50007/4gtv-4gtv034/index.m3u8
-八大综艺4Gtv,http://rjc6.love:50007/4gtv-4gtv039/index.m3u8
-爱达娱乐4Gtv,http://rjc6.love:50007/4gtv-4gtv070/index.m3u8
-靖洋戏剧4Gtv,http://rjc6.love:50007/4gtv-4gtv045/index.m3u8
-靖洋卡通4Gtv,http://rjc6.love:50007/4gtv-4gtv057/index.m3u8
-靖天卡通4Gtv,http://rjc6.love:50007/4gtv-4gtv044/index.m3u8
-靖天综合4Gtv,http://rjc6.love:50007/4gtv-4gtv046/index.m3u8
-靖天日本4Gtv,http://rjc6.love:50007/4gtv-4gtv047/index.m3u8
-靖天欢乐4Gtv,http://rjc6.love:50007/4gtv-4gtv054/index.m3u8
-靖天映画4Gtv,http://rjc6.love:50007/4gtv-4gtv055/index.m3u8
-靖天戏剧4Gtv,http://rjc6.love:50007/4gtv-4gtv058/index.m3u8
-靖天电影4Gtv,http://rjc6.love:50007/4gtv-4gtv061/index.m3u8
-靖天育乐4Gtv,http://rjc6.love:50007/4gtv-4gtv062/index.m3u8
-靖天国际4Gtv,http://rjc6.love:50007/4gtv-4gtv063/index.m3u8
-靖天资讯4Gtv,http://rjc6.love:50007/4gtv-4gtv065/index.m3u8
-龙华卡通4Gtv,http://rjc6.love:50007/litv-longturn01/index.m3u8
-龙华日韩4Gtv,http://rjc6.love:50007/litv-longturn11/index.m3u8
-龙华偶像4Gtv,http://rjc6.love:50007/litv-longturn12/index.m3u8
-龙华电影4Gtv,http://rjc6.love:50007/litv-longturn03/index.m3u8
-龙华戏剧4Gtv,http://rjc6.love:50007/litv-longturn18/index.m3u8
-龙华经典4Gtv,http://rjc6.love:50007/litv-longturn21/index.m3u8
-国会频壹4Gtv,http://rjc6.love:50007/4gtv-4gtv084/index.m3u8
-国会频贰4Gtv,http://rjc6.love:50007/4gtv-4gtv085/index.m3u8
-好消息壹4Gtv,http://rjc6.love:50007/litv-ftv16/index.m3u8
-好消息贰4Gtv,http://rjc6.love:50007/litv-ftv17/index.m3u8
-智林体育4Gtv,http://rjc6.love:50007/4gtv-4gtv101/index.m3u8
-博斯魅力4Gtv,http://rjc6.love:50007/litv-longturn04/index.m3u8
-博斯网球4Gtv,http://rjc6.love:50007/litv-longturn09/index.m3u8
-博高球壹4Gtv,http://rjc6.love:50007/litv-longturn05/index.m3u8
-博高球贰4Gtv,http://rjc6.love:50007/litv-longturn06/index.m3u8
-博运动壹4Gtv,http://rjc6.love:50007/litv-longturn07/index.m3u8
-博运动贰4Gtv,http://rjc6.love:50007/litv-longturn08/index.m3u8
-博无限壹4Gtv,http://rjc6.love:50007/litv-longturn10/index.m3u8
-博无限贰4Gtv,http://rjc6.love:50007/litv-longturn13/index.m3u8
-阿里郎台4Gtv,http://rjc6.love:50007/4gtv-4gtv079/index.m3u8
-达文西台4Gtv,http://rjc6.love:50007/4gtv-4gtv018/index.m3u8
-猪哥亮厅4Gtv,http://rjc6.love:50007/4gtv-4gtv006/index.m3u8
-亚洲旅游4Gtv,http://rjc6.love:50007/litv-longturn17/index.m3u8
-美国之音4Gtv,http://rjc6.love:50007/litv-ftv03/index.m3u8
-半岛新闻4Gtv,http://rjc6.love:50007/litv-ftv10/index.m3u8
-非凡商业4Gtv,http://rjc6.love:50007/4gtv-4gtv048/index.m3u8
-第壹商业4Gtv,http://rjc6.love:50007/4gtv-4gtv109/index.m3u8
-爱放动漫4Gtv,http://rjc6.love:50007/litv-ftv15/index.m3u8
-古典音乐4Gtv,http://rjc6.love:50007/4gtv-4gtv059/index.m3u8
-客家电视4Gtv,http://rjc6.love:50007/4gtv-4gtv043/index.m3u8
-华仁纪实4Gtv,http://rjc6.love:50007/4gtv-4gtv013/index.m3u8
-时尚运动4Gtv,http://rjc6.love:50007/4gtv-4gtv014/index.m3u8
-生活英语4Gtv,http://rjc6.love:50007/litv-longturn20/index.m3u8
-采昌影剧4Gtv,http://rjc6.love:50007/4gtv-4gtv049/index.m3u8
-数位电影4Gtv,http://rjc6.love:50007/4gtv-4gtv011/index.m3u8
-Amc电影4Gtv,http://rjc6.love:50007/4gtv-4gtv017/index.m3u8
-CAT电影4Gtv,http://rjc6.love:50007/4gtv-4gtv076/index.m3u8
-TRA体育4Gtv,http://rjc6.love:50007/4gtv-4gtv077/index.m3u8
-SMArt台4Gtv,http://rjc6.love:50007/litv-longturn19/index.m3u8
-GLO-Bet4Gtv,http://rjc6.love:50007/4gtv-4gtv016/index.m3u8
-TRACEU4Gtv,http://rjc6.love:50007/4gtv-4gtv082/index.m3u8
-MEZZOl4Gtv,http://rjc6.love:50007/4gtv-4gtv083/index.m3u8
-Ginx_TV4Gtv,http://rjc6.love:50007/4gtv-4gtv053/index.m3u8
- 
