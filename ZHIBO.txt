@@ -37,7 +37,7 @@ TVBS新闻台,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs_n
 中天新聞台,https://zt.dracwoundshop.eu.org/live/stream.m3u8
 中天新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
 中天新聞台2,https://live.iill.top/youtube/DM_PEM8GrIgm3u8?pid=4gtv-4gtv009
-中天新聞台2http://ali.hlspull.yximgs.com/live/_______CTI_2_HD.flv
+中天新聞台2,http://ali.hlspull.yximgs.com/live/_______CTI_2_HD.flv
 
 
 军事评论,
@@ -521,7 +521,7 @@ TVBS新闻台,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs_n
 中天新聞台,https://zt.dracwoundshop.eu.org/live/stream.m3u8
 中天新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
 中天新聞台2,https://live.iill.top/youtube/DM_PEM8GrIgm3u8?pid=4gtv-4gtv009
-中天新聞台2http://ali.hlspull.yximgs.com/live/_______CTI_2_HD.flv
+中天新聞台2,http://ali.hlspull.yximgs.com/live/_______CTI_2_HD.flv
 
 年代新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=niandainews_twn  
 年代新聞台,http://108.181.21.27:27347/livehttpplay?channel_id=20033  
