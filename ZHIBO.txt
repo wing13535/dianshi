@@ -183,6 +183,7 @@ IHOT赛车,http://www.qiqi.pub:18889/rtp/239.93.42.20:5140
 英雄联盟3,http://live.iill.top/douyu.php?id=288016
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
+緯來體育台,http://aktv_stream.m16tv.cfd/stream/test/null/AKTV.m3u8
 緯來體育台,http://108.181.21.27:27347/livehttpplay?channel_id=20120  
 緯來體育台,http://live4play.uk/livehttpplay?channel_id=20120  
 緯來體育台,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandsport  
@@ -427,7 +428,7 @@ MOMO綜合,http://60.248.77.83/sat/tv761.flv
 東森戲劇台,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvdrama  
 
 東森超視台,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvsuper  
-
+緯來體育台,http://aktv_stream.m16tv.cfd/stream/test/null/AKTV.m3u8
 緯來育樂台,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandyule  
 緯來育樂台,http://60.248.77.83/sat/tv701.flv  
 
