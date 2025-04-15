@@ -129,8 +129,8 @@ HOY78,http://eu.huohuoaa.tech:1025/Smart.php?id=hoycaijing_twn
 
 体育频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
-广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://cnfs.204999.xyz:30080/judy520/judy520/3
+广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://14.212.185.146:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://113.105.29.43:60901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
@@ -565,8 +565,8 @@ DAZN二台,rtmp://f13h.mine.nu/sat/tv741
 
 广东频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
-广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://cnfs.204999.xyz:30080/judy520/judy520/3
+广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://14.212.185.146:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://113.105.29.43:60901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
