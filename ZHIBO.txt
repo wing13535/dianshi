@@ -1,35 +1,32 @@
 新闻频道,#genre#
 鳳凰中文,http://222.209.208.234:7788/rtp/239.93.0.162:2192
-鳳凰中文,http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 鳳凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 鳳凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 鳯凰資訊,http://222.209.208.234:7788/rtp/239.93.0.118:2191
-鳯凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 鳯凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳯凰資訊,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 鳯凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 鳯凰資訊,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 鳳凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 鳳凰香港,http://108.181.20.221:27347/livehttpplay?channel_id=20067
 
 
 TVBS新闻台,https://live.iill.top/youtube/2mCSYvcfhtc
-TVBS新闻台,http://aktv_stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 TVBS新闻台,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs_n
+TVBS新闻台,http://aktv_stream.m16tv.cfd/stream/aktv3/tvbs/AKTV.m3u8
 寰宇新聞台,https://live.iill.top/youtube/6IquAgfvYmc
-寰宇新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 寰宇新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=huanyuxinwen_twn
+寰宇新聞台,http://aktv_stream.m16tv.cfd/stream/yt/null-1/AKTV.m3u8
 東森新聞台,https://live.iill.top/youtube/V1p33hqPrUk
-東森新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 東森新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvnews
+東森新聞台,http://aktv_stream.m16tv.cfd/stream/yt/null-2/AKTV.m3u8
 東森財經台,http://108.181.21.27:27347/livehttpplay?channel_id=20078
 中天新聞台,https://live.iill.top/youtube/vr3XyVCR4T0
-中天新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 中天新聞台,https://zt.dracwoundshop.eu.org/live/stream.m3u8
 中天新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
+中天新聞台,http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
 中天新聞台2,https://live.iill.top/youtube/DM_PEM8GrIgm3u8?pid=4gtv-4gtv009
 
 
@@ -67,16 +64,8 @@ CCTV13,http://j.daysky.com:8000/rtp/239.93.0.66:5140
 广东新闻,http://61.140.21.34:50085/hls/23/index.m3u8
 广东新闻,http://120.198.101.106:9901/tsfile/live/1013_1.m3u8
 
-無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
 無線新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-無線新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-無線新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-
-娛樂新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-娛樂新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
-無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 無線新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 無線新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
@@ -84,6 +73,7 @@ CCTV13,http://j.daysky.com:8000/rtp/239.93.0.66:5140
 娛樂新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+娛樂新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/hk-1/AKTV.m3u8
 NOW新聞,http://108.181.20.197/livehttpplay?channel_id=20041
 NOW新聞,http://live4play.uk/livehttpplay?channel_id=20041
 NOW新聞,https://gdfire2.67890123.cn:8088/live/nowxw.m3u8
@@ -109,8 +99,6 @@ HOY78,http://eu.huohuoaa.tech:1025/Smart.php?id=hoycaijing_twn
 非凡新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=feifannews_twn  
 壹電視新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028  
 鏡電視新聞,https://live.iill.top/youtube/5n0y6b0Q25o  
-亞洲新聞台,http://aktv_stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8  
-
 
 
 
@@ -140,9 +128,6 @@ CCTV5+,http://j.daysky.com:8000/rtp/239.77.0.87:5140
 CCTV16,http://211.141.56.169:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://222.209.208.234:7788/rtp/239.93.42.54:5140  
   
-NBA TV,http://aktv_stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
-FIGHT SPORTS,http://aktv_stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
-
 精品体育,
 超级体育,http://107.174.52.32/itv.php?id=%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2
 劲爆体育,https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv
@@ -156,12 +141,11 @@ IHOT赛车,http://772765777.xyz:27777/rtp/239.93.42.20:5140
 IHOT赛车,http://www.qiqi.pub:18889/rtp/239.93.42.20:5140
 五星体育,http://live4play.uk/livehttpplay?channel_id=20060
 睛彩篮球,rtp://239.77.1.21:5146
-睛彩篮球,http://home.kuaidi521.com:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
-睛彩篮球,http://home.kuaidi521.com:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
+睛彩篮球,
+睛彩篮球,
 睛彩竞技,rtp://239.77.1.20:5146
-睛彩竞技,http://home.kuaidi521.com:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
-睛彩竞技http://home.kuaidi521.com:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
-魅力足球,http://222.209.122.32:666/rtp/239.93.42.97:5140
+睛彩竞技,
+睛彩竞技,
 魅力足球,http://222.209.208.234:7788/rtp/239.93.42.97:5140
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
 快乐垂钓,http://222.209.122.32:666/rtp/239.93.1.151:5140
@@ -171,7 +155,7 @@ IHOT赛车,http://www.qiqi.pub:18889/rtp/239.93.42.20:5140
 英雄联盟3,http://live.iill.top/douyu.php?id=288016
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-緯來體育台,http://aktv_stream.m16tv.cfd/stream/test/null/AKTV.m3u8
+緯來體育台,http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
 緯來體育台,http://108.181.21.27:27347/livehttpplay?channel_id=20120  
 緯來體育台,http://live4play.uk/livehttpplay?channel_id=20120  
 緯來體育台,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandsport  
@@ -199,14 +183,7 @@ DAZN二台,rtmp://f13h.mine.nu/sat/tv741
 博斯高球壹,https://pixman.mytvsuper.com.mp/Smart.php?id=bosigolf1_twn  
 博斯高球贰,https://pixman.mytvsuper.com.mp/Smart.php?id=bosigolf2_twn  
 
-Now Sports Prime,
-PAC12,http://aktv_stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
-beIN SPORTS XTRA,http://aktv_stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
-Red Bull Sports,http://aktv_stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
-Tennis Channel DE,http://aktv_stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
-Tennis Channel US,http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
-Tennis Channel 2 US,http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
-CBS SPORTS NETWORK,http://aktv_stream.m16tv.cfd/stream/useradd1/cbssportsnetwork/AKTV.m3u8
+
 
 
 
@@ -227,19 +204,17 @@ CBS SPORTS NETWORK,http://aktv_stream.m16tv.cfd/stream/useradd1/cbssportsnetwork
 NOW星影,
 NOW爆谷,
 美亞電影台(HK),http://live4play.uk/livehttpplay?channel_id=20197
-美亞電影台(HK),http://aktv_stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+美亞電影台(HK),http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
 美亞電影台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亞電影台(HK),http://go1.bkpcp.top/tl/null-5
 天影电影(国语),http://php.jdshipin.com/smt.php?id=Celestial
 PoPC,http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 PoPC,http://go1.bkpcp.top/tl/popc
 天影经典(国语),http://go1.bkpcp.top/tl/null-1
-Thrill,http://aktv_stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
-ROCK Action,http://aktv_stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
 AXN,http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-Animax,http://aktv_stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
-TVN,http://aktv_stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
-
+PopC,http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
+ROCK Action,http://aktv_stream.m16tv.cfd/stream/aktv2/rockaction/AKTV.m3u8
+tvN,http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
 
 CINEMAX,https://pixman.mytvsuper.com.mp/Smart.php?id=cinemax_twn  
 HBO,https://pixman.mytvsuper.com.mp/Smart.php?id=hbohd_twn  
@@ -259,23 +234,21 @@ AXN亞洲台,https://pixman.mytvsuper.com.mp/Smart.php?id=axn_twn
 
 香港频道,#genre#
 鳳凰中文,http://222.209.208.234:7788/rtp/239.93.0.162:2192
-鳳凰中文,http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 鳳凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 鳳凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 鳯凰資訊,http://222.209.208.234:7788/rtp/239.93.0.118:2191
-鳯凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 鳯凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳯凰資訊,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 鳯凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 鳯凰資訊,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 鳳凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 鳳凰香港,http://108.181.20.221:27347/livehttpplay?channel_id=20067
 
 
-無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
+無線新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 無線新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 無線新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
@@ -283,25 +256,27 @@ AXN亞洲台,https://pixman.mytvsuper.com.mp/Smart.php?id=axn_twn
 娛樂新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+娛樂新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/hk-1/AKTV.m3u8
+NOW新聞,http://108.181.20.197/livehttpplay?channel_id=20041
 NOW新聞,http://live4play.uk/livehttpplay?channel_id=20041
-HOY78,http://108.181.20.197/livehttpplay?channel_id=20191
-HOY78,https://pixman.mytvsuper.com.mp/Smart.php?id=hoycaijing_twn  
+NOW新聞,https://gdfire2.67890123.cn:8088/live/nowxw.m3u8
+NOW 今日新聞,http://108.181.20.197/livehttpplay?channel_id=20043
+HOY78,http://live4play.uk/livehttpplay?channel_id=20191
+HOY78,http://eu.huohuoaa.tech:1025/Smart.php?id=hoycaijing_twn
 
-翡翠台,http://aktv_stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,https://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://cdn.163189.xyz/live/fct4k/stream.m3u8
 翡翠台,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-明珠台,http://aktv_stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+翡翠台,http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+明珠台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-TVB Jade,http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
-TVB Plus,http://aktv_stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 TVB Plus,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
-TVB J1,http://aktv_stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 TVB J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
 TVB J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
@@ -310,17 +285,13 @@ TVB J2,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 C+台,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 HOY77,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY77,http://cdn.132.us.kg/live/hoy/stream.m3u8
-ViuTV,http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-TVB 星河台,http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
-TVB 星河台,http://120.198.95.220:9901/tsfile/live/1011_1.m3u8?key=txiptv
-TVB 星河台,http://go1.bkpcp.top/tl/null-7
 TVB 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+TVB 星河台,http://go1.bkpcp.top/tl/null-7
 TVB 星河台,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
-TVB 剧集台(北美),http://aktv_stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 TVB 华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB 华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB 华丽台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
@@ -329,40 +300,32 @@ TVB 千禧經典台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 TVB 千禧經典台,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 TVB 千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB 功夫台,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
-翡翠剧集台(北美),http://aktv_stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
-明珠剧集台,http://aktv_stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
-Mytv黃金翡翠台,http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
-Mytv千禧经典台,http://aktv_stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+明珠剧集台,
+Mytv黃金翡翠台,
+Mytv千禧经典台,http://aktv_stream.m16tv.cfd/stream/aktv2/hk-2/AKTV.m3u8
 Mytv 亚洲剧台,http://go1.bkpcp.top/tl/null-13
 Mytv 华语剧台,http://go1.bkpcp.top/tl/null-4
 Mytv 粤语片台,http://go1.bkpcp.top/tl/null-10
 
 
+
 NOW星影,
 NOW爆谷,
 美亞電影台(HK),http://live4play.uk/livehttpplay?channel_id=20197
-美亞電影台(HK),http://aktv_stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+美亞電影台(HK),http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
 美亞電影台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亞電影台(HK),http://go1.bkpcp.top/tl/null-5
 天影电影(国语),http://php.jdshipin.com/smt.php?id=Celestial
-PoPC,http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+PoPC,http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
 PoPC,http://go1.bkpcp.top/tl/popc
 天影经典(国语),http://go1.bkpcp.top/tl/null-1
-Thrill,http://aktv_stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
-ROCK Action,http://aktv-stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
 AXN,http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-Animax,http://aktv_stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
-TVN,http://aktv_stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+PopC,http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
+ROCK Action,http://aktv_stream.m16tv.cfd/stream/aktv2/rockaction/AKTV.m3u8
+tvN,http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
 
 
-Now Sports Prime,
-PAC12,http://aktv_stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
-beIN SPORTS XTRA,http://aktv_stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
-Red Bull Sports,http://aktv_stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
-Tennis Channel DE,http://aktv_stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
-Tennis Channel US,http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
-Tennis Channel 2 US,http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
-CBS SPORTS NETWORK,http://aktv_stream.m16tv.cfd/stream/useradd1/cbssportsnetwork/AKTV.m3u8
+
 
 
 台湾频道,#genre#
@@ -488,22 +451,20 @@ CN卡通,http://live4play.uk/livehttpplay?channel_id=20048
 
 
 TVBS新闻台,https://live.iill.top/youtube/2mCSYvcfhtc
-TVBS新闻台,http://aktv_stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 TVBS新闻台,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs_n
+TVBS新闻台,http://aktv_stream.m16tv.cfd/stream/aktv3/tvbs/AKTV.m3u8
 寰宇新聞台,https://live.iill.top/youtube/6IquAgfvYmc
-寰宇新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 寰宇新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=huanyuxinwen_twn
+寰宇新聞台,http://aktv_stream.m16tv.cfd/stream/yt/null-1/AKTV.m3u8
 東森新聞台,https://live.iill.top/youtube/V1p33hqPrUk
-東森新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 東森新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvnews
+東森新聞台,http://aktv_stream.m16tv.cfd/stream/yt/null-2/AKTV.m3u8
 東森財經台,http://108.181.21.27:27347/livehttpplay?channel_id=20078
 中天新聞台,https://live.iill.top/youtube/vr3XyVCR4T0
-中天新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-中天新聞台,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv
 中天新聞台,https://zt.dracwoundshop.eu.org/live/stream.m3u8
 中天新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
+中天新聞台,http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
 中天新聞台2,https://live.iill.top/youtube/DM_PEM8GrIgm3u8?pid=4gtv-4gtv009
-中天新聞台2,http://ali.hlspull.yximgs.com/live/_______CTI_2_HD.flv
 
 年代新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=niandainews_twn  
 年代新聞台,http://108.181.21.27:27347/livehttpplay?channel_id=20033  
@@ -511,7 +472,7 @@ TVBS新闻台,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs_n
 非凡新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=feifannews_twn  
 壹電視新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028  
 鏡電視新聞,https://live.iill.top/youtube/5n0y6b0Q25o  
-亞洲新聞台,http://aktv_stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8  
+
 
 
 緯來體育台,http://108.181.21.27:27347/livehttpplay?channel_id=20120  
@@ -870,22 +831,21 @@ CCTV4K,http://222.209.208.234:7788/rtp/239.93.42.42:5140
 
 
 儿童频道,#genre#
-中录动漫,http://222.209.122.32:666/rtp/239.93.1.188:5140  
 中录动漫,http://222.209.208.234:7788/rtp/239.93.1.188:5140  
 中录动漫,http://www.qiqi.pub:18889/rtp/239.93.1.188:5140  
-亲子趣学,http://222.209.122.32:666/rtp/239.93.1.191:5140  
+
 亲子趣学,http://222.209.208.234:7788/rtp/239.93.1.191:5140  
 亲子趣学,http://www.qiqi.pub:18889/rtp/239.93.1.191:5140  
-少儿天地,http://222.209.122.32:666/rtp/239.93.42.34:5140  
+
 少儿天地,http://222.209.208.234:7788/rtp/239.93.42.34:5140  
 少儿天地,http://www.qiqi.pub:18889/rtp/239.93.42.34:5140  
-宝宝动画,http://222.209.122.32:666/rtp/239.93.42.89:5140  
+
 宝宝动画,http://222.209.208.234:7788/rtp/239.93.42.89:5140  
 宝宝动画,http://www.qiqi.pub:18889/rtp/239.93.42.89:5140  
-少儿动画http://222.209.122.32:666/rtp/239.93.0.193:9000  
+
 少儿动画,http://222.209.208.234:7788/rtp/239.93.0.193:9000  
 少儿动画,http://www.qiqi.pub:18889/rtp/239.93.0.193:9000  
-青春动漫,http://222.209.122.32:666/rtp/239.93.0.146:5140  
+
 青春动漫,http://222.209.208.234:7788/rtp/239.93.0.146:5140  
 青春动漫,http://www.qiqi.pub:18889/rtp/239.93.0.146:5140  
 动漫秀场,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8  
@@ -895,19 +855,19 @@ CCTV4K,http://222.209.208.234:7788/rtp/239.93.42.42:5140
 嘉佳卡通,rtp://239.77.0.179:5146  
 嘉佳卡通,http://218.15.183.23:9901/tsfile/live/23043_1.m3u8  
 嘉佳卡通,http://219.135.180.210:18888/hls/48/index.m3u8  
-卡酷少儿,http://222.209.122.32:666/rtp/239.93.42.1:5140  
+
 卡酷少儿,http://222.209.208.234:7788/rtp/239.93.42.1:5140  
 卡酷少儿,http://www.qiqi.pub:18889/rtp/239.93.42.1:5140  
-金鹰卡通,http://222.209.122.32:666/rtp/239.93.0.5:5140  
+
 金鹰卡通,http://222.209.208.234:7788/rtp/239.93.0.5:5140  
 金鹰卡通,http://www.qiqi.pub:18889/rtp/239.93.0.5:5140  
-哈哈炫动,http://222.209.122.32:666/rtp/239.93.0.173:5140  
+
 哈哈炫动,http://222.209.208.234:7788/rtp/239.93.0.173:5140  
 哈哈炫动,http://www.qiqi.pub:18889/rtp/239.93.0.173:5140  
-优漫卡通,http://222.209.122.32:666/rtp/239.93.0.251:5140  
+ 
 优漫卡通,http://222.209.208.234:7788/rtp/239.93.0.251:5140  
 优漫卡通,http://www.qiqi.pub:18889/rtp/239.93.0.251:5140  
-黑莓动画,http://222.209.122.32:666/rtp/239.93.0.193:9000  
+
 黑莓动画,http://222.209.208.234:7788/rtp/239.93.0.193:9000  
 黑莓动画,http://www.qiqi.pub:18889/rtp/239.93.0.193:9000  
 
@@ -916,10 +876,10 @@ CCTV4K,http://222.209.208.234:7788/rtp/239.93.42.42:5140
 
 
 其他频道,#genre#
-乐游,http://222.209.122.32:666/rtp/239.93.42.94:5140  
+
 乐游,http://222.209.208.234:7788/rtp/239.93.42.94:5140  
 乐游,http://www.qiqi.pub:18889/rtp/239.93.42.94:5140  
-解密,http://222.209.122.32:666/rtp/239.93.42.94:5140  
+
 解密,http://222.209.208.234:7788/rtp/239.93.42.94:5140  
 解密,http://www.qiqi.pub:18889/rtp/239.93.42.94:5140  
 农业致富,  
@@ -927,15 +887,15 @@ CCTV4K,http://222.209.208.234:7788/rtp/239.93.42.42:5140
 精品记录,  
 纪实人文,  
 求索动物,  
-求索纪录,http://222.209.122.32:666/rtp/239.93.42.24:5140
+
 求索纪录,http://www.qiqi.pub:18889/rtp/239.93.42.24:5140 
 求索纪录,http://www.qiqi.pub:18889/rtp/239.93.42.24:5140 
 求索科学,  
 求索生活,  
-中国交通,http://222.209.122.32:666/rtp/239.93.0.142:5140  
+  
 中国交通,http://www.qiqi.pub:18889/rtp/239.93.0.142:5140  
 中国交通,http://www.qiqi.pub:18889/rtp/239.93.0.142:5140  
-金鹰纪实,http://222.209.122.32:666/rtp/239.93.0.130:5140  
+
 金鹰纪实,http://www.qiqi.pub:18889/rtp/239.93.0.130:5140  
 金鹰纪实,http://www.qiqi.pub:18889/rtp/239.93.0.130:5140  
 
