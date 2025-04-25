@@ -57,7 +57,7 @@ TVBS新闻台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8
 
 
 
-军事评论,
+军事评论,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225668/index.m3u8
 军事,http://222.209.208.234:7788/rtp/239.93.0.204:9076
 军事,http://www.qiqi.pub:18889/rtp/239.93.0.204:9076
 
@@ -314,16 +314,17 @@ NOW新聞,http://live4play.uk/livehttpplay?channel_id=20041
 HOY78,http://live4play.uk/livehttpplay?channel_id=20191
 無線新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 無線新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+無線新聞台,http://192.3.130.92:20002/smt3.2.1.php?id=inews_twn
+娛樂新聞台,http://192.3.130.92:20002/smt3.2.1.php?id=Tvbentertainment
 娛樂新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 
-
+翡翠台,http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 翡翠台,http://cdn.163.dedyn.io/live/fct4k/stream.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://cdn.163189.xyz/live/fct4k/stream.m3u8
 翡翠台,http://cdn.132.us.kg/live/fct4k/stream.m3u8
-翡翠台,http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 明珠台,http://cdn.163.dedyn.io/live/mzt/stream.m3u8
 明珠台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
 TVB Plus,http://cdn.163.dedyn.io/live/tvbp/stream.m3u8
@@ -339,9 +340,11 @@ C+台,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 HOY77,http://cdn.163.dedyn.io/live/hoy/stream.m3u8
 HOY77,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY77,http://cdn.132.us.kg/live/hoy/stream.m3u8
-ViuTV,http://192.3.130.92:20006/live/viu/stream.m3u8
+ViuTV,http://192.3.130.92:20002/smt3.2.1.php?id=viu1_twn
 ViuTVSix,http://192.3.130.92:20002/smt3.2.1.php?id=viusix_twn
+RTHK31,http://192.3.130.92:20002/smt3.2.1.php?id=rhk31_twn
 RTHK31,http://cdn.163.dedyn.io/live/rthk31/stream.m3u8
+RTHK32,http://192.3.130.92:20002/smt3.2.1.php?id=rhk31_twn
 RTHK32,http://cdn.163.dedyn.io/live/rthk32/stream.m3u8
 TVB 星河台,http://192.3.130.92:20002/smt3.2.1.php?id=Xinhe
 TVB 星河台,http://go1.bkpcp.top/tl/null-7
