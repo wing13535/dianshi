@@ -82,13 +82,12 @@ CCTV13,http://772765777.xyz:27777/rtp/239.93.0.66:5140
 CCTV13,http://www.qiqi.pub:18889/rtp/239.93.0.66:5140  
 CCTV13,http://j.daysky.com:8000/rtp/239.93.0.66:5140  
 广东民生,rtp://@239.77.0.225:5146
-广东民生,http://113.105.29.43:60901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://218.15.183.23:9901/tsfile/live/23011_1.m3u8
-广东民生,http://61.140.21.34:50085/hls/21/index.m3u8
+广东民生,
 广东新闻,rtp://@239.77.0.173:5146
 广东新闻,http://218.15.183.23:9901/tsfile/live/23010_1.m3u8
-广东新闻,http://61.140.21.34:50085/hls/23/index.m3u8
-广东新闻,http://120.198.101.106:9901/tsfile/live/1013_1.m3u8
+广东新闻,
+广东新闻,
 
 
 
@@ -317,14 +316,10 @@ NOW新聞,http://108.181.20.197/livehttpplay?channel_id=20041
 NOW新聞,http://live4play.uk/livehttpplay?channel_id=20041
 今日新聞,http://108.181.20.197/livehttpplay?channel_id=20043
 HOY78,http://live4play.uk/livehttpplay?channel_id=20191
-無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
-無線新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 無線新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-娛樂新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+無線新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 娛樂新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-娛樂新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/hk-1/AKTV.m3u8
-
 
 翡翠台,http://cdn.163.dedyn.io/live/fct4k/stream.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
@@ -871,7 +866,7 @@ CCTV4K,http://222.209.208.234:7788/rtp/239.93.42.42:5140
 青海卫视,http://j.daysky.com:8000/rtp/239.93.0.192:5140  
 青海卫视,http://www.qiqi.pub:18889/rtp/239.93.0.192:5140  
 宁夏卫视,rtp://@239.77.1.47:5146  
- 宁夏卫视,http://222.209.208.234:7788/rtp/239.93.0.247:5140
+宁夏卫视,http://222.209.208.234:7788/rtp/239.93.0.247:5140
 宁夏卫视,http://772765777.xyz:27777/rtp/239.93.0.247:5140  
 宁夏卫视,http://j.daysky.com:8000/rtp/239.93.0.247:5140  
 宁夏卫视,http://www.qiqi.pub:18889/rtp/239.93.0.247:5140  
@@ -901,7 +896,7 @@ CCTV4K,http://222.209.208.234:7788/rtp/239.93.42.42:5140
 三沙卫视,http://772765777.xyz:27777/rtp/239.93.42.58:5140  
 三沙卫视,http://www.qiqi.pub:18889/rtp/239.93.42.58:5140  
 延边卫视,rtp://@239.77.1.99:5146  
- 延边卫视,http://222.209.208.234:7788/rtp/239.93.0.249:5140
+延边卫视,http://222.209.208.234:7788/rtp/239.93.0.249:5140
 延边卫视,http://j.daysky.com:8000/rtp/239.93.0.249:5140  
 延边卫视,http://772765777.xyz:27777/rtp/239.93.0.249:5140  
 延边卫视,http://www.qiqi.pub:18889/rtp/239.93.0.249:5140  
