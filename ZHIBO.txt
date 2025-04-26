@@ -374,7 +374,6 @@ TVB 华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 TVB 千禧經典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 TVB 千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB 千禧經典台,http://192.3.130.92:20002/smt3.2.1.php?id=Tvbclassic
-TVB 千禧經典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 TVB 功夫台,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 明珠剧集台,
 Mytv黃金翡翠台,http://go1.bkpcp.top/tl/null-2 
