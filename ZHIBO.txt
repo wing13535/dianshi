@@ -15,7 +15,6 @@
 鳯凰資訊,http://108.181.20.197/livehttpplay?channel_id=30015
 鳯凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳯凰資訊,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
-鳯凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 鳯凰資訊,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 鳳凰香港,http://108.181.20.221:27347/livehttpplay?channel_id=20067
 鳳凰香港,http://live4play.uk/livehttpplay?channel_id=20067
@@ -28,21 +27,19 @@
 中天新聞台,http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
 中天新聞台2,https://live.iill.top/youtube/DM_PEM8GrIgm3u8?pid=4gtv-4gtv009
 
-NOW新聞,https://gdfire2.67890123.cn:8088/live/nowxw.m3u8
 NOW新聞,http://mytv.cdn.com.mp/live/now/stream.m3u8
 NOW新聞,http://108.181.20.197/livehttpplay?channel_id=20041
 NOW新聞,http://live4play.uk/livehttpplay?channel_id=20041
-
 今日新聞,http://108.181.20.197/livehttpplay?channel_id=20043
 今日新聞,http://live4play.uk/livehttpplay?channel_id=20043
 HOY78,http://live4play.uk/livehttpplay?channel_id=20191
 無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
-無線新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 無線新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 娛樂新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 娛樂新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-娛樂新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/hk-1/AKTV.m3u8
+
 
 TVBS新闻台,https://live.iill.top/youtube/2mCSYvcfhtc
 TVBS新闻台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8
@@ -225,23 +222,20 @@ DAZN二台,rtmp://f13h.mine.nu/sat/tv741
 
 NOW星影,
 NOW爆谷,
-美亞電影台(HK),http://108.181.20.197/livehttpplay?channel_id=20197
 美亞電影台(HK),http://live4play.uk/livehttpplay?channel_id=20197
 美亞電影台(HK),http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
 美亞電影台(HK),http://go1.bkpcp.top/tl/null-5
 PoPC,http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 PoPC,http://go1.bkpcp.top/tl/popc
-天影电影(国语),http://108.181.20.197/livehttpplay?channel_id=10130
+天影电影(国语),http://php.jdshipin.com:8880/smt.php?id=Celestial
 天影电影(国语),http://live4play.uk/livehttpplay?channel_id=10130
-
+天影经典(国语),http://php.jdshipin.com:8880/smt.php?id=Celestial2
 天影经典(国语),http://go1.bkpcp.top/tl/null-1
-天影经典(国语),http://108.181.20.197/livehttpplay?channel_id=20063
 天影经典(国语),http://live4play.uk/livehttpplay?channel_id=20063
 Animax,http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
 AXN,http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 ROCK Action,http://aktv_stream.m16tv.cfd/stream/aktv2/rockaction/AKTV.m3u8
 tvN,http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
-
 
 東森電影台,http://108.181.20.197/livehttpplay?channel_id=20077
 東森電影台,http://live4play.uk/livehttpplay?channel_id=20077
@@ -299,7 +293,6 @@ HBo電影叄台,http://live4play.uk/livehttpplay?channel_id=20093
 鳯凰資訊,http://108.181.20.197/livehttpplay?channel_id=30015
 鳯凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳯凰資訊,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
-鳯凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 鳯凰資訊,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 鳳凰香港,http://108.181.20.221:27347/livehttpplay?channel_id=20067
 鳳凰香港,http://live4play.uk/livehttpplay?channel_id=20067
@@ -307,30 +300,35 @@ HBo電影叄台,http://live4play.uk/livehttpplay?channel_id=20093
 鳳凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 
 
-NOW新聞,https://gdfire2.67890123.cn:8088/live/nowxw.m3u8
 NOW新聞,http://mytv.cdn.com.mp/live/now/stream.m3u8
 NOW新聞,http://108.181.20.197/livehttpplay?channel_id=20041
 NOW新聞,http://live4play.uk/livehttpplay?channel_id=20041
 今日新聞,http://108.181.20.197/livehttpplay?channel_id=20043
+今日新聞,http://live4play.uk/livehttpplay?channel_id=20043
 HOY78,http://live4play.uk/livehttpplay?channel_id=20191
-無線新聞台,http://go1.bkpcp.top/tl/null-11
+無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
 無線新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-無線新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-無線新聞台,http://192.3.130.92:20002/smt3.2.1.php?id=inews_twn
-娛樂新聞台,http://go1.bkpcp.top/tl/null-4
-娛樂新聞台,http://192.3.130.92:20002/smt3.2.1.php?id=Tvbentertainment
+無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+娛樂新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 娛樂新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 
+
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_xue
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台,https://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://p1.cvtv.xyz:81/Jade?token=live
+翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
 翡翠台,http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 翡翠台,http://cdn.163.dedyn.io/live/fct4k/stream.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://cdn.163189.xyz/live/fct4k/stream.m3u8
 翡翠台,http://cdn.132.us.kg/live/fct4k/stream.m3u8
-翡翠台,http://p1.cvtv.xyz:81/Jade?token=live
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+明珠台,https://cdn5.163189.xyz/live/mzt/stream.m3u8
 明珠台,http://cdn.163.dedyn.io/live/mzt/stream.m3u8
-明珠台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 TVB Plus,http://cdn.163.dedyn.io/live/tvbp/stream.m3u8
 TVB Plus,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
@@ -343,21 +341,40 @@ TVB J2,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 C+台,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 HOY77,http://cdn.163.dedyn.io/live/hoy/stream.m3u8
 HOY77,http://cdn.163189.xyz/live/hoy/stream.m3u8
+HOY77,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY77,http://cdn.132.us.kg/live/hoy/stream.m3u8
+ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 ViuTV,http://192.3.130.92:20002/smt3.2.1.php?id=viu1_twn
+ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+ViuTV,https://cdn5.163189.xyz/live/viu/stream.m3u8
+ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 ViuTVSix,http://192.3.130.92:20002/smt3.2.1.php?id=viusix_twn
-RTHK31,http://192.3.130.92:20002/smt3.2.1.php?id=rhk31_twn
+ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
 RTHK31,http://cdn.163.dedyn.io/live/rthk31/stream.m3u8
-RTHK32,http://192.3.130.92:20002/smt3.2.1.php?id=rhk31_twn
+RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+RTHK31,http://192.3.130.92:20002/smt3.2.1.php?id=rhk31_twn
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 RTHK32,http://cdn.163.dedyn.io/live/rthk32/stream.m3u8
+RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+RTHK32,http://192.3.130.92:20002/smt3.2.1.php?id=rhk31_twn
+TVB 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB 星河台,http://192.3.130.92:20002/smt3.2.1.php?id=Xinhe
 TVB 星河台,http://go1.bkpcp.top/tl/null-7
+TVB 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB 星河台,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 TVB 星河台,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB 星河台,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+TVB 华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB 华丽台,http://php.jdshipin.com:8880/smt.php?id=Wlt
 TVB 华丽台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
 TVB 华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+TVB 千禧經典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+TVB 千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB 千禧經典台,http://192.3.130.92:20002/smt3.2.1.php?id=Tvbclassic
+TVB 千禧經典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 TVB 功夫台,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 明珠剧集台,
 Mytv黃金翡翠台,http://go1.bkpcp.top/tl/null-2 
@@ -365,6 +382,12 @@ Mytv千禧经典台,
 Mytv 亚洲剧台,http://go1.bkpcp.top/tl/null-13
 Mytv 华语剧台,http://go1.bkpcp.top/tl/null-4
 Mytv 粤语片台,http://go1.bkpcp.top/tl/null-10
+Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
+Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
+爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
+Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
+八度空间,http://php.jdshipin.com:8880/smt.php?id=TV8
 
 NOW星影,
 NOW爆谷,
@@ -373,7 +396,9 @@ NOW爆谷,
 美亞電影台(HK),http://go1.bkpcp.top/tl/null-5
 PoPC,http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 PoPC,http://go1.bkpcp.top/tl/popc
+天影电影(国语),http://php.jdshipin.com:8880/smt.php?id=Celestial
 天影电影(国语),http://live4play.uk/livehttpplay?channel_id=10130
+天影经典(国语),http://php.jdshipin.com:8880/smt.php?id=Celestial2
 天影经典(国语),http://go1.bkpcp.top/tl/null-1
 天影经典(国语),http://live4play.uk/livehttpplay?channel_id=20063
 Animax,http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
