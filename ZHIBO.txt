@@ -1,5 +1,5 @@
 新闻频道,#genre#
-鳳凰中文,http://222.209.208.234:7788/rtp/239.93.0.162:2192
+鳳凰中文,http://772765777.xyz:27777/rtp/239.93.0.162:2192
 鳳凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 鳳凰中文,http://live4play.uk/livehttpplay?channel_id=20065
 鳳凰中文,http://108.181.20.197/livehttpplay?channel_id=20065
@@ -8,7 +8,7 @@
 鳳凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-鳯凰資訊,http://222.209.208.234:7788/rtp/239.93.0.118:2191
+鳯凰資訊,http://772765777.xyz:27777/rtp/239.93.0.118:2191
 鳯凰資訊,http://live4play.uk/livehttpplay?channel_id=30015
 鳯凰資訊,http://live4play.uk/livehttpplay?channel_id=20066
 鳯凰資訊,http://108.181.20.197/livehttpplay?channel_id=20066
@@ -22,7 +22,6 @@
 鳳凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 
 中天新聞台,https://live.iill.top/youtube/vr3XyVCR4T0
-中天新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv009/index.m3u8
 中天新聞台,https://zt.dracwoundshop.eu.org/live/stream.m3u8
 中天新聞台,http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
 中天新聞台2,https://live.iill.top/youtube/DM_PEM8GrIgm3u8?pid=4gtv-4gtv009
@@ -42,14 +41,14 @@ HOY78,http://live4play.uk/livehttpplay?channel_id=20191
 
 
 TVBS新闻台,https://live.iill.top/youtube/2mCSYvcfhtc
-TVBS新闻台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8
+
 寰宇新聞台,https://live.iill.top/youtube/6IquAgfvYmc
-寰宇新聞台,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn14/index.m3u8
+
 東森新聞台,https://live.iill.top/youtube/V1p33hqPrUk
-東森新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv152/index.m3u8
+
 東森新聞台,http://108.181.20.197/livehttpplay?channel_id=20082
 東森新聞台,http://live4play.uk/livehttpplay?channel_id=20082
-寰宇新聞台灣台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv156/index.m3u8
+
 
 
 
@@ -97,12 +96,9 @@ CCTV13,http://j.daysky.com:8000/rtp/239.93.0.66:5140
 民視新聞,http://live4play.uk/livehttpplay?channel_id=20097
 台視新聞,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 台視新聞,https://live.iill.top/youtube/xL0ch83RAK8
-中視新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv074/index.m3u8
 中視新聞,https://live.iill.top/youtube/TCnaIE_SAtM
 華視新聞,https://live.iill.top/youtube/wM0g8EoUZ_E
 公視新聞,https://live.iill.top/youtube/quwqlazU-c8
-華視新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv052/index.m3u8
-寰宇新聞台灣台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv156/index.m3u8
 東森財經台,http://108.181.21.27:27347/livehttpplay?channel_id=20078
 東森財經台,http://108.181.20.197/livehttpplay?channel_id=20078
 東森財經台,http://live4play.uk/livehttpplay?channel_id=20078
@@ -164,8 +160,8 @@ IHOT赛车,http://www.qiqi.pub:18889/rtp/239.93.42.20:5140
 睛彩竞技,
 魅力足球,http://222.209.208.234:7788/rtp/239.93.42.97:5140
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
-快乐垂钓,http://222.209.122.32:666/rtp/239.93.1.151:5140
-来钓鱼吧,http://222.209.122.32:666/rtp/239.93.42.8:5140
+快乐垂钓,http://222.209.208.234:7788/rtp/239.93.1.151:5140
+来钓鱼吧,http://222.209.208.234:7788/rtp/239.93.42.8:5140
 英雄联盟1,http://live.iill.top/bilibili.php?id=6
 英雄联盟2,http://live.iill.top/huya.php?id=660001
 英雄联盟3,http://live.iill.top/douyu.php?id=288016
@@ -277,7 +273,7 @@ HBo電影叄台,http://live4play.uk/livehttpplay?channel_id=20093
 
 
 香港频道,#genre#
-鳳凰中文,http://222.209.208.234:7788/rtp/239.93.0.162:2192
+鳳凰中文,http://772765777.xyz:27777/rtp/239.93.0.162:2192
 鳳凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 鳳凰中文,http://live4play.uk/livehttpplay?channel_id=20065
 鳳凰中文,http://108.181.20.197/livehttpplay?channel_id=20065
@@ -286,7 +282,7 @@ HBo電影叄台,http://live4play.uk/livehttpplay?channel_id=20093
 鳳凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-鳯凰資訊,http://222.209.208.234:7788/rtp/239.93.0.118:2191
+鳯凰資訊,http://772765777.xyz:27777/rtp/239.93.0.118:2191
 鳯凰資訊,http://live4play.uk/livehttpplay?channel_id=30015
 鳯凰資訊,http://live4play.uk/livehttpplay?channel_id=20066
 鳯凰資訊,http://108.181.20.197/livehttpplay?channel_id=20066
@@ -412,7 +408,6 @@ tvN,http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
 台視電視台,http://108.181.20.197/livehttpplay?channel_id=20076
 台視電視台,http://live4play.uk/livehttpplay?channel_id=20076
 台視電視台,http://60.248.77.83/sat/tv071.flv
-中視電視台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv040/index.m3u8
 中視電視台,http://108.181.20.197/livehttpplay?channel_id=20088
 中視電視台,http://live4play.uk/livehttpplay?channel_id=20088
 中視電視台,http://60.248.77.83/sat/tv091.flv
@@ -427,14 +422,14 @@ tvN,http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
 TVBS綜合台,http://108.181.20.197/livehttpplay?channel_id20085  
 TVBS綜合台,http://live4play.uk/livehttpplay?channel_id=20085
 
-TVBS歡樂台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv068/index.m3u8
+
 TVBS歡樂台,http://108.181.20.197/livehttpplay?channel_id=20105  
 TVBS歡樂台,http://live4play.uk/livehttpplay?channel_id=20105
 TVBS精彩台,http://108.181.20.197/livehttpplay?channel_id20136  
 TVBS精彩台,http://live4play.uk/livehttpplay?channel_id=20136  
 TVBS精彩台,http://108.181.20.197/livehttpplay?channel_id=20136
 TVBS精彩台,http://live4play.uk/livehttpplay?channel_id=20136
-中天亞洲台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv109/index.m3u8
+中天亞洲台,
 中天綜合台,http://108.181.20.197/livehttpplay?channel_id=20064  
 中天綜合台,http://live4play.uk/livehttpplay?channel_id=20064  
 中天娛樂台,http://108.181.20.197/livehttpplay?channel_id20079
@@ -557,19 +552,14 @@ CN卡通,http://live4play.uk/livehttpplay?channel_id=20048
 華視新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv052/index.m3u8
 
 TVBS新闻台,https://live.iill.top/youtube/2mCSYvcfhtc
-TVBS新闻台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8
 寰宇新聞台,https://live.iill.top/youtube/6IquAgfvYmc
-寰宇新聞台,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn14/index.m3u8
 東森新聞台,https://live.iill.top/youtube/V1p33hqPrUk
-東森新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv152/index.m3u8
 東森新聞台,http://108.181.20.197/livehttpplay?channel_id=20082
 東森新聞台,http://live4play.uk/livehttpplay?channel_id=20082
-寰宇新聞台灣台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv156/index.m3u8
 東森財經台,http://108.181.21.27:27347/livehttpplay?channel_id=20078
 東森財經台,http://108.181.20.197/livehttpplay?channel_id=20078
 東森財經台,http://live4play.uk/livehttpplay?channel_id=20078
 中天新聞台,https://live.iill.top/youtube/vr3XyVCR4T0
-中天新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv009/index.m3u8
 中天新聞台,https://zt.dracwoundshop.eu.org/live/stream.m3u8
 中天新聞台,http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
 中天新聞台2,https://live.iill.top/youtube/DM_PEM8GrIgm3u8?pid=4gtv-4gtv009
@@ -1004,241 +994,169 @@ CCTV4K,http://222.209.208.234:7788/rtp/239.93.42.42:5140
 
 
 
-台湾4GTV,#genre#
-鏡電視新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv075/index.m3u8
-東森新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv152/index.m3u8
-華視新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv052/index.m3u8
-民視新聞,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv13/index.m3u8
-三立iNEWS,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live089/index.m3u8
-東森財經新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv153/index.m3u8
-中視新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv074/index.m3u8
-中天新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv009/index.m3u8
-BLOOMBERG TV,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live059/index.m3u8
-寰宇新聞,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn14/index.m3u8
-寰宇新聞台灣台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv156/index.m3u8
-SBN 全球財經台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live060/index.m3u8
-寰宇財經,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv158/index.m3u8
-FRANCE24 英文台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live146/index.m3u8
-半島國際新聞台,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv10/index.m3u8
-VOA 美國之音,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv03/index.m3u8
-CNBC Asia 財經台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live130/index.m3u8
-DW德國之聲,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live071/index.m3u8
-非凡新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv010/index.m3u8
-非凡商業,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv048/index.m3u8
-台視財經台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv056/index.m3u8
-鏡電視新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv075/index.m3u8
-東森新聞,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv152/index.m3u8
-民視新聞,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv13/index.m3u8
-TVBS新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8
-東森財經新聞,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv153/index.m3u8
-中視新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv074/index.m3u8
-中天新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv009/index.m3u8
-寰宇新聞,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn14/index.m3u8
-寰宇新聞台灣台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv156/index.m3u8
-寰宇財經,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv158/index.m3u8
-半島國際新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv10/index.m3u8
-VOA 美國之音,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv03/index.m3u8
-台視新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv051/index.m3u8
-第1商業台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv104/index.m3u8
-台視新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv051/index.m3u8
-中視新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv074/index.m3u8
-中天新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv009/index.m3u8
-寰宇新聞,http://xn--elt51t.azip.dpdns.org:5008/of-litv-longturn14/index.m3u8
-寰宇新聞台灣台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv156/index.m3u8
-寰宇財經,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv158/index.m3u8
-第1商業台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv104/index.m3u8
-三立iNEWS,http://xn--elt51t.azip.dpdns.org:5008/iNEWS/index.m3u8
-倪珍播新聞,http://xn--elt51t.azip.dpdns.org:5008/nnews-zh/index.m3u8
-倪珍英語新聞,http://xn--elt51t.azip.dpdns.org:5008/nnews-en/index.m3u8
-倪珍越語新聞,http://xn--elt51t.azip.dpdns.org:5008/nnews-vn/index.m3u8
-
-民視第一台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv003/index.m3u8
-民視台灣台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv001/index.m3u8
-民視HD,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv002/index.m3u8
-大愛電視,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live007/index.m3u8
-中視,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv040/index.m3u8
-華視,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv041/index.m3u8
-三立綜合合,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live207/index.m3u8
-客家電視,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv043/index.m3u8
-中視菁采台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv064/index.m3u8
-靖天綜合,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv046/index.m3u8
-靖天日本,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv047/index.m3u8
-新唐人亞太台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live050/index.m3u8
-Arirang TV,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv079/index.m3u8
-原住民族電視台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live014/index.m3u8
-東森購物四台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live049/index.m3u8
-東森購物一台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live047/index.m3u8
-東森購物一台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv102/index.m3u8
-東森購物一台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv102/index.m3u8
-TVBS HD,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv073/index.m3u8
-東森購物二台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live046/index.m3u8
-東森購物二台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv103/index.m3u8
-東森購物二台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv103/index.m3u8
-靖天育樂,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv062/index.m3u8
-靖天國際,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv063/index.m3u8
-靖天歡樂,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv054/index.m3u8
-靖天資訊,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv065/index.m3u8
-韓國娛樂台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv016/index.m3u8
-東森購物三台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live048/index.m3u8
-好消息,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv16/index.m3u8
-好消息2台,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv17/index.m3u8
-大愛二台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live106/index.m3u8
-人間衛視,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live008/index.m3u8
-國會頻道1,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv084/index.m3u8
-國會頻道2,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv085/index.m3u8
-民視第一台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv003/index.m3u8
-民視台灣台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv001/index.m3u8
-中視,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv040/index.m3u8
-華視,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv041/index.m3u8
-中天亞洲台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv109/index.m3u8
-三立綜合合,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live207/index.m3u8
-客家電視,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv043/index.m3u8
-中視菁采台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv064/index.m3u8
-靖天綜合,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv046/index.m3u8
-靖天日本,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv047/index.m3u8
-Arirang TV,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv079/index.m3u8
-TVBS HD,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv073/index.m3u8
-靖天育樂,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv062/index.m3u8
-靖天國際,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv063/index.m3u8
-靖天歡樂,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv054/index.m3u8
-靖天資訊,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv065/index.m3u8
-韓國娛樂台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv016/index.m3u8
-好消息,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv16/index.m3u8
-好消息2台,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv17/index.m3u8
-國會頻道1,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv084/index.m3u8
-國會頻道2,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv085/index.m3u8
-台視HD,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv066/index.m3u8
-台視HD,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv066/index.m3u8
-中視,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv040/index.m3u8
-華視,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv041/index.m3u8
-好消息,http://xn--elt51t.azip.dpdns.org:5008/of-litv-ftv16/index.m3u8
-好消息2台,http://xn--elt51t.azip.dpdns.org:5008/of-litv-ftv17/index.m3u8
-國會頻道1,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv084/index.m3u8
-國會頻道2,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv085/index.m3u8
-
-中視經典台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv080/index.m3u8
-ROCK Entertainment,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live080/index.m3u8
-公視戲劇,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv042/index.m3u8
-民視影劇,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv09/index.m3u8
-HITS,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live620/index.m3u8
-霹靂布袋戲,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live145/index.m3u8
-靖天戲劇,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv058/index.m3u8
-靖洋戲劇,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv045/index.m3u8
-金光布袋戲,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live144/index.m3u8
-ROCK Action,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live138/index.m3u8
-采昌影劇,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv049/index.m3u8
-靖天映畫,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv055/index.m3u8
-靖天電影,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv061/index.m3u8
-影迷數位電影台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv011/index.m3u8
-amc 電影台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv017/index.m3u8
-Cinema World,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live069/index.m3u8
-歐洲光影,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live157/index.m3u8
-TVBS台劇台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live088/index.m3u8
-經典電影台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live021/index.m3u8
-戲劇免費看1台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live010/index.m3u8
-中視經典台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv080/index.m3u8
-龍華洋片,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn02/index.m3u8
-龍華電影,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn03/index.m3u8
-龍華日韓,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn11/index.m3u8
-龍華偶像,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn12/index.m3u8
-龍華戲劇,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn18/index.m3u8
-龍華經典,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn21/index.m3u8
-公視戲劇,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv042/index.m3u8
-民視影劇,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv09/index.m3u8
-靖天戲劇,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv058/index.m3u8
-靖洋戲劇,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv045/index.m3u8
-采昌影劇,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv049/index.m3u8
-靖天映畫,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv055/index.m3u8
-靖天電影,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv061/index.m3u8
-影迷數位電影台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv011/index.m3u8
-amc 電影台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv017/index.m3u8
-台灣戲劇台,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn22/index.m3u8
-台灣戲劇台,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn22/index.m3u8
-龍華洋片,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn02/index.m3u8
-龍華電影,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn03/index.m3u8
-龍華日韓,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn11/index.m3u8
-龍華偶像,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn12/index.m3u8
-龍華戲劇,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn18/index.m3u8
-龍華經典,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn21/index.m3u8
-
-八大綜藝,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv039/index.m3u8
-TVBS精采台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv067/index.m3u8
-ELTA娛樂,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv070/index.m3u8
-民視綜藝,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv004/index.m3u8
-豬哥亮歌廳秀,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv006/index.m3u8
-TVBS歡樂台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv068/index.m3u8
-電影原聲台 CMusic,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live031/index.m3u8
-Trace Urban,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv082/index.m3u8
-MTV Live,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live025/index.m3u8
-MEZZO LIVE HD,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv083/index.m3u8
-CLASSICA 古典樂,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv059/index.m3u8
-八大精彩,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv034/index.m3u8
-TVBS綜藝台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live087/index.m3u8
-八大綜藝,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv039/index.m3u8
-TVBS精采台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv067/index.m3u8
-ELTA娛樂,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv070/index.m3u8
-民視綜藝,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv004/index.m3u8
-豬哥亮歌廳秀,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv006/index.m3u8
-TVBS歡樂台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv068/index.m3u8
-Trace Urban,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv082/index.m3u8
-MEZZO LIVE HD,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv083/index.m3u8
-CLASSICA 古典樂,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv059/index.m3u8
-八大精彩,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv034/index.m3u8
-
-Global Trekker,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live112/index.m3u8
-Lifetime,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live029/index.m3u8
-INULTRA,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live096/index.m3u8
-Pet Club TV,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live110/index.m3u8
-民視旅遊,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv07/index.m3u8
-滾動力 Rollor,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live012/index.m3u8
-亞洲旅遊,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv076/index.m3u8
-FUN 4K探索娛樂,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live011/index.m3u8
-幸福空間居家台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live206/index.m3u8
-LOVE NATURE,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live208/index.m3u8
-ELTA生活旅遊,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live120/index.m3u8
-LUXE TV,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live121/index.m3u8
-TV5MONDE Style,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live122/index.m3u8
-MagellanTV頻道,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live123/index.m3u8
-民視旅遊,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv07/index.m3u8
-亞洲旅遊,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv076/index.m3u8
-Smart知識台,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn19/index.m3u8
-亞洲旅遊,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv076/index.m3u8
-Smart知識台,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn19/index.m3u8
-
-LiveABC 互動英語台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live030/index.m3u8
-達文西,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv018/index.m3u8
-ELTV生活英語台,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn20/index.m3u8
-Nick Jr.,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live032/index.m3u8
-Nickelodeon,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live105/index.m3u8
-DreamWorks,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live017/index.m3u8
-靖天卡通台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv044/index.m3u8
-靖洋卡通,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv057/index.m3u8
-MOMO親子,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live107/index.m3u8
-經典卡通台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live022/index.m3u8
-精選動漫台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live024/index.m3u8
-龍華卡通,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn01/index.m3u8
-達文西,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv018/index.m3u8
-ELTV生活英語台,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn20/index.m3u8
-靖天卡通台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv044/index.m3u8
-靖洋卡通,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv057/index.m3u8
-ELTV生活英語台,http://xn--elt51t.azip.dpdns.org:5008/of-litv-longturn20/index.m3u8
-龍華卡通,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn01/index.m3u8
-
-TRACE Sport Stars,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv077/index.m3u8
-智林體育,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv101/index.m3u8
-時尚運動X,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv014/index.m3u8
-車迷 TV,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live201/index.m3u8
-GINX Esports TV,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv053/index.m3u8
-博斯魅力,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn04/index.m3u8
-博斯高球I,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn05/index.m3u8
-博斯高球II,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn06/index.m3u8
-博斯運動I,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn07/index.m3u8
-博斯運動II,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn08/index.m3u8
-博斯網球,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn09/index.m3u8
-博斯無限I,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn10/index.m3u8
-博斯無限II,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn13/index.m3u8
-TRACE Sport Stars,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv077/index.m3u8
-智林體育,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv101/index.m3u8
-時尚運動X,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv014/index.m3u8
-GINX Esports TV,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv053/index.m3u8
-
+港澳台4GTV,#genre#
+民視第一台,http://bvm.808848.xyz:50007/4gtv-4gtv003/index.m3u8
+民視台灣台,http://bvm.808848.xyz:50007/4gtv-4gtv001/index.m3u8
+民視,http://bvm.808848.xyz:50007/4gtv-4gtv002/index.m3u8
+大愛電視,http://bvm.808848.xyz:50007/4gtv-live007/index.m3u8
+中視,http://bvm.808848.xyz:50007/4gtv-4gtv040/index.m3u8
+中視經典台,http://bvm.808848.xyz:50007/4gtv-4gtv080/index.m3u8
+華視,http://bvm.808848.xyz:50007/4gtv-4gtv041/index.m3u8
+龍華洋片台,http://bvm.808848.xyz:50007/litv-longturn02/index.m3u8
+龍華卡通台,http://bvm.808848.xyz:50007/litv-longturn01/index.m3u8
+龍華電影台,http://bvm.808848.xyz:50007/litv-longturn03/index.m3u8
+龍華日韓台,http://bvm.808848.xyz:50007/litv-longturn11/index.m3u8
+龍華偶像台,http://bvm.808848.xyz:50007/litv-longturn12/index.m3u8
+龍華戲劇台,http://bvm.808848.xyz:50007/litv-longturn18/index.m3u8
+龍華經典台,http://bvm.808848.xyz:50007/litv-longturn21/index.m3u8
+博斯魅力台,http://bvm.808848.xyz:50007/litv-longturn04/index.m3u8
+博斯高球台,http://bvm.808848.xyz:50007/litv-longturn05/index.m3u8
+博斯高球二台,http://bvm.808848.xyz:50007/litv-longturn06/index.m3u8
+博斯運動一台,http://bvm.808848.xyz:50007/litv-longturn07/index.m3u8
+博斯運動二台,http://bvm.808848.xyz:50007/litv-longturn08/index.m3u8
+博斯網球台,http://bvm.808848.xyz:50007/litv-longturn09/index.m3u8
+博斯無限台,http://bvm.808848.xyz:50007/litv-longturn10/index.m3u8
+博斯無限二台,http://bvm.808848.xyz:50007/litv-longturn13/index.m3u8
+非凡新聞台,http://bvm.808848.xyz:50007/4gtv-4gtv010/index.m3u8
+非凡商業台,http://bvm.808848.xyz:50007/4gtv-4gtv048/index.m3u8
+台視財經,http://bvm.808848.xyz:50007/4gtv-4gtv056/index.m3u8
+中天亞洲精采台,http://bvm.808848.xyz:50007/4gtv-4gtv109/index.m3u8
+三立新聞iNEWS,http://bvm.808848.xyz:50007/iNEWS/index.m3u8
+三立綜合台,http://bvm.808848.xyz:50007/4gtv-live207/index.m3u8
+客家電視台,http://bvm.808848.xyz:50007/4gtv-4gtv043/index.m3u8
+八大綜藝台,http://bvm.808848.xyz:50007/4gtv-4gtv039/index.m3u8
+中視菁采台,http://bvm.808848.xyz:50007/4gtv-4gtv064/index.m3u8
+TVBS精采台,http://bvm.808848.xyz:50007/4gtv-4gtv067/index.m3u8
+愛爾達娛樂台,http://bvm.808848.xyz:50007/4gtv-4gtv070/index.m3u8
+靖天綜合台,http://bvm.808848.xyz:50007/4gtv-4gtv046/index.m3u8
+靖天日本台,http://bvm.808848.xyz:50007/4gtv-4gtv047/index.m3u8
+新唐人亞太台,http://bvm.808848.xyz:50007/4gtv-live050/index.m3u8
+ARIRANG阿里郎頻道,http://bvm.808848.xyz:50007/4gtv-4gtv079/index.m3u8
+GlobalTrekker,http://bvm.808848.xyz:50007/4gtv-live112/index.m3u8
+原住民族電視台,http://bvm.808848.xyz:50007/4gtv-live014/index.m3u8
+東森購物四台,http://bvm.808848.xyz:50007/4gtv-live049/index.m3u8
+LiveABC互動英語頻道,http://bvm.808848.xyz:50007/4gtv-live030/index.m3u8
+達文西頻道,http://bvm.808848.xyz:50007/4gtv-4gtv018/index.m3u8
+ELTV生活英語台,http://bvm.808848.xyz:50007/litv-longturn20/index.m3u8
+NickJr.兒童頻道,http://bvm.808848.xyz:50007/4gtv-live032/index.m3u8
+尼克兒童頻道,http://bvm.808848.xyz:50007/4gtv-live105/index.m3u8
+DreamWorks夢工廠動畫,http://bvm.808848.xyz:50007/4gtv-live017/index.m3u8
+靖天卡通台,http://bvm.808848.xyz:50007/4gtv-4gtv044/index.m3u8
+靖洋卡通NiceBingo,http://bvm.808848.xyz:50007/4gtv-4gtv057/index.m3u8
+MOMO親子台,http://bvm.808848.xyz:50007/4gtv-live107/index.m3u8
+東森購物一台,http://bvm.808848.xyz:50007/4gtv-live047/index.m3u8
+鏡電視新聞台,http://bvm.808848.xyz:50007/4gtv-4gtv075/index.m3u8
+東森新聞台,http://bvm.808848.xyz:50007/4gtv-4gtv152/index.m3u8
+華視新聞,http://bvm.808848.xyz:50007/4gtv-4gtv052/index.m3u8
+民視新聞台,http://bvm.808848.xyz:50007/litv-ftv13/index.m3u8
+三立新聞iNEWS,http://bvm.808848.xyz:50007/4gtv-live089/index.m3u8
+TVBS新聞,http://bvm.808848.xyz:50007/4gtv-4gtv072/index.m3u8
+東森財經新聞台,http://bvm.808848.xyz:50007/4gtv-4gtv153/index.m3u8
+中視新聞,http://bvm.808848.xyz:50007/4gtv-4gtv074/index.m3u8
+中天新聞台,http://bvm.808848.xyz:50007/4gtv-4gtv009/index.m3u8
+BloombergTV,http://bvm.808848.xyz:50007/4gtv-live059/index.m3u8
+寰宇新聞台,http://bvm.808848.xyz:50007/litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://bvm.808848.xyz:50007/4gtv-4gtv156/index.m3u8
+SBN全球財經台,http://bvm.808848.xyz:50007/4gtv-live060/index.m3u8
+寰宇財經台,http://bvm.808848.xyz:50007/4gtv-4gtv158/index.m3u8
+TVBS,http://bvm.808848.xyz:50007/4gtv-4gtv073/index.m3u8
+東森購物二台,http://bvm.808848.xyz:50007/4gtv-live046/index.m3u8
+民視綜藝台,http://bvm.808848.xyz:50007/4gtv-4gtv004/index.m3u8
+豬哥亮歌廳秀,http://bvm.808848.xyz:50007/4gtv-4gtv006/index.m3u8
+靖天育樂台,http://bvm.808848.xyz:50007/4gtv-4gtv062/index.m3u8
+KLT-靖天國際台,http://bvm.808848.xyz:50007/4gtv-4gtv063/index.m3u8
+NiceTV靖天歡樂台,http://bvm.808848.xyz:50007/4gtv-4gtv054/index.m3u8
+靖天資訊台,http://bvm.808848.xyz:50007/4gtv-4gtv065/index.m3u8
+TVBS歡樂台,http://bvm.808848.xyz:50007/4gtv-4gtv068/index.m3u8
+韓國娛樂台KMTV,http://bvm.808848.xyz:50007/4gtv-4gtv016/index.m3u8
+ROCKEntertainment,http://bvm.808848.xyz:50007/4gtv-live080/index.m3u8
+Lifetime娛樂頻道,http://bvm.808848.xyz:50007/4gtv-live029/index.m3u8
+電影原聲台CMusic,http://bvm.808848.xyz:50007/4gtv-live031/index.m3u8
+TRACEUrban,http://bvm.808848.xyz:50007/4gtv-4gtv082/index.m3u8
+MTVLiveHD音樂頻道,http://bvm.808848.xyz:50007/4gtv-live025/index.m3u8
+MezzoLiveHD,http://bvm.808848.xyz:50007/4gtv-4gtv083/index.m3u8
+CLASSICA古典樂,http://bvm.808848.xyz:50007/4gtv-4gtv059/index.m3u8
+東森購物三台,http://bvm.808848.xyz:50007/4gtv-live048/index.m3u8
+INULTRA,http://bvm.808848.xyz:50007/4gtv-live096/index.m3u8
+TRACESportStars,http://bvm.808848.xyz:50007/4gtv-4gtv077/index.m3u8
+智林體育台,http://bvm.808848.xyz:50007/4gtv-4gtv101/index.m3u8
+時尚運動X,http://bvm.808848.xyz:50007/4gtv-4gtv014/index.m3u8
+車迷TV,http://bvm.808848.xyz:50007/4gtv-live201/index.m3u8
+GINXEsportsTV,http://bvm.808848.xyz:50007/4gtv-4gtv053/index.m3u8
+PetClubTV,http://bvm.808848.xyz:50007/4gtv-live110/index.m3u8
+民視旅遊台,http://bvm.808848.xyz:50007/litv-ftv07/index.m3u8
+滾動力rollor,http://bvm.808848.xyz:50007/4gtv-live012/index.m3u8
+亞洲旅遊台,http://bvm.808848.xyz:50007/4gtv-4gtv076/index.m3u8
+fun探索娛樂台,http://bvm.808848.xyz:50007/4gtv-live011/index.m3u8
+幸福空間居家台,http://bvm.808848.xyz:50007/4gtv-live206/index.m3u8
+LoveNature,http://bvm.808848.xyz:50007/4gtv-live208/index.m3u8
+History歷史頻道,http://bvm.808848.xyz:50007/4gtv-live026/index.m3u8
+愛爾達生活旅遊台,http://bvm.808848.xyz:50007/4gtv-live120/index.m3u8
+LUXETVChannel,http://bvm.808848.xyz:50007/4gtv-live121/index.m3u8
+TV5MONDESTYLEHD生活時尚,http://bvm.808848.xyz:50007/4gtv-live122/index.m3u8
+MagellanTV頻道(麥哲倫頻道),http://bvm.808848.xyz:50007/4gtv-live123/index.m3u8
+公視戲劇,http://bvm.808848.xyz:50007/4gtv-4gtv042/index.m3u8
+民視影劇台,http://bvm.808848.xyz:50007/litv-ftv09/index.m3u8
+HITS頻道,http://bvm.808848.xyz:50007/4gtv-live620/index.m3u8
+八大精彩台,http://bvm.808848.xyz:50007/4gtv-4gtv034/index.m3u8
+霹靂布袋戲,http://bvm.808848.xyz:50007/4gtv-live145/index.m3u8
+靖天戲劇台,http://bvm.808848.xyz:50007/4gtv-4gtv058/index.m3u8
+靖洋戲劇台,http://bvm.808848.xyz:50007/4gtv-4gtv045/index.m3u8
+CI罪案偵查頻道,http://bvm.808848.xyz:50007/4gtv-live027/index.m3u8
+視納華仁紀實頻道,http://bvm.808848.xyz:50007/4gtv-4gtv013/index.m3u8
+影迷數位紀實台,http://bvm.808848.xyz:50007/litv-ftv15/index.m3u8
+金光布袋戲,http://bvm.808848.xyz:50007/4gtv-live144/index.m3u8
+ROCKAction,http://bvm.808848.xyz:50007/4gtv-live138/index.m3u8
+采昌影劇台,http://bvm.808848.xyz:50007/4gtv-4gtv049/index.m3u8
+靖天映畫,http://bvm.808848.xyz:50007/4gtv-4gtv055/index.m3u8
+靖天電影台,http://bvm.808848.xyz:50007/4gtv-4gtv061/index.m3u8
+影迷數位電影台,http://bvm.808848.xyz:50007/4gtv-4gtv011/index.m3u8
+amc電影台,http://bvm.808848.xyz:50007/4gtv-4gtv017/index.m3u8
+CinemaWorld,http://bvm.808848.xyz:50007/4gtv-live069/index.m3u8
+MyCinemaEuropeHD我的歐洲電影,http://bvm.808848.xyz:50007/4gtv-live157/index.m3u8
+好消息,http://bvm.808848.xyz:50007/litv-ftv16/index.m3u8
+好消息2台,http://bvm.808848.xyz:50007/litv-ftv17/index.m3u8
+大愛二台,http://bvm.808848.xyz:50007/4gtv-live106/index.m3u8
+人間衛視,http://bvm.808848.xyz:50007/4gtv-live008/index.m3u8
+FRANCE24英文台,http://bvm.808848.xyz:50007/4gtv-live146/index.m3u8
+半島國際新聞台,http://bvm.808848.xyz:50007/litv-ftv10/index.m3u8
+VOA美國之音,http://bvm.808848.xyz:50007/litv-ftv03/index.m3u8
+CNBCAsia財經台,http://bvm.808848.xyz:50007/4gtv-live130/index.m3u8
+DW德國之聲,http://bvm.808848.xyz:50007/4gtv-live071/index.m3u8
+國會頻道1,http://bvm.808848.xyz:50007/4gtv-4gtv084/index.m3u8
+國會頻道2,http://bvm.808848.xyz:50007/4gtv-4gtv085/index.m3u8
+TVBS綜藝台,http://bvm.808848.xyz:50007/4gtv-live087/index.m3u8
+TVBS台劇台,http://bvm.808848.xyz:50007/4gtv-live088/index.m3u8
+經典電影台,http://bvm.808848.xyz:50007/4gtv-live021/index.m3u8
+經典卡通台,http://bvm.808848.xyz:50007/4gtv-live022/index.m3u8
+精選動漫台,http://bvm.808848.xyz:50007/4gtv-live024/index.m3u8
+戲劇免費看1台,http://bvm.808848.xyz:50007/4gtv-live010/index.m3u8
+台灣戲劇台,http://bvm.808848.xyz:50007/litv-longturn22/index.m3u8
+Smart知識台,http://bvm.808848.xyz:50007/litv-longturn19/index.m3u8
+台視新聞,http://bvm.808848.xyz:50007/4gtv-4gtv051/index.m3u8
+台視,http://bvm.808848.xyz:50007/4gtv-4gtv066/index.m3u8
+第1商業台,http://bvm.808848.xyz:50007/4gtv-4gtv104/index.m3u8
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+TVB娱乐新闻台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+八度空间,http://php.jdshipin.com:8880/smt.php?id=TV8
+Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
+Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
+爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
+Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
