@@ -215,18 +215,24 @@ DAZN二台,rtmp://f13h.mine.nu/sat/tv741
 
 
 电影频道,#genre#
-周星驰,http://14.153.183.65:8883/huya/11336587
-粤语电影1,http://14.153.183.65:8883/douyu/1226741
+周星驰,http://www.douzhicloud.site:35455/huya/11336587
+粤语电影1,http://www.douzhicloud.site:35455/douyu/1226741
+粤语喜剧,http://www.douzhicloud.site:35455/huya/11352894
 粤语喜剧,https://live.iill.top/huya/11352894
-亮剑电视轮播,http://14.153.183.65:8883/huya/30080238
-雪豹电视轮播,http://14.153.183.65:8883/huya/29580970
-科幻Fans轮播,http://14.153.183.65:8883/douyu/3508304
-科幻解说轮播,http://14.153.183.65:8883/douyu/9338839
-科幻梦工场播,http://14.153.183.65:8883/huya/15152155
+风味人间,http://www.douzhicloud.site:35455/huya/26355760
+荒野求生,http://www.douzhicloud.site:35455/douyu/4332
+超级变变变,http://www.douzhicloud.site:35455/huya/30080137
+亮剑电视轮播,http://www.douzhicloud.site:35455/huya/30080238
+雪豹电视轮播,http://www.douzhicloud.site:35455/huya/29580970
+科幻Fans轮播,http://www.douzhicloud.site:35455/douyu/3508304
+科幻解说轮播,http://www.douzhicloud.site:35455/douyu/9338839
+科幻梦工场播,http://www.douzhicloud.site:35455/huya/15152155
+经典小品,http://www.douzhicloud.site:35455/douyu/9067836
+赵本山小品,http://www.douzhicloud.site:35455/douyu/9817716
 黑莓电影,http://107.174.52.32/itv.php?id=%e9%bb%91%e8%8e%93%e7%94%b5%e5%bd%b1
 超级电影,http://107.174.52.32/itv.php?id=%e8%b6%85%e7%ba%a7%e7%94%b5%e5%bd%b1
 影迷电影,rtp://239.77.0.27:5146
-影迷电影,http://222.209.208.234:7788/rtp/239.93.42.5:5140
+影迷电影,http://772765777.xyz:27777/rtp/239.93.42.5:5140
 
 NOW星影,
 NOW爆谷,
