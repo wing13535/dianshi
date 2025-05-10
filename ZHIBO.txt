@@ -1142,22 +1142,22 @@ CI 罪案偵查頻道,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live027/index.m
 影迷數位紀實台,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv15/index.m3u8
 
 香港new,#genre#
-凤凰中文👉,P2p://80.251.220.91:7999/2e1416e03c5d5b88468e6ba1bdf80075.m3u8
-凤凰资讯👉,P2p://80.251.220.91:7999/e66ec28b5bdb0f8892cfc046a80d775c.m3u8
-凤凰资讯👉,P2p://80.251.220.91:7999/ee987b5f253f85f3ac789fc18266e98d.m3u8
-凤凰香港👉,P2p://80.251.220.91:7999/02e951464b17777d78d69d2c83af22c8.m3u8
-Now爆谷👉,P2p://80.251.220.91:7999/8a11f82cf1c657e2db6ed1fdc2dcb3ed.m3u8
-中天新闻👉,P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.m3u8
-无线新闻👉,P2p://80.251.220.91:7999/0d3f54c8f9addf9e18d5f9dac5adae19.m3u8
-无线新闻👉,P2p://80.251.220.91:7999/3b8f1e91f35c8892ef3ee7c53bddd0c9.m3u8
+凤凰中文,P2p://80.251.220.91:7999/2e1416e03c5d5b88468e6ba1bdf80075.m3u8
+凤凰资讯,P2p://80.251.220.91:7999/e66ec28b5bdb0f8892cfc046a80d775c.m3u8
+凤凰资讯,P2p://80.251.220.91:7999/ee987b5f253f85f3ac789fc18266e98d.m3u8
+凤凰香港,P2p://80.251.220.91:7999/02e951464b17777d78d69d2c83af22c8.m3u8
+Now爆谷,P2p://80.251.220.91:7999/8a11f82cf1c657e2db6ed1fdc2dcb3ed.m3u8
+中天新闻,P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.m3u8
+无线新闻,P2p://80.251.220.91:7999/0d3f54c8f9addf9e18d5f9dac5adae19.m3u8
+无线新闻,P2p://80.251.220.91:7999/3b8f1e91f35c8892ef3ee7c53bddd0c9.m3u8
 无线翡翠4k码,P2p://80.251.220.91:7999/114d4bdfcd993a587dbda655a2aeb984.m3u8
-无线翡翠👉,P2p://80.251.220.91:7999/5a931ed422bf2e182d41abbca438a74b.m3u8
-无线华丽👉,P2p://80.251.220.91:7999/504c060715cce75a464f812d0fd8213a.m3u8
+无线翡翠,P2p://80.251.220.91:7999/5a931ed422bf2e182d41abbca438a74b.m3u8
+无线华丽,P2p://80.251.220.91:7999/504c060715cce75a464f812d0fd8213a.m3u8
 无线星河标国,P2p://80.251.220.91:7999/cd7576789e91fb8a757fa0e1468651a5.m3u8
-无线明珠👉,P2p://80.251.220.91:7999/9d18cf20b598bdc32830b6d46bda9e48.m3u8
-澳门资讯👉,P2p://80.251.220.91:7999/d4a0807f063ba50ebfdede327fe9c158.m3u8
-TVB翡翠台👉,http://ali.hlspul1.yximgs.com/live/qwt_feicui.flv
-TVB新闻台👉,http://ali.hlspull.yximgs.com/live/tvb_inews_h264.flv
+无线明珠,P2p://80.251.220.91:7999/9d18cf20b598bdc32830b6d46bda9e48.m3u8
+澳门资讯,P2p://80.251.220.91:7999/d4a0807f063ba50ebfdede327fe9c158.m3u8
+TVB翡翠台,http://ali.hlspul1.yximgs.com/live/qwt_feicui.flv
+TVB新闻台,http://ali.hlspull.yximgs.com/live/tvb_inews_h264.flv
 
 极速150,#genre#
 翡翠台,http://zb.xmzb.xyz/8888.php?id=be一翡翠台
@@ -1210,7 +1210,7 @@ Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 
-小曾推流,#genre#
+推流,#genre#
 Plus综合,http://www.kaniptv.cn/论坛地址kaniptv.com.php?id=23
 凤凰卫视,http://www.kaniptv.cn/论坛地址kaniptv.com.php?id=2
 凤凰资讯,http://www.kaniptv.cn/论坛地址kaniptv.com.php?id=3
@@ -1282,3 +1282,5 @@ FOX新闻,http://www.kaniptv.cn/论坛地址kaniptv.com.php?id=107
 cNN新闻,http://www.kaniptv.cn/论坛地址kaniptv.com.php?id=108
 BBC新闻,http://www.kaniptv.cn/论坛地址kaniptv.com.php?id=109
 MoMo综,http://www.kaniptv.cn/论坛地址kaniptv.com.php?id=94
+Now爆谷,https://gdfire2.67890123.cn:8088/live/nowbg.m3u8
+Now星影,https://gdfire2.67890123.cn:8088/live/nowxy.m3u8
