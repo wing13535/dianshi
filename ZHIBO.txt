@@ -23,11 +23,9 @@
 中天新聞台2,https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
 中天新聞台2,https://live.iill.top/youtube/DM_PEM8GrIgm3u8?pid=4gtv-4gtv009
 
+
 NOW新聞,http://www.kaniptv.cn/论坛地址kaniptv.com.php?id=31
-NOW新聞,P2p://80.251.220.91:7999/8a11f82cf1c657e2db6ed1fdc2dcb3ed.m3u8
 NOW新聞,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
-Now直播,http://www.kaniptv.cn/论坛地址kaniptv.com.php?id=30
-Now财经,http://www.kaniptv.cn/论坛地址kaniptv.com.php?id=32
 HOY78,http://www.kaniptv.cn/论坛地址kaniptv.com.php?id=38
 HOY78,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
 無線新聞台,http://www.kaniptv.cn/论坛地址kaniptv.com.php?id=16
@@ -278,7 +276,6 @@ amc 電影台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv017/index.m3u8
 
 
 NOW新聞,http://www.kaniptv.cn/论坛地址kaniptv.com.php?id=31
-NOW新聞,P2p://80.251.220.91:7999/8a11f82cf1c657e2db6ed1fdc2dcb3ed.m3u8
 NOW新聞,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 HOY78,http://www.kaniptv.cn/论坛地址kaniptv.com.php?id=38
 HOY78,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
