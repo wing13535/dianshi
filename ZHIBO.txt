@@ -127,9 +127,9 @@ CCTV5,http://772765777.xyz:27777/rtp/239.93.1.12:2224
 CCTV5,http://www.qiqi.pub:18889/rtp/239.93.1.12:2224  
 CCTV5,http://zyuhome.tpddns.cn:42424/rtp/239.93.1.12:2224  
 CCTV5+,rtp://@239.77.0.87:5146  
-CCTV5+,http://772765777.xyz:27777/rtp/239.77.0.87:5140  
-CCTV5+,http://www.qiqi.pub:18889/rtp/239.77.0.87:5140  
-CCTV5+,http://zyuhome.tpddns.cn:42424/rtp/239.77.0.87:5140  
+CCTV5+,http://772765777.xyz:27777/rtp/239.93.1.173:5140
+CCTV5+,http://www.qiqi.pub:18889/rtp/239.93.1.173:5140
+CCTV5+,http://zyuhome.tpddns.cn:42424/rtp/239.93.1.173:5140
 CCTV16,http://www.qiqi.pub:18889/rtp/239.93.42.54:5140  
 CCTV16,http://772765777.xyz:27777/rtp/239.93.42.54:5140  
 CCTV16,http://zyuhome.tpddns.cn:42424/rtp/239.93.42.54:5140  
@@ -830,9 +830,9 @@ CCTV5,http://772765777.xyz:27777/rtp/239.93.1.12:2224
 CCTV5,http://www.qiqi.pub:18889/rtp/239.93.1.12:2224  
 CCTV5,http://zyuhome.tpddns.cn:42424/rtp/239.93.1.12:2224  
 CCTV5+,rtp://@239.77.0.87:5146  
-CCTV5+,http://772765777.xyz:27777/rtp/239.77.0.87:5140  
-CCTV5+,http://www.qiqi.pub:18889/rtp/239.77.0.87:5140  
-CCTV5+,http://zyuhome.tpddns.cn:42424/rtp/239.77.0.87:5140  
+CCTV5+,http://772765777.xyz:27777/rtp/239.93.1.173:5140
+CCTV5+,http://www.qiqi.pub:18889/rtp/239.93.1.173:5140
+CCTV5+,http://zyuhome.tpddns.cn:42424/rtp/239.93.1.173:5140
 CCTV6,rtp://@239.77.0.171:5146  
 CCTV6,http://772765777.xyz:27777/rtp/239.93.42.38:5140  
 CCTV6,http://www.qiqi.pub:18889/rtp/239.93.42.38:5140  
