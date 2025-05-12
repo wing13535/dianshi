@@ -33,6 +33,7 @@ HOY78,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
 無線新聞台,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
 無線新聞台,http://php.jdshipin.com/smt.php?id=inews_twn
 無線新聞台,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
+娛樂新聞台,http://tl.061833.xyz/tl/null-14
 娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 娛樂新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
@@ -220,6 +221,7 @@ GINX Esports TV,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv053/index.m3u8
 
 NOW星影,
 NOW爆谷,P2p://80.251.220.91:7999/8a11f82cf1c657e2db6ed1fdc2dcb3ed.m3u8
+美亞電影台(HK),http://tl.061833.xyz/tl/null-5
 美亞電影台(HK),https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
 PoPC,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
 天影电影(国语),http://php.jdshipin.com:8880/smt.php?id=Celestial
@@ -269,11 +271,14 @@ amc 電影台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv017/index.m3u8
 
 
 
+NOW新聞,http://ali.hlspull.yximgs.com/live/xiangjiaoge6436443454.flv
 NOW新聞,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 HOY78,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
 HOY78,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
+無線新聞台,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
 無線新聞台,http://php.jdshipin.com/smt.php?id=inews_twn
 無線新聞台,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
+娛樂新聞台,http://tl.061833.xyz/tl/null-14
 娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 娛樂新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
@@ -291,6 +296,7 @@ HOY78,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://cdn.163189.xyz/live/fct4k/stream.m3u8
+明珠台,http://tl.061833.xyz/tl/null-12
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 明珠台,https://cdn5.163189.xyz/live/mzt/stream.m3u8
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
@@ -322,7 +328,7 @@ RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 RTHK32,http://192.3.130.92:20002/smt3.2.1.php?id=rhk31_twn
 
-
+TVB 星河台,http://tl.061833.xyz/tl/null-7
 TVB 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB 星河台,http://192.3.130.92:20002/smt3.2.1.php?id=Xinhe
 TVB 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
@@ -337,13 +343,15 @@ TVB 华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 TVB 千禧經典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 TVB 千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB 千禧經典台,http://192.3.130.92:20002/smt3.2.1.php?id=Tvbclassic
+TVB 功夫台,http://tl.061833.xyz/tl/null-17
 TVB 功夫台,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
-明珠剧集台,
-Mytv黃金翡翠台,
-Mytv千禧经典台,
-Mytv 亚洲剧台,
-Mytv 华语剧台,
-Mytv 粤语片台,
+
+黄金华剧台,http://tl.061833.xyz/tl/null-9
+Mytv黃金翡翠台,http://tl.061833.xyz/tl/null-2
+Mytv千禧经典台,http://tl.061833.xyz/tl/null-3
+Mytv 亚洲剧台,http://tl.061833.xyz/tl/null-13
+Mytv 华语剧台,http://tl.061833.xyz/tl/null-4
+Mytv 粤语片台,http://tl.061833.xyz/tl/null-10
 Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
 Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
 爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
@@ -1320,3 +1328,52 @@ Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 
+📺 台湾,#genre#
+凤凰资讯,webview://https://www.iptv345.com/?act=play&token=326b67c611aedb6c05f5c3e57fb21462&tid=gt&id=2
+凤凰中文,webview://https://www.iptv345.com/?act=play&token=09e4da38ec7a2fa22f156b2c1085b517&tid=gt&id=1
+中天新聞,webview://https://www.iptv345.com/?act=play&token=06aa4a8853762408141943ea8020188b&tid=gt&id=43
+东森新闻,webview://https://www.iptv345.com/?act=play&token=bf85de081f83e864939001b3e9ab08c0&tid=gt&id=44
+东森财经新闻,webview://https://www.iptv345.com/?act=play&token=43e1652988f8df5498ad7d01c0715ee5&tid=gt&id=45
+中视新闻,webview://https://www.iptv345.com/?act=play&token=ce48c3e5af52c54c12d44d2e129a925a&tid=gt&id=46
+TVBS,webview://https://www.iptv345.com/?act=play&token=3beef2530da8d62311c7f207cd116e8c&tid=gt&id=56
+TVBS新闻,webview://https://www.iptv345.com/?act=play&token=1e2dc3f8a4711584352ab9f8a0b59b5a&tid=gt&id=55
+TVBS欢乐,webview://https://www.iptv345.com/?act=play&token=946ed9a3533806552a6c984019820c7c&tid=gt&id=57
+台视,webview://https://www.iptv345.com/?act=play&token=297639df3515d2d3350ff38a6c5fafbf&tid=gt&id=61
+台视新闻,webview://https://www.iptv345.com/?act=play&token=a7a9189e07323a729269c24df215af88&tid=gt&id=47
+中视,webview://https://www.iptv345.com/?act=play&token=f7ce683ea792b0a3d9461326728b4ed6&tid=gt&id=60
+中视新闻,webview://https://www.iptv345.com/?act=play&token=a35c29f8db002fc88fd2e2b9a406fb90&tid=gt&id=46
+纬来育乐,webview://https://www.iptv345.com/?act=play&token=e756a86cfad804916ce9dc19025e1aed&tid=gt&id=75
+纬来日本,webview://https://www.iptv345.com/?act=play&token=5fff59eb6db62e5c6fa5d8bea8c9f64e&tid=gt&id=74
+纬来体育,webview://https://www.iptv345.com/?act=play&token=d4e706f25495248a0900c521e078f5fb&tid=gt&id=73
+華視,webview://https://www.iptv345.com/?act=play&token=160124a0e8b2541498faaa061c0989fc&tid=gt&id=63
+华视新闻,webview://https://www.iptv345.com/?act=play&token=883cac7d582133fb1e4250d0bd52d727&tid=gt&id=51
+镜新闻,webview://https://www.iptv345.com/?act=play&token=c2f4982b3dd79047ea6a7a6b67d640cc&tid=gt&id=52
+寰宇新聞,webview://https://www.iptv345.com/?act=play&token=31ff68d48d6dbcfd837f2c7eec40aec9&tid=gt&id=53
+寰宇新聞台湾,webview://https://www.iptv345.com/?act=play&token=cd46b60804340a4511cfd5948348a382&tid=gt&id=54
+三立新闻,webview://https://www.iptv345.com/?act=play&token=0da013bbb9859b62ed28195102bf295e&tid=gt&id=48
+三立台湾,webview://https://www.iptv345.com/?act=play&token=f33be221114ea7800ecf5a844633495f&tid=gt&id=65
+民視,webview://https://www.iptv345.com/?act=play&token=12e702afe3a895ed2a9e883a6e849dd7&tid=gt&id=62
+民視新聞,webview://https://www.iptv345.com/?act=play&token=d060ee6973c56594c60e2dc887754bf5&tid=gt&id=50
+民視台湾,webview://https://www.iptv345.com/?act=play&token=d1d74b82b7689c382e8d3f6357db9d25&tid=gt&id=67
+民視第一,webview://https://www.iptv345.com/?act=play&token=14d0a2117f8ea90a3a2f10deb39d6f0e&tid=gt&id=68
+民視综艺,webview://https://www.iptv345.com/?act=play&token=dfbcd6905ed1d8256952f08a381a354a&tid=gt&id=69
+民視旅游,webview://https://www.iptv345.com/?act=play&token=19bfe67ac8dab8282ed92a772e476dc2&tid=gt&id=70
+民視影剧,webview://https://www.iptv345.com/?act=play&token=7b4c7120cf3bf7c972e40e31d69eaa15&tid=gt&id=71
+VIUTV,webview://https://www.iptv345.com/?act=play&token=681efe5b0f94bfff8454af24f749af63&tid=gt&id=19
+VIUTV6,webview://https://www.iptv345.com/?act=play&token=3e67224a16515fdf6489f1a532d83166&tid=gt&id=20
+ELEVEN1,webview://https://www.iptv345.com/?act=play&token=03f71b6577003007af5ebdec6270b148&tid=gt&id=76
+ELEVEN2,webview://https://www.iptv345.com/?act=play&token=92822d1f7bbe72cd631f4d9ee600ed18&tid=gt&id=77
+靖天育乐,webview://https://www.iptv345.com/?act=play&token=4d79087af200d5fca26b3ba42d645ee5&tid=ty&id=43
+TRACE体育,webview://https://www.iptv345.com/?act=play&token=05dbc358c2df7aee30435a8ae5cb6930&tid=ty&id=52
+博斯魅力,webview://https://www.iptv345.com/?act=play&token=594ac5c02f79637acbc0b38076a25bd6&tid=ty&id=44
+民視,webview://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
+经典电影,webview://https://www.4gtv.tv/channel/4gtv-live021?set=1&ch=201
+经典卡通,webview://https://www.4gtv.tv/channel/4gtv-live022?set=1&ch=202
+原住民,webview://https://www.4gtv.tv/channel/4gtv-live014?set=4&ch=273
+民視台湾台,webview://https://www.4gtv.tv/channel/4gtv-4gtv001?set=4&ch=2
+民視第一台,webview://https://www.4gtv.tv/channel/4gtv-4gtv003?set=4&ch=1
+民視新聞台,webview://https://www.4gtv.tv/channel/litv-ftv13?set=4&ch=31
+民視綜艺台,webview://https://www.4gtv.tv/channel/4gtv-4gtv004?set=4&ch=16
+凤凰卫视资讯,http://A/ku9/js/ku9js.js?id=http://tv.haoqu99.com/4/fhzx.html
+凤凰卫视中文,webview://http://tv.haoqu99.com/4/fhzw.html
+凤凰卫视HK,webview://http://tv.haoqu99.com/4/fhxg.html
