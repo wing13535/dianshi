@@ -1030,3 +1030,13 @@ Now体育1,http://erp.giihgtidg.com:8080/live/nowxw01.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 
+纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv
+纬来育乐,rtmp://9hv9.mine.nu/sat/tv701
+东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv
+ELEVEN1,rtmp://9hv9.mine.nu/sat/tv731
+ELEVEN2,rtmp://9hv9.mine.nu/sat/tv741
+台湾华视,rtmp://9hv9.mine.nu/sat/tv111
+台湾民视,rtmp://9hv9.mine.nu/sat/tv051
+台湾台视,rtmp://9hv9.mine.nu/sat/tv071
+纬来日本,rtmp://9hv9.mine.nu/sat/tv771
+台湾中视,rtmp://9hv9.mine.nu/sat/tv091
