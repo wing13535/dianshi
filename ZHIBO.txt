@@ -695,9 +695,10 @@ GRTN生活频道,video://https://www.gdtv.cn/tvChannelDetail/102
 GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 
 
-凤凰中文台,webview://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
-凤凰资讯台,webview://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
-凤凰香港台,webview://https://345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
+凤凰中文台,webview://https://m.345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
+凤凰资讯台,webview://https://m.345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
+凤凰资讯台,webview://https://m.345iptv.com/?act=play&token=e9e7f0e3d724521c49915b4b5c813650&tid=gt&id=2
+凤凰香港台,webview://https://m.345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
 TVB翡翠台,webview://https://m.345iptv.com/?act=play&token=0414e51b425be184dc3efa0db53e6812&tid=gt&id=5
 无线新闻,webview://http://m.345iptv.com/?act=play&token=bc7918833f7de6b2829ad197ddc05e10&tid=gt&id=6
 TVB Plus,webview://http://m.345iptv.com/?act=play&token=806785b3e369da03a1bac892904a4ae9&tid=gt&id=8
