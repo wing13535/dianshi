@@ -694,42 +694,40 @@ GRTN文化频道,video://https://www.gdtv.cn/tvChannelDetail/75
 GRTN生活频道,video://https://www.gdtv.cn/tvChannelDetail/102
 GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 
-
-凤凰中文台,webview://https://m.345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
-凤凰资讯台,webview://https://m.345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
-凤凰资讯台,webview://https://m.345iptv.com/?act=play&token=e9e7f0e3d724521c49915b4b5c813650&tid=gt&id=2
-凤凰香港台,webview://https://m.345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
-TVB翡翠台,webview://https://m.345iptv.com/?act=play&token=0414e51b425be184dc3efa0db53e6812&tid=gt&id=5
-无线新闻,webview://http://m.345iptv.com/?act=play&token=bc7918833f7de6b2829ad197ddc05e10&tid=gt&id=6
-TVB Plus,webview://http://m.345iptv.com/?act=play&token=806785b3e369da03a1bac892904a4ae9&tid=gt&id=8
-TVB明珠台,webview://http://m.345iptv.com/?act=play&token=d2d94c55f2275567a1d154afbc09587b&tid=gt&id=9
-HOY76,webview://http://m.345iptv.com/?act=play&token=fa85074433ae45388bb96b382056e5df&tid=gt&id=11
-有线18台,webview://http://m.345iptv.com/?act=play&token=7e64e5c5a112c8324ae213193890166f&tid=gt&id=12
-Now新闻,webview://http://m.345iptv.com/?act=play&token=98a9d7e25ac4f93058f13f0144444fff&tid=gt&id=17
+凤凰中文台,video://https://m.345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
+凤凰资讯台,video://https://m.345iptv.com/?act=play&token=e9e7f0e3d724521c49915b4b5c813650&tid=gt&id=2
+凤凰香港台,video://https://m.345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
+TVB翡翠台,video://https://m.345iptv.com/?act=play&token=0414e51b425be184dc3efa0db53e6812&tid=gt&id=5
+无线新闻,video://http://m.345iptv.com/?act=play&token=bc7918833f7de6b2829ad197ddc05e10&tid=gt&id=6
+TVB Plus,video://http://m.345iptv.com/?act=play&token=806785b3e369da03a1bac892904a4ae9&tid=gt&id=8
+TVB明珠台,video://http://m.345iptv.com/?act=play&token=d2d94c55f2275567a1d154afbc09587b&tid=gt&id=9
+HOY76,video://http://m.345iptv.com/?act=play&token=fa85074433ae45388bb96b382056e5df&tid=gt&id=11
+有线18台,video://http://m.345iptv.com/?act=play&token=7e64e5c5a112c8324ae213193890166f&tid=gt&id=12
+Now新闻,video://http://m.345iptv.com/?act=play&token=98a9d7e25ac4f93058f13f0144444fff&tid=gt&id=17
 NOW財經台,,video://https://m.345iptv.com/?act=play&token=9f2d5f742378d554e6cd0f4a7591c88d&tid=gt&id=18
-ViuTV,webview://http://m.345iptv.com/?act=play&token=c1a1576076dce043a6d844e9a5d1ce91&tid=gt&id=19
-ViuTV 6,webview://http://m.345iptv.com/?act=play&token=85e06c79c6d3f5978624277bb8f132e3&tid=gt&id=20
-HOY76,webview://http://m.345iptv.com/?act=play&token=f8cf68faeb52bf8a195030c0a8bdfae7&tid=gt&id=22
-HOY78,webview://http://m.345iptv.com/?act=play&token=08f54e8a4affdeb5b28c8b90b4ff7814&tid=gt&id=23
-HOY TV,webview://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc23d0f9&tid=gt&id=24
-RTHK32,webview://http://m.345iptv.com/?act=play&token=a9e78c79004af6100be6762070cc882e&tid=gt&id=27
+ViuTV,video://http://m.345iptv.com/?act=play&token=c1a1576076dce043a6d844e9a5d1ce91&tid=gt&id=19
+ViuTV 6,video//http://m.345iptv.com/?act=play&token=85e06c79c6d3f5978624277bb8f132e3&tid=gt&id=20
+HOY76,video://http://m.345iptv.com/?act=play&token=f8cf68faeb52bf8a195030c0a8bdfae7&tid=gt&id=22
+HOY78,video://http://m.345iptv.com/?act=play&token=08f54e8a4affdeb5b28c8b90b4ff7814&tid=gt&id=23
+HOY TV,video://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc23d0f9&tid=gt&id=24
+RTHK32,video://http://m.345iptv.com/?act=play&token=a9e78c79004af6100be6762070cc882e&tid=gt&id=27
 
 
 TVBS新闻台,video://https://www.iptv345.com/?act=play&token=6a2f7b97b79ca7acc7a5c96226d5770f&tid=gt&id=55
-中天新闻,webview://http://m.345iptv.com/?act=play&token=c5099746050c41f288c9c50a5002539b&tid=gt&id=43
-东森新闻,webview://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
-中视新闻,webview://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
-台视新闻,webview://http://m.345iptv.com/?act=play&token=19416380214a699f16f2a2e6262563ec&tid=gt&id=47
-三立新闻台,webview://http://m.345iptv.com/?act=play&token=5306092da4db4bf69dc2cd81e05c1e2b&tid=gt&id=48
-民视新闻台,webview://http://m.345iptv.com/?act=play&token=989c7d8a750ff4bfda95fcae1708bbe7&tid=gt&id=50
-华视新闻资讯,webview://http://m.345iptv.com/?act=play&token=077cde05e45f43f87cc3c4c57a152e1e&tid=gt&id=51
-mnews镜新闻,webview://http://m.345iptv.com/?act=play&token=20a5079da56f52ac6332530b8ae045bc&tid=gt&id=52
-寰宇新闻,webview://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
+中天新闻,video://http://m.345iptv.com/?act=play&token=c5099746050c41f288c9c50a5002539b&tid=gt&id=43
+东森新闻,video://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
+中视新闻,video://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
+台视新闻,video://http://m.345iptv.com/?act=play&token=19416380214a699f16f2a2e6262563ec&tid=gt&id=47
+三立新闻台,video://http://m.345iptv.com/?act=play&token=5306092da4db4bf69dc2cd81e05c1e2b&tid=gt&id=48
+民视新闻台,video//http://m.345iptv.com/?act=play&token=989c7d8a750ff4bfda95fcae1708bbe7&tid=gt&id=50
+华视新闻资讯,video://http://m.345iptv.com/?act=play&token=077cde05e45f43f87cc3c4c57a152e1e&tid=gt&id=51
+mnews镜新闻,video://http://m.345iptv.com/?act=play&token=20a5079da56f52ac6332530b8ae045bc&tid=gt&id=52
+寰宇新闻,video://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
 
-中视,webview://http://m.345iptv.com/?act=play&token=5ef10e1554d809f389a139596e22d6e4&tid=gt&id=60
-台视,webview://http://m.345iptv.com/?act=play&token=3566a94ef8f056a92ba7d6bc3adae830&tid=gt&id=61
-民视,webview://http://m.345iptv.com/?act=play&token=499b6a8677702cdead3d1acb4ee763f6&tid=gt&id=62
-华视,webview://http://m.345iptv.com/?act=play&token=d835edf85041fa76c82e4e1f846bf67b&tid=gt&id=63
+中视,video://http://m.345iptv.com/?act=play&token=5ef10e1554d809f389a139596e22d6e4&tid=gt&id=60
+台视,video://http://m.345iptv.com/?act=play&token=3566a94ef8f056a92ba7d6bc3adae830&tid=gt&id=61
+民视,video://http://m.345iptv.com/?act=play&token=499b6a8677702cdead3d1acb4ee763f6&tid=gt&id=62
+华视,video://http://m.345iptv.com/?act=play&token=d835edf85041fa76c82e4e1f846bf67b&tid=gt&id=63
 TVBS,video://https://www.iptv345.com/?act=play&token=40225d7a934d56e38f1fd9ca41809f98&tid=gt&id=56
 TVBS欢乐台,video://https://www.iptv345.com/?act=play&token=e0d20cfbeade4e861b1fe465e7537459&tid=gt&id=57
 三立台湾台,video://https://www.iptv345.com/?act=play&token=593667076591cf28328bcf00f3b903a7&tid=gt&id=65
@@ -741,10 +739,10 @@ TVBS欢乐台,video://https://www.iptv345.com/?act=play&token=e0d20cfbeade4e861b
 纬来育乐台,video://https://www.iptv345.com/?act=play&token=34118448ce3efd5fc83a4d1680b05b9d&tid=gt&id=75
 纬来日本台,video://https://www.iptv345.com/?act=play&token=8ecf2741d3c58d4dd2c2991a4082ca20&tid=gt&id=74
 
-ELTA体育1,webview://http://m.345iptv.com/?act=play&token=e963b41721c7119719ec1b1c72e13757&tid=gt&id=79
-ELTA体育2,webview://http://m.345iptv.com/?act=play&token=6f6551349ba8db18c4c9e4e64622e094&tid=gt&id=80
-ELTA体育3,webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=81
-ELTA体育4,webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=82
+ELTA体育1,video://http://m.345iptv.com/?act=play&token=e963b41721c7119719ec1b1c72e13757&tid=gt&id=79
+ELTA体育2,video://http://m.345iptv.com/?act=play&token=6f6551349ba8db18c4c9e4e64622e094&tid=gt&id=80
+ELTA体育3,video://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=81
+ELTA体育4,video://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=82
 纬来体育台,video://https://www.iptv345.com/?act=play&token=baa6a6711c09d4c8ab6abe3ea9a430d3&tid=gt&id=73
 
 
