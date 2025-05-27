@@ -693,7 +693,6 @@ GRTN健康频道,video://https://www.gdtv.cn/tvChannelDetail/99
 GRTN文化频道,video://https://www.gdtv.cn/tvChannelDetail/75
 GRTN生活频道,video://https://www.gdtv.cn/tvChannelDetail/102
 GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
-
 凤凰中文台,video://https://m.345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
 凤凰资讯台,video://https://m.345iptv.com/?act=play&token=e9e7f0e3d724521c49915b4b5c813650&tid=gt&id=2
 凤凰香港台,video://https://m.345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
@@ -765,8 +764,13 @@ ViuTV6,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-26-
 RTHK31,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-19-0.html
 RTHK32,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-20-0.html
 NOW SPORT PRIME,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-15-0.html
+
+
 NOW新聞台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-16-0.html
+NOW新聞台2,video://https://yibababa.com/tv/hk/now-news.html
 NOW直播台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-17-0.html
+NOW直播台2,video://https://yibababa.com/tv/hk/now-live.html
+
 NOW財經台http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-14-0.html
 千禧經典台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-18-0.html
 
