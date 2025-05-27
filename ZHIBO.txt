@@ -672,7 +672,7 @@ CCTV4K,http://zyuhome.tpddns.cn:42424/rtp/239.93.42.42:5140
 
 
 
-荔枝网,#genre#
+网页直播,#genre#
 广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
 广东珠江,video://https://www.gdtv.cn/tvChannelDetail/44
 广东新闻,video://https://www.gdtv.cn/tvChannelDetail/45
@@ -693,19 +693,106 @@ GRTN健康频道,video://https://www.gdtv.cn/tvChannelDetail/99
 GRTN文化频道,video://https://www.gdtv.cn/tvChannelDetail/75
 GRTN生活频道,video://https://www.gdtv.cn/tvChannelDetail/102
 GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
-now直播,video://https://m.345iptv.com/?act=play&token=51c9530a339380dbd939b2025e44a684&tid=gt&id=16
-now新闻,video://https://m.345iptv.com/?act=play&token=a72178c669b972940b9c29213ba647f7&tid=gt&id=17
-中天新闻,video://https://m.345iptv.com/?act=play&token=865c0f3ec8cb0063d1d5ab72570b76f6&tid=gt&id=43
-寰宇新闻,video://https://m.345iptv.com/?act=play&token=07dcf4421a20fcfae994e82350c35630&tid=gt&id=53
-五星体育,video://https://live.kankanews.com/huikan?id=10
-华视,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-79-0.html
+
+
+凤凰中文台,webview://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
+凤凰资讯台,webview://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
+凤凰香港台,webview://https://345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
+TVB翡翠台,webview://https://m.345iptv.com/?act=play&token=0414e51b425be184dc3efa0db53e6812&tid=gt&id=5
+无线新闻,webview://http://m.345iptv.com/?act=play&token=bc7918833f7de6b2829ad197ddc05e10&tid=gt&id=6
+TVB Plus,webview://http://m.345iptv.com/?act=play&token=806785b3e369da03a1bac892904a4ae9&tid=gt&id=8
+TVB明珠台,webview://http://m.345iptv.com/?act=play&token=d2d94c55f2275567a1d154afbc09587b&tid=gt&id=9
+HOY76,webview://http://m.345iptv.com/?act=play&token=fa85074433ae45388bb96b382056e5df&tid=gt&id=11
+有线18台,webview://http://m.345iptv.com/?act=play&token=7e64e5c5a112c8324ae213193890166f&tid=gt&id=12
+Now新闻,webview://http://m.345iptv.com/?act=play&token=98a9d7e25ac4f93058f13f0144444fff&tid=gt&id=17
+NOW財經台,,video://https://m.345iptv.com/?act=play&token=9f2d5f742378d554e6cd0f4a7591c88d&tid=gt&id=18
+ViuTV,webview://http://m.345iptv.com/?act=play&token=c1a1576076dce043a6d844e9a5d1ce91&tid=gt&id=19
+ViuTV 6,webview://http://m.345iptv.com/?act=play&token=85e06c79c6d3f5978624277bb8f132e3&tid=gt&id=20
+HOY76,webview://http://m.345iptv.com/?act=play&token=f8cf68faeb52bf8a195030c0a8bdfae7&tid=gt&id=22
+HOY78,webview://http://m.345iptv.com/?act=play&token=08f54e8a4affdeb5b28c8b90b4ff7814&tid=gt&id=23
+HOY TV,webview://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc23d0f9&tid=gt&id=24
+RTHK32,webview://http://m.345iptv.com/?act=play&token=a9e78c79004af6100be6762070cc882e&tid=gt&id=27
+
+
+TVBS新闻台,video://https://www.iptv345.com/?act=play&token=6a2f7b97b79ca7acc7a5c96226d5770f&tid=gt&id=55
+中天新闻,webview://http://m.345iptv.com/?act=play&token=c5099746050c41f288c9c50a5002539b&tid=gt&id=43
+东森新闻,webview://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
+中视新闻,webview://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
+台视新闻,webview://http://m.345iptv.com/?act=play&token=19416380214a699f16f2a2e6262563ec&tid=gt&id=47
+三立新闻台,webview://http://m.345iptv.com/?act=play&token=5306092da4db4bf69dc2cd81e05c1e2b&tid=gt&id=48
+民视新闻台,webview://http://m.345iptv.com/?act=play&token=989c7d8a750ff4bfda95fcae1708bbe7&tid=gt&id=50
+华视新闻资讯,webview://http://m.345iptv.com/?act=play&token=077cde05e45f43f87cc3c4c57a152e1e&tid=gt&id=51
+mnews镜新闻,webview://http://m.345iptv.com/?act=play&token=20a5079da56f52ac6332530b8ae045bc&tid=gt&id=52
+寰宇新闻,webview://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
+
+中视,webview://http://m.345iptv.com/?act=play&token=5ef10e1554d809f389a139596e22d6e4&tid=gt&id=60
+台视,webview://http://m.345iptv.com/?act=play&token=3566a94ef8f056a92ba7d6bc3adae830&tid=gt&id=61
+民视,webview://http://m.345iptv.com/?act=play&token=499b6a8677702cdead3d1acb4ee763f6&tid=gt&id=62
+华视,webview://http://m.345iptv.com/?act=play&token=d835edf85041fa76c82e4e1f846bf67b&tid=gt&id=63
+TVBS,video://https://www.iptv345.com/?act=play&token=40225d7a934d56e38f1fd9ca41809f98&tid=gt&id=56
+TVBS欢乐台,video://https://www.iptv345.com/?act=play&token=e0d20cfbeade4e861b1fe465e7537459&tid=gt&id=57
+三立台湾台,video://https://www.iptv345.com/?act=play&token=593667076591cf28328bcf00f3b903a7&tid=gt&id=65
+民视台湾台,video://https://www.iptv345.com/?act=play&token=d98214673b538ff2a92babbd40e2081e&tid=gt&id=67
+民视第一台,video://https://www.iptv345.com/?act=play&token=4c59b34621aeae390a428d5eb8b7133b&tid=gt&id=68
+民视综艺台,video://https://www.iptv345.com/?act=play&token=ccced8f154c1afd8a0bb8b9975b889c5&tid=gt&id=69
+民视旅游台,video://https://www.iptv345.com/?act=play&token=f925268120581fc2947bc629a981628b&tid=gt&id=70
+民视影剧台,video://https://www.iptv345.com/?act=play&token=18c3eb13d094d850b0fac309d55fb1b2&tid=gt&id=71
+纬来育乐台,video://https://www.iptv345.com/?act=play&token=34118448ce3efd5fc83a4d1680b05b9d&tid=gt&id=75
+纬来日本台,video://https://www.iptv345.com/?act=play&token=8ecf2741d3c58d4dd2c2991a4082ca20&tid=gt&id=74
+
+ELTA体育1,webview://http://m.345iptv.com/?act=play&token=e963b41721c7119719ec1b1c72e13757&tid=gt&id=79
+ELTA体育2,webview://http://m.345iptv.com/?act=play&token=6f6551349ba8db18c4c9e4e64622e094&tid=gt&id=80
+ELTA体育3,webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=81
+ELTA体育4,webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=82
+纬来体育台,video://https://www.iptv345.com/?act=play&token=baa6a6711c09d4c8ab6abe3ea9a430d3&tid=gt&id=73
+
+
+
+
+翡翠台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-0-0.html
+無線新聞台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-29-0.html
+明珠台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-12-0.html#google_vignette
+HOY 76,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-7-0.html
+HOY 77,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-8-0.html
 HOY 78,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-9-0.html
+娛樂新聞台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-33-0.html
+星河台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-31-0.html
+TVB+,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-24-0.html
+鳳凰香港,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-3-0.html
+鳳凰中文,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-4-0.html
+鳳凰資訊,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-5-0.html
+ViuTV,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-25-0.html
+ViuTV6,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-26-0.html
+RTHK31,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-19-0.html
+RTHK32,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-20-0.html
 NOW SPORT PRIME,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-15-0.html
 NOW新聞台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-16-0.html
 NOW直播台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-17-0.html
 NOW財經台http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-14-0.html
 千禧經典台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-18-0.html
-美亞電影台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-10-0.html
+
+
+中天新聞台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-168-0.html
+寰宇新聞台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-83-0.html
+TVBS新聞台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-148-1.html
+TVBS新聞台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-148-2.html
+非凡新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-61-0.html
+鏡新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-96-0.html
+三立新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-131-0.html
+東森新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-43-1.html
+年代新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-124-0.html
+中視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-167-0.html
+台視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-141-1.html
+民視新聞台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-116-0.html
+華視新聞資訊,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-80-1.html
+
+
+五星体育,video://https://live.kankanews.com/huikan?id=10
+
+
+
+
+
 
 
 极速169,#genre#
