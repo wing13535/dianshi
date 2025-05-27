@@ -697,6 +697,9 @@ now直播,video://https://m.345iptv.com/?act=play&token=51c9530a339380dbd939b202
 now新闻,video://https://m.345iptv.com/?act=play&token=a72178c669b972940b9c29213ba647f7&tid=gt&id=17
 中天新闻,video://https://m.345iptv.com/?act=play&token=865c0f3ec8cb0063d1d5ab72570b76f6&tid=gt&id=43
 寰宇新闻,video://https://m.345iptv.com/?act=play&token=07dcf4421a20fcfae994e82350c35630&tid=gt&id=53
+五星体育,video://https://live.kankanews.com/huikan?id=10
+爱尔达影剧,video://https://www.chaojidianshi.net/zhibo/gangtaizhibo/aierdayingju.html
+6,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-79-0.html
 
 极速169,#genre#
 翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8
