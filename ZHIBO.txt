@@ -69,6 +69,7 @@ CCTV13,rtp://@239.77.0.188:5146
 CCTV13,http://www.qiqi.pub:18889/rtp/239.93.0.66:5140
 CCTV13,http://171.213.215.44:4022/rtp/239.93.0.66:5140
 广东民生,rtp://@239.77.0.225:5146
+广东民生,http://61.142.207.29:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,video://https://www.gdtv.cn/tvChannelDetail/48
 广东新闻,rtp://@239.77.0.173:5146
 广东新闻,video://https://www.gdtv.cn/tvChannelDetail/45
@@ -94,10 +95,9 @@ CCTV13,http://171.213.215.44:4022/rtp/239.93.0.66:5140
 体育频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
 广东体育,video://https://m.345iptv.com/?act=play&token=4dc3c92e4aeae5bd5ba71c9f347e88d3&tid=ty&id=3
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,video://https://www.gdtv.cn/tvChannelDetail/47
 广东体育,http://zb.xmzb.xyz/live_proxy.php?id=GDTIyu
+广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,rtp://@239.77.0.170:5146
 CCTV5,http://www.qiqi.pub:18889/rtp/239.93.42.37:5140
 CCTV5,http://171.213.215.44:4022/rtp/239.93.42.37:5140
@@ -469,25 +469,27 @@ Smart知識台,,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/p
 广东频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
 广东体育,video://https://m.345iptv.com/?act=play&token=4dc3c92e4aeae5bd5ba71c9f347e88d3&tid=ty&id=3
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,video://https://www.gdtv.cn/tvChannelDetail/47
 广东体育,http://zb.xmzb.xyz/live_proxy.php?id=GDTIyu
 广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,rtp://@239.77.0.225:5146
+广东民生,http://61.142.207.29:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,video://https://www.gdtv.cn/tvChannelDetail/48
 广东新闻,rtp://@239.77.0.173:5146
 广东新闻,video://https://www.gdtv.cn/tvChannelDetail/45
 广东珠江,rtp://@239.77.0.1:5146
-广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+广东珠江,http://61.142.207.29:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,video://https://www.gdtv.cn/tvChannelDetail/44
 大湾区卫视,rtp://@239.77.0.215:5146
+大湾区卫视,http://61.142.207.29:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,video://https://www.gdtv.cn/tvChannelDetail/51
 大湾区卫视（海外版）,video://https://www.gdtv.cn/tvChannelDetail/46
 广东影视,rtp://@239.77.0.217:5146
+广东影视,http://61.142.207.29:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,video://https://www.gdtv.cn/tvChannelDetail/53
 广东卫视,rtp://@239.77.1.19:5146
+广东卫视,http://61.142.207.29:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://61.142.207.29:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
 广东经济,rtp://@239.77.0.167:5146
 荔枝台,video://https://www.gdtv.cn/tvChannelDetail/100
@@ -495,6 +497,7 @@ Smart知識台,,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/p
 广东少儿,video://https://www.gdtv.cn/tvChannelDetail/54
 嘉佳卡通,video://https://www.gdtv.cn/tvChannelDetail/66
 4K超高清,video://https://www.gdtv.cn/tvChannelDetail/16
+
 
 
 
