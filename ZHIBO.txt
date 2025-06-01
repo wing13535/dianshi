@@ -105,11 +105,8 @@ CCTV13,http://j.daysky.com:8000/rtp/239.93.0.66:5140
 广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://dq.eric702.top:8800/rtp/239.77.0.168:5146
 广东体育,http://116.30.251.239:9876/rtp/239.77.0.168:5146
-广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,https://cdn2.132.us.kg/live/gdty/stream.m3u8
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
-广东体育,http://zb.xmzb.xyz/live_proxy.php?id=GDTIyu
+广东体育,http://wmh.wmh.ink:6633/rtp/239.77.0.168:5146
+广东体育,http://hongzhijiaoyu.net:8188/rtp/239.77.0.168:5146
 CCTV5,rtp://@239.77.0.170:5146
 CCTV5,http://www.qiqi.pub:18889/rtp/239.93.42.37:5140
 CCTV5,http://yulang132.cn:4022/udp/239.93.42.37:5140
@@ -479,11 +476,8 @@ Smart知識台,,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/p
 广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://dq.eric702.top:8800/rtp/239.77.0.168:5146
 广东体育,http://116.30.251.239:9876/rtp/239.77.0.168:5146
-广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,https://cdn2.132.us.kg/live/gdty/stream.m3u8
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
-广东体育,http://zb.xmzb.xyz/live_proxy.php?id=GDTIyu
+广东体育,http://wmh.wmh.ink:6633/rtp/239.77.0.168:5146
+广东体育,http://hongzhijiaoyu.net:8188/rtp/239.77.0.168:5146
 广东民生,rtp://@239.77.0.225:5146
 广东民生,http://dq.eric702.top:8800/rtp/239.77.0.225:5146
 广东民生,http://116.30.251.239:9876/rtp/239.77.0.225:5146
