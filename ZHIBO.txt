@@ -173,8 +173,6 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 电影频道,#genre#
 周星驰,https://live.metshop.top/huya/11336587
 粤语喜剧,https://live.metshop.top/huya/11352894
-Now爆谷,https://ali.hlspull.yximgs.com/live/xiangjiaoge1116163133.flv
-Now星影,https://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv
 影迷电影,http://www.qiqi.pub:18889/rtp/239.93.42.5:5140
 影迷电影,http://j.daysky.com:8000/rtp/239.93.42.5:5140
 美亞電影台(HK),http://tl.061833.xyz/tl/null-5
