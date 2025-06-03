@@ -124,6 +124,7 @@ Now英超,http://erp.giihgtidg.com:8080/live/nowxw01.m3u8
 
 緯來體育,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-153-0.html
 緯來體育,video://https://www.iptv345.com/?act=play&token=baa6a6711c09d4c8ab6abe3ea9a430d3&tid=gt&id=73
+緯來體育,video://https://yibababa.com/tv/tw/weilai-sport.html
 緯來體育,rtmp://9hv9.mine.nu/sat/tv721.flv
 愛爾達體育1台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-50-0.html
 愛爾達體育2台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-51-0.html
@@ -443,6 +444,7 @@ TvN,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-9-50-0.h
 
 緯來體育,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-153-0.html
 緯來體育,video://https://www.iptv345.com/?act=play&token=baa6a6711c09d4c8ab6abe3ea9a430d3&tid=gt&id=73
+緯來體育,video://https://yibababa.com/tv/tw/weilai-sport.html
 緯來體育,rtmp://9hv9.mine.nu/sat/tv721.flv
 愛爾達體育1台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-50-0.html
 愛爾達體育2台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-51-0.html
