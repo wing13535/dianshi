@@ -35,11 +35,13 @@ TVBS新聞,video://https://www.iptv345.com/?act=play&token=6a2f7b97b79ca7acc7a5c
 
 NOW新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-16-0.html
 NOW新聞,video://http://m.345iptv.com/?act=play&token=98a9d7e25ac4f93058f13f0144444fff&tid=gt&id=17
+NOW新聞,video://https://yibababa.com/tv/hk/now-news.html
 NOW新聞,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 NOW直播,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-17-0.html
 NOW直播,video://https://yibababa.com/tv/hk/now-live.html
 NOW財經,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-14-0.html
 NOW財經,video://https://m.345iptv.com/?act=play&token=9f2d5f742378d554e6cd0f4a7591c88d&tid=gt&id=18
+NOW財經,video://https://yibababa.com/tv/hk/now-finance.html
 HOY78,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
 HOY78,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-9-0.html
 HOY78,video://http://m.345iptv.com/?act=play&token=08f54e8a4affdeb5b28c8b90b4ff7814&tid=gt&id=23
@@ -55,7 +57,6 @@ HOY78,video://http://m.345iptv.com/?act=play&token=08f54e8a4affdeb5b28c8b90b4ff7
 
 军事,http://www.qiqi.pub:18889/rtp/239.93.0.204:9076
 军事,http://j.daysky.com:8000/rtp/239.93.0.204:9076
-
 
 CCTV1,rtp://@239.77.1.17:5146
 CCTV1,http://www.qiqi.pub:18889/rtp/239.93.0.58:5140
@@ -172,6 +173,8 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 电影频道,#genre#
 周星驰,https://live.metshop.top/huya/11336587
 粤语喜剧,https://live.metshop.top/huya/11352894
+Now爆谷,https://ali.hlspull.yximgs.com/live/xiangjiaoge1116163133.flv
+Now星影,https://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv
 影迷电影,http://www.qiqi.pub:18889/rtp/239.93.42.5:5140
 影迷电影,http://j.daysky.com:8000/rtp/239.93.42.5:5140
 美亞電影台(HK),http://tl.061833.xyz/tl/null-5
@@ -223,11 +226,13 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 
 NOW新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-16-0.html
 NOW新聞,video://http://m.345iptv.com/?act=play&token=98a9d7e25ac4f93058f13f0144444fff&tid=gt&id=17
+NOW新聞,video://https://yibababa.com/tv/hk/now-news.html
 NOW新聞,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 NOW直播,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-17-0.html
 NOW直播,video://https://yibababa.com/tv/hk/now-live.html
 NOW財經,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-14-0.html
 NOW財經,video://https://m.345iptv.com/?act=play&token=9f2d5f742378d554e6cd0f4a7591c88d&tid=gt&id=18
+NOW財經,video://https://yibababa.com/tv/hk/now-finance.html
 HOY78,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
 HOY78,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-9-0.html
 HOY78,video://http://m.345iptv.com/?act=play&token=08f54e8a4affdeb5b28c8b90b4ff7814&tid=gt&id=23
