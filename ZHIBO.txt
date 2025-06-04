@@ -35,6 +35,7 @@ TVBS新聞,video://https://www.iptv345.com/?act=play&token=6a2f7b97b79ca7acc7a5c
 中視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-167-0.html
 中視新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-167-1.html
 中視新聞,video://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
+中天新聞2,https://ali.hlspull.yximgs.com/live/167ztxw2.flv
 中天新聞2,https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
 
 NOW新聞,http://a.ru8.dpdns.org/now/332/master.m3u8
@@ -56,10 +57,11 @@ HOY78,video://http://m.345iptv.com/?act=play&token=08f54e8a4affdeb5b28c8b90b4ff7
 無線新聞台,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
 無線新聞台,http://php.jdshipin.com/smt.php?id=inews_twn
 娛樂新聞台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-33-0.html
+娛樂新聞台,http://tl.061833.xyz/tl/null-14
 娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 娛樂新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-娛樂新聞台,http://tl.061833.xyz/tl/null-14
+
 
 军事,http://www.qiqi.pub:18889/rtp/239.93.0.204:9076
 军事,http://j.daysky.com:8000/rtp/239.93.0.204:9076
@@ -262,8 +264,7 @@ HOY78,video://http://m.345iptv.com/?act=play&token=08f54e8a4affdeb5b28c8b90b4ff7
 
 翡翠台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-0-0.html
 翡翠台,video://https://m.345iptv.com/?act=play&token=0414e51b425be184dc3efa0db53e6812&tid=gt&id=5
-翡翠台,http://zb.xmzb.xyz/8888.php?id=be一翡翠台
-翡翠台,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
+翡翠台,http://ali.hlspull.yximgs.com/live/awei_jade.flv
 翡翠台,http://cdn3.132.us.kg/live/fct/stream.m3u8
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8
@@ -383,6 +384,7 @@ TVBS新聞,video://https://www.iptv345.com/?act=play&token=6a2f7b97b79ca7acc7a5c
 中視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-167-0.html
 中視新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-167-1.html
 中視新聞,video://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
+中天新聞2,https://ali.hlspull.yximgs.com/live/167ztxw2.flv
 中天新聞2,https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
 
 鏡新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-96-1.html
@@ -431,6 +433,7 @@ TVBS新聞,video://https://www.iptv345.com/?act=play&token=6a2f7b97b79ca7acc7a5c
 緯來育樂台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-155-0.htm
 中天綜合台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-172-0.html
 中天娛樂台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-170-0.html
+中天亞洲台,https://ali.hlspull.yximgs.com/live/167ztyz.flv
 中天亞洲台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-171-0.html
 TVBS,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-143-0.html
 TVBS,video://https://www.iptv345.com/?act=play&token=40225d7a934d56e38f1fd9ca41809f98&tid=gt&id=56
