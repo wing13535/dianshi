@@ -11,16 +11,24 @@
 鳯凰資訊,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-5-0.html
 鳯凰資訊,video://https://m.345iptv.com/?act=play&token=e9e7f0e3d724521c49915b4b5c813650&tid=gt&id=2
 鳯凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+鳳凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
 鳳凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 鳳凰香港,http://jxiptv.dpdns.org/stream/tvb/null-2/master.m3u8
 鳳凰香港,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-3-0.html
 鳳凰香港,video://https://m.345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
 鳳凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 
+
+
+
+
+
+中天新聞,http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
 中天新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-168-1.html
 中天新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-168-0.html
 中天新聞,video://https://m.345iptv.com/?act=play&token=8f74dc5dad8d0b7831c35e156d23584d&tid=gt&id=43
 中天新聞,https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8
+寰宇新聞,http://qwt.zhibotv.top:2016/全网通.php?id=寰宇新闻
 寰宇新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-83-1.html
 寰宇新聞,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-83-0.html
 寰宇新聞,video://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
@@ -53,6 +61,7 @@ NOW財經,video://https://yibababa.com/tv/hk/now-finance.html
 HOY78,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
 HOY78,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-9-0.html
 HOY78,video://http://m.345iptv.com/?act=play&token=08f54e8a4affdeb5b28c8b90b4ff7814&tid=gt&id=23
+無線新聞台,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 無線新聞台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-29-0.html
 無線新聞台,video://http://m.345iptv.com/?act=play&token=bc7918833f7de6b2829ad197ddc05e10&tid=gt&id=6
 無線新聞台,https://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
@@ -228,6 +237,7 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 鳯凰資訊,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-5-0.html
 鳯凰資訊,video://https://m.345iptv.com/?act=play&token=e9e7f0e3d724521c49915b4b5c813650&tid=gt&id=2
 鳯凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+鳳凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
 鳳凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 鳳凰香港,http://jxiptv.dpdns.org/stream/tvb/null-2/master.m3u8
 鳳凰香港,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-3-0.html
@@ -258,7 +268,7 @@ HOY78,video://http://m.345iptv.com/?act=play&token=08f54e8a4affdeb5b28c8b90b4ff7
 娛樂新聞台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-33-0.html
 
 
-
+翡翠台,http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
 翡翠台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-0-0.html
 翡翠台,video://https://m.345iptv.com/?act=play&token=0414e51b425be184dc3efa0db53e6812&tid=gt&id=5
 翡翠台,http://ali.hlspull.yximgs.com/live/awei_jade.flv
@@ -333,10 +343,12 @@ Now英超,http://erp.giihgtidg.com:8080/live/nowxw01.m3u8
 
 
 台湾频道,#genre#
+中天新聞,http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
 中天新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-168-1.html
 中天新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-168-0.html
 中天新聞,video://https://m.345iptv.com/?act=play&token=8f74dc5dad8d0b7831c35e156d23584d&tid=gt&id=43
 中天新聞,https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8
+寰宇新聞,http://qwt.zhibotv.top:2016/全网通.php?id=寰宇新闻
 寰宇新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-83-1.html
 寰宇新聞,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-83-0.html
 寰宇新聞,video://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
@@ -871,3 +883,19 @@ CCTV4K,http://yulang132.cn:4022/udp/239.93.42.42:5140
 金鹰纪实,http://j.daysky.com:8000/rtp/239.93.0.130:5140  
 中国交通,http://j.daysky.com:8000/rtp/239.93.0.142:5140  
 
+电视侠,#genre#
+翡翠台,https://live.tvfix.org/live/jade/3/v700000/index.m3u8
+tvbplus,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
+无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
+明珠台,https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8
+娱乐新闻,https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
+凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
+凤凰咨询,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
+18赛马,https://live.tvfix.org/live/c18/4/v200000/index.m3u8
+28赛马,https://live.tvfix.org/live/c28/2/v200000/index.m3u8
+美亚电影,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
+天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
+无线亚洲,https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
+tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
+popc,https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
