@@ -883,19 +883,3 @@ CCTV4K,http://yulang132.cn:4022/udp/239.93.42.42:5140
 金鹰纪实,http://j.daysky.com:8000/rtp/239.93.0.130:5140  
 中国交通,http://j.daysky.com:8000/rtp/239.93.0.142:5140  
 
-电视侠,#genre#
-翡翠台,https://live.tvfix.org/live/jade/3/v700000/index.m3u8
-tvbplus,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
-无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
-明珠台,https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8
-娱乐新闻,https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
-凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
-凤凰咨询,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
-凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
-18赛马,https://live.tvfix.org/live/c18/4/v200000/index.m3u8
-28赛马,https://live.tvfix.org/live/c28/2/v200000/index.m3u8
-美亚电影,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
-天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
-无线亚洲,https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
-tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
-popc,https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
