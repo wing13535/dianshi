@@ -27,7 +27,7 @@
 寰宇新聞,https://gdfire2.67890123.cn:8088/live/hyxw01.m3u8
 TVBS新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-148-1.html
 TVBS新聞,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-148-2.html
-TVBS新聞,video://https://www.iptv345.com/?act=play&token=6a2f7b97b79ca7acc7a5c96226d5770f&tid=gt&id=55
+TVBS新聞,video://https://m.345iptv.com/?act=play&token=add22ba4f8f5efb49272be34a86e7f12&tid=gt&id=55
 東森新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-43-1.html
 東森新聞,video://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
 東森新聞,https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
@@ -343,7 +343,7 @@ Now英超,http://erp.giihgtidg.com:8080/live/nowxw01.m3u8
 寰宇新聞,https://gdfire2.67890123.cn:8088/live/hyxw01.m3u8
 TVBS新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-148-1.html
 TVBS新聞,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-148-2.html
-TVBS新聞,video://https://www.iptv345.com/?act=play&token=6a2f7b97b79ca7acc7a5c96226d5770f&tid=gt&id=55
+TVBS新聞,video://https://m.345iptv.com/?act=play&token=add22ba4f8f5efb49272be34a86e7f12&tid=gt&id=55
 東森新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-43-1.html
 東森新聞,video://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
 東森新聞,https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
@@ -402,7 +402,7 @@ TVBS新聞,video://https://www.iptv345.com/?act=play&token=6a2f7b97b79ca7acc7a5c
 中天亞洲台,https://ali.hlspull.yximgs.com/live/167ztyz.flv
 中天亞洲台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-171-0.html
 TVBS,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-143-0.html
-TVBS,video://https://www.iptv345.com/?act=play&token=40225d7a934d56e38f1fd9ca41809f98&tid=gt&id=56
+TVBS,video://https://m.345iptv.com/?act=play&token=8aee5650643fb3ab99b2bb7ca38c3ee1&tid=gt&id=56
 TVBS歡樂台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-145-0.html
 TVBS歡樂台,video://https://www.iptv345.com/?act=play&token=e0d20cfbeade4e861b1fe465e7537459&tid=gt&id=57
 TVBS精采台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-146-0.html
