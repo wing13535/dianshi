@@ -46,7 +46,7 @@ TVBS新聞,video://https://m.345iptv.com/?act=play&token=add22ba4f8f5efb49272be3
 中天新聞2,https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
 
 
-NOW新聞,,http://a.ru8.dpdns.org/now/332/master.m3u8
+NOW新聞,http://a.ru8.dpdns.org/now/332/master.m3u8
 NOW新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-16-0.html
 NOW新聞,video://http://m.345iptv.com/?act=play&token=98a9d7e25ac4f93058f13f0144444fff&tid=gt&id=17
 NOW新聞,video://https://yibababa.com/tv/hk/now-news.html
@@ -140,7 +140,7 @@ CCTV5+,http://www.qiqi.pub:18889/rtp/239.93.1.173:5140
 CCTV5+,http://j.daysky.com:8000/rtp/239.93.1.36:8004
 CCTV5+,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.18:9610
 CCTV5+,http://yulang132.cn:4022/udp/239.93.1.36:8004
-CTV16,http://www.qiqi.pub:18889/rtp/239.93.42.54:5140
+CCTV16,http://www.qiqi.pub:18889/rtp/239.93.42.54:5140
 CCTV16,http://j.daysky.com:8000/rtp/239.93.42.54:5140
 CCTV16,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.31:8000
 CCTV16,http://yulang132.cn:4022/udp/239.93.42.54:5140
