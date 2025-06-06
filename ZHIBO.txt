@@ -122,7 +122,6 @@ CCTV13,http://j.daysky.com:8000/rtp/239.93.0.66:5140
 
 
 
-
 体育频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
 广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -170,6 +169,7 @@ MOMO綜合台,rtmp://9hv9.mine.nu/sat/tv761
 智林體育台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-163-0.html
 纬来育乐,rtmp://9hv9.mine.nu/sat/tv701
 百事通超级体育,http://vpn.rogerxlj.top:9998/udp/239.45.3.139:5140
+劲爆体育,http://120.197.18.252:2901/udp/224.1.100.129:11111 
 劲爆体育,http://119.32.12.17:2901/udp/224.1.100.129:11111 
 IHOT体育,http://www.qiqi.pub:18889/rtp/239.93.42.19:5140
 IHOT赛车,http://www.qiqi.pub:18889/rtp/239.93.42.20:5140
