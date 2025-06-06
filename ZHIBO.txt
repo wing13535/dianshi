@@ -887,3 +887,45 @@ CCTV4K,http://yulang132.cn:4022/udp/239.93.42.42:5140
 金鹰纪实,http://j.daysky.com:8000/rtp/239.93.0.130:5140  
 中国交通,http://j.daysky.com:8000/rtp/239.93.0.142:5140  
 
+测试,#genre#
+鳳凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
+鳳凰資訊,https://live.tvfix.org/live/fhzx/index.m3u8
+鳳凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
+TVB翡翠台,https://live.tvfix.org/live/jade/index.m3u8
+TVB Plus,https://live.tvfix.org/live/tvbplus/index.m3u8
+TVB無綫新聞,https://live.tvfix.org/live/inews/index.m3u8
+TVB明珠台,https://live.tvfix.org/live/pearl/index.m3u8
+TVB娛樂新聞,https://live.tvfix.org/live/enews/index.m3u8
+PopC,https://live.tvfix.org/live/popc/index.m3u8
+美亞電影,https://live.tvfix.org/live/mydy/index.m3u8
+天映經典,https://live.tvfix.org/live/tyjd/index.m3u8
+東方衛視國際版,https://live.tvfix.org/live/dfhd/index.m3u8
+中國電影,https://live.tvfix.org/live/cmc/index.m3u8
+CCTV-1综合,https://live.tvfix.org/live/cctv1hd/index.m3u8
+ROCK ACTION,https://live.tvfix.org/live/rockac/index.m3u8
+ROCK entertianment,https://live.tvfix.org/live/rockzy/index.m3u8
+KIX,https://live.tvfix.org/live/kix/index.m3u8
+AXN,https://live.tvfix.org/live/axn/index.m3u8
+Animax,https://live.tvfix.org/live/animax/index.m3u8
+Fashion Box,https://live.tvfix.org/live/fashion/index.m3u8
+LOVE NATURE,https://live.tvfix.org/live/lovenature/index.m3u8
+Global Trekker,https://live.tvfix.org/live/trekker/index.m3u8
+Hands Up,https://live.tvfix.org/live/kid/index.m3u8
+ZooMoo,https://live.tvfix.org/live/zoo/index.m3u8
+Nick jr,https://live.tvfix.org/live/nickjr/index.m3u8
+Nickelodeon,https://live.tvfix.org/live/niko/index.m3u8
+Mezzo Live,https://live.tvfix.org/live/mezzon/index.m3u8
+有綫18台,https://live.tvfix.org/live/c18/index.m3u8
+28AI數据赛馬,https://live.tvfix.org/live/c28/index.m3u8
+TVBS新聞,https://live.tvfix.org/live/tvbsnews/index.m3u8
+TVBS亞洲,https://live.tvfix.org/live/tvbs/index.m3u8
+創世電視,https://live.tvfix.org/live/chuangchi/index.m3u8
+NHK World,https://live.tvfix.org/live/nhkworld/index.m3u8
+Arirang,https://live.tvfix.org/live/arirang/index.m3u8
+tvN,https://live.tvfix.org/live/tvn/index.m3u8
+亞洲新聞,https://live.tvfix.org/live/newsasia/index.m3u8
+半岛新聞,https://live.tvfix.org/live/aijazeera/index.m3u8
+France 24,https://live.tvfix.org/live/france24/index.m3u8
+DW,https://live.tvfix.org/live/dw/index.m3u8
+CGTN,https://live.tvfix.org/live/cgtnhd/index.m3u8
+CGTN纪录,https://live.tvfix.org/live/cgtndochd/index.m3u8 
