@@ -24,7 +24,7 @@
 鳳凰香港,video://https://m.345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
 鳳凰香港,https://hyf000.eu.org/80947108/FHXG
 
-
+http://cdn.jdshipin.com/jisu.php?id=dsxw
 中天新聞,http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
 中天新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-168-1.html
 中天新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-168-0.html
@@ -1059,46 +1059,65 @@ CCTV4K,http://yulang132.cn:4022/udp/239.93.42.42:5140
 中国交通,http://j.daysky.com:8000/rtp/239.93.0.142:5140  
 
 测试,#genre#
-鳳凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
-鳳凰資訊,https://live.tvfix.org/live/fhzx/index.m3u8
-鳳凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
-TVB翡翠台,https://live.tvfix.org/live/jade/index.m3u8
-TVB Plus,https://live.tvfix.org/live/tvbplus/index.m3u8
-TVB無綫新聞,https://live.tvfix.org/live/inews/index.m3u8
-TVB明珠台,https://live.tvfix.org/live/pearl/index.m3u8
-TVB娛樂新聞,https://live.tvfix.org/live/enews/index.m3u8
-PopC,https://live.tvfix.org/live/popc/index.m3u8
-美亞電影,https://live.tvfix.org/live/mydy/index.m3u8
-天映經典,https://live.tvfix.org/live/tyjd/index.m3u8
-東方衛視國際版,https://live.tvfix.org/live/dfhd/index.m3u8
-中國電影,https://live.tvfix.org/live/cmc/index.m3u8
-CCTV-1综合,https://live.tvfix.org/live/cctv1hd/index.m3u8
-ROCK ACTION,https://live.tvfix.org/live/rockac/index.m3u8
-ROCK entertianment,https://live.tvfix.org/live/rockzy/index.m3u8
-KIX,https://live.tvfix.org/live/kix/index.m3u8
-AXN,https://live.tvfix.org/live/axn/index.m3u8
-Animax,https://live.tvfix.org/live/animax/index.m3u8
-Fashion Box,https://live.tvfix.org/live/fashion/index.m3u8
-LOVE NATURE,https://live.tvfix.org/live/lovenature/index.m3u8
-Global Trekker,https://live.tvfix.org/live/trekker/index.m3u8
-Hands Up,https://live.tvfix.org/live/kid/index.m3u8
-ZooMoo,https://live.tvfix.org/live/zoo/index.m3u8
-Nick jr,https://live.tvfix.org/live/nickjr/index.m3u8
-Nickelodeon,https://live.tvfix.org/live/niko/index.m3u8
-Mezzo Live,https://live.tvfix.org/live/mezzon/index.m3u8
-有綫18台,https://live.tvfix.org/live/c18/index.m3u8
-28AI數据赛馬,https://live.tvfix.org/live/c28/index.m3u8
-TVBS新聞,https://live.tvfix.org/live/tvbsnews/index.m3u8
-TVBS亞洲,https://live.tvfix.org/live/tvbs/index.m3u8
-創世電視,https://live.tvfix.org/live/chuangchi/index.m3u8
-NHK World,https://live.tvfix.org/live/nhkworld/index.m3u8
-Arirang,https://live.tvfix.org/live/arirang/index.m3u8
-tvN,https://live.tvfix.org/live/tvn/index.m3u8
-亞洲新聞,https://live.tvfix.org/live/newsasia/index.m3u8
-半岛新聞,https://live.tvfix.org/live/aijazeera/index.m3u8
-France 24,https://live.tvfix.org/live/france24/index.m3u8
-DW,https://live.tvfix.org/live/dw/index.m3u8
-CGTN,https://live.tvfix.org/live/cgtnhd/index.m3u8
-CGTN纪录,https://live.tvfix.org/live/cgtndochd/index.m3u8 
+翡翠台,http://cdn.jdshipin.com/jisu.php?id=fct
+无线新闻,http://cdn.jdshipin.com/jisu.php?id=wxxw
+凤凰中文,http://cdn.jdshipin.com/jisu.php?id=fhzw
+凤凰资讯,http://cdn.jdshipin.com/jisu.php?id=fhzx
+凤凰香港,http://cdn.jdshipin.com/jisu.php?id=fhxg
+中天新闻,http://cdn.jdshipin.com/jisu.php?id=ztxw
+环宇新闻,http://cdn.jdshipin.com/jisu.php?id=hyxw
+CCTV1,http://cdn.jdshipin.com/jisu.php?id=cctv1
+CCTV2,http://cdn.jdshipin.com/jisu.php?id=cctv2
+CCTV3,http://cdn.jdshipin.com/jisu.php?id=cctv3
+CCTV4,http://cdn.jdshipin.com/jisu.php?id=cctv4
+CCTV5,http://cdn.jdshipin.com/jisu.php?id=cctv5
+CCTV5P,http://cdn.jdshipin.com/jisu.php?id=cctv5p
+CCTV6,http://cdn.jdshipin.com/jisu.php?id=cctv6
+CCTV7,http://cdn.jdshipin.com/jisu.php?id=cctv7
+CCTV8,http://cdn.jdshipin.com/jisu.php?id=cctv8
+CCTV9,http://cdn.jdshipin.com/jisu.php?id=cctv9
+CCTV10,http://cdn.jdshipin.com/jisu.php?id=cctv10
+CCTV11,http://cdn.jdshipin.com/jisu.php?id=cctv11
+CCTV12,http://cdn.jdshipin.com/jisu.php?id=cctv12
+CCTV13,http://cdn.jdshipin.com/jisu.php?id=cctv13
+CCTV14,http://cdn.jdshipin.com/jisu.php?id=cctv14
+CCTV15,http://cdn.jdshipin.com/jisu.php?id=cctv15
+CCTV16,http://cdn.jdshipin.com/jisu.php?id=cctv16
+CCTV17,http://cdn.jdshipin.com/jisu.php?id=cctv17
+北京卫视,http://cdn.jdshipin.com/jisu.php?id=bjws
+东方卫视,http://cdn.jdshipin.com/jisu.php?id=dfws
+天津卫视,http://cdn.jdshipin.com/jisu.php?id=tjws
+重庆卫视,http://cdn.jdshipin.com/jisu.php?id=cqws
+黑龙江卫视,http://cdn.jdshipin.com/jisu.php?id=hljws
+吉林卫视,http://cdn.jdshipin.com/jisu.php?id=jlws
+辽宁卫视,http://cdn.jdshipin.com/jisu.php?id=lnws
+河北卫视,http://cdn.jdshipin.com/jisu.php?id=hbws
+山东卫视,http://cdn.jdshipin.com/jisu.php?id=sdws
+山西卫视,http://cdn.jdshipin.com/jisu.php?id=sxws
+陕西卫视,http://cdn.jdshipin.com/jisu.php?id=snws
+安徽卫视,http://cdn.jdshipin.com/jisu.php?id=ahws
+河南卫视,http://cdn.jdshipin.com/jisu.php?id=hnws
+湖北卫视,http://cdn.jdshipin.com/jisu.php?id=hubws
+湖南卫视,http://cdn.jdshipin.com/jisu.php?id=hunws
+江西卫视,http://cdn.jdshipin.com/jisu.php?id=jxws
+江苏卫视,http://cdn.jdshipin.com/jisu.php?id=jsws
+浙江卫视,http://cdn.jdshipin.com/jisu.php?id=zjws
+东南卫视,http://cdn.jdshipin.com/jisu.php?id=dnws
+广东卫视,http://cdn.jdshipin.com/jisu.php?id=gdws
+深圳卫视,http://cdn.jdshipin.com/jisu.php?id=szws
+广西卫视,http://cdn.jdshipin.com/jisu.php?id=gxws
+贵州卫视,http://cdn.jdshipin.com/jisu.php?id=gzws
+四川卫视,http://cdn.jdshipin.com/jisu.php?id=scws
+云南卫视,http://cdn.jdshipin.com/jisu.php?id=ynws
+新疆卫视,http://cdn.jdshipin.com/jisu.php?id=xjws
+海南卫视,http://cdn.jdshipin.com/jisu.php?id=hinws
+东方卫视,http://cdn.jdshipin.com/jisu.php?id=dfws
+甘肃卫视,http://cdn.jdshipin.com/jisu.php?id=gsws
+内蒙古卫视,http://cdn.jdshipin.com/jisu.php?id=nmgws
+宁夏卫视,http://cdn.jdshipin.com/jisu.php?id=nxws
+青海卫视,http://cdn.jdshipin.com/jisu.php?id=qhws
+
+
+
 
 
