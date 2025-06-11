@@ -171,6 +171,7 @@ CCTV16,http://yulang132.cn:4022/udp/239.93.42.54:5140
 
 NOW SPORT PRIME,http://a.ru8.dpdns.org/now/630/master.m3u8
 NOW SPORT PRIME,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-15-0.html
+NOW SPORT PRIME,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-prime.flv
 Now英超,http://erp.giihgtidg.com:8080/live/nowxw01.m3u8
 
 緯來體育,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-153-0.html
@@ -226,6 +227,7 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 粤语喜剧,https://live.metshop.top/huya/11352894
 Now爆谷,https://ali.hlspull.yximgs.com/live/xiangjiaoge1116163133.flv
 Now星影,https://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv
+天映电影,https://hkfa.2025link.site/43rd_HK_Film_Awards/astro_celestial_movies
 影迷电影,http://www.qiqi.pub:18889/rtp/239.93.42.5:5140
 影迷电影,http://j.daysky.com:8000/rtp/239.93.42.5:5140
 美亞電影台(HK),http://tl.061833.xyz/tl/null-5
@@ -376,6 +378,7 @@ Now星影,https://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv
 
 NOW SPORT PRIME,http://a.ru8.dpdns.org/now/630/master.m3u8
 NOW SPORT PRIME,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-15-0.html
+NOW SPORT PRIME,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-prime.flv
 Now英超,http://erp.giihgtidg.com:8080/live/nowxw01.m3u8
 
 
