@@ -17,6 +17,7 @@
 鳯凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳯凰資訊,https://hyf000.eu.org/80947108/FHZX
 鳳凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
+鳳凰香港,http://ali.hlspull.yximgs.com/live/awei_fhxg.flv
 鳳凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 鳳凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 鳳凰香港,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-3-0.html
@@ -250,6 +251,7 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 
 
 香港频道,#genre#
+新闻频道,#genre#
 鳳凰中文,http://www.qiqi.pub:18889/rtp/239.93.0.162:2192
 鳳凰中文,http://772765777.xyz:27777/rtp/239.93.0.162:2192
 鳳凰中文,http://222.209.208.234:7788/rtp/239.93.0.162:2192
@@ -268,6 +270,7 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 鳯凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳯凰資訊,https://hyf000.eu.org/80947108/FHZX
 鳳凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
+鳳凰香港,http://ali.hlspull.yximgs.com/live/awei_fhxg.flv
 鳳凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 鳳凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 鳳凰香港,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-3-0.html
@@ -1051,6 +1054,8 @@ CCTV4K,http://yulang132.cn:4022/udp/239.93.42.42:5140
 中国交通,http://j.daysky.com:8000/rtp/239.93.0.142:5140  
 
 测试,#genre#
+Now爆谷,https://ali.hlspull.yximgs.com/live/xiangjiaoge1116163133.flv
+Now星影,https://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv
 鳳凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
 鳳凰資訊,https://live.tvfix.org/live/fhzx/index.m3u8
 鳳凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
