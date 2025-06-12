@@ -1,6 +1,7 @@
 新闻频道,#genre#
 鳳凰中文,http://www.qiqi.pub:18889/rtp/239.93.0.162:2192
 鳳凰中文,http://772765777.xyz:27777/rtp/239.93.0.162:2192
+鳳凰中文,http://183.222.58.112:888/rtp/239.93.1.9:2192
 鳳凰中文,http://222.209.208.234:7788/rtp/239.93.0.162:2192
 鳳凰中文,http://yulang132.cn:4022/udp/239.93.0.162:2192
 鳳凰中文,http://j.daysky.com:8000/rtp/239.93.0.162:2192
@@ -9,6 +10,7 @@
 鳳凰中文,https://hyf000.eu.org/80947108/FHZW
 鳯凰資訊,http://www.qiqi.pub:18889/rtp/239.93.0.118:2191
 鳯凰資訊,http://772765777.xyz:27777/rtp/239.93.0.118:2191
+鳯凰資訊,http://183.222.58.112:888/rtp/239.93.0.118:2191
 鳯凰資訊,http://222.209.208.234:7788/rtp/239.93.0.118:2191
 鳯凰資訊,http://yulang132.cn:4022/udp/239.93.0.162:2192
 鳯凰資訊,http://j.daysky.com:8000/rtp/239.93.0.118:2191
@@ -24,7 +26,10 @@
 鳳凰香港,video://https://m.345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
 鳳凰香港,https://hyf000.eu.org/80947108/FHXG
 
-http://cdn.jdshipin.com/jisu.php?id=dsxw
+
+
+
+
 中天新聞,http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
 中天新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-168-1.html
 中天新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-168-0.html
@@ -257,6 +262,7 @@ Now星影,https://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv
 香港频道,#genre#
 鳳凰中文,http://www.qiqi.pub:18889/rtp/239.93.0.162:2192
 鳳凰中文,http://772765777.xyz:27777/rtp/239.93.0.162:2192
+鳳凰中文,http://183.222.58.112:888/rtp/239.93.1.9:2192
 鳳凰中文,http://222.209.208.234:7788/rtp/239.93.0.162:2192
 鳳凰中文,http://yulang132.cn:4022/udp/239.93.0.162:2192
 鳳凰中文,http://j.daysky.com:8000/rtp/239.93.0.162:2192
@@ -265,6 +271,7 @@ Now星影,https://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv
 鳳凰中文,https://hyf000.eu.org/80947108/FHZW
 鳯凰資訊,http://www.qiqi.pub:18889/rtp/239.93.0.118:2191
 鳯凰資訊,http://772765777.xyz:27777/rtp/239.93.0.118:2191
+鳯凰資訊,http://183.222.58.112:888/rtp/239.93.0.118:2191
 鳯凰資訊,http://222.209.208.234:7788/rtp/239.93.0.118:2191
 鳯凰資訊,http://yulang132.cn:4022/udp/239.93.0.162:2192
 鳯凰資訊,http://j.daysky.com:8000/rtp/239.93.0.118:2191
