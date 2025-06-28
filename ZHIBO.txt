@@ -142,7 +142,7 @@ CCTV13,http://772765777.xyz:27777/rtp/239.93.0.66:5140
 非凡新聞,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=非凡新闻
 非凡新聞,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-61-1.html
 非凡新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-131-0.html
-年代新聞,http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-43-0.html
+年代新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-43-0.html
 年代新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-124-0.html
 台視新聞,http://hxgcs.loli520.xyz/cesi.php?ID=https://hls-gateway.vpstv.net/streams/476268.m3u8
 台視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-141-1.html
@@ -485,7 +485,7 @@ TVBS新聞,video://https://m.345iptv.com/?act=play&token=add22ba4f8f5efb49272be3
 非凡新聞,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=非凡新闻
 非凡新聞,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-61-1.html
 非凡新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-131-0.html
-年代新聞,http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-43-0.html
+年代新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-43-0.html
 年代新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-124-0.html
 台視新聞,http://hxgcs.loli520.xyz/cesi.php?ID=https://hls-gateway.vpstv.net/streams/476268.m3u8
 台視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-141-1.html
