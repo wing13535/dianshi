@@ -1124,7 +1124,6 @@ CCTV17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 
 
 p2p,#genre#
-台湾,#genre#
 中天新闻,p2p://142.54.189.229:2525/64de52a70006e20d01b906297b7d0f95.ts
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 TVBS,p2p://142.54.189.229:2525/64ee8f86000f01404126cf5454652cbc.ts
