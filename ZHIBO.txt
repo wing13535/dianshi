@@ -1176,7 +1176,8 @@ foxsport2,p2p://142.54.189.227:2215/64706cdb0007d9d304e5cf7644fe45aa.ts
 卫视电影,p2p://142.54.189.229:2525/64df12f700010de304a83d325efd0c7f.ts
 好莱坞,p2p://142.54.189.229:2525/64df134600097ad804a973ed5c03697a.ts
 foxsport2,p2p://142.54.189.227:2215/64706cdb0007d9d304e5cf7644fe45aa.ts
-
+中天新闻1,https://fenghuang.tv12.xyz/1001.m3u8
+中天新闻2,https://fenghuang.tv12.xyz/1002.m3u8
 
 
 
