@@ -1230,12 +1230,12 @@ amc电影频道,http://122.117.71.103:8671/amc电影.m3u8
 TLC'旅游频道,http://122.117.71.103:8628/TLC旅游.m3u8
 亚洲旅游频道,http://122.117.71.103:8634/亚洲旅游.m3u8
 动物星球频道,http://122.117.71.103:8633/动物星球.m3u8
-,TVBS,https://s1.tvm4a1.cfd/taiwan/tvbs/AKTV.m3u8
-,民視,https://s1.tvm4a1.cfd/taiwan/CH-1/AKTV.m3u8
-,民視第一台,https://s1.tvm4a1.cfd/taiwan/CH-0/AKTV.m3u8
-,龍華日韓台,https://s1.tvm4a1.cfd/taiwan/CH-5/AKTV.m3u8
-,TVB 星河,https://s1.tvm4a1.cfd/taiwan2/tvb/AKTV.m3u8
-,TVBS新聞,https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
-,中天新闻台,https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
-,東森新聞,https://s1.tvm4a1.cfd/zhongtian/CH-1/AKTV.m3u8
+1TVBS,https://s1.tvm4a1.cfd/taiwan/tvbs/AKTV.m3u8
+1民視,https://s1.tvm4a1.cfd/taiwan/CH-1/AKTV.m3u8
+1民視第一台,https://s1.tvm4a1.cfd/taiwan/CH-0/AKTV.m3u8
+1龍華日韓台,https://s1.tvm4a1.cfd/taiwan/CH-5/AKTV.m3u8
+1TVB 星河,https://s1.tvm4a1.cfd/taiwan2/tvb/AKTV.m3u8
+1TVBS新聞,https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
+1中天新闻台,https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
+1東森新聞,https://s1.tvm4a1.cfd/zhongtian/CH-1/AKTV.m3u8
 
