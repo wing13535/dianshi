@@ -1256,3 +1256,4 @@ TLC'旅游频道,http://122.117.71.103:8628/TLC旅游.m3u8
 1TVBS新聞,https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
 1中天新闻台,https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
 1東森新聞,https://s1.tvm4a1.cfd/zhongtian/CH-1/AKTV.m3u8
+NOW新聞,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ae392836fa711c429d9260a71010670.flv
