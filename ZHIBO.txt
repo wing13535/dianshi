@@ -28,7 +28,7 @@
 中天新聞,video://https://m.345iptv.com/?act=play&token=e0672162243a33467b8c268740cbdbc3&tid=gt&id=43
 中天新聞,https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8
 寰宇新聞,video://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
-寰宇新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-83-1.html
+寰宇新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-35-0.html 
 寰宇新聞,https://gdfire2.67890123.cn:8088/live/hyxw01.m3u8
 TVBS新聞,p2p://142.54.189.229:2525/64df0c5d000a530d048e75f37b155008.ts
 TVBS新聞,http://122.117.71.103:8662/tvbs新闻.m3u8
@@ -45,19 +45,22 @@ TVBS新聞,video://https://m.345iptv.com/?act=play&token=add22ba4f8f5efb49272be3
 中天新聞2,https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
 中天新聞2,https://fenghuang.tv12.xyz/1002.m3u8
 
-NOW新聞,http://a.ru8.dpdns.org/now/332/master.m3u8
-NOW新聞,http://cdn.1636.dpdns.org/live/now/stream.m3u8
+
 NOW新聞,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
+NOW新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-18-0.html 
 NOW新聞,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-18-0.html
 NOW新聞,video://https://m.345iptv.com/?act=play&token=82c3117d47e88531368625b93cf3f34b&tid=gt&id=17
 NOW新聞,video://https://yibababa.com/tv/hk/now-news.html
-NOW直播,http://a.ru8.dpdns.org/now/331/master.m3u8
+NOW新聞,http://a.ru8.dpdns.org/now/332/master.m3u8
+NOW新聞,http://cdn.1636.dpdns.org/live/now/stream.m3u8
 NOW直播,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-17-0.html
 NOW直播,video://https://yibababa.com/tv/hk/now-live.html
-NOW財經,http://a.ru8.dpdns.org/now/333/master.m3u8
+NOW直播,http://a.ru8.dpdns.org/now/331/master.m3u8
+NOW財經,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-17-0.html
 NOW財經,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-17-0.html
 NOW財經,video://https://m.345iptv.com/?act=play&token=9f2d5f742378d554e6cd0f4a7591c88d&tid=gt&id=18
 NOW財經,video://https://yibababa.com/tv/hk/now-finance.html
+NOW財經,http://a.ru8.dpdns.org/now/333/master.m3u8
 HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogehoy7801.flv
 HOY78,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-7-0.html
@@ -205,11 +208,14 @@ IHOT赛车,http://www.qiqi.pub:18889/rtp/239.93.42.20:5140
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
+
+
 电影频道,#genre#
 周星驰,https://live.metshop.top/huya/11336587
 粤语喜剧,https://live.metshop.top/huya/11352894
-Now爆谷台,
-Now星影台,
+中天新闻频晴,P2p://66.42.60.221:6001/684f89d200086f6c0d14c5361a8e4371.ts
+Now爆谷台,P2p://66.42.60.221:6001/6864b12e00055f6704dd66e3a66e4630.ts 
+Now星影台,P2p://66.42.60.221:6001/6864b0ff00066f7604dcaf91e2d57eba.ts 
 美亞電影台(HK),http://tl.061833.xyz/tl/null-5
 美亞電影台(HK),http://bx.757888.xyz/api.php?id=meiya
 天映電影台,https://hkfa.2025link.site/43rd_HK_Film_Awards/astro_celestial_movies
@@ -257,19 +263,21 @@ HBO Family,p2p://142.54.189.229:2525/64df46550004bc4d0570e54c39ee24dd.ts
 鳳凰香港,video://https://m.345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
 鳳凰香港,https://hyf000.eu.org/80947108/FHXG
 
-NOW新聞,http://a.ru8.dpdns.org/now/332/master.m3u8
-NOW新聞,http://cdn.1636.dpdns.org/live/now/stream.m3u8
 NOW新聞,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
+NOW新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-18-0.html 
 NOW新聞,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-18-0.html
 NOW新聞,video://https://m.345iptv.com/?act=play&token=82c3117d47e88531368625b93cf3f34b&tid=gt&id=17
 NOW新聞,video://https://yibababa.com/tv/hk/now-news.html
-NOW直播,http://a.ru8.dpdns.org/now/331/master.m3u8
+NOW新聞,http://a.ru8.dpdns.org/now/332/master.m3u8
+NOW新聞,http://cdn.1636.dpdns.org/live/now/stream.m3u8
 NOW直播,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-17-0.html
 NOW直播,video://https://yibababa.com/tv/hk/now-live.html
-NOW財經,http://a.ru8.dpdns.org/now/333/master.m3u8
+NOW直播,http://a.ru8.dpdns.org/now/331/master.m3u8
+NOW財經,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-17-0.html
 NOW財經,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-17-0.html
 NOW財經,video://https://m.345iptv.com/?act=play&token=9f2d5f742378d554e6cd0f4a7591c88d&tid=gt&id=18
 NOW財經,video://https://yibababa.com/tv/hk/now-finance.html
+NOW財經,http://a.ru8.dpdns.org/now/333/master.m3u8
 HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogehoy7801.flv
 HOY78,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-7-0.html
@@ -359,7 +367,6 @@ TVB 千禧經典台,http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB千�
 TVB 千禧經典台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-18-0.html
 功夫台,http://46.203.125.177:20004/live/yzwx/stream.m3u8
 功夫台,http://tl.061833.xyz/tl/null-17
-Now華劇台,http://a.ru8.dpdns.org/now/105/master.m3u8
 黄金华剧台,http://tl.061833.xyz/tl/null-9
 Mytv黃金翡翠台,http://tl.061833.xyz/tl/null-2
 Mytv千禧经典台,http://tl.061833.xyz/tl/null-3
