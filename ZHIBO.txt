@@ -23,6 +23,7 @@
 中天新聞,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新聞,https://fenghuang.tv12.xyz/1001.m3u8
 中天新聞,http://122.117.71.103:8661/中天新闻.m3u8
+中天新聞,P2p://66.42.60.221:6001/684f89d200086f6c0d14c5361a8e4371.ts
 中天新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-20-0.html
 中天新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-168-1.html
 中天新聞,video://https://m.345iptv.com/?act=play&token=e0672162243a33467b8c268740cbdbc3&tid=gt&id=43
@@ -213,7 +214,7 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 电影频道,#genre#
 周星驰,https://live.metshop.top/huya/11336587
 粤语喜剧,https://live.metshop.top/huya/11352894
-中天新闻频晴,P2p://66.42.60.221:6001/684f89d200086f6c0d14c5361a8e4371.ts
+
 Now爆谷台,P2p://66.42.60.221:6001/6864b12e00055f6704dd66e3a66e4630.ts 
 Now星影台,P2p://66.42.60.221:6001/6864b0ff00066f7604dcaf91e2d57eba.ts 
 美亞電影台(HK),http://tl.061833.xyz/tl/null-5
@@ -380,8 +381,8 @@ Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
 
-Now爆谷台,
-Now星影台,
+Now爆谷台,P2p://66.42.60.221:6001/6864b12e00055f6704dd66e3a66e4630.ts 
+Now星影台,P2p://66.42.60.221:6001/6864b0ff00066f7604dcaf91e2d57eba.ts 
 
 美亞電影台(HK),http://tl.061833.xyz/tl/null-5
 美亞電影台(HK),http://bx.757888.xyz/api.php?id=meiya
