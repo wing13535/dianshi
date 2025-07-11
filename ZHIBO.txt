@@ -28,6 +28,7 @@
 中天新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-168-1.html
 中天新聞,video://https://m.345iptv.com/?act=play&token=e0672162243a33467b8c268740cbdbc3&tid=gt&id=43
 中天新聞,https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8
+寰宇新聞,P2p://66.42.60.221:6001/685df83500001c36020d66af0d51eae8.ts 
 寰宇新聞,video://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
 寰宇新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-35-0.html 
 寰宇新聞,https://gdfire2.67890123.cn:8088/live/hyxw01.m3u8
@@ -400,6 +401,7 @@ NOW SPORT PRIME,http://a.ru8.dpdns.org/now/630/master.m3u8
 中天新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-168-1.html
 中天新聞,video://https://m.345iptv.com/?act=play&token=e0672162243a33467b8c268740cbdbc3&tid=gt&id=43
 中天新聞,https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8
+寰宇新聞,P2p://66.42.60.221:6001/685df83500001c36020d66af0d51eae8.ts 
 寰宇新聞,video://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
 寰宇新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-83-1.html
 寰宇新聞,https://gdfire2.67890123.cn:8088/live/hyxw01.m3u8
