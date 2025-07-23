@@ -1253,3 +1253,6 @@ EYETV 戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 爱尔达综合台,https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
 星卫电影,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
 AFC 亚洲旅游台,https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
+
+
+
