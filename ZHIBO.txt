@@ -1255,9 +1255,9 @@ EYETV 戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 AFC 亚洲旅游台,https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
 
 
-闽南4Gtv,#genre# 
+4Gtv,#genre#
 中天新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv009
- 寰宇新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn14 
+寰宇新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn14 
 东森新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv152 
 tvbs新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv072 
 三立新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live089 
