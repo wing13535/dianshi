@@ -24,7 +24,7 @@
 
 中天新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ctinews
 中天新聞,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
-中天新聞,P2p://66.42.60.221:6001/684f89d200086f6c0d14c5361a8e4371.ts
+中天新聞,http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv009
 中天新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-20-0.html
 中天新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-168-1.html
 中天新聞,video://https://m.345iptv.com/?act=play&token=e0672162243a33467b8c268740cbdbc3&tid=gt&id=43
@@ -208,11 +208,11 @@ MOMO綜合台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/pla
 
 
 百事通超级体育,http://vpn.rogerxlj.top:9998/udp/239.45.3.139:5140
-劲爆体育,http://120.197.18.252:2901/udp/224.1.100.129:11111 
+劲爆体育,http://111.8.242.104:4085/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://119.32.12.17:2901/udp/224.1.100.129:11111 
 IHOT体育,http://www.qiqi.pub:18889/rtp/239.93.42.19:5140
 IHOT赛车,http://www.qiqi.pub:18889/rtp/239.93.42.20:5140
-五星体育,http://vpn.rogerxlj.top:9998/udp/239.45.3.210:5140
+五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 睛彩篮球,rtp://239.77.1.21:5146
 睛彩篮球,http://dq.eric702.top:8800/rtp/239.77.1.21:5146
 睛彩竞技,rtp://239.77.1.20:5146
