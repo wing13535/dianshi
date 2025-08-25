@@ -103,19 +103,17 @@ CCTV13,http://ayolee.com:5253/rtp/239.93.0.66:5140
 
 
 广东民生,rtp://@239.77.0.225:5146
-广东民生,http://120.197.18.252:2901/udp/224.1.100.152:11111
+广东民生,http://119.34.190.164:2911/udp/224.1.100.152:11111
 广东民生,http://dq.eric702.top:8800/rtp/239.77.0.225:5146
 广东民生,http://wmh.wmh.ink:6633/rtp/239.77.0.225:5146
 广东民生,http://lfdxn.jydjd.top:2903/udp/224.1.100.152:11111
-广东民生,http://183.51.190.254:6633/rtp/239.77.0.225:5146
-广东民生,video://https://www.gdtv.cn/tvChannelDetail/48
+广东民生,http://113.65.5.46:85/rtp/239.77.0.225:5146
 广东新闻,rtp://@239.77.0.173:5146
-广东新闻,http://120.197.18.252:2901/udp/224.1.100.155:11111
+广东新闻,http://119.34.190.164:2911/udp/224.1.100.155:11111
 广东新闻,http://dq.eric702.top:8800/rtp/239.77.0.173:5146
 广东新闻,http://wmh.wmh.ink:6633/rtp/239.77.0.173:5146
 广东新闻,http://lfdxn.jydjd.top:2903/udp/224.1.100.155:11111
-广东新闻,http://183.51.190.254:6633/rtp/239.77.0.173:5146
-广东新闻,video://https://www.gdtv.cn/tvChannelDetail/45
+广东新闻,http://113.65.5.46:85/rtp/239.77.0.173:5146
 
 
 
@@ -153,11 +151,11 @@ CCTV13,http://ayolee.com:5253/rtp/239.93.0.66:5140
 体育频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
 广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://120.197.18.252:2901/udp/224.1.100.33:11111
+广东体育,http://119.34.190.164:2911/udp/224.1.100.33:11111
 广东体育,http://dq.eric702.top:8800/rtp/239.77.0.168:5146
 广东体育,http://wmh.wmh.ink:6633/rtp/239.77.0.168:5146
 广东体育,http://lfdxn.jydjd.top:2903/udp/224.1.100.33:11111
-广东体育,http://183.51.190.254:6633/rtp/239.77.0.168:5146
+广东体育,http://113.65.5.46:85/rtp/239.77.0.168:5146
 CCTV5,rtp://@239.77.0.170:5146
 CCTV5,http://www.qiqi.pub:18889/rtp/239.93.42.37:5140
 CCTV5,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.75:8000
@@ -208,8 +206,7 @@ MOMO綜合台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/pla
 
 
 百事通超级体育,http://vpn.rogerxlj.top:9998/udp/239.45.3.139:5140
-劲爆体育,http://111.8.242.104:4085/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-劲爆体育,http://119.32.12.17:2901/udp/224.1.100.129:11111 
+劲爆体育,http://119.34.190.164:2911/udp/224.1.100.129:11111 
 IHOT体育,http://www.qiqi.pub:18889/rtp/239.93.42.19:5140
 IHOT赛车,http://www.qiqi.pub:18889/rtp/239.93.42.20:5140
 五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8
@@ -232,6 +229,7 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 电影频道,#genre#
 周星驰,https://live.metshop.top/huya/11336587
 粤语喜剧,https://live.metshop.top/huya/11352894
+Now爆谷台,http://j.s.bkpcp.top/js/nowbgt
 Now爆谷台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1116163133.flv
 Now星影台,http://j.s.bkpcp.top/js/nowbgt
 Now星影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1f3s131fs3f1.flv
@@ -321,10 +319,9 @@ HOY78,video://https://m.345iptv.com/?act=play&token=08f54e8a4affdeb5b28c8b90b4ff
 娛樂新聞台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
 娛樂新聞台,http://tl.061833.xyz/tl/null-14
 
-翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/7099f66df8ea9e3bb15e1023e60f9a68.flv
 翡翠台,http://46.203.125.177:20003/live/fct/stream.m3u8
 翡翠台,http://46.203.125.177:20010/hls/fct/playlist.m3u8
-翡翠台,http://lfdxn.jydjd.top:2903/udp/224.1.100.121:11111
+翡翠台,http://119.34.190.164:2911/udp/224.1.100.121:11111
 翡翠台,http://bx.757888.xyz/api.php?id=fct
 翡翠台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-0-0.html
 翡翠台,video://https://m.345iptv.com/?act=play&token=0414e51b425be184dc3efa0db53e6812&tid=gt&id=5
@@ -337,7 +334,7 @@ HOY78,video://https://m.345iptv.com/?act=play&token=08f54e8a4affdeb5b28c8b90b4ff
 明珠台,http://bx.757888.xyz/api.php?id=mz
 明珠台,http://tl.061833.xyz/tl/null-12
 翡翠剧集台,http://46.203.125.177:20003/live/tvbd/stream.m3u8
-TVB1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/c55985eebf76a91b12f259549118ed86.flv
+
 TVB1,http://46.203.125.177:20003/live/tvb1/stream.m3u8
 TVB Plus,http://46.203.125.177:20000/live/tvbp/stream.m3u8
 TVB Plus,http://bx.757888.xyz/api.php?id=tvbp
@@ -352,7 +349,7 @@ TVB Drama,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14931.ts
 TVBE,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14929.ts
 HOY76,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-2-15-0.html
 HOY76,video://http://m.345iptv.com/?act=play&token=f8cf68faeb52bf8a195030c0a8bdfae7&tid=gt&id=22
-HOY77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/39ecfe1253b307af2e93faa1cd0ae56b.flv
+
 HOY77,http://46.203.125.177:20003/live/hoy/stream.m3u8
 HOY77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
 HOY77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogehoy77511.flv
@@ -361,15 +358,12 @@ HOY77,video://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc23d
 HOY77,http://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY77,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY77,http://cdn5.132.us.kg/live/hoy/stream.m3u8
-ViuTV,http://push-rtmp-hs-spe-f5.douyincdn.com/live/365d15bad7d95fba0ca015fccc1bb588.flv
-ViuTV,http://a.ru8.dpdns.org/now/099/master.m3u8
-ViuTV,http://cdn.1636.dpdns.org/live/viu/stream.m3u8
+
 ViuTV,http://46.203.125.177:20000/live/viu/stream.m3u8
 ViuTV,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-11-0.html
 ViuTV,video://http://m.345iptv.com/?act=play&token=c1a1576076dce043a6d844e9a5d1ce91&tid=gt&id=19
 ViuTV,https://cdn5.163189.xyz/live/viu/stream.m3u8
 ViuTVSix,http://player.27481716.xyz:20002/smt3.2.1.php?id=viusix_twn
-ViuTVSix,http://a.ru8.dpdns.org/now/096/master.m3u8
 ViuTVSix,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-26-0.html
 ViuTVSix,video//http://m.345iptv.com/?act=play&token=85e06c79c6d3f5978624277bb8f132e3&tid=gt&id=20
 RTHK31,http://46.203.125.177:20000/live/rthk31/stream.m3u8
@@ -656,66 +650,53 @@ Discovery,http://mytv6688.xyz/斯玛特的斯玛特.php?id=discoverytwn_twn
 广东频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
 广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://120.197.18.252:2901/udp/224.1.100.33:11111
+广东体育,http://119.34.190.164:2911/udp/224.1.100.33:11111
 广东体育,http://dq.eric702.top:8800/rtp/239.77.0.168:5146
 广东体育,http://wmh.wmh.ink:6633/rtp/239.77.0.168:5146
 广东体育,http://lfdxn.jydjd.top:2903/udp/224.1.100.33:11111
-广东体育,http://183.51.190.254:6633/rtp/239.77.0.168:5146
+广东体育,http://113.65.5.46:85/rtp/239.77.0.168:5146
 广东民生,rtp://@239.77.0.225:5146
-广东民生,http://120.197.18.252:2901/udp/224.1.100.152:11111
+广东民生,http://119.34.190.164:2911/udp/224.1.100.152:11111
 广东民生,http://dq.eric702.top:8800/rtp/239.77.0.225:5146
 广东民生,http://wmh.wmh.ink:6633/rtp/239.77.0.225:5146
 广东民生,http://lfdxn.jydjd.top:2903/udp/224.1.100.152:11111
-广东民生,http://183.51.190.254:6633/rtp/239.77.0.225:5146
-广东民生,video://https://www.gdtv.cn/tvChannelDetail/48
+广东民生,http://113.65.5.46:85/rtp/239.77.0.225:5146
 广东新闻,rtp://@239.77.0.173:5146
-广东新闻,http://120.197.18.252:2901/udp/224.1.100.155:11111
+广东新闻,http://119.34.190.164:2911/udp/224.1.100.155:11111
 广东新闻,http://dq.eric702.top:8800/rtp/239.77.0.173:5146
 广东新闻,http://wmh.wmh.ink:6633/rtp/239.77.0.173:5146
 广东新闻,http://lfdxn.jydjd.top:2903/udp/224.1.100.155:11111
-广东新闻,http://183.51.190.254:6633/rtp/239.77.0.173:5146
-广东新闻,video://https://www.gdtv.cn/tvChannelDetail/45
+广东新闻,http://113.65.5.46:85/rtp/239.77.0.173:5146
 广东珠江,rtp://@239.77.0.1:5146
-广东珠江,http://120.197.18.252:2901/udp/224.1.100.23:11111
+广东珠江,http://119.34.190.164:2911/udp/224.1.100.23:11111
 广东珠江,http://dq.eric702.top:8800/rtp/239.77.0.114:5146
 广东珠江,http://wmh.wmh.ink:6633/rtp/239.77.0.1:5146
 广东珠江,http://lfdxn.jydjd.top:2903/udp/224.1.100.23:11111
-广东珠江,http://183.51.190.254:6633/rtp/239.77.0.114:5146
-广东珠江,video://https://www.gdtv.cn/tvChannelDetail/44
+广东珠江,http://113.65.5.46:85/rtp/239.77.0.114:5146
 大湾区卫视,rtp://@239.77.0.215:5146
-大湾区卫视,http://120.197.18.252:2901/udp/224.1.100.153:11111
+大湾区卫视,http://119.34.190.164:2911/udp/224.1.100.153:11111
 大湾区卫视,http://dq.eric702.top:8800/rtp/239.77.0.215:5146
 大湾区卫视,http://wmh.wmh.ink:6633/rtp/239.77.0.215:5146
 大湾区卫视,http://lfdxn.jydjd.top:2903/udp/224.1.100.153:11111
-大湾区卫视,http://183.51.190.254:6633/rtp/239.77.0.215:5146
-大湾区卫视,video://https://www.gdtv.cn/tvChannelDetail/51
+大湾区卫视,http://113.65.5.46:85/rtp/239.77.0.215:5146
 广东影视,rtp://@239.77.0.217:5146
-广东影视,http://120.197.18.252:2901/udp/224.1.100.154:11111
+广东影视,http://119.34.190.164:2911/udp/224.1.100.154:11111
 广东影视,http://dq.eric702.top:8800/rtp/239.77.0.217:5146
 广东影视,http://wmh.wmh.ink:6633/rtp/239.77.0.217:5146
 广东影视,http://lfdxn.jydjd.top:2903/udp/224.1.100.154:11111
-广东影视,http://183.51.190.254:6633/rtp/239.77.0.217:5146
-广东影视,video://https://www.gdtv.cn/tvChannelDetail/53
+广东影视,http://113.65.5.46:85/rtp/239.77.0.217:5146
 广东卫视,rtp://@239.77.1.19:5146
-广东卫视,http://120.197.18.252:2901/udp/224.1.100.96:11111
+广东卫视,http://119.34.190.164:2911/udp/224.1.100.96:11111
 广东卫视,http://dq.eric702.top:8800/rtp/239.77.1.19:5146
 广东卫视,http://wmh.wmh.ink:6633/rtp/239.77.1.19:5146
 广东卫视,http://lfdxn.jydjd.top:2903/udp/224.1.100.96:11111
-广东卫视,http://183.51.190.254:6633/rtp/239.77.1.19:5146
-广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
+广东卫视,http://113.65.5.46:85/rtp/239.77.1.19:5146
 广东经济,rtp://@239.77.0.167:5146
-广东经济,http://120.197.18.252:2901/udp/224.1.100.158:11111
+广东经济,http://119.34.190.164:2911/udp/224.1.100.158:11111
 广东经济,http://dq.eric702.top:8800/rtp/239.77.0.85:5146
 广东经济,http://wmh.wmh.ink:6633/rtp/239.77.0.85:5146
 广东经济,http://lfdxn.jydjd.top:2903/udp/224.1.100.158:11111
-广东经济,http://183.51.190.254:6633/rtp/239.77.0.85:5146
-荔枝台,video://https://www.gdtv.cn/tvChannelDetail/100
-纪录片,video://https://www.gdtv.cn/tvChannelDetail/94
-广东少儿,video://https://www.gdtv.cn/tvChannelDetail/54
-嘉佳卡通,video://https://www.gdtv.cn/tvChannelDetail/66
-4K超高清,video://https://www.gdtv.cn/tvChannelDetail/16
-
-
+广东经济,http://113.65.5.46:85/rtp/239.77.0.85:5146
 
 
 央视频道,#genre#
@@ -1054,85 +1035,3 @@ CCTV4K,http://ayolee.com:5253/rtp/239.93.42.42:5140
 金鹰纪实,http://125.71.164.143:6868/rtp/239.93.0.130:5140  
 中国交通,http://125.71.164.143:6868/rtp/239.93.0.142:5140  
 
-测试,#genre#
-AXN,http://66.90.99.154:8278/axn_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=eb2e561779222434cac30788692a0ec5
-CINEMAX,http://66.90.99.154:8278/cinemax_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5c379210cdedef89ff64b4a180d7230e
-EYE戲劇,http://66.90.99.154:8278/eyetvxiju_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=3c3d3d423c8cb419f027d31857477e68
-EYE旅遊,http://66.90.99.154:8278/eyetvtravel_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=f09c49ab7de1ffa562c2e18d652fe7d3
-HBO,http://66.90.99.154:8278/hbohd_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d606b35ded0b862645ba71eb72173b39
-HBO Family,http://66.90.99.154:8278/fyi_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8c918e6353a4e9c3d8356df9c1af507f
-好萊塢電影台,http://66.90.99.154:8278/hollywoodmovies_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=4a6d1876ce8e327ae3b4e63ca6829252
-MTV Live,http://66.90.99.154:8278/mtvhd_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b2cc2b287f244ecf2567892c6e60c503
-TLC旅遊生活,http://66.90.99.154:8278/tlc_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7cc122087a3b601a918f223da022480b
-東森新聞,http://66.90.99.154:8278/ettvnews/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=16a9e2e8be05f668cad9097c270e0c51
-TVBS HD,http://66.90.99.154:8278/tvbs/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=e8588e7519aabaea4dd3e62a6f2e193e
-TVBS新聞台,http://66.90.99.154:8278/tvbs_n/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d686e9ec5c6eda876ad3695acb7d31e6
-TVBS歡樂台,http://66.90.99.154:8278/tvbshuanle_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=907472da94c4b947513e7befdce8071b
-三立台灣台,http://66.90.99.154:8278/sanlitaiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=94eb46a81567fa794ff9d30cdbc87237
-三立戲劇台,http://66.90.99.154:8278/sanlixiju_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5edb8766a19ad58cfefb87e5a089393e
-三立綜合台,http://66.90.99.154:8278/sanlizhonghe/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=f00d56a283715a9549f7bfcac85a1e3a
-中天亞洲台,http://66.90.99.154:8278/ctiasia_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=e54497f1f00af5ef3ebb4cc3bdcccd7b
-中天娱樂,http://66.90.99.154:8278/ctient/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=19a390e7b22b5afc0735e04bbc90552e
-中天新聞HD,http://66.90.99.154:8278/ctinews/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5da22ad10e374c427fc90aed16f07478
-中天綜合,http://66.90.99.154:8278/ctizhonghe/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=27715b42827ed898125640b4891ddde9
-亞洲旅遊台,http://66.90.99.154:8278/asiatravel_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=324cce82b353e4911692ea3326e9a626
-亞洲美食,http://66.90.99.154:8278/afc_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=77537568e4108393571163268f1780df
-八大戲劇,http://66.90.99.154:8278/badadrama/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=3ff25d182ead16720e0a035c94a0a786
-八大第一,http://66.90.99.154:8278/badafirst/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=18d4fa55a0b4471e515c3d1eb672ff4c
-八大綜合,http://66.90.99.154:8278/badazhonghe/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=42e7966509bfe40dcd38f5b07d50179a
-公視,http://66.90.99.154:8278/ctv_taiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=c2eefa8bfe5160d3436f2a4280ad9e49
-民視,http://66.90.99.154:8278/ftvhd_taiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8742eae9e34ff529729460b85da292c8
-民視第一台,http://66.90.99.154:8278/lunghuajingdian_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=036b899d76f305b70c91acb1ecbe20f0
-民視台灣台,http://66.90.99.154:8278/ftvtaiwan_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6b406a3e29a0d6a467a9daf7e2c53c93
-民視新聞台,http://66.90.99.154:8278/ftvnew_taiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9787063f7ed8e759418ccc1220dffe5f
-台視,http://66.90.99.154:8278/ttv_taiwan	/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0126ebb171df0f2c4fac8327ae7b549b
-台視新聞台,http://66.90.99.154:8278/ttvnews_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=414c772db10e777fc32c998755aa24b5
-中視,http://66.90.99.154:8278/zhongshihd_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b9082a07f9f4586dc6b7dbb15aed0ead
-中視新聞台,http://66.90.99.154:8278/zhongshinews_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8449d53c267773b9c7c539a32606fca3
-中視經典,http://66.90.99.154:8278/zhongshi_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=86f5fb6a8714c45232b98be14354a259
-華視,http://66.90.99.154:8278/ctshd_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7b3b84a5c2d51d342b01b432389aac57
-華藝綜合,http://66.90.99.154:8278/weishichinese_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b51c914ea88fc162f99733817397bcd6
-大愛一台,http://66.90.99.154:8278/daai_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2544bc50a343b2fe0e0bad2edefc1c9c
-寰宇新聞台,http://66.90.99.154:8278/huanyuxinwen_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2e4ba5060f39aa293606ab3341b4fcde
-寰宇財經台,http://66.90.99.154:8278/huanyutaiwan_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7cdcbabc5d74dc1ef516bfe350edbe62
-年代新聞台,http://66.90.99.154:8278/niandainews_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=bd903abc90abbf2d72a4b59b516311d5
-愛爾達影劇,http://66.90.99.154:8278/eltayingju_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=55fa777976b94e6a6b6fd9a6e692789d
-愛爾達體育 1,http://66.90.99.154:8278/eltasport_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=1410aa95a2c63b086b6dca0c3af69140
-愛爾達體育 2,http://66.90.99.154:8278/eltasport2_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5ed4db070bbb88905b02dc3901ec6c98
-愛爾達體育 3,http://66.90.99.154:8278/eltasport3_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=cf5a326a448ec57a9d50a8996aa8a6ad
-ELEVEN 1,http://66.90.99.154:8278/golfchannel_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b2d5c21e1cf0239a40db920ac3b0eb33
-博斯網球,http://66.90.99.154:8278/bositennis_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a6d173aba4d2d7600bf0dade8dc6e036
-博斯運動1,http://66.90.99.154:8278/bosisport1_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6ecdc1d0ee4c7b0a00691d85e6f2df77
-博斯運動2,http://66.90.99.154:8278/bosisport2_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=87b18166e9ea52e9a97ec5ecdb148b68
-博斯高球1,http://66.90.99.154:8278/bosigolf1_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6d8680b0114050b90b768ad8b41939a9
-博斯高球2,http://66.90.99.154:8278/bosigolf2_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=49a286b597dbe8e4f660de7cc3875511
-探索亞洲,http://66.90.99.154:8278/discoverytwn_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9e88df7781c3c6e5ee2971dcda0c1821
-探索動力,http://66.90.99.154:8278/discoveryturbo_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=989ce7174c6145581c4054c7c41ac636
-國家地理,http://66.90.99.154:8278/natgeohd_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2eb14f9bd15628f5cecf465452eef155
-野生動物,http://66.90.99.154:8278/natgeowild_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=049b18630d8486e7f7d60e17201e48e2
-動物星球,http://66.90.99.154:8278/animalplanet_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=560a12f543c1dff989d923fc9caf1f78
-時尚,http://66.90.99.154:8278/fashiontv_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=23370665eca04beca705a72093c4f0da
-Discovery Asia,http://66.90.99.154:8278/discoverytwn_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9e88df7781c3c6e5ee2971dcda0c1821
-Discovery HD,http://66.90.99.154:8278/discoveryhd_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a9acc2c6431324173781929f0e2e78ee
-東森戲劇,http://66.90.99.154:8278/ettvdrama/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=27c02fdd5a4eed4ac948d8c250b3b732
-東森洋片,http://66.90.99.154:8278/ettvwestern/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=c03f602775dbe8075949100987b2b1be
-東森綜合,http://66.90.99.154:8278/ettvzhonghe/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8908613c59328719e4b4264d598f7ddd
-東森財經新聞,http://66.90.99.154:8278/ettvcaijing_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=31baa4e2ca87271b454e5acc0e7d0e6c
-東森電影,http://66.90.99.154:8278/ettvmovie/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8521db60d49af33060b2d4b3262a1097
-緯來日本台,http://66.90.99.154:8278/videolandjapan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=09c1aab182bbc53e5157be27f449d381
-緯來體育台,http://66.90.99.154:8278/videolandsport/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=993b502f89231e1bd03940a81ba8cabc
-美亞電影,http://66.90.99.154:8278/meiyamovie_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5d5f2284a5f896d6519e0aa61fe765c9
-BBC World News,http://66.90.99.154:8278/bbcnews_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=3ab74ea8f6b3ceac3990eb7170546b41
-Bloomberg News,http://66.90.99.154:8278/bloomberg_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d3695be2fd4965380c4130949335694a
-Fox News,http://66.90.99.154:8278/foxnews_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0a121c402150191cc1eb3e8135bbb56c
-阿里郎,http://66.90.99.154:8278/arirang_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7b5146cb36d0cc5006d28a6d415aa234
-CN卡通,http://66.90.99.154:8278/momo1_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=288d40af8cbc7d9608d17edacee0de09
-靖天卡通台,http://66.90.99.154:8278/jingtiancartoon_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=388ac680c557bb97ab578a0716d7174a
-靖天國際台,http://66.90.99.154:8278/jingtianintl_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=f248882755c1a89b3ecd48fc5d3aed03
-非凡新聞台,http://66.90.99.154:8278/feifannews_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=09f354eef23965dad1dc2d07091f5db8
-龍祥時代,http://66.90.99.154:8278/lungxiangtime_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=525f1c9e0b438304ca9f31eb061c4710
-龍華偶像,http://66.90.99.154:8278/lunghuaidol_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=14be9b171ed76d59e0b7297a333079a4
-龍華戲劇,http://66.90.99.154:8278/lunghuaxiju_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=051b4915ad14d1352236c31f5d8ccce4
-龍華洋片,http://66.90.99.154:8278/lunghuawestern_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=e5e2eedc57d2e953ae49eed346075ebe
-龍華經典,http://66.90.99.154:8278/lunghuajingdian_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=036b899d76f305b70c91acb1ecbe20f0
-龍華電影,http://66.90.99.154:8278/xingwei_movie/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b380c8ef3016f04d9ed8ee1a811c1bf4
