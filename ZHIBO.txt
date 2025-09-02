@@ -21,17 +21,17 @@
 鳳凰香港,https://hyf000.eu.org/80947108/FHXG
 
 
-
+中天新聞,https://live.iill.top/youtube/vr3XyVCR4T0
 中天新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ctinews
 中天新聞,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
-中天新聞,http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv009
 中天新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-20-0.html
 中天新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-168-1.html
 中天新聞,video://https://m.345iptv.com/?act=play&token=e0672162243a33467b8c268740cbdbc3&tid=gt&id=43
+寰宇新聞,https://live.iill.top/youtube/6IquAgfvYmc
 寰宇新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=huanyuxinwen_twn
-寰宇新聞,P2p://66.42.60.221:6001/685df83500001c36020d66af0d51eae8.ts 
 寰宇新聞,video://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
 寰宇新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-83-1.html
+TVBS新聞,https://live.iill.top/youtube/2mCSYvcfhtc
 TVBS新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=tvbs_n
 TVBS新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-167-0.html
 TVBS新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-148-1.html
@@ -39,10 +39,11 @@ TVBS新聞,video://https://m.345iptv.com/?act=play&token=add22ba4f8f5efb49272be3
 東森新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ettvnews
 東森新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-43-1.html
 東森新聞,video://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
+中視新聞,https://live.iill.top/youtube/TCnaIE_SAtM   
 中視新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=zhongshinews_twn
 中視新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-167-1.html
 中視新聞,video://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
-中天新聞2,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw201.flv
+中天新聞2,https://live.iill.top/youtube/DM_PEM8GrIg
 
 NOW新聞,http://46.203.125.177:20000/live/now/stream.m3u8
 NOW新聞,http://player.27481716.xyz:20000/live/now/stream.m3u8
@@ -118,7 +119,7 @@ CCTV13,http://ayolee.com:5253/rtp/239.93.0.66:5140
 
 
 
-
+鏡新聞,https://live.iill.top/youtube/5n0y6b0Q25o
 鏡新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-96-1.html
 鏡新聞,video://http://m.345iptv.com/?act=play&token=20a5079da56f52ac6332530b8ae045bc&tid=gt&id=52
 三立新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=sanlitaiwan
@@ -128,6 +129,7 @@ CCTV13,http://ayolee.com:5253/rtp/239.93.0.66:5140
 非凡新聞,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-61-1.html
 年代新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=niandainews_twn
 年代新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-43-0.html
+台視新聞,https://live.iill.top/youtube/xL0ch83RAK8
 台視新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ttvnews_twn
 台視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-83-0.html
 台視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-141-1.html
@@ -136,9 +138,10 @@ CCTV13,http://ayolee.com:5253/rtp/239.93.0.66:5140
 民視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-96-0.html
 民視新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-116-1.html
 民視新聞,video//http://m.345iptv.com/?act=play&token=989c7d8a750ff4bfda95fcae1708bbe7&tid=gt&id=50
-華視新聞,P2p://66.42.60.221:6001/6858bf2c00062100174c661d5e589772.ts
+華視新聞,https://live.iill.top/youtube/wM0g8EoUZ_E
 華視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-80-1.html
 華視新聞,video://http://m.345iptv.com/?act=play&token=077cde05e45f43f87cc3c4c57a152e1e&tid=gt&id=51
+公視新聞https://live.iill.top/youtube/quwqlazU-c8
 壹電視新聞,P2p://66.42.60.221:6001/685c99fc000d74b80428f89279fbc2e6.ts
 壹電視新聞,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-161-0.html
 东森财经新闻,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ettvcaijing_twn
@@ -231,7 +234,7 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 粤语喜剧,https://live.metshop.top/huya/11352894
 Now爆谷台,http://j.s.bkpcp.top/js/nowbgt
 Now爆谷台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1116163133.flv
-Now星影台,http://j.s.bkpcp.top/js/nowbgt
+Now星影台,http://j.s.bkpcp.top/js/nowxyt
 Now星影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1f3s131fs3f1.flv
 美亞電影台(HK),http://fr-us7.jdiptv.cc/live/xgmydygy.m3u8
 美亞電影台(HK),http://bxtv.3a.ink/api.php?id=meiya
@@ -406,8 +409,8 @@ Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
 
-Now爆谷台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1116163133.flv
-Now星影台,http://j.s.bkpcp.top/js/nowbgt
+Now爆谷台,http://j.s.bkpcp.top/js/nowbgt
+Now星影台,http://j.s.bkpcp.top/js/nowxyt
 Now星影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1f3s131fs3f1.flv
 美亞電影台(HK),http://fr-us7.jdiptv.cc/live/xgmydygy.m3u8
 美亞電影台(HK),http://bxtv.3a.ink/api.php?id=meiya
@@ -423,16 +426,17 @@ NOW SPORT PRIME,http://a.ru8.dpdns.org/now/630/master.m3u8
 
 
 台湾频道,#genre#
+中天新聞,https://live.iill.top/youtube/vr3XyVCR4T0
 中天新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ctinews
 中天新聞,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
-中天新聞,P2p://66.42.60.221:6001/684f89d200086f6c0d14c5361a8e4371.ts
 中天新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-20-0.html
 中天新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-168-1.html
 中天新聞,video://https://m.345iptv.com/?act=play&token=e0672162243a33467b8c268740cbdbc3&tid=gt&id=43
+寰宇新聞,https://live.iill.top/youtube/6IquAgfvYmc
 寰宇新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=huanyuxinwen_twn
-寰宇新聞,P2p://66.42.60.221:6001/685df83500001c36020d66af0d51eae8.ts 
 寰宇新聞,video://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
 寰宇新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-83-1.html
+TVBS新聞,https://live.iill.top/youtube/2mCSYvcfhtc
 TVBS新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=tvbs_n
 TVBS新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-167-0.html
 TVBS新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-148-1.html
@@ -440,14 +444,13 @@ TVBS新聞,video://https://m.345iptv.com/?act=play&token=add22ba4f8f5efb49272be3
 東森新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ettvnews
 東森新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-43-1.html
 東森新聞,video://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
+中視新聞,https://live.iill.top/youtube/TCnaIE_SAtM   
 中視新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=zhongshinews_twn
 中視新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-167-1.html
 中視新聞,video://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
-中天新聞2,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw201.flv
+中天新聞2,https://live.iill.top/youtube/DM_PEM8GrIg
 
-
-
-
+鏡新聞,https://live.iill.top/youtube/5n0y6b0Q25o
 鏡新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-96-1.html
 鏡新聞,video://http://m.345iptv.com/?act=play&token=20a5079da56f52ac6332530b8ae045bc&tid=gt&id=52
 三立新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=sanlitaiwan
@@ -457,6 +460,7 @@ TVBS新聞,video://https://m.345iptv.com/?act=play&token=add22ba4f8f5efb49272be3
 非凡新聞,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-61-1.html
 年代新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=niandainews_twn
 年代新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-43-0.html
+台視新聞,https://live.iill.top/youtube/xL0ch83RAK8
 台視新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ttvnews_twn
 台視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-83-0.html
 台視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-141-1.html
@@ -465,9 +469,10 @@ TVBS新聞,video://https://m.345iptv.com/?act=play&token=add22ba4f8f5efb49272be3
 民視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-96-0.html
 民視新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-116-1.html
 民視新聞,video//http://m.345iptv.com/?act=play&token=989c7d8a750ff4bfda95fcae1708bbe7&tid=gt&id=50
-華視新聞,P2p://66.42.60.221:6001/6858bf2c00062100174c661d5e589772.ts
+華視新聞,https://live.iill.top/youtube/wM0g8EoUZ_E
 華視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-80-1.html
 華視新聞,video://http://m.345iptv.com/?act=play&token=077cde05e45f43f87cc3c4c57a152e1e&tid=gt&id=51
+公視新聞https://live.iill.top/youtube/quwqlazU-c8
 壹電視新聞,P2p://66.42.60.221:6001/685c99fc000d74b80428f89279fbc2e6.ts
 壹電視新聞,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-161-0.html
 东森财经新闻,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ettvcaijing_twn
