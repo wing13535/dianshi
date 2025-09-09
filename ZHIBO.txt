@@ -22,25 +22,25 @@
 
 
 
-中天新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ctinews
+中天新聞,http://mytv6688.xyz/smt.php?id=ctinews
 中天新聞,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-20-0.html
 中天新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-168-1.html
-中天新聞,video://https://m.345iptv.com/?act=play&token=e0672162243a33467b8c268740cbdbc3&tid=gt&id=43
-寰宇新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=huanyuxinwen_twn
+中天新聞,video://https://m.345iptv.com/?act=play&token=a5cdc8d8c06b93480b21e313dd248fab&tid=gt&id=43
+寰宇新聞,http://mytv6688.xyz/smt.php?id=huanyuxinwen_twn
 寰宇新聞,video://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
 寰宇新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-83-1.html
-TVBS新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=tvbs_n
+TVBS新聞,http://mytv6688.xyz/smt.php?id=tvbs_n
 TVBS新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-167-0.html
 TVBS新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-148-1.html
 TVBS新聞,video://https://m.345iptv.com/?act=play&token=add22ba4f8f5efb49272be34a86e7f12&tid=gt&id=55
-東森新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ettvnews
+東森新聞,http://mytv6688.xyz/smt.php?id=ettvnews
 東森新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-43-1.html
 東森新聞,video://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
-中視新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=zhongshinews_twn
+中視新聞,http://mytv6688.xyz/smt.php?id=zhongshinews_twn
 中視新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-167-1.html
 中視新聞,video://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
-中天新聞2,https://live.iill.top/youtube/DM_PEM8GrIg
+中天新聞2,http://iptv.4666888.xyz/iptv.php?id=20181
 
 NOW新聞,http://46.203.125.177:20000/live/now/stream.m3u8
 NOW新聞,http://player.27481716.xyz:20000/live/now/stream.m3u8
@@ -119,28 +119,28 @@ CCTV13,http://ayolee.com:5253/rtp/239.93.0.66:5140
 
 鏡新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-96-1.html
 鏡新聞,video://http://m.345iptv.com/?act=play&token=20a5079da56f52ac6332530b8ae045bc&tid=gt&id=52
-三立新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=sanlitaiwan
+三立新聞,http://mytv6688.xyz/smt.php?id=sanlitaiwan
 三立新聞,video://http://m.345iptv.com/?act=play&token=5306092da4db4bf69dc2cd81e05c1e2b&tid=gt&id=48
-非凡新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=feifannews_twn
+非凡新聞,http://mytv6688.xyz/smt.php?id=feifannews_twn
 非凡新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-131-0.html
 非凡新聞,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-61-1.html
-年代新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=niandainews_twn
+年代新聞,http://mytv6688.xyz/smt.php?id=niandainews_twn
 年代新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-43-0.html
-台視新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ttvnews_twn
+台視新聞,http://mytv6688.xyz/smt.php?id=ttvnews_twn
 台視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-83-0.html
 台視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-141-1.html
 台視新聞,video://http://m.345iptv.com/?act=play&token=19416380214a699f16f2a2e6262563ec&tid=gt&id=47
-民視新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ftvnew_taiwan
+民視新聞,http://mytv6688.xyz/smt.php?id=ftvnew_taiwan
 民視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-96-0.html
 民視新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-116-1.html
-民視新聞,video//http://m.345iptv.com/?act=play&token=989c7d8a750ff4bfda95fcae1708bbe7&tid=gt&id=50
+民視新聞,video://http://m.345iptv.com/?act=play&token=989c7d8a750ff4bfda95fcae1708bbe7&tid=gt&id=50
 華視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-80-1.html
 華視新聞,video://http://m.345iptv.com/?act=play&token=077cde05e45f43f87cc3c4c57a152e1e&tid=gt&id=51
 壹電視新聞,P2p://66.42.60.221:6001/685c99fc000d74b80428f89279fbc2e6.ts
 壹電視新聞,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-161-0.html
-东森财经新闻,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ettvcaijing_twn
+东森财经新闻,http://mytv6688.xyz/smt.php?id=ettvcaijing_twn
 东森财经新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-168-0.html
-寰宇财经新闻,http://mytv6688.xyz/斯玛特的斯玛特.php?id=huanyutaiwan_twn
+寰宇财经新闻,http://mytv6688.xyz/smt.php?id=huanyutaiwan_twn
 寰宇财经新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-81-0.html
 
 
@@ -168,37 +168,54 @@ CCTV16,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.31:8000
 CCTV16,http://125.71.164.143:6868/rtp/239.93.42.54:5140
 CCTV16,http://ayolee.com:5253/rtp/239.93.42.54:5140
 
+NOW SPORT PRIME,http://vocotv.pro:80/gast/gast/715559
+Now HK Premier Sports 1,http://vocotv.pro:80/gast/gast/715574
+Now HK Premier Sports 2,http://vocotv.pro:80/gast/gast/715573
+Now HK Premier Sports 3,http://vocotv.pro:80/gast/gast/715572
+Now HK Premier Sports 4,http://vocotv.pro:80/gast/gast/715571
+Now HK Premier Sports 5,http://vocotv.pro:80/gast/gast/715570
+Now HK Premier Sports 6,http://vocotv.pro:80/gast/gast/715569
+Now HK Premier Sports 7,http://vocotv.pro:80/gast/gast/715568
+Now HK Premier Sports 8,http://vocotv.pro:80/gast/gast/715567
+Now HK Now Sports 1,http://vocotv.pro:80/gast/gast/715566
+Now HK Now Sports 2,http://vocotv.pro:80/gast/gast/715565
+Now HK Now Sports 3,http://vocotv.pro:80/gast/gast/715564
+Now HK Now Sports 4,http://vocotv.pro:80/gast/gast/715563
+Now HK Now Sports 5,http://vocotv.pro:80/gast/gast/715562
+Now HK Now Sports 6,http://vocotv.pro:80/gast/gast/715561
+Now HK Now Sports 7,http://vocotv.pro:80/gast/gast/715560
+Now Sports PRIME,http://vocotv.pro:80/gast/gast/715559
+Now HK Now Sports 4K 616,http://vocotv.pro:80/gast/gast/715558
+Now HK Now Sports 4K 617,http://vocotv.pro:80/gast/gast/715557
 
-NOW SPORT PRIME,http://a.ru8.dpdns.org/now/630/master.m3u8
 
-
-緯來體育,http://mytv6688.xyz/斯玛特的斯玛特.php?id=videolandsport
+緯來體育,http://mytv6688.xyz/smt.php?id=videolandsport
 緯來體育,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-172-0.html
 緯來體育,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-172-0.html
 緯來體育,video://https://www.iptv345.com/?act=play&token=baa6a6711c09d4c8ab6abe3ea9a430d3&tid=gt&id=73
 緯來體育,video://https://yibababa.com/tv/tw/weilai-sport.html
-愛爾達體育1台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=eltasport_twn
+愛爾達體育1台,http://mytv6688.xyz/smt.php?id=eltasport_twn
 愛爾達體育1台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-28-0.html
-愛爾達體育2台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=eltasport2_twn
+愛爾達體育2台,http://mytv6688.xyz/smt.php?id=eltasport2_twn
 愛爾達體育2台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-29-0.html
-愛爾達體育3台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=eltasport3_twn
+愛爾達體育3台,http://mytv6688.xyz/smt.php?id=eltasport3_twn
 愛爾達體育4台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-51-0.html
-DAZN1台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=golfchannel_twn
+DAZN1台,http://mytv6688.xyz/smt.php?id=golfchannel_twn
 DAZN1台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-152-0.html
 DAZN1台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-152-0.html
 DAZN2台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-152-0.html
 MOMO綜合台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-25-0.html
-博斯運動1台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=bosisport1_twn
+博斯運動1台,http://mytv6688.xyz/smt.php?id=bosisport1_twn
 博斯運動1台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-19-0.html
-博斯運動2台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=bosisport2_twn
+博斯運動2台,http://mytv6688.xyz/smt.php?id=bosisport2_twn
 博斯運動2台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-20-0.html
 博斯魅力,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-15-0.html
-博斯无限,http://mytv6688.xyz/斯玛特的斯玛特.php?id=bosiunlimited_twn
+博斯无限,http://mytv6688.xyz/smt.php?id=bosiunlimited_twn
 博斯无限,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-17-0.html
 博斯无限2,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-18-0.html
-博斯高球1,http://mytv6688.xyz/斯玛特的斯玛特.php?id=bosigolf1_twn
-博斯高球2,http://mytv6688.xyz/斯玛特的斯玛特.php?id=bosigolf2_twn
-博斯网球,http://mytv6688.xyz/斯玛特的斯玛特.php?id=bositennis_twn
+博斯高球1,http://mytv6688.xyz/smt.php?id=bosigolf1_twn
+博斯高球2,http://mytv6688.xyz/smt.php?id=bosigolf2_twn
+博斯网球,http://mytv6688.xyz/smt.php?id=bositennis_twn
 智林體育台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-163-0.html
 
 
@@ -237,23 +254,23 @@ Now星影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1f3s131fs3
 天映電影台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19439.ts
 影迷电影,http://www.qiqi.pub:18889/rtp/239.93.42.5:5140
 影迷电影,http://j.daysky.com:8000/rtp/239.93.42.5:5140
-緯來電影台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=videolandmovie
-東森電影台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ettvmovie
+緯來電影台,http://mytv6688.xyz/smt.php?id=videolandmovie
+東森電影台,http://mytv6688.xyz/smt.php?id=ettvmovie
 東森電影台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-36-0.html
-東森洋片,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ettvwestern
-龍華電影,http://mytv6688.xyz/斯玛特的斯玛特.php?id=xingwei_movie
+東森洋片,http://mytv6688.xyz/smt.php?id=ettvwestern
+龍華電影,http://mytv6688.xyz/smt.php?id=xingwei_movie
 龍華電影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-龍華洋片,http://mytv6688.xyz/斯玛特的斯玛特.php?id=lunghuawestern_twn
+龍華洋片,http://mytv6688.xyz/smt.php?id=lunghuawestern_twn
 龍華經典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-HOB,http://mytv6688.xyz/斯玛特的斯玛特.php?id=hbohd_twn
+HOB,http://mytv6688.xyz/smt.php?id=hbohd_twn
 HOB,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-11-0.html
 AMC,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-1-0.html
-ARIRANG,http://mytv6688.xyz/斯玛特的斯玛特.php?id=arirang_twn
-AXN电影,http://mytv6688.xyz/斯玛特的斯玛特.php?id=axn_twn
-CINEMAX,http://mytv6688.xyz/斯玛特的斯玛特.php?id=cinemax_twn
-HBO家庭,http://mytv6688.xyz/斯玛特的斯玛特.php?id=fyi_twn
-好莱坞电影,http://mytv6688.xyz/斯玛特的斯玛特.php?id=hollywoodmovies_twn
-龙祥电影,http://mytv6688.xyz/斯玛特的斯玛特.php?id=lungxiangtime_twn
+ARIRANG,http://mytv6688.xyz/smt.php?id=arirang_twn
+AXN电影,http://mytv6688.xyz/smt.php?id=axn_twn
+CINEMAX,http://mytv6688.xyz/smt.php?id=cinemax_twn
+HBO家庭,http://mytv6688.xyz/smt.php?id=fyi_twn
+好莱坞电影,http://mytv6688.xyz/smt.php?id=hollywoodmovies_twn
+龙祥电影,http://mytv6688.xyz/smt.php?id=lungxiangtime_twn
 风味人间,https://live.metshop.top/huya/26355760
 亮剑电视轮播,https://live.metshop.top/huya/30080238
 雪豹电视轮播,https://live.metshop.top/huya/29580970
@@ -414,121 +431,121 @@ Now星影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1f3s131fs3
 天映電影台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19439.ts
 
 
-NOW SPORT PRIME,http://a.ru8.dpdns.org/now/630/master.m3u8
+NOW SPORT PRIME,http://vocotv.pro:80/gast/gast/715559
 
 
 
 
 台湾频道,#genre#
-中天新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ctinews
+中天新聞,http://mytv6688.xyz/smt.php?id=ctinews
 中天新聞,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-20-0.html
 中天新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-168-1.html
-中天新聞,video://https://m.345iptv.com/?act=play&token=e0672162243a33467b8c268740cbdbc3&tid=gt&id=43
-寰宇新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=huanyuxinwen_twn
+中天新聞,video://https://m.345iptv.com/?act=play&token=a5cdc8d8c06b93480b21e313dd248fab&tid=gt&id=43
+寰宇新聞,http://mytv6688.xyz/smt.php?id=huanyuxinwen_twn
 寰宇新聞,video://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
 寰宇新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-83-1.html
-TVBS新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=tvbs_n
+TVBS新聞,http://mytv6688.xyz/smt.php?id=tvbs_n
 TVBS新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-167-0.html
 TVBS新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-148-1.html
 TVBS新聞,video://https://m.345iptv.com/?act=play&token=add22ba4f8f5efb49272be34a86e7f12&tid=gt&id=55
-東森新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ettvnews
+東森新聞,http://mytv6688.xyz/smt.php?id=ettvnews
 東森新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-43-1.html
 東森新聞,video://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
-中視新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=zhongshinews_twn
+中視新聞,http://mytv6688.xyz/smt.php?id=zhongshinews_twn
 中視新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-167-1.html
 中視新聞,video://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
 中天新聞2,https://live.iill.top/youtube/DM_PEM8GrIg
 
-
 鏡新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-96-1.html
 鏡新聞,video://http://m.345iptv.com/?act=play&token=20a5079da56f52ac6332530b8ae045bc&tid=gt&id=52
-三立新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=sanlitaiwan
+三立新聞,http://mytv6688.xyz/smt.php?id=sanlitaiwan
 三立新聞,video://http://m.345iptv.com/?act=play&token=5306092da4db4bf69dc2cd81e05c1e2b&tid=gt&id=48
-非凡新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=feifannews_twn
+非凡新聞,http://mytv6688.xyz/smt.php?id=feifannews_twn
 非凡新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-131-0.html
 非凡新聞,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-61-1.html
-年代新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=niandainews_twn
+年代新聞,http://mytv6688.xyz/smt.php?id=niandainews_twn
 年代新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-43-0.html
-台視新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ttvnews_twn
+台視新聞,http://mytv6688.xyz/smt.php?id=ttvnews_twn
 台視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-83-0.html
 台視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-141-1.html
 台視新聞,video://http://m.345iptv.com/?act=play&token=19416380214a699f16f2a2e6262563ec&tid=gt&id=47
-民視新聞,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ftvnew_taiwan
+民視新聞,http://mytv6688.xyz/smt.php?id=ftvnew_taiwan
 民視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-96-0.html
 民視新聞,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-116-1.html
-民視新聞,video//http://m.345iptv.com/?act=play&token=989c7d8a750ff4bfda95fcae1708bbe7&tid=gt&id=50
+民視新聞,video://http://m.345iptv.com/?act=play&token=989c7d8a750ff4bfda95fcae1708bbe7&tid=gt&id=50
 華視新聞,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-80-1.html
 華視新聞,video://http://m.345iptv.com/?act=play&token=077cde05e45f43f87cc3c4c57a152e1e&tid=gt&id=51
 壹電視新聞,P2p://66.42.60.221:6001/685c99fc000d74b80428f89279fbc2e6.ts
 壹電視新聞,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-161-0.html
-东森财经新闻,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ettvcaijing_twn
+东森财经新闻,http://mytv6688.xyz/smt.php?id=ettvcaijing_twn
 东森财经新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-168-0.html
-寰宇财经新闻,http://mytv6688.xyz/斯玛特的斯玛特.php?id=huanyutaiwan_twn
+寰宇财经新闻,http://mytv6688.xyz/smt.php?id=huanyutaiwan_twn
 寰宇财经新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-81-0.html
 
-公視,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ctv2_twn
+公視,http://mytv6688.xyz/smt.php?id=ctv2_twn
 公視,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-164-0.html
-華視,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ctshd_twn
+華視,http://mytv6688.xyz/smt.php?id=ctshd_twn
 華視,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-79-1.html
 華視,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-79-1.html
 華視,video://http://m.345iptv.com/?act=play&token=d835edf85041fa76c82e4e1f846bf67b&tid=gt&id=63
-民視,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ftvhd_taiwan
+民視,http://mytv6688.xyz/smt.php?id=ftvhd_taiwan
 民視,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-113-0.html
 民視,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-111-1.html
 民視,video://http://m.345iptv.com/?act=play&token=499b6a8677702cdead3d1acb4ee763f6&tid=gt&id=62
-台視,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ttv_taiwan
+台視,http://mytv6688.xyz/smt.php?id=ttv_taiwan
 台視,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-139-1.html
 台視,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-118-0.html
 台視,video://http://m.345iptv.com/?act=play&token=3566a94ef8f056a92ba7d6bc3adae830&tid=gt&id=61
-中視,http://mytv6688.xyz/斯玛特的斯玛特.php?id=zhongshihd_twn
+中視,http://mytv6688.xyz/smt.php?id=zhongshihd_twn
 中視,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-111-0.html
 中視,video://http://m.345iptv.com/?act=play&token=5ef10e1554d809f389a139596e22d6e4&tid=gt&id=60
-民事第一台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=lunghuajingdian_twn
-民事第一台,http://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-61-0.html
-民事第一台,http://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-112-1.html
-八大第一台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=badafirst
+民事第一台,http://mytv6688.xyz/smt.php?id=lunghuajingdian_twn
+民事第一台,http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-61-0.html
+民事第一台,http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-112-1.html
+八大第一台,http://mytv6688.xyz/smt.php?id=badafirst
 八大第一台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-47-0.html
-八大綜合台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=badazhonghe
+八大綜合台,http://mytv6688.xyz/smt.php?id=badazhonghe
 八大綜合台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-38-0.html
-八大戏剧台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=badadrama
+八大戏剧台,http://mytv6688.xyz/smt.php?id=badadrama
 八大精彩台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-8-0.html
-八大综艺台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=badaentertain
-東森戏剧台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ettvdrama
-東森超視台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ettvsuper
+八大综艺台,http://mytv6688.xyz/smt.php?id=badaentertain
+東森戏剧台,http://mytv6688.xyz/smt.php?id=ettvdrama
+東森超視台,http://mytv6688.xyz/smt.php?id=ettvsuper
 東森超視台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-26-0.html
-東森綜合台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ettvzhonghe
+東森綜合台,http://mytv6688.xyz/smt.php?id=ettvzhonghe
 東森綜合台,video://http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dszh.flv
-台视綜合台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ttvzhonghe
+台视綜合台,http://mytv6688.xyz/smt.php?id=ttvzhonghe
 民視第一台,video://https://www.iptv345.com/?act=play&token=4c59b34621aeae390a428d5eb8b7133b&tid=gt&id=68
 民視台灣台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-116-0.html
 民視台灣台,video://https://www.iptv345.com/?act=play&token=d98214673b538ff2a92babbd40e2081e&tid=gt&id=67
-三立都会台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=sanlidouhui
-三立綜合台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=sanlizhonghe
+三立都会台,http://mytv6688.xyz/smt.php?id=sanlidouhui
+三立綜合台,http://mytv6688.xyz/smt.php?id=sanlizhonghe
 三立綜合台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-145-0.html
 三立台灣台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-146-0.html
 三立台灣台,video://https://www.iptv345.com/?act=play&token=593667076591cf28328bcf00f3b903a7&tid=gt&id=65
-緯來綜合台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=videolandzonghe
-緯來日本台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=videolandjapan
+緯來綜合台,http://mytv6688.xyz/smt.php?id=videolandzonghe
+緯來日本台,http://mytv6688.xyz/smt.php?id=videolandjapan
 緯來日本台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-171-0.html
 緯來日本台,video://https://www.iptv345.com/?act=play&token=8ecf2741d3c58d4dd2c2991a4082ca20&tid=gt&id=74
-緯來育樂台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=videolandyule
+緯來育樂台,http://mytv6688.xyz/smt.php?id=videolandyule
 緯來育樂台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-153-0.html
-緯來精彩台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=videolandspecial_twn
-愛爾達綜合台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=eltazonghe_twn
-中天娱乐台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ctient
-中天綜合台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ctizhonghe
+緯來精彩台,http://mytv6688.xyz/smt.php?id=videolandspecial_twn
+愛爾達綜合台,http://mytv6688.xyz/smt.php?id=eltazonghe_twn
+
+中天娱乐台,http://mytv6688.xyz/smt.php?id=ctient
+中天綜合台,http://mytv6688.xyz/smt.php?id=ctizhonghe
 中天綜合台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-129-0.html
 中天亞洲台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19449.ts
-中天亞洲台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ctiasia_twn
+中天亞洲台,http://mytv6688.xyz/smt.php?id=ctiasia_twn
 中天亞洲台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-171-1.html
 中天亞洲台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-125-0.html
-中视经典,http://mytv6688.xyz/斯玛特的斯玛特.php?id=zhongshi_twn
-TVBS,http://mytv6688.xyz/斯玛特的斯玛特.php?id=tvbs
+中视经典,http://mytv6688.xyz/smt.php?id=zhongshi_twn
+TVBS,http://mytv6688.xyz/smt.php?id=tvbs
 TVBS,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-79-0.html
 TVBS,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-79-0.html
 TVBS,video://https://m.345iptv.com/?act=play&token=8aee5650643fb3ab99b2bb7ca38c3ee1&tid=gt&id=56
-TVBS歡樂台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=tvbshuanle_twn
+TVBS歡樂台,http://mytv6688.xyz/smt.php?id=tvbshuanle_twn
 TVBS歡樂台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-68-0.html
 TVBS歡樂台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-145-1.html
 TVBS歡樂台,video://https://www.iptv345.com/?act=play&token=e0d20cfbeade4e861b1fe465e7537459&tid=gt&id=57
@@ -542,99 +559,98 @@ TVBS精采台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/pla
 民視旅游台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-113-1.html
 民視旅游台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-114-0.html
 民視旅游台,video://https://www.iptv345.com/?act=play&token=f925268120581fc2947bc629a981628b&tid=gt&id=70
-民視台湾台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ftvtaiwan_twn
+民視台湾台,http://mytv6688.xyz/smt.php?id=ftvtaiwan_twn
 民視台湾台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-114-1.html
 寰宇台湾台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-124-0.html
-靖天国际,http://mytv6688.xyz/斯玛特的斯玛特.php?id=jingtianintl_twn
-
-三立戲劇台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=sanlixiju_twn
+靖天国际,http://mytv6688.xyz/smt.php?id=jingtianintl_twn
+三立戲劇台,http://mytv6688.xyz/smt.php?id=sanlixiju_twn
 民視影劇台,video://https://www.iptv345.com/?act=play&token=18c3eb13d094d850b0fac309d55fb1b2&tid=gt&id=71
-愛爾達影劇台,vhttp://mytv6688.xyz/斯玛特的斯玛特.php?id=eltayingju_twn
+愛爾達影劇台,vhttp://mytv6688.xyz/smt.php?id=eltayingju_twn
 愛爾達影劇台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-112-0.html
-龍華戲劇台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=lunghuaxiju_twn
+龍華戲劇台,http://mytv6688.xyz/smt.php?id=lunghuaxiju_twn
 龍華戲劇台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-105-0.html
 龍華戲劇台,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龍華日韓台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-104-0.html
 龍華日韓台,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-龍華偶像台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=lunghuaidol_twn
+龍華偶像台,http://mytv6688.xyz/smt.php?id=lunghuaidol_twn
 龍華偶像台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-103-0.html
 龍華偶像台,https://cdn8.163189.xyz/live/lhox/stream.m3u8
-龍華经典,http://mytv6688.xyz/斯玛特的斯玛特.php?id=lunghuajingdian_twn
+龍華经典,http://mytv6688.xyz/smt.php?id=lunghuajingdian_twn
 靖洋戲劇台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-98-0.html
-EYETV戏剧,http://mytv6688.xyz/斯玛特的斯玛特.php?id=eyetvxiju_twn
-大爱1台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=daai_twn
-大爱2台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=daai2_twn
-好消息2,http://mytv6688.xyz/斯玛特的斯玛特.php?id=good2_twn
-华艺综合,http://mytv6688.xyz/斯玛特的斯玛特.php?id=weishichinese_twn
+EYETV戏剧,http://mytv6688.xyz/smt.php?id=eyetvxiju_twn
+大爱1台,http://mytv6688.xyz/smt.php?id=daai_twn
+大爱2台,http://mytv6688.xyz/smt.php?id=daai2_twn
+好消息2,http://mytv6688.xyz/smt.php?id=good2_twn
+华艺综合,http://mytv6688.xyz/smt.php?id=weishichinese_twn
 
-緯來電影台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=videolandmovie
-東森電影台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ettvmovie
+緯來電影台,http://mytv6688.xyz/smt.php?id=videolandmovie
+東森電影台,http://mytv6688.xyz/smt.php?id=ettvmovie
 東森電影台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-36-0.html
-東森洋片,http://mytv6688.xyz/斯玛特的斯玛特.php?id=ettvwestern
-龍華電影,http://mytv6688.xyz/斯玛特的斯玛特.php?id=xingwei_movie
+東森洋片,http://mytv6688.xyz/smt.php?id=ettvwestern
+龍華電影,http://mytv6688.xyz/smt.php?id=xingwei_movie
 龍華電影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-龍華洋片,http://mytv6688.xyz/斯玛特的斯玛特.php?id=lunghuawestern_twn
+龍華洋片,http://mytv6688.xyz/smt.php?id=lunghuawestern_twn
 龍華經典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-HOB,http://mytv6688.xyz/斯玛特的斯玛特.php?id=hbohd_twn
+HOB,http://mytv6688.xyz/smt.php?id=hbohd_twn
 HOB,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-11-0.html
 AMC,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-1-0.html
-ARIRANG,http://mytv6688.xyz/斯玛特的斯玛特.php?id=arirang_twn
-AXN电影,http://mytv6688.xyz/斯玛特的斯玛特.php?id=axn_twn
-CINEMAX,http://mytv6688.xyz/斯玛特的斯玛特.php?id=cinemax_twn
-HBO家庭,http://mytv6688.xyz/斯玛特的斯玛特.php?id=fyi_twn
-好莱坞电影,http://mytv6688.xyz/斯玛特的斯玛特.php?id=hollywoodmovies_twn
-龙祥电影,http://mytv6688.xyz/斯玛特的斯玛特.php?id=lungxiangtime_twn
+ARIRANG,http://mytv6688.xyz/smt.php?id=arirang_twn
+AXN电影,http://mytv6688.xyz/smt.php?id=axn_twn
+CINEMAX,http://mytv6688.xyz/smt.php?id=cinemax_twn
+HBO家庭,http://mytv6688.xyz/smt.php?id=fyi_twn
+好莱坞电影,http://mytv6688.xyz/smt.php?id=hollywoodmovies_twn
+龙祥电影,http://mytv6688.xyz/smt.php?id=lungxiangtime_twn
 
 
-緯來體育,http://mytv6688.xyz/斯玛特的斯玛特.php?id=videolandsport
+緯來體育,http://mytv6688.xyz/smt.php?id=videolandsport
 緯來體育,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-172-0.html
 緯來體育,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-172-0.html
 緯來體育,video://https://www.iptv345.com/?act=play&token=baa6a6711c09d4c8ab6abe3ea9a430d3&tid=gt&id=73
 緯來體育,video://https://yibababa.com/tv/tw/weilai-sport.html
-愛爾達體育1台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=eltasport_twn
+愛爾達體育1台,http://mytv6688.xyz/smt.php?id=eltasport_twn
 愛爾達體育1台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-28-0.html
-愛爾達體育2台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=eltasport2_twn
+愛爾達體育2台,http://mytv6688.xyz/smt.php?id=eltasport2_twn
 愛爾達體育2台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-29-0.html
-愛爾達體育3台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=eltasport3_twn
+愛爾達體育3台,http://mytv6688.xyz/smt.php?id=eltasport3_twn
 愛爾達體育4台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-51-0.html
-DAZN1台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=golfchannel_twn
+DAZN1台,http://mytv6688.xyz/smt.php?id=golfchannel_twn
 DAZN1台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-152-0.html
 DAZN1台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-152-0.html
 DAZN2台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-152-0.html
 MOMO綜合台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-25-0.html
-博斯運動1台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=bosisport1_twn
+博斯運動1台,http://mytv6688.xyz/smt.php?id=bosisport1_twn
 博斯運動1台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-19-0.html
-博斯運動2台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=bosisport2_twn
+博斯運動2台,http://mytv6688.xyz/smt.php?id=bosisport2_twn
 博斯運動2台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-20-0.html
 博斯魅力,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-15-0.html
-博斯无限,http://mytv6688.xyz/斯玛特的斯玛特.php?id=bosiunlimited_twn
+博斯无限,http://mytv6688.xyz/smt.php?id=bosiunlimited_twn
 博斯无限,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-17-0.html
 博斯无限2,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-18-0.html
-博斯高球1,http://mytv6688.xyz/斯玛特的斯玛特.php?id=bosigolf1_twn
-博斯高球2,http://mytv6688.xyz/斯玛特的斯玛特.php?id=bosigolf2_twn
-博斯网球,http://mytv6688.xyz/斯玛特的斯玛特.php?id=bositennis_twn
+博斯高球1,http://mytv6688.xyz/smt.php?id=bosigolf1_twn
+博斯高球2,http://mytv6688.xyz/smt.php?id=bosigolf2_twn
+博斯网球,http://mytv6688.xyz/smt.php?id=bositennis_twn
 智林體育台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-163-0.html
 
 靖天卡通,P2p://66.42.60.221:6001/6854206e000b2b620540513883e54bcd.ts
-东森幼幼,http://mytv6688.xyz/斯玛特的斯玛特.php?id=yoyo_twn
+东森幼幼,http://mytv6688.xyz/smt.php?id=yoyo_twn
 龙华卡通台,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 龙华卡通台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-102-0.html
-靖天卡通台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=jingtiancartoon_twn
+靖天卡通台,http://mytv6688.xyz/smt.php?id=jingtiancartoon_twn
 靖天卡通台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-89-0.html
 
 Smart知識台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-133-0.html
-亞洲旅遊台,http://mytv6688.xyz/斯玛特的斯玛特.php?id=asiatravel_twn
+亞洲旅遊台,http://mytv6688.xyz/smt.php?id=asiatravel_twn
 亞洲旅遊台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-162-0.html
-探索亚洲,http://mytv6688.xyz/斯玛特的斯玛特.php?id=discoverytwn_twn
-国家地理,http://mytv6688.xyz/斯玛特的斯玛特.php?id=natgeohd_twn
-野生动物,http://mytv6688.xyz/斯玛特的斯玛特.php?id=natgeowild_twn
-动物星球,http://mytv6688.xyz/斯玛特的斯玛特.php?id=animalplanet_twn
-美食星球,http://mytv6688.xyz/斯玛特的斯玛特.php?id=foodplanet_twn
-亚洲美食,http://mytv6688.xyz/斯玛特的斯玛特.php?id=afc_twn
-亚洲TLC,http://mytv6688.xyz/斯玛特的斯玛特.php?id=tlc_twn
-EYETV旅游,http://mytv6688.xyz/斯玛特的斯玛特.php?id=eyetvtravel_twn
-MTV,http://mytv6688.xyz/斯玛特的斯玛特.php?id=mtvhd_twn
-Discovery,http://mytv6688.xyz/斯玛特的斯玛特.php?id=discoverytwn_twn
+探索亚洲,http://mytv6688.xyz/smt.php?id=discoverytwn_twn
+国家地理,http://mytv6688.xyz/smt.php?id=natgeohd_twn
+野生动物,http://mytv6688.xyz/smt.php?id=natgeowild_twn
+动物星球,http://mytv6688.xyz/smt.php?id=animalplanet_twn
+美食星球,http://mytv6688.xyz/smt.php?id=foodplanet_twn
+亚洲美食,http://mytv6688.xyz/smt.php?id=afc_twn
+亚洲TLC,http://mytv6688.xyz/smt.php?id=tlc_twn
+EYETV旅游,http://mytv6688.xyz/smt.php?id=eyetvtravel_twn
+MTV,http://mytv6688.xyz/smt.php?id=mtvhd_twn
+Discovery,http://mytv6688.xyz/smt.php?id=discoverytwn_twn
 
 
 
