@@ -243,10 +243,10 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 电影频道,#genre#
 周星驰,https://live.metshop.top/huya/11336587
 粤语喜剧,https://live.metshop.top/huya/11352894
+Now爆谷台,http://link3.813555.xyz/qyzby/TGJK.php?id=20087
 Now爆谷台,http://j.s.bkpcp.top/js/nowbgt
-Now爆谷台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1116163133.flv
+Now星影台,http://link3.813555.xyz/qyzby/TGJK.php?id=20086
 Now星影台,http://j.s.bkpcp.top/js/nowxyt
-Now星影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1f3s131fs3f1.flv
 美亞電影台(HK),http://fr-us7.jdiptv.cc/live/xgmydygy.m3u8
 美亞電影台(HK),http://bxtv.3a.ink/api.php?id=meiya
 美亞電影台(HK),http://bx.757888.xyz/api.php?id=meiya
@@ -420,9 +420,10 @@ Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
 
+Now爆谷台,http://link3.813555.xyz/qyzby/TGJK.php?id=20087
 Now爆谷台,http://j.s.bkpcp.top/js/nowbgt
+Now星影台,http://link3.813555.xyz/qyzby/TGJK.php?id=20086
 Now星影台,http://j.s.bkpcp.top/js/nowxyt
-Now星影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1f3s131fs3f1.flv
 美亞電影台(HK),http://fr-us7.jdiptv.cc/live/xgmydygy.m3u8
 美亞電影台(HK),http://bxtv.3a.ink/api.php?id=meiya
 美亞電影台(HK),http://bx.757888.xyz/api.php?id=meiya
