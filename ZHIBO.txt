@@ -1,5 +1,5 @@
 新闻频道,#genre#
-鳳凰中文,http://171.88.68.101:7088/rtp/239.93.0.162:2192
+鳳凰中文,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.162:2192
 鳳凰中文,http://home.yixi.pro:10043/rtp/239.93.0.162:2192
 鳳凰中文,http://yulang132.cn:4022/rtp/239.93.0.162:2192
 鳳凰中文,http://108.181.20.181/livehttpplay?channel_id=20065
@@ -9,7 +9,7 @@
 鳳凰中文,http://182.93.7.202:1001/hls/302/index.m3u8
 鳳凰中文,http://gd.wsd.gd.cn:1698/hls/96/index.m3u8
 鳳凰中文,video://https://m.345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
-鳯凰資訊,http://171.88.68.101:7088/rtp/239.93.0.118:2191
+鳯凰資訊,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.118:2191
 鳯凰資訊,http://home.yixi.pro:10043/rtp/239.93.0.162:2192
 鳯凰資訊,http://yulang132.cn:4022/rtp/239.93.0.162:2192
 鳯凰資訊,http://108.181.20.181/livehttpplay?channel_id=20066
@@ -26,20 +26,15 @@
 鳳凰香港,video://https://m.345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
 
 
-中天新聞,https://stream1.freetv.fun/dc3d00ce128ed004b69c0f097e7387974e77e68e472acf9a85ada5a751eb46a2.ctv
+中天新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ctinews
 中天新聞,http://tlive24.uk/livehttpplay?channel_id=20163
-中天新聞,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新聞,video://https://m.345iptv.com/?act=play&token=a5cdc8d8c06b93480b21e313dd248fab&tid=gt&id=43
-寰宇新聞,https://stream1.freetv.fun/5a7fe5496589912773ea89a02c9a2e64c47710347689148d1764008626f08728.ctv
 寰宇新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=huanyuxinwen_twn
 寰宇新聞,video://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
-TVBS新聞,https://stream1.freetv.fun/6bee1bd49649d578f78a803e117e6738aa1753ee2d3e0a420997f026b967aaef.ctv
 TVBS新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=tvbs_n
 TVBS新聞,video://https://m.345iptv.com/?act=play&token=add22ba4f8f5efb49272be34a86e7f12&tid=gt&id=55
-東森新聞,https://stream1.freetv.fun/9c19eb3cd3c8dd4f5a4e3f2f0e0c3d43e978516935419d6b219725490c7779a4.ctv
 東森新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ettvnews
 東森新聞,video://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
-中視新聞,https://stream1.freetv.fun/5f3d68b2efc102fc2339fa5b60d4b2abde1aa0bb446fb9fabe6cf9a7ab38198f.ctv
 中視新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=zhongshinews_twn
 中視新聞,video://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
 中天新聞2,https://live.iill.top/youtube/DM_PEM8GrIg
@@ -71,22 +66,22 @@ HOY78,video://https://m.345iptv.com/?act=play&token=08f54e8a4affdeb5b28c8b90b4ff
 
 CCTV1,rtp://@239.77.1.17:5146
 CCTV1,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.19:9614
-CCTV1,http://171.88.68.101:7088/rtp/239.93.0.58:5140
+CCTV1,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.58:5140
 CCTV1,http://o.1680000.xyz:12346/rtp/239.77.1.17:5146
 CCTV1,http://yulang132.cn:4022/rtp/239.93.0.58:5140
 CCTV4,rtp://@239.77.1.163:5146
 CCTV4,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.51:9806
-CCTV4,http://171.88.68.101:7088/rtp/239.93.1.105:5140
+CCTV4,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.1.105:5140
 CCTV4,http://o.1680000.xyz:12346/rtp/239.77.1.163:5146
 CCTV4,http://yulang132.cn:4022/rtp/239.93.1.105:5140
 CCTV7,rtp://@239.77.1.159:5146
 CCTV7,http://www.xinhuaifeiyang.top:6800/rtp/239.49.0.126:8000
-CCTV7,http://171.88.68.101:7088/rtp/239.93.1.67:5140
+CCTV7,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.1.67:5140
 CCTV7,http://o.1680000.xyz:12346/rtp/239.77.1.159:5146
 CCTV7,http://yulang132.cn:4022/rtp/239.93.1.67:5140
 CCTV13,rtp://@239.77.0.188:5146
 CCTV13,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.109:8000
-CCTV13,http://171.88.68.101:7088/rtp/239.93.0.66:5140
+CCTV13,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.66:5140
 CCTV13,http://o.1680000.xyz:12346/rtp/239.77.0.188:5146
 CCTV13,http://yulang132.cn:4022/rtp/239.93.0.66:5140
 
@@ -118,7 +113,7 @@ CCTV13,http://yulang132.cn:4022/rtp/239.93.0.66:5140
 壹電視新聞,P2p://66.42.60.221:6001/685c99fc000d74b80428f89279fbc2e6.ts
 东森财经新闻,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ettvcaijing_twn
 寰宇财经新闻,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=huanyutaiwan_twn
-寰宇台湾台,https://stream1.freetv.fun/8ffc25fd377f5b253162a47ff432551fa504bd6920a42634c21f1874637273e6.ctv
+
 
 
 
@@ -126,23 +121,23 @@ CCTV13,http://yulang132.cn:4022/rtp/239.93.0.66:5140
 体育频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
 广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育, http://cdn9.163189.xyz/mytv.php?url=http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
-广东体育,hhttp://61.145.188.90:50005/rtp/239.77.0.168:5146
+广东体育,http://cdn9.163189.xyz/mytv.php?url=http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
+广东体育,http://61.145.188.90:50005/rtp/239.77.0.168:5146
 广东体育,http://dq.eric702.top:8800/rtp/239.77.0.168:5146
 广东体育,http://wmh.wmh.ink:6633/rtp/239.77.0.168:5146
 广东体育,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.168:5146
 CCTV5,rtp://@239.77.0.170:5146
 CCTV5,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.75:8000
-CCTV5,http://171.88.68.101:7088/rtp/239.93.42.37:5140
+CCTV5,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.42.37:5140
 CCTV5,http://o.1680000.xyz:12346/rtp/239.77.0.170:5146
 CCTV5,http://yulang132.cn:4022/rtp/239.93.42.37:5140
 CCTV5+,rtp://@239.77.0.87:5146
 CCTV5+,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.18:9610
-CCTV5+,http://171.88.68.101:7088/rtp/239.93.1.36:8004
+CCTV5+,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.1.36:8004
 CCTV5+,http://o.1680000.xyz:12346/rtp/239.77.0.87:5146
 CCTV5+,http://yulang132.cn:4022/rtp/239.93.1.173:5140
 CCTV16,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.31:8000
-CCTV16,http://171.88.68.101:7088/rtp/239.93.42.54:5140
+CCTV16,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.42.54:5140
 CCTV16,http://o.1680000.xyz:12346/rtp/239.93.42.54:5140
 CCTV16,http://yulang132.cn:4022/rtp/239.93.42.54:5140
 
@@ -166,8 +161,8 @@ DAZN1台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=golfchannel_twn
 百事通超级体育,http://liuwenxiaokevin.top:14044/rtp/239.45.3.139:5140
 百事通超级体育,http://op.aklim.dpdns.org:18885/rtp/239.45.3.139:5140
 劲爆体育,http://119.32.12.22:2903/udp/224.1.100.129:11111 
-IHOT体育,http://171.88.68.101:7088/rtp/239.94.1.143:5140
-IHOT赛车,http://171.88.68.101:7088/rtp/239.94.1.144:5140
+IHOT体育,http://nas.yzs10000.com:17777/rtp/239.94.1.144:5140
+IHOT赛车,http://liuwenxiaokevin.top:14044/rtp/239.94.1.144:5140
 五星体育,http://liuwenxiaokevin.top:14044/rtp/239.45.3.210:5140
 五星体育,http://op.aklim.dpdns.org:18885/rtp/239.45.3.210:5140
 五星体育,http://cdn9.163189.xyz/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
@@ -224,7 +219,7 @@ HBO家庭,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=fyi_twn
 
 
 香港频道,#genre#
-鳳凰中文,http://171.88.68.101:7088/rtp/239.93.0.162:2192
+鳳凰中文,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.162:2192
 鳳凰中文,http://home.yixi.pro:10043/rtp/239.93.0.162:2192
 鳳凰中文,http://yulang132.cn:4022/rtp/239.93.0.162:2192
 鳳凰中文,http://108.181.20.181/livehttpplay?channel_id=20065
@@ -234,7 +229,7 @@ HBO家庭,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=fyi_twn
 鳳凰中文,http://182.93.7.202:1001/hls/302/index.m3u8
 鳳凰中文,http://gd.wsd.gd.cn:1698/hls/96/index.m3u8
 鳳凰中文,video://https://m.345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
-鳯凰資訊,http://171.88.68.101:7088/rtp/239.93.0.118:2191
+鳯凰資訊,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.118:2191
 鳯凰資訊,http://home.yixi.pro:10043/rtp/239.93.0.162:2192
 鳯凰資訊,http://yulang132.cn:4022/rtp/239.93.0.162:2192
 鳯凰資訊,http://108.181.20.181/livehttpplay?channel_id=20066
@@ -375,20 +370,15 @@ NOW SPORT PRIME,http://vocotv.pro:80/gast/gast/715559
 
 
 台湾频道,#genre#
-中天新聞,https://stream1.freetv.fun/dc3d00ce128ed004b69c0f097e7387974e77e68e472acf9a85ada5a751eb46a2.ctv
+中天新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ctinews
 中天新聞,http://tlive24.uk/livehttpplay?channel_id=20163
-中天新聞,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新聞,video://https://m.345iptv.com/?act=play&token=a5cdc8d8c06b93480b21e313dd248fab&tid=gt&id=43
-寰宇新聞,https://stream1.freetv.fun/5a7fe5496589912773ea89a02c9a2e64c47710347689148d1764008626f08728.ctv
 寰宇新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=huanyuxinwen_twn
 寰宇新聞,video://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
-TVBS新聞,https://stream1.freetv.fun/6bee1bd49649d578f78a803e117e6738aa1753ee2d3e0a420997f026b967aaef.ctv
 TVBS新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=tvbs_n
 TVBS新聞,video://https://m.345iptv.com/?act=play&token=add22ba4f8f5efb49272be34a86e7f12&tid=gt&id=55
-東森新聞,https://stream1.freetv.fun/9c19eb3cd3c8dd4f5a4e3f2f0e0c3d43e978516935419d6b219725490c7779a4.ctv
 東森新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ettvnews
 東森新聞,video://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
-中視新聞,https://stream1.freetv.fun/5f3d68b2efc102fc2339fa5b60d4b2abde1aa0bb446fb9fabe6cf9a7ab38198f.ctv
 中視新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=zhongshinews_twn
 中視新聞,video://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
 中天新聞2,https://live.iill.top/youtube/DM_PEM8GrIg
@@ -406,7 +396,7 @@ TVBS新聞,video://https://m.345iptv.com/?act=play&token=add22ba4f8f5efb49272be3
 壹電視新聞,P2p://66.42.60.221:6001/685c99fc000d74b80428f89279fbc2e6.ts
 东森财经新闻,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ettvcaijing_twn
 寰宇财经新闻,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=huanyutaiwan_twn
-寰宇台湾台,https://stream1.freetv.fun/8ffc25fd377f5b253162a47ff432551fa504bd6920a42634c21f1874637273e6.ctv
+
 
 
 公視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ctv2_twn
@@ -574,97 +564,97 @@ Discovery,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=discoverytwn_twn
 央视频道,#genre#
 CCTV1,rtp://@239.77.1.17:5146
 CCTV1,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.19:9614
-CCTV1,http://171.88.68.101:7088/rtp/239.93.0.58:5140
+CCTV1,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.58:5140
 CCTV1,http://o.1680000.xyz:12346/rtp/239.77.1.17:5146
 CCTV1,http://yulang132.cn:4022/rtp/239.93.0.58:5140
 CCTV2,rtp://@239.77.1.158:5146
 CCTV2,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.50:9802
-CCTV2,http://171.88.68.101:7088/rtp/239.93.1.23:6000
+CCTV2,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.1.23:6000
 CCTV2,http://o.1680000.xyz:12346/rtp/239.77.1.158:5146
 CCTV2,http://yulang132.cn:4022/rtp/239.93.1.23:6000
 CCTV3,rtp://@239.77.0.169:5146
 CCTV3,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.74:8000
-CCTV3,http://171.88.68.101:7088/rtp/239.93.0.109:5140
+CCTV3,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.109:5140
 CCTV3,http://o.1680000.xyz:12346/rtp/239.77.0.169:5146
 CCTV3,http://yulang132.cn:4022/rtp/239.93.0.109:5140
 CCTV4,rtp://@239.77.1.163:5146
 CCTV4,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.51:9806
-CCTV4,http://171.88.68.101:7088/rtp/239.93.1.105:5140
+CCTV4,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.1.105:5140
 CCTV4,http://o.1680000.xyz:12346/rtp/239.77.1.163:5146
 CCTV4,http://yulang132.cn:4022/rtp/239.93.1.105:5140
 CCTV5,rtp://@239.77.0.170:5146
 CCTV5,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.75:8000
-CCTV5,http://171.88.68.101:7088/rtp/239.93.42.37:5140
+CCTV5,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.42.37:5140
 CCTV5,http://o.1680000.xyz:12346/rtp/239.77.0.170:5146
 CCTV5,http://yulang132.cn:4022/rtp/239.93.42.37:5140
 CCTV5+,rtp://@239.77.0.87:5146
 CCTV5+,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.18:9610
-CCTV5+,http://171.88.68.101:7088/rtp/239.93.1.36:8004
+CCTV5+,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.1.36:8004
 CCTV5+,http://o.1680000.xyz:12346/rtp/239.77.0.87:5146
 CCTV5+,http://yulang132.cn:4022/rtp/239.93.1.173:5140
 CCTV6,rtp://@239.77.0.171:5146
 CCTV6,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.76:8000
-CCTV6,http://171.88.68.101:7088/rtp/239.93.42.38:5140
+CCTV6,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.42.38:5140
 CCTV6,http://o.1680000.xyz:12346/rtp/239.77.0.171:5146
 CCTV6,http://yulang132.cn:4022/rtp/239.93.42.38:5140
 CCTV7,rtp://@239.77.1.159:5146
 CCTV7,http://www.xinhuaifeiyang.top:6800/rtp/239.49.0.126:8000
-CCTV7,http://171.88.68.101:7088/rtp/239.93.1.67:5140
+CCTV7,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.1.67:5140
 CCTV7,http://o.1680000.xyz:12346/rtp/239.77.1.159:5146
 CCTV7,http://yulang132.cn:4022/rtp/239.93.1.67:5140
 CCTV8,rtp://@239.77.0.172:5146
 CCTV8,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.77:8000
-CCTV8,http://171.88.68.101:7088/rtp/239.93.42.39:5140
+CCTV8,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.42.39:5140
 CCTV8,http://o.1680000.xyz:12346/rtp/239.77.0.172:5146
 CCTV8,http://yulang132.cn:4022/rtp/239.93.42.39:5140
 CCTV9,rtp://@239.77.1.160:5146
 CCTV9,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.53:9814
-CCTV9,http://171.88.68.101:7088/rtp/239.93.1.24:5140
+CCTV9,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.1.24:5140
 CCTV9,http://o.1680000.xyz:12346/rtp/239.77.1.160:5146
 CCTV9,http://yulang132.cn:4022/rtp/239.93.1.24:5140
 CCTV10,rtp://@239.77.1.113:5146
 CCTV10,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.54:9818
-CCTV10,http://171.88.68.101:7088/rtp/239.93.1.28:5140
+CCTV10,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.1.28:5140
 CCTV10,http://o.1680000.xyz:12346/rtp/239.77.1.113:5146
 CCTV10,http://yulang132.cn:4022/rtp/239.93.1.28:5140
 CCTV11,rtp://@239.77.1.108:5146
 CCTV11,http://www.xinhuaifeiyang.top:6800/rtp/239.49.0.127:8000
-CCTV11,http://171.88.68.101:7088/rtp/239.93.0.102:5140
+CCTV11,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.102:5140
 CCTV11,http://o.1680000.xyz:12346/rtp/239.77.1.108:5146
 CCTV11,http://yulang132.cn:4022/rtp/239.93.0.102:5140
 CCTV12,rtp://@239.77.1.109:5146
 CCTV12,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.55:9822
-CCTV12,http://171.88.68.101:7088/rtp/239.93.1.30:8124
+CCTV12,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.1.30:8124
 CCTV12,http://o.1680000.xyz:12346/rtp/239.77.1.109:5146
 CCTV12,http://yulang132.cn:4022/rtp/239.93.1.30:8124
 CCTV13,rtp://@239.77.0.188:5146
 CCTV13,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.109:8000
-CCTV13,http://171.88.68.101:7088/rtp/239.93.0.66:5140
+CCTV13,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.66:5140
 CCTV13,http://o.1680000.xyz:12346/rtp/239.77.0.188:5146
 CCTV13,http://yulang132.cn:4022/rtp/239.93.0.66:5140
 CCTV14,rtp://@239.77.1.161:5146
 CCTV14,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.56:9826
-CCTV14,http://171.88.68.101:7088/rtp/239.93.1.29:6000
+CCTV14,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.1.29:6000
 CCTV14,http://o.1680000.xyz:12346/rtp/239.77.1.161:5146
 CCTV14,http://yulang132.cn:4022/rtp/239.93.1.29:6000
 CCTV15,rtp://@239.77.1.120:5146
 CCTV15,http://www.xinhuaifeiyang.top:6800/rtp/239.49.0.128:8000
-CCTV15,http://171.88.68.101:7088/rtp/239.93.0.103:5140
+CCTV15,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.103:5140
 CCTV15,http://o.1680000.xyz:12346/rtp/239.77.1.120:5146
 CCTV15,http://yulang132.cn:4022/rtp/239.93.0.103:5140
 CCTV16,rtp://@239.77.0.165:5146
 CCTV16,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.31:8000
-CCTV16,http://171.88.68.101:7088/rtp/239.93.42.54:5140
+CCTV16,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.42.54:5140
 CCTV16,http://o.1680000.xyz:12346/rtp/239.77.0.165:5146
 CCTV16,http://yulang132.cn:4022/rtp/239.93.42.54:5140
 CCTV17,rtp://@239.77.1.121:5146
 CCTV17,http://www.xinhuaifeiyang.top:6800/rtp/239.49.8.52:9810
-CCTV17,http://171.88.68.101:7088/rtp/239.93.0.92:5140
+CCTV17,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.92:5140
 CCTV17,http://o.1680000.xyz:12346/rtp/239.77.1.121:5146
 CCTV17,http://yulang132.cn:4022/rtp/239.93.0.92:5140
 CCTV4K,rtp://@239.77.0.194:5146
 CCTV4K,http://www.xinhuaifeiyang.top:6800/rtp/239.49.0.82:8000
-CCTV4K,http://171.88.68.101:7088/rtp/239.93.42.42:5140
+CCTV4K,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.42.42:5140
 CCTV4K,http://o.1680000.xyz:12346/rtp/239.77.0.194:5146
 CCTV4K,http://yulang132.cn:4022/rtp/239.93.42.42:5140
 
@@ -857,19 +847,19 @@ CCTV4K,http://yulang132.cn:4022/rtp/239.93.42.42:5140
 
 儿童频道,#genre#
 
-中录动漫,http://171.88.68.101:7088/rtp/239.93.1.188:5140
-少儿动画,http://171.88.68.101:7088/rtp/239.93.0.193:9000
-亲子趣学,http://171.88.68.101:7088/rtp/239.94.1.156:5140
-百变课堂,http://171.88.68.101:7088/rtp/239.94.1.43:5140
-少儿天地,http://171.88.68.101:7088/rtp/239.94.1.138:5140
-宝宝动画,http://171.88.68.101:7088/rtp/239.94.1.32:5140
-爱宠宠物,http://171.88.68.101:7088/rtp/239.94.1.145:5140
-乐龄学堂,http://171.88.68.101:7088/rtp/239.94.1.155:5140
-青春动漫,http://171.88.68.101:7088/rtp/239.94.1.34:5140
-金鹰卡通,http://223.167.230.34:4022/udp/239.45.0.38:5140
-卡酷少儿,http://223.167.230.34:4022/udp/239.45.0.8:5140
-动漫秀场,http://223.167.230.34:4022/udp/239.45.3.134:5140
-哈哈炫动,http://223.167.230.34:4022/udp/239.45.1.55:5140
+中录动漫,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.1.188:5140
+少儿动画,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.193:9000
+亲子趣学,http://shawn1057.myqnapcloud.com:4022/rtp/239.94.1.156:5140
+百变课堂,http://shawn1057.myqnapcloud.com:4022/rtp/239.94.1.43:5140
+少儿天地,http://shawn1057.myqnapcloud.com:4022/rtp/239.94.1.138:5140
+宝宝动画,http://shawn1057.myqnapcloud.com:4022/rtp/239.94.1.32:5140
+爱宠宠物,http://shawn1057.myqnapcloud.com:4022/rtp/239.94.1.145:5140
+乐龄学堂,http://shawn1057.myqnapcloud.com:4022/rtp/239.94.1.155:5140
+青春动漫,http://shawn1057.myqnapcloud.com:4022/rtp/239.94.1.34:5140
+金鹰卡通,http://shawn1057.myqnapcloud.com:4022/rtp/239.45.0.38:5140
+卡酷少儿,http://liuwenxiaokevin.top:14044/rtp/239.45.0.8:5140
+动漫秀场,http://liuwenxiaokevin.top:14044/rtp/239.45.3.134:5140
+哈哈炫动,http://liuwenxiaokevin.top:14044/rtp/239.45.1.55:5140
 
 广东少儿,http://o.1680000.xyz:12346/rtp/239.77.0.250:5146
 嘉佳卡通,http://o.1680000.xyz:12346/rtp/239.77.0.179:5146
@@ -877,20 +867,10 @@ CCTV4K,http://yulang132.cn:4022/rtp/239.93.42.42:5140
 
 
 其他频道,#genre#
-TVB-EYT,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3QJFFC&tk=zFAWimxU8G80
-TVB-Music,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lmxPXI&tk=zFAWimxU8G80
-TVB-Sports,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DLjmWE&tk=zFAWimxU8G80
-TVB-劇場,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=A0QiN4&tk=zFAWimxU8G80
-TVB-煲劇,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=95RnMQ&tk=zFAWimxU8G80
-TVB-獎門人,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=duatD3&tk=zFAWimxU8G80
-TVB-話當年,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7NfCW6&tk=zFAWimxU8G80
-TVB-識嘆,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=s4ga2k&tk=zFAWimxU8G80
-TVB-識食,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=s0Nylw&tk=zFAWimxU8G80
-TVB-金曲,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XaRZhd&tk=zFAWimxU8G80
-求索纪录,http://171.88.68.101:7088/rtp/239.94.1.142:5140 	
-乐游,http://171.88.68.101:7088/rtp/239.94.1.164:5140
-金鹰纪实,http://171.88.68.101:7088/rtp/239.94.1.1:5140
-环球旅游,http://171.88.68.101:7088/rtp/239.94.1.147:5140
+求索纪录,http://shawn1057.myqnapcloud.com:4022/rtp/239.94.1.142:5140 	
+乐游,http://shawn1057.myqnapcloud.com:4022/rtp/239.94.1.164:5140
+金鹰纪实,http://shawn1057.myqnapcloud.com:4022/rtp/239.94.1.1:5140
+环球旅游,http://shawn1057.myqnapcloud.com:4022/rtp/239.94.1.147:5140
 求索动物,http://ygbh.site/php/bfgd.php?id=287
 求索生活,http://ygbh.site/php/bfgd.php?id=288
 求索地理,http://ygbh.site/php/bfgd.php?id=286
