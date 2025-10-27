@@ -17,21 +17,24 @@
 鳳凰香港,http://vallest.uk/livehttpplay?channel_id=20067
 
 
+中天新聞,http://smt.iptv543.com/Smart.php?id=ctinews
 中天新聞,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新聞,http://tlive24.uk/livehttpplay?channel_id=20163
 中天新聞,http://51.89.166.17:3002/index.php?id=ctinews
 中天新聞,https://smt.passwdword.xyz/Smart.php?id=ctinews
+寰宇新聞,http://smt.iptv543.com/Smart.php?id=huanyuxinwen_twn
 寰宇新聞,http://51.89.166.17:3002/index.php?id=huanyuxinwen_twn
 寰宇新聞,https://smt.passwdword.xyz/Smart.php?id=huanyuxinwen_twn
+TVBS新聞,http://smt.iptv543.com/Smart.php?id=tvbs_n
 TVBS新聞,http://51.89.166.17:3002/index.php?id=tvbs_n
 TVBS新聞,https://smt.passwdword.xyz/Smart.php?id=tvbs_n
+東森新聞,http://smt.iptv543.com/Smart.php?id=ettvnews
 東森新聞,http://51.89.166.17:3002/index.php?id=ettvnews
 東森新聞,https://smt.passwdword.xyz/Smart.php?id=ettvnews
+中視新聞,http://smt.iptv543.com/Smart.php?id=zhongshinews_twn
 中視新聞,http://123.51.136.80:8302/0.ts
 中視新聞,http://51.89.166.17:3002/index.php?id=zhongshinews_twn
 中視新聞,https://smt.passwdword.xyz/Smart.php?id=zhongshinews_twn
-
-
 
 NOW新聞,https://hls.168.us.kg/u/332/master.m3u8
 NOW新聞,https://cdn.163189.xyz/163189/now
@@ -81,18 +84,22 @@ CCTV13,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.66:5140
 广东新闻,http://wmh.wmh.ink:6633/rtp/239.77.0.173:5146
 广东新闻,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.173:5146
 
+
+非凡新聞,http://smt.iptv543.com/Smart.php?id=feifannews_twn
 非凡新聞,http://51.89.166.17:3002/index.php?id=feifannews_twn
 非凡新聞,https://smt.passwdword.xyz/Smart.php?id=feifannews_twn
+年代新聞,http://smt.iptv543.com/Smart.php?id=niandainews_twn
 年代新聞,http://51.89.166.17:3002/index.php?id=niandainews_twn
 年代新聞,https://smt.passwdword.xyz/Smart.php?id=niandainews_twn
+台視新聞,http://smt.iptv543.com/Smart.php?id=ttvnews_twn
 台視新聞,http://123.51.136.80:8314/0.ts
 台視新聞,http://51.89.166.17:3002/index.php?id=ttvnews_twn
 台視新聞,https://smt.passwdword.xyz/Smart.php?id=ttvnews_twn
+民視新聞,http://smt.iptv543.com/Smart.php?id=ftvnew_taiwan
 民視新聞,http://123.51.136.80:8310/0.ts
 民視新聞,http://51.89.166.17:3002/index.php?id=ftvnew_taiwan
 民視新聞,https://smt.passwdword.xyz/Smart.php?id=ftvnew_taiwan
 華視新聞,http://123.51.136.80:8319/0.ts
-
 
 
 
@@ -138,29 +145,39 @@ Now HK Now Sports 7,http://vocotv.pro:80/0000011/0000011/715560
 Now HK Now Sports 4K 616,http://vocotv.pro:80/0000011/0000011/715558
 Now HK Now Sports 4K 617,http://vocotv.pro:80/0000011/0000011/715557
 
+緯來體育,http://smt.iptv543.com/Smart.php?id=videolandsport
 緯來體育,http://51.89.166.17:3002/index.php?id=videolandsport
 緯來體育,https://smt.passwdword.xyz/Smart.php?id=videolandsport
+愛爾達體育1台,http://smt.iptv543.com/Smart.php?id=eltasport_twn
 愛爾達體育1台,http://51.89.166.17:3002/index.php?id=eltasport_twn
 愛爾達體育1台,https://smt.passwdword.xyz/Smart.php?id=eltasport_twn
+愛爾達體育2台,http://smt.iptv543.com/Smart.php?id=eltasport2_twn
 愛爾達體育2台,http://51.89.166.17:3002/index.php?id=eltasport2_twn
 愛爾達體育2台,https://smt.passwdword.xyz/Smart.php?id=eltasport2_twn
+愛爾達體育3台,http://smt.iptv543.com/Smart.php?id=eltasport3_twn
 愛爾達體育3台,http://51.89.166.17:3002/index.php?id=eltasport3_twn
 愛爾達體育3台,https://smt.passwdword.xyz/Smart.php?id=eltasport3_twn
+DAZN1台,http://smt.iptv543.com/Smart.php?id=golfchannel_twn
 DAZN1台,http://51.89.166.17:3002/index.php?id=golfchannel_twn
 DAZN1台,https://smt.passwdword.xyz/Smart.php?id=golfchannel_twn
+博斯運動1台,http://smt.iptv543.com/Smart.php?id=bosisport1_twn
 博斯運動1台,http://51.89.166.17:3002/index.php?id=bosisport1_twn
 博斯運動1台,https://smt.passwdword.xyz/Smart.php?id=bosisport1_twn
+博斯運動2台,http://smt.iptv543.com/Smart.php?id=bosisport2_twn
 博斯運動2台,http://51.89.166.17:3002/index.php?id=bosisport2_twn
 博斯運動2台,https://smt.passwdword.xyz/Smart.php?id=bosisport2_twn
+博斯无限,http://smt.iptv543.com/Smart.php?id=bosiunlimited_twn
 博斯无限,http://51.89.166.17:3002/index.php?id=bosiunlimited_twn
 博斯无限,https://smt.passwdword.xyz/Smart.php?id=bosiunlimited_twn
+博斯高球1,http://smt.iptv543.com/Smart.php?id=bosigolf1_twn
 博斯高球1,http://51.89.166.17:3002/index.php?id=bosigolf1_twn
 博斯高球1,https://smt.passwdword.xyz/Smart.php?id=bosigolf1_twn
+博斯高球2,http://smt.iptv543.com/Smart.php?id=bosigolf2_twn
 博斯高球2,http://51.89.166.17:3002/index.php?id=bosigolf2_twn
 博斯高球2,https://smt.passwdword.xyz/Smart.php?id=bosigolf2_twn
+博斯网球,http://smt.iptv543.com/Smart.php?id=bositennis_twn
 博斯网球,http://51.89.166.17:3002/index.php?id=bositennis_twn
 博斯网球,https://smt.passwdword.xyz/Smart.php?id=bositennis_twn
-
 百事通超级体育,http://liuwenxiaokevin.top:14044/rtp/239.45.3.139:5140
 百事通超级体育,http://op.aklim.dpdns.org:18885/rtp/239.45.3.139:5140
 劲爆体育,http://119.32.12.22:2903/udp/224.1.100.129:11111 
@@ -368,7 +385,6 @@ TVBS新聞,https://smt.passwdword.xyz/Smart.php?id=tvbs_n
 台視新聞,http://123.51.136.80:8314/0.ts
 台視新聞,http://51.89.166.17:3002/index.php?id=ttvnews_twn
 台視新聞,https://smt.passwdword.xyz/Smart.php?id=ttvnews_twn
-
 民視新聞,http://smt.iptv543.com/Smart.php?id=ftvnew_taiwan
 民視新聞,http://123.51.136.80:8310/0.ts
 民視新聞,http://51.89.166.17:3002/index.php?id=ftvnew_taiwan
