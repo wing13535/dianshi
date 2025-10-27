@@ -219,343 +219,282 @@ HBO家庭,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=fyi_twn
 
 
 香港频道,#genre#
-鳳凰中文,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.162:2192
-鳳凰中文,http://home.yixi.pro:10043/rtp/239.93.0.162:2192
 鳳凰中文,http://yulang132.cn:4022/rtp/239.93.0.162:2192
+鳳凰中文,http://home.yixi.pro:10043/rtp/239.93.0.162:2192
+鳳凰中文,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.162:2192
 鳳凰中文,http://108.181.20.181/livehttpplay?channel_id=20065
 鳳凰中文,http://108.181.20.181/livehttpplay?channel_id=30014
-鳳凰中文,http://cdn9.163189.xyz/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
-鳳凰中文,http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
-鳳凰中文,http://182.93.7.202:1001/hls/302/index.m3u8
-鳳凰中文,http://gd.wsd.gd.cn:1698/hls/96/index.m3u8
-鳳凰中文,video://https://m.345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
-鳯凰資訊,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.118:2191
-鳯凰資訊,http://home.yixi.pro:10043/rtp/239.93.0.162:2192
 鳯凰資訊,http://yulang132.cn:4022/rtp/239.93.0.162:2192
+鳯凰資訊,http://home.yixi.pro:10043/rtp/239.93.0.162:2192
+鳯凰資訊,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.118:2191
 鳯凰資訊,http://108.181.20.181/livehttpplay?channel_id=20066
 鳯凰資訊,http://108.181.20.181/livehttpplay?channel_id=30015
-鳯凰資訊,http://cdn9.163189.xyz/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
-鳯凰資訊,http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
-鳯凰資訊,http://182.93.7.202:1001/hls/301/index.m3u8
-鳯凰資訊,http://gd.wsd.gd.cn:1698/hls/95/index.m3u8
-鳯凰資訊,video://https://m.345iptv.com/?act=play&token=e9e7f0e3d724521c49915b4b5c813650&tid=gt&id=2
+鳳凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 鳳凰香港,http://108.181.20.181/livehttpplay?channel_id=20067
 鳳凰香港,http://108.181.20.181/livehttpplay?channel_id=30016
-鳳凰香港,http://cdn9.163189.xyz/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
-鳳凰香港,http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hkphoenix_twn
-鳳凰香港,video://https://m.345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
+鳳凰香港,http://vallest.uk/livehttpplay?channel_id=20067
 
-NOW新聞,http://cdn9.163189.xyz/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 NOW新聞,https://hls.168.us.kg/u/332/master.m3u8
-NOW新聞,http://iptv.4666888.xyz/iptv2A.php?id=81
-NOW新聞,video://https://m.345iptv.com/?act=play&token=82c3117d47e88531368625b93cf3f34b&tid=gt&id=17
-NOW直播,http://iptv.4666888.xyz/iptv2A.php?id=82
-NOW直播,video://https://m.iptv807.com/?act=play&token=9697daa2eff0cb1e4671c30800c6d0ca&tid=gt&id=16
-NOW財經,http://iptv.4666888.xyz/iptv2A.php?id=83
-NOW財經,video://https://m.345iptv.com/?act=play&token=9f2d5f742378d554e6cd0f4a7591c88d&tid=gt&id=18
-HOY78,http://iptv.4666888.xyz/iptv2A.php?id=89
-HOY78,https://hls.168.us.kg/u/78/master.m3u8
-HOY78,video://https://m.345iptv.com/?act=play&token=08f54e8a4affdeb5b28c8b90b4ff7814&tid=gt&id=23
-無線新聞台,http://cdn9.163189.xyz/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-無線新聞台,http://cdn9.163189.xyz/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-無線新聞台,http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
-無線新聞台,http://182.93.7.202:1001/hls/313/index.m3u8
-無線新聞台,https://hls.168.us.kg/u/83/master.m3u8
-無線新聞台,video://http://m.345iptv.com/?act=play&token=bc7918833f7de6b2829ad197ddc05e10&tid=gt&id=6
-娛樂新聞台,http://cdn9.163189.xyz/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
-娛樂新聞台,http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
-娛樂新聞台,http://hkenlive.uk/livehttpplay?channel_id=13006
-娛樂新聞台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19498.ts
+NOW新聞,https://cdn.163189.xyz/163189/now
+NOW新聞,https://yang-1989.eu.org/live/now-332
+無線新聞台,http://hls.168.us.kg/u/83/master.m3u8
+無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+無線新聞台,http://php.jdshipin.com/smt.php?id=inews_twn
+娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 娛樂新聞台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+娛樂新聞台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19498.ts
+NOW直播,http://hls.168.us.kg/u/331/master.m3u8
+NOW财经,http://hls.168.us.kg/u/333/master.m3u8
 
-
-翡翠台,http://cdn9.163189.xyz/mytv.php?url=http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
-翡翠台,http://cdn9.163189.xyz/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
-翡翠台,http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
-翡翠台,http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
-翡翠台,http://cdn9.163189.xyz/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
-翡翠台,http://182.93.7.202:1001/hls/307/index.m3u8
+翡翠台,http://hls.168.us.kg/u/81/master.m3u8
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-翡翠台,video://https://m.345iptv.com/?act=play&token=0414e51b425be184dc3efa0db53e6812&tid=gt&id=5
-明珠台,http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
-明珠台,http://cdn9.163189.xyz/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
-明珠台,http://182.93.7.202:1001/hls/308/index.m3u8
-明珠台,video://http://m.345iptv.com/?act=play&token=d2d94c55f2275567a1d154afbc09587b&tid=gt&id=9
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+明珠台,http://hls.168.us.kg/u/84/master.m3u8
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
 Ftv1时代,http://tlive24.uk/livehttpplay?channel_id=50208
 Ftv2时代,http://tlive24.uk/livehttpplay?channel_id=50318
-翡翠剧集台, http://cdn9.163189.xyz/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
-TVB1, http://cdn9.163189.xyz/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
-TVB Plus,http://cdn9.163189.xyz/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
-TVB Plus,http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
-TVB Plus,video://http://m.345iptv.com/?act=play&token=806785b3e369da03a1bac892904a4ae9&tid=gt&id=8
-TVB J1,http://cdn9.163189.xyz/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
+TVB1, 
+TVB Plus,http://hls.168.us.kg/u/82/master.m3u8
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVB Drama,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14931.ts
 TVBE,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14929.ts
-HOY76,http://iptv.4666888.xyz/iptv2A.php?id=87
-HOY76,video://http://m.345iptv.com/?act=play&token=f8cf68faeb52bf8a195030c0a8bdfae7&tid=gt&id=22
-HOY77,http://cdn9.163189.xyz/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+HOY76,http://hls.168.us.kg/u/76/master.m3u8
+HOY77,http://hls.168.us.kg/u/77/master.m3u8
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-HOY77,video://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc23d0f9&tid=gt&id=24
-ViuTV,http://cdn9.163189.xyz/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
-ViuTV,http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
-ViuTV,http://182.93.7.202:1001/hls/316/index.m3u8
+VIUTV,http://hls.168.us.kg/u/99/master.m3u8
+ViuTV,http://vallest.uk/livehttpplay?channel_id=20131
 ViuTV,http://vallest.uk/livehttpplay?channel_id=30032
-ViuTV,video://http://m.345iptv.com/?act=play&token=c1a1576076dce043a6d844e9a5d1ce91&tid=gt&id=19
-ViuTVSix,http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
-ViuTVSix,http://182.93.7.202:1001/hls/315/index.m3u8
+ViuTVSix,hhttp://hls.168.us.kg/u/96/master.m3u8
+ViuTVSix,http://vallest.uk/livehttpplay?channel_id=20132
 ViuTVSix,http://vallest.uk/livehttpplay?channel_id=30033
-ViuTVSix,video//http://m.345iptv.com/?act=play&token=85e06c79c6d3f5978624277bb8f132e3&tid=gt&id=20
-RTHK31,http://cdn9.163189.xyz/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
-RTHK31,http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK32,http://cdn9.163189.xyz/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
-RTHK32,http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32_twn
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-RTHK32,video://http://m.345iptv.com/?act=play&token=a9e78c79004af6100be6762070cc882e&tid=gt&id=27
-TVB 星河台,http://cdn9.163189.xyz/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
-TVB 星河台,http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+TVB 星河台,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB 星河台,http://php.jdshipin.com/smt.php?id=Xinhe
-TVB 华丽台,http://cdn9.163189.xyz/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
-TVB 华丽台, http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
 TVB 华丽台,http://php.jdshipin.com/smt.php?id=Tvbjade
-TVB 千禧經典台,http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
-TVB 千禧經典台,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+TVB 千禧經典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 TVB 千禧經典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
 TVB 千禧經典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-TVB 千禧經典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-功夫台,http://cdn9.163189.xyz/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
-Mytv亚洲综合台,http://hkenlive.uk/livehttpplay?channel_id=13020
-Mytv黃金翡翠台,http://hkenlive.uk/livehttpplay?channel_id=13027
-Mytv千禧经典台,http://hkenlive.uk/livehttpplay?channel_id=13024
-Mytv 亚洲剧台,http://hkenlive.uk/livehttpplay?channel_id=13022
-Mytv 华语剧台,http://hkenlive.uk/livehttpplay?channel_id=13023
-Mytv 粤语片台,http://hkenlive.uk/livehttpplay?channel_id=13021
-Mytv戏曲台,http://hkenlive.uk/livehttpplay?channel_id=13026
-无线赛马,http://hkenlive.uk/livehttpplay?channel_id=13005
-澳视澳门, http://cdn9.163189.xyz/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
-澳视卫星, http://cdn9.163189.xyz/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
-Astro AOD, http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+功夫台,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+Mytv亚洲综合台,
+Mytv黃金翡翠台,
+Mytv千禧经典台,
+Mytv 亚洲剧台,
+Mytv 华语剧台,
+Mytv 粤语片台,
+Mytv戏曲台,
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
-Astro AEC, http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-爱奇艺, http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-Astro QJ, http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro 欢喜台, http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
 Astro 欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-八度空间, http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
 
-Now爆谷台,http://iptv.4666888.xyz/iptv2A.php?id=6
-Now爆谷台,http://stream-ali1.csslcloud.net/live/vhNli7a2uwqrSArlhBpDjs0wGlm43VLkMnb9OJ2Hzj14qlP0TO.flv
-Now爆谷台,http://hkenlive.uk/livehttpplay?channel_id=13002
-Now星影台,http://iptv.4666888.xyz/iptv2A.php?id=7
-Now星影台,http://stream-ali1.csslcloud.net/live/eZ15T2tea8ztrRlszHaTVfz0EB9nqz8GhiBZHNyMW0Glm43RZt.flv
-Now星影台,http://hkenlive.uk/livehttpplay?channel_id=13003
+
+
+Now爆谷台,http://pulltest-bj.alivecdn.com/live/hktv-09ali20mp.flv
+Now星影台,http://pulltest-bj.alivecdn.com/live/hktv-09ali21mp.flv
 天映電影台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19439.ts
-美亚电影台,https://stream1.freetv.fun/14751a74cb7c132aec1c2d9945f3e316c734aae343f6b217a79eb7bb404070e0.ctv
-美亚电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7CzoCb&tk=zFAWimxU8G80
-美亚电影台, http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
-天映经典, http://cdn9.163189.xyz/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
-重温经典, http://cdn9.163189.xyz/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
+美亚电影台,http://pulltest-bj.alivecdn.com/live/hktv-10ali1.00.4mp.flv
 
-澳门体育, http://cdn9.163189.xyz/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
-NOW英超,http://hkenlive.uk/livehttpplay?channel_id=13007
-NOW SPORT PRIME,http://vocotv.pro:80/gast/gast/715559
 
+NOW英超,
+NOW SPORT PRIME,
 
 
 
 
 台湾频道,#genre#
-中天新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ctinews
 中天新聞,http://tlive24.uk/livehttpplay?channel_id=20163
-中天新聞,video://https://m.345iptv.com/?act=play&token=a5cdc8d8c06b93480b21e313dd248fab&tid=gt&id=43
-寰宇新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=huanyuxinwen_twn
-寰宇新聞,video://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
-TVBS新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=tvbs_n
-TVBS新聞,video://https://m.345iptv.com/?act=play&token=add22ba4f8f5efb49272be34a86e7f12&tid=gt&id=55
-東森新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ettvnews
-東森新聞,video://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
-中視新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=zhongshinews_twn
-中視新聞,video://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
-中天新聞2,https://live.iill.top/youtube/DM_PEM8GrIg
+中天新聞,https://smt.passwdword.xyz/Smart.php?id=ctinews
+寰宇新聞,https://smt.passwdword.xyz/Smart.php?id=huanyuxinwen_twn
+寰宇新聞,
+TVBS新聞,
+TVBS新聞,
+東森新聞,
+東森新聞,
+中視新聞,
+中視新聞,
+中天新聞2,
 
-鏡新聞,video://http://m.345iptv.com/?act=play&token=20a5079da56f52ac6332530b8ae045bc&tid=gt&id=52
-三立新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=sanlitaiwan
-三立新聞,video://http://m.345iptv.com/?act=play&token=5306092da4db4bf69dc2cd81e05c1e2b&tid=gt&id=48
-非凡新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=feifannews_twn
-年代新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=niandainews_twn
-台視新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ttvnews_twn
-台視新聞,video://http://m.345iptv.com/?act=play&token=19416380214a699f16f2a2e6262563ec&tid=gt&id=47
-民視新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ftvnew_taiwan
-民視新聞,video://http://m.345iptv.com/?act=play&token=989c7d8a750ff4bfda95fcae1708bbe7&tid=gt&id=50
-華視新聞,video://http://m.345iptv.com/?act=play&token=077cde05e45f43f87cc3c4c57a152e1e&tid=gt&id=51
-壹電視新聞,P2p://66.42.60.221:6001/685c99fc000d74b80428f89279fbc2e6.ts
-东森财经新闻,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ettvcaijing_twn
-寰宇财经新闻,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=huanyutaiwan_twn
-
-
-
-公視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ctv2_twn
-華視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ctshd_twn
-華視,video://http://m.345iptv.com/?act=play&token=d835edf85041fa76c82e4e1f846bf67b&tid=gt&id=63
-民視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ftvhd_taiwan
-民視,video://http://m.345iptv.com/?act=play&token=499b6a8677702cdead3d1acb4ee763f6&tid=gt&id=62
-台視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ttv_taiwan
-台視,video://http://m.345iptv.com/?act=play&token=3566a94ef8f056a92ba7d6bc3adae830&tid=gt&id=61
-中視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=zhongshihd_twn
-中視,video://http://m.345iptv.com/?act=play&token=5ef10e1554d809f389a139596e22d6e4&tid=gt&id=60
-民事第一台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=lunghuajingdian_twn
-八大第一台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=badafirst
-八大綜合台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=badazhonghe
-八大戏剧台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=badadrama
-八大精彩台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-8-0.html
-八大综艺台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=badaentertain
-東森戏剧台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ettvdrama
-東森超視台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ettvsuper
-東森超視台,video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-3-26-0.html
-東森綜合台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ettvzhonghe
-東森綜合台,video://http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dszh.flv
-台视綜合台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ttvzhonghe
-民視第一台,video://https://www.iptv345.com/?act=play&token=4c59b34621aeae390a428d5eb8b7133b&tid=gt&id=68
-民視台灣台,video://https://www.iptv345.com/?act=play&token=d98214673b538ff2a92babbd40e2081e&tid=gt&id=67
-三立都会台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=sanlidouhui
-三立綜合台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=sanlizhonghe
-三立台灣台,video://https://www.iptv345.com/?act=play&token=593667076591cf28328bcf00f3b903a7&tid=gt&id=65
-緯來綜合台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=videolandzonghe
-緯來日本台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=videolandjapan
-緯來日本台,video://https://www.iptv345.com/?act=play&token=8ecf2741d3c58d4dd2c2991a4082ca20&tid=gt&id=74
-緯來育樂台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=videolandyule
-緯來精彩台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=videolandspecial_twn
-愛爾達綜合台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=eltazonghe_twn
-中天娱乐台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ctient
-中天綜合台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ctizhonghe
-中天亞洲台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19449.ts
-中天亞洲台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ctiasia_twn
-中视经典,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=zhongshi_twn
-TVBS,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=tvbs
-TVBS,video://https://m.345iptv.com/?act=play&token=8aee5650643fb3ab99b2bb7ca38c3ee1&tid=gt&id=56
-TVBS歡樂台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=tvbshuanle_twn
-TVBS歡樂台,video://https://www.iptv345.com/?act=play&token=e0d20cfbeade4e861b1fe465e7537459&tid=gt&id=57
-民視综艺台,video://https://www.iptv345.com/?act=play&token=ccced8f154c1afd8a0bb8b9975b889c5&tid=gt&id=69
-民視旅游台,video://https://www.iptv345.com/?act=play&token=f925268120581fc2947bc629a981628b&tid=gt&id=70
-民視台湾台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ftvtaiwan_twn
-寰宇台湾台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-124-0.html
-靖天国际,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=jingtianintl_twn
-三立戲劇台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=sanlixiju_twn
-民視影劇台,video://https://www.iptv345.com/?act=play&token=18c3eb13d094d850b0fac309d55fb1b2&tid=gt&id=71
-愛爾達影劇台,vhttp://adorable-davita-2d133c54.koyeb.app/smt.php?id=eltayingju_twn
-愛爾達影劇台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-112-0.html
-龍華戲劇台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=lunghuaxiju_twn
-龍華戲劇台,http://cdn9.163189.xyz/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
-龍華日韓台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-104-0.html
-龍華日韓台, http://cdn9.163189.xyz/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
-龍華偶像台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=lunghuaidol_twn
-龍華偶像台,http://cdn9.163189.xyz/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhox/stream.m3u8
-龍華经典,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=lunghuajingdian_twn
-靖洋戲劇台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-98-0.html
-EYETV戏剧,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=eyetvxiju_twn
-大爱1台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=daai_twn
-大爱2台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=daai2_twn
-好消息2,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=good2_twn
-华艺综合,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=weishichinese_twn
+鏡新聞,
+三立新聞,
+三立新聞,
+非凡新聞,
+年代新聞,
+台視新聞,
+台視新聞,
+民視新聞,
+民視新聞,
+華視新聞,
+壹電視新聞,
+东森财经新闻,
+寰宇财经新闻,
 
 
-緯來電影台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=videolandmovie
-東森電影台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ettvmovie
-東森洋片,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ettvwestern
-龍華電影,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=xingwei_movie
-龍華電影,http://cdn9.163189.xyz/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
-龍華洋片,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=lunghuawestern_twn
-龍華洋片,http://cdn9.163189.xyz/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
-龍華經典,http://cdn9.163189.xyz/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
-HOB,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=hbohd_twn
-AMC,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-1-0.html
-ARIRANG,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=arirang_twn
-AXN电影,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=axn_twn
-CINEMAX,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cinemax_twn
-HBO家庭,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=fyi_twn
-好莱坞电影,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=hollywoodmovies_twn
-龙祥电影,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=lungxiangtime_twn
-
-緯來體育,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=videolandsport
-緯來體育,video://https://www.iptv345.com/?act=play&token=baa6a6711c09d4c8ab6abe3ea9a430d3&tid=gt&id=73
-緯來體育,video://https://yibababa.com/tv/tw/weilai-sport.html
-愛爾達體育1台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=eltasport_twn
-愛爾達體育2台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=eltasport2_twn
-愛爾達體育3台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=eltasport3_twn
-DAZN1台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=golfchannel_twn
-博斯運動1台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=bosisport1_twn
-博斯運動2台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=bosisport2_twn
-博斯无限,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=bosiunlimited_twn
-博斯高球1,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=bosigolf1_twn
-博斯高球2,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=bosigolf2_twn
-博斯网球,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=bositennis_twn
-
-靖天卡通,https://litv.858.qzz.io/litv.php?id=4gtv-4gtv044
-东森幼幼,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=yoyo_twn
-龙华卡通台,http://cdn9.163189.xyz/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
-靖天卡通台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=jingtiancartoon_twn
-
-Smart知識台,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-3-133-0.html
-亞洲旅遊台,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=asiatravel_twn
-探索亚洲,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=discoverytwn_twn
-国家地理,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=natgeohd_twn
-野生动物,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=natgeowild_twn
-动物星球,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=animalplanet_twn
-美食星球,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=foodplanet_twn
-亚洲美食,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=afc_twn
-亚洲TLC,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=tlc_twn
-EYETV旅游,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=eyetvtravel_twn
-MTV,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=mtvhd_twn
-Discovery,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=discoverytwn_twn
+公視,
+華視,
+華視,
+民視,
+民視,
+台視,
+台視,
+中視,
+中視,
+民事第一台,
+八大第一台,
+八大綜合台,
+八大戏剧台,
+八大精彩台,
+八大综艺台,
+東森戏剧台,
+東森超視台,
+東森超視台,
+東森綜合台,
+東森綜合台,
+台视綜合台,
+民視第一台,
+民視台灣台,
+三立都会台,
+三立綜合台,
+三立台灣台,
+緯來綜合台,
+緯來日本台,
+緯來日本台,
+緯來育樂台,
+緯來精彩台,
+愛爾達綜合台,
+中天娱乐台,
+中天綜合台,
+中天亞洲台,
+中天亞洲台,
+中视经典,
+TVBS,
+TVBS,
+TVBS歡樂台,
+TVBS歡樂台,
+民視综艺台,
+民視旅游台,
+民視台湾台,
+寰宇台湾台,
+靖天国际,
+三立戲劇台,
+民視影劇台,
+愛爾達影劇台,
+愛爾達影劇台,
+龍華戲劇台,
+龍華戲劇台,
+龍華日韓台,
+龍華日韓台,
+龍華偶像台,
+龍華偶像台,
+龍華经典,
+靖洋戲劇台,
+EYETV戏剧,
+大爱1台,
+大爱2台,
+好消息2,
+华艺综合,
+緯來電影台,
+東森電影台,
+東森洋片,
+龍華電影,
+龍華電影,
+龍華洋片,
+龍華洋片,
+龍華經典,
+HOB,
+AMC,
+ARIRANG,
+AXN电影,
+CINEMAX,
+HBO家庭,
+好莱坞电影,
+龙祥电影,
+緯來體育,
+緯來體育,
+緯來體育,
+愛爾達體育1台,
+愛爾達體育2台,
+愛爾達體育3台,
+DAZN1台,
+博斯運動1台,
+博斯運動2台,
+博斯无限,
+博斯高球1,
+博斯高球2,
+博斯网球,
+靖天卡通,
+东森幼幼,
+龙华卡通台,
+靖天卡通台,
+Smart知識台,
+亞洲旅遊台,
+探索亚洲,
+国家地理,
+野生动物,
+动物星球,
+美食星球,
+亚洲美食,
+亚洲TLC,
+EYETV旅游,
+MTV,
+Discovery,
 
 
 
 广东频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
 广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育, http://cdn9.163189.xyz/mytv.php?url=http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
-广东体育,hhttp://61.145.188.90:50005/rtp/239.77.0.168:5146
+广东体育,http://ikuai.haleeyo.cn:9003/rtp/239.77.0.168:5146
+广东体育,http://61.145.188.90:50005/rtp/239.77.0.168:5146
 广东体育,http://dq.eric702.top:8800/rtp/239.77.0.168:5146
 广东体育,http://wmh.wmh.ink:6633/rtp/239.77.0.168:5146
 广东体育,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.168:5146
 广东民生,rtp://@239.77.0.225:5146
-广东民生,http://61.145.188.90:50005/rtp/239.77.0.168:5146
+广东民生,http://ikuai.haleeyo.cn:9003/rtp/239.77.0.225:5146
+广东民生,http://61.145.188.90:50005/rtp/239.77.0.225:5146
 广东民生,http://dq.eric702.top:8800/rtp/239.77.0.225:5146
 广东民生,http://wmh.wmh.ink:6633/rtp/239.77.0.225:5146
 广东民生,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.225:5146
 广东新闻,rtp://@239.77.0.173:5146
-广东新闻,http://61.145.188.90:50005/rtp/239.77.0.168:5146
+广东新闻,http://ikuai.haleeyo.cn:9003/rtp/239.77.0.173:5146
+广东新闻,http://61.145.188.90:50005/rtp/239.77.0.173:5146
 广东新闻,http://dq.eric702.top:8800/rtp/239.77.0.173:5146
 广东新闻,http://wmh.wmh.ink:6633/rtp/239.77.0.173:5146
 广东新闻,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.173:5146
 广东珠江,rtp://@239.77.0.1:5146
-广东珠江, http://cdn9.163189.xyz/mytv.php?url=http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
-广东珠江,hhttp://61.145.188.90:50005/rtp/239.77.0.168:5146
+广东珠江,http://ikuai.haleeyo.cn:9003/rtp/239.77.0.114:5146
+广东珠江,http://61.145.188.90:50005/rtp/239.77.0.114:5146
 广东珠江,http://dq.eric702.top:8800/rtp/239.77.0.114:5146
 广东珠江,http://wmh.wmh.ink:6633/rtp/239.77.0.1:5146
 广东珠江,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.114:5146
 大湾区卫视,rtp://@239.77.0.215:5146
-大湾区卫视,http://61.145.188.90:50005/rtp/239.77.0.168:5146
+大湾区卫视,http://ikuai.haleeyo.cn:9003/rtp/239.77.0.215:5146
+大湾区卫视,http://61.145.188.90:50005/rtp/239.77.0.215:5146
 大湾区卫视,http://dq.eric702.top:8800/rtp/239.77.0.215:5146
 大湾区卫视,http://wmh.wmh.ink:6633/rtp/239.77.0.215:5146
 大湾区卫视,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.215:5146
 广东影视,rtp://@239.77.0.217:5146
-广东影视,http://61.145.188.90:50005/rtp/239.77.0.168:5146
+广东影视,http://ikuai.haleeyo.cn:9003/rtp/239.77.0.217:5146
+广东影视,http://61.145.188.90:50005/rtp/239.77.0.217:5146
 广东影视,http://dq.eric702.top:8800/rtp/239.77.0.217:5146
 广东影视,http://wmh.wmh.ink:6633/rtp/239.77.0.217:5146
 广东影视,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.217:5146
 广东卫视,rtp://@239.77.1.19:5146
-广东卫视,http://61.145.188.90:50005/rtp/239.77.0.168:5146
+广东卫视,http://ikuai.haleeyo.cn:9003/rtp/239.77.0.19:5146
+广东卫视,http://61.145.188.90:50005/rtp/239.77.0.19:5146
 广东卫视,http://dq.eric702.top:8800/rtp/239.77.1.19:5146
 广东卫视,http://wmh.wmh.ink:6633/rtp/239.77.1.19:5146
 广东卫视,http://yahao.myqnapcloud.com:4022/rtp/239.77.1.19:5146
 广东经济,rtp://@239.77.0.167:5146
-广东经济,http://61.145.188.90:50005/rtp/239.77.0.168:5146
+广东经济,http://ikuai.haleeyo.cn:9003/rtp/239.77.0.85:5146
+广东经济,http://61.145.188.90:50005/rtp/239.77.0.85:5146
 广东经济,http://dq.eric702.top:8800/rtp/239.77.0.85:5146
 广东经济,http://wmh.wmh.ink:6633/rtp/239.77.0.85:5146
 广东经济,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.85:5146
@@ -874,5 +813,3 @@ CCTV4K,http://yulang132.cn:4022/rtp/239.93.42.42:5140
 求索动物,http://ygbh.site/php/bfgd.php?id=287
 求索生活,http://ygbh.site/php/bfgd.php?id=288
 求索地理,http://ygbh.site/php/bfgd.php?id=286
-
-
