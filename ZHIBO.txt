@@ -339,200 +339,288 @@ Now HK Now Sports 4K 617,http://vocotv.pro:80/0000011/0000011/715557
 
 
 台湾频道,#genre#
+中天新聞,http://smt.iptv543.com/Smart.php?id=ctinews
 中天新聞,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新聞,http://tlive24.uk/livehttpplay?channel_id=20163
 中天新聞,http://51.89.166.17:3002/index.php?id=ctinews
 中天新聞,https://smt.passwdword.xyz/Smart.php?id=ctinews
+寰宇新聞,http://smt.iptv543.com/Smart.php?id=huanyuxinwen_twn
 寰宇新聞,http://51.89.166.17:3002/index.php?id=huanyuxinwen_twn
 寰宇新聞,https://smt.passwdword.xyz/Smart.php?id=huanyuxinwen_twn
+TVBS新聞,http://smt.iptv543.com/Smart.php?id=tvbs_n
 TVBS新聞,http://51.89.166.17:3002/index.php?id=tvbs_n
 TVBS新聞,https://smt.passwdword.xyz/Smart.php?id=tvbs_n
+東森新聞,http://smt.iptv543.com/Smart.php?id=ettvnews
 東森新聞,http://51.89.166.17:3002/index.php?id=ettvnews
 東森新聞,https://smt.passwdword.xyz/Smart.php?id=ettvnews
+中視新聞,http://smt.iptv543.com/Smart.php?id=zhongshinews_twn
 中視新聞,http://123.51.136.80:8302/0.ts
 中視新聞,http://51.89.166.17:3002/index.php?id=zhongshinews_twn
 中視新聞,https://smt.passwdword.xyz/Smart.php?id=zhongshinews_twn
 
+非凡新聞,http://smt.iptv543.com/Smart.php?id=feifannews_twn
 非凡新聞,http://51.89.166.17:3002/index.php?id=feifannews_twn
 非凡新聞,https://smt.passwdword.xyz/Smart.php?id=feifannews_twn
+年代新聞,http://smt.iptv543.com/Smart.php?id=niandainews_twn
 年代新聞,http://51.89.166.17:3002/index.php?id=niandainews_twn
 年代新聞,https://smt.passwdword.xyz/Smart.php?id=niandainews_twn
+台視新聞,http://smt.iptv543.com/Smart.php?id=ttvnews_twn
 台視新聞,http://123.51.136.80:8314/0.ts
 台視新聞,http://51.89.166.17:3002/index.php?id=ttvnews_twn
 台視新聞,https://smt.passwdword.xyz/Smart.php?id=ttvnews_twn
+
+民視新聞,http://smt.iptv543.com/Smart.php?id=ftvnew_taiwan
 民視新聞,http://123.51.136.80:8310/0.ts
 民視新聞,http://51.89.166.17:3002/index.php?id=ftvnew_taiwan
 民視新聞,https://smt.passwdword.xyz/Smart.php?id=ftvnew_taiwan
 華視新聞,http://123.51.136.80:8319/0.ts
 
-
+公視,http://smt.iptv543.com/Smart.php?id=ctv_taiwan
 公視,http://123.51.136.80:8305/0.ts
 公視,,http://51.89.166.17:3002/index.php?id=ctv_taiwan
 公視,https://smt.passwdword.xyz/Smart.php?id=ctv_taiwan
+華視,http://smt.iptv543.com/Smart.php?id=ctshd_twn
 華視,http://123.51.136.80:8317/0.ts
-華視,,http://51.89.166.17:3002/index.php?id=ctshd_twn
+華視,http://51.89.166.17:3002/index.php?id=ctshd_twn
 華視,https://smt.passwdword.xyz/Smart.php?id=ctshd_twn
+民視,http://smt.iptv543.com/Smart.php?id=ftvhd_taiwan
 民視,http://123.51.136.80:8308/0.ts
-民視,,http://51.89.166.17:3002/index.php?id=ftvhd_taiwan
+民視,http://51.89.166.17:3002/index.php?id=ftvhd_taiwan
 民視,https://smt.passwdword.xyz/Smart.php?id=ftvhd_taiwan
+台視,http://smt.iptv543.com/Smart.php?id=ttv_taiwan
 台視,http://123.51.136.80:8313/0.ts
-台視,,http://51.89.166.17:3002/index.php?id=ttv_taiwan
+台視,http://51.89.166.17:3002/index.php?id=ttv_taiwan
 台視,https://smt.passwdword.xyz/Smart.php?id=ttv_taiwan
+中視,http://smt.iptv543.com/Smart.php?id=zhongshihd_twn
 中視,http://123.51.136.80:8301/0.ts
-中視,,http://51.89.166.17:3002/index.php?id=zhongshihd_twn
+中視,http://51.89.166.17:3002/index.php?id=zhongshihd_twn
 中視,https://smt.passwdword.xyz/Smart.php?id=zhongshihd_twn
 民事第一台,http://123.51.136.80:8309/0.ts
+八大第一台,http://smt.iptv543.com/Smart.php?id=badafirst
 八大第一台,http://51.89.166.17:3002/index.php?id=badafirst
 八大第一台,https://smt.passwdword.xyz/Smart.php?id=badafirst
+八大綜合台,http://smt.iptv543.com/Smart.php?id=badazhonghe
 八大綜合台,http://51.89.166.17:3002/index.php?id=badazhonghe
 八大綜合台,https://smt.passwdword.xyz/Smart.php?id=badazhonghe
+八大戏剧台,http://smt.iptv543.com/Smart.php?id=badadrama
 八大戏剧台,http://51.89.166.17:3002/index.php?id=badadrama
 八大戏剧台,https://smt.passwdword.xyz/Smart.php?id=badadrama
+八大娱乐台,http://smt.iptv543.com/Smart.php?id=badaentertain
 八大娱乐台,http://51.89.166.17:3002/index.php?id=badaentertain
 八大娱乐台,https://smt.passwdword.xyz/Smart.php?id=badaentertain
+東森戏剧台,http://smt.iptv543.com/Smart.php?id=ettvdrama
 東森戏剧台,http://51.89.166.17:3002/index.php?id=ettvdrama
 東森戏剧台,https://smt.passwdword.xyz/Smart.php?id=ettvdrama
+東森超視台,http://smt.iptv543.com/Smart.php?id=ettvsuper
 東森超視台,http://51.89.166.17:3002/index.php?id=ettvsuper
 東森超視台,https://smt.passwdword.xyz/Smart.php?id=ettvsuper
+東森綜合台,http://smt.iptv543.com/Smart.php?id=ettvzhonghe
 東森綜合台,http://51.89.166.17:3002/index.php?id=ettvzhonghe
 東森綜合台,https://smt.passwdword.xyz/Smart.php?id=ettvzhonghe
 
+
+
 台视綜合台,http://123.51.136.80:8316/0.ts
 民視台灣台,http://123.51.136.80:8311/0.ts
+三立戏剧台,http://smt.iptv543.com/Smart.php?id=sanlixiju_twn
 三立戏剧台,http://51.89.166.17:3002/index.php?id=sanlixiju_twn
 三立戏剧台,https://smt.passwdword.xyz/Smart.php?id=sanlixiju_twn
+三立都会台,http://smt.iptv543.com/Smart.php?id=sanlidouhui
 三立都会台,http://51.89.166.17:3002/index.php?id=sanlidouhui
 三立都会台,https://smt.passwdword.xyz/Smart.php?id=sanlidouhui
+三立綜合台,http://smt.iptv543.com/Smart.php?id=sanlizhonghe
 三立綜合台,http://51.89.166.17:3002/index.php?id=sanlizhonghe
 三立綜合台,https://smt.passwdword.xyz/Smart.php?id=sanlizhonghe
+三立台灣台,http://smt.iptv543.com/Smart.php?id=sanlitaiwan
 三立台灣台,http://51.89.166.17:3002/index.php?id=sanlitaiwan
 三立台灣台,https://smt.passwdword.xyz/Smart.php?id=sanlitaiwan
+緯來綜合台,http://smt.iptv543.com/Smart.php?id=videolandyule
 緯來綜合台,http://51.89.166.17:3002/index.php?id=videolandyule
 緯來綜合台,https://smt.passwdword.xyz/Smart.php?id=videolandyule
+緯來日本台,http://smt.iptv543.com/Smart.php?id=videolandjapan
 緯來日本台,http://51.89.166.17:3002/index.php?id=videolandjapan
 緯來日本台,https://smt.passwdword.xyz/Smart.php?id=videolandjapan
+緯來育樂台,http://smt.iptv543.com/Smart.php?id=videolandyule
 緯來育樂台,http://51.89.166.17:3002/index.php?id=videolandyule
 緯來育樂台,https://smt.passwdword.xyz/Smart.php?id=videolandyule
+緯來精彩台,http://smt.iptv543.com/Smart.php?id=videolandspecial_twn
 緯來精彩台,http://51.89.166.17:3002/index.php?id=videolandspecial_twn
 緯來精彩台,https://smt.passwdword.xyz/Smart.php?id=videolandspecial_twn
+愛爾達綜合台,http://smt.iptv543.com/Smart.php?id=eltazonghe_twn
 愛爾達綜合台,http://51.89.166.17:3002/index.php?id=eltazonghe_twn
 愛爾達綜合台,https://smt.passwdword.xyz/Smart.php?id=eltazonghe_twn
+中天娱乐台,http://smt.iptv543.com/Smart.php?id=ctient
 中天娱乐台,http://51.89.166.17:3002/index.php?id=ctient
 中天娱乐台,https://smt.passwdword.xyz/Smart.php?id=ctient
+中天綜合台,http://smt.iptv543.com/Smart.php?id=ctizhonghe
 中天綜合台,http://51.89.166.17:3002/index.php?id=ctizhonghe
 中天綜合台,https://smt.passwdword.xyz/Smart.php?id=ctizhonghe
+中天亞洲台,http://smt.iptv543.com/Smart.php?id=ctiasia_twn
 中天亞洲台,http://51.89.166.17:3002/index.php?id=ctiasia_twn
 中天亞洲台,https://smt.passwdword.xyz/Smart.php?id=ctiasia_twn
+TVBS,http://smt.iptv543.com/Smart.php?id=tvbs
 TVBS,http://51.89.166.17:3002/index.php?id=tvbs
 TVBS,https://smt.passwdword.xyz/Smart.php?id=tvbs
+TVBS歡樂台,http://smt.iptv543.com/Smart.php?id=tvbshuanle_twn
 TVBS歡樂台,http://51.89.166.17:3002/index.php?id=tvbshuanle_twn
 TVBS歡樂台,https://smt.passwdword.xyz/Smart.php?id=tvbshuanle_twn
+民视台湾台,http://smt.iptv543.com/Smart.php?id=ftvtaiwan_twn
 民视台湾台,http://51.89.166.17:3002/index.php?id=ftvtaiwan_twn
 民视台湾台,https://smt.passwdword.xyz/Smart.php?id=ftvtaiwan_twn
+寰宇台湾台,http://smt.iptv543.com/Smart.php?id=huanyuxinwen_twn
 寰宇台湾台,http://51.89.166.17:3002/index.php?id=huanyuxinwen_twn
 寰宇台湾台,https://smt.passwdword.xyz/Smart.php?id=huanyuxinwen_twn
+靖天国际,http://smt.iptv543.com/Smart.php?id=jingtianintl_twn
 靖天国际,http://51.89.166.17:3002/index.php?id=jingtianintl_twn
 靖天国际,https://smt.passwdword.xyz/Smart.php?id=jingtianintl_twn
+三立戲劇台,http://smt.iptv543.com/Smart.php?id=sanlixiju_twn
 三立戲劇台,http://51.89.166.17:3002/index.php?id=sanlixiju_twn
 三立戲劇台,https://smt.passwdword.xyz/Smart.php?id=sanlixiju_twn
+龍華戲劇台,http://smt.iptv543.com/Smart.php?id=lunghuaxiju_twn
 龍華戲劇台,http://51.89.166.17:3002/index.php?id=lunghuaxiju_twn
 龍華戲劇台,https://smt.passwdword.xyz/Smart.php?id=lunghuaxiju_twn
+龍華偶像台,http://smt.iptv543.com/Smart.php?id=lunghuaidol_twn
 龍華偶像台,http://51.89.166.17:3002/index.php?id=lunghuaidol_twn
 龍華偶像台,https://smt.passwdword.xyz/Smart.php?id=lunghuaidol_twn
+龍華经典,http://smt.iptv543.com/Smart.php?id=lunghuajingdian_twn
 龍華经典,http://51.89.166.17:3002/index.php?id=lunghuajingdian_twn
 龍華经典,https://smt.passwdword.xyz/Smart.php?id=lunghuajingdian_twn
+EYETV戏剧,http://smt.iptv543.com/Smart.php?id=eltayingju_twn
 EYETV戏剧,http://51.89.166.17:3002/index.php?id=eltayingju_twn
-EYETV戏剧,http://51.89.166.17:3002/index.php?id=eltayingju_twn
+EYETV戏剧,https://smt.passwdword.xyz/Smart.php?id=eltayingju_twn
+大爱1台,http://smt.iptv543.com/Smart.php?id=daai_twn
 大爱1台,http://51.89.166.17:3002/index.php?id=daai_twn
 大爱1台,https://smt.passwdword.xyz/Smart.php?id=daai_twn
+大爱2台,http://smt.iptv543.com/Smart.php?id=daai2_twn
 大爱2台,http://51.89.166.17:3002/index.php?id=daai2_twn
 大爱2台,https://smt.passwdword.xyz/Smart.php?id=daai2_twn
+华艺综合,http://smt.iptv543.com/Smart.php?id=weishichinese_twn
 华艺综合,http://51.89.166.17:3002/index.php?id=weishichinese_twn
 华艺综合,https://smt.passwdword.xyz/Smart.php?id=weishichinese_twn
 
 
+
+緯來電影台,http://smt.iptv543.com/Smart.php?id=videolandmovie
 緯來電影台,http://51.89.166.17:3002/index.php?id=videolandmovie
 緯來電影台,https://smt.passwdword.xyz/Smart.php?id=videolandmovie
-緯來電影台,http://51.89.166.17:3002/index.php?id=videolandmovie
-緯來電影台,https://smt.passwdword.xyz/Smart.php?id=videolandmovie
+東森電影台,http://smt.iptv543.com/Smart.php?id=ettvmovie
 東森電影台,http://51.89.166.17:3002/index.php?id=ettvmovie
 東森電影台,https://smt.passwdword.xyz/Smart.php?id=ettvmovie
+東森洋片,http://smt.iptv543.com/Smart.php?id=ettvwestern
 東森洋片,http://51.89.166.17:3002/index.php?id=ettvwestern
 東森洋片,https://smt.passwdword.xyz/Smart.php?id=ettvwestern
+龍華電影,http://smt.iptv543.com/Smart.php?id=xingwei_movie
 龍華電影,http://51.89.166.17:3002/index.php?id=xingwei_movie
 龍華電影,https://smt.passwdword.xyz/Smart.php?id=xingwei_movie
+龍華洋片,http://smt.iptv543.com/Smart.php?id=lunghuawestern_twn
 龍華洋片,http://51.89.166.17:3002/index.php?id=lunghuawestern_twn
 龍華洋片,https://smt.passwdword.xyz/Smart.php?id=lunghuawestern_twn
+龍華經典,http://smt.iptv543.com/Smart.php?id=lunghuajingdian_twn
 龍華經典,http://51.89.166.17:3002/index.php?id=lunghuajingdian_twn
 龍華經典,https://smt.passwdword.xyz/Smart.php?id=lunghuajingdian_twn
+HOB,http://smt.iptv543.com/Smart.php?id=hbohd_twn
 HOB,http://51.89.166.17:3002/index.php?id=hbohd_twn
 HOB,https://smt.passwdword.xyz/Smart.php?id=hbohd_twn
+AMC,http://smt.iptv543.com/Smart.php?id=axn_twn
 AMC,http://51.89.166.17:3002/index.php?id=axn_twn
 AMC,https://smt.passwdword.xyz/Smart.php?id=axn_twn
+ARIRANG,http://smt.iptv543.com/Smart.php?id=arirang_twn
 ARIRANG,http://51.89.166.17:3002/index.php?id=arirang_twn
 ARIRANG,https://smt.passwdword.xyz/Smart.php?id=arirang_twn
+AXN电影,http://smt.iptv543.com/Smart.php?id=axn_twn
 AXN电影,http://51.89.166.17:3002/index.php?id=axn_twn
 AXN电影,https://smt.passwdword.xyz/Smart.php?id=axn_twn
+CINEMAX,http://smt.iptv543.com/Smart.php?id=cinemax_twn
 CINEMAX,http://51.89.166.17:3002/index.php?id=cinemax_twn
 CINEMAX,https://smt.passwdword.xyz/Smart.php?id=cinemax_twn
+HBO家庭,http://smt.iptv543.com/Smart.php?id=hbohit_twn
 HBO家庭,http://51.89.166.17:3002/index.php?id=hbohit_twn
 HBO家庭,https://smt.passwdword.xyz/Smart.php?id=hbohit_twn
+好莱坞电影,http://smt.iptv543.com/Smart.php?id=hollywoodmovies_twn
 好莱坞电影,http://51.89.166.17:3002/index.php?id=hollywoodmovies_twn
 好莱坞电影,https://smt.passwdword.xyz/Smart.php?id=hollywoodmovies_twn
+龙祥电影,http://smt.iptv543.com/Smart.php?id=lungxiangtime_twn
 龙祥电影,http://51.89.166.17:3002/index.php?id=lungxiangtime_twn
 龙祥电影,https://smt.passwdword.xyz/Smart.php?id=lungxiangtime_twn
 
+緯來體育,http://smt.iptv543.com/Smart.php?id=videolandsport
 緯來體育,http://51.89.166.17:3002/index.php?id=videolandsport
 緯來體育,https://smt.passwdword.xyz/Smart.php?id=videolandsport
+愛爾達體育1台,http://smt.iptv543.com/Smart.php?id=eltasport_twn
 愛爾達體育1台,http://51.89.166.17:3002/index.php?id=eltasport_twn
 愛爾達體育1台,https://smt.passwdword.xyz/Smart.php?id=eltasport_twn
+愛爾達體育2台,http://smt.iptv543.com/Smart.php?id=eltasport2_twn
 愛爾達體育2台,http://51.89.166.17:3002/index.php?id=eltasport2_twn
 愛爾達體育2台,https://smt.passwdword.xyz/Smart.php?id=eltasport2_twn
+愛爾達體育3台,http://smt.iptv543.com/Smart.php?id=eltasport3_twn
 愛爾達體育3台,http://51.89.166.17:3002/index.php?id=eltasport3_twn
 愛爾達體育3台,https://smt.passwdword.xyz/Smart.php?id=eltasport3_twn
+DAZN1台,http://smt.iptv543.com/Smart.php?id=golfchannel_twn
 DAZN1台,http://51.89.166.17:3002/index.php?id=golfchannel_twn
 DAZN1台,https://smt.passwdword.xyz/Smart.php?id=golfchannel_twn
+博斯運動1台,http://smt.iptv543.com/Smart.php?id=bosisport1_twn
 博斯運動1台,http://51.89.166.17:3002/index.php?id=bosisport1_twn
 博斯運動1台,https://smt.passwdword.xyz/Smart.php?id=bosisport1_twn
+博斯運動2台,http://smt.iptv543.com/Smart.php?id=bosisport2_twn
 博斯運動2台,http://51.89.166.17:3002/index.php?id=bosisport2_twn
 博斯運動2台,https://smt.passwdword.xyz/Smart.php?id=bosisport2_twn
+博斯无限,http://smt.iptv543.com/Smart.php?id=bosiunlimited_twn
 博斯无限,http://51.89.166.17:3002/index.php?id=bosiunlimited_twn
 博斯无限,https://smt.passwdword.xyz/Smart.php?id=bosiunlimited_twn
+博斯高球1,http://smt.iptv543.com/Smart.php?id=bosigolf1_twn
 博斯高球1,http://51.89.166.17:3002/index.php?id=bosigolf1_twn
 博斯高球1,https://smt.passwdword.xyz/Smart.php?id=bosigolf1_twn
+博斯高球2,http://smt.iptv543.com/Smart.php?id=bosigolf2_twn
 博斯高球2,http://51.89.166.17:3002/index.php?id=bosigolf2_twn
 博斯高球2,https://smt.passwdword.xyz/Smart.php?id=bosigolf2_twn
+博斯网球,http://smt.iptv543.com/Smart.php?id=bositennis_twn
 博斯网球,http://51.89.166.17:3002/index.php?id=bositennis_twn
 博斯网球,https://smt.passwdword.xyz/Smart.php?id=bositennis_twn
 
 
+
+东森幼幼,http://smt.iptv543.com/Smart.php?id=yoyo_twn
 东森幼幼,http://51.89.166.17:3002/index.php?id=yoyo_twn
 东森幼幼,https://smt.passwdword.xyz/Smart.php?id=yoyo_twn
+靖天卡通台,http://smt.iptv543.com/Smart.php?id=jingtiancartoon_twn
 靖天卡通台,http://51.89.166.17:3002/index.php?id=jingtiancartoon_twn
 靖天卡通台,https://smt.passwdword.xyz/Smart.php?id=jingtiancartoon_twn
 
+
+探索亚洲,http://smt.iptv543.com/Smart.php?id=discoverytwn_twn
 探索亚洲,http://51.89.166.17:3002/index.php?id=discoverytwn_twn
 探索亚洲,https://smt.passwdword.xyz/Smart.php?id=discoverytwn_twn
+国家地理,http://smt.iptv543.com/Smart.php?id=natgeohd_twn
 国家地理,http://51.89.166.17:3002/index.php?id=natgeohd_twn
 国家地理,https://smt.passwdword.xyz/Smart.php?id=natgeohd_twn
+野生动物,http://smt.iptv543.com/Smart.php?id=natgeowild_twn
 野生动物,http://51.89.166.17:3002/index.php?id=natgeowild_twn
 野生动物,https://smt.passwdword.xyz/Smart.php?id=natgeowild_twn
+动物星球,http://smt.iptv543.com/Smart.php?id=animalplanet_twn
 动物星球,http://51.89.166.17:3002/index.php?id=animalplanet_twn
 动物星球,https://smt.passwdword.xyz/Smart.php?id=animalplanet_twn
+美食星球,http://smt.iptv543.com/Smart.php?id=foodplanet_twn
 美食星球,http://51.89.166.17:3002/index.php?id=foodplanet_twn
 美食星球,https://smt.passwdword.xyz/Smart.php?id=foodplanet_twn
+亚洲美食,http://smt.iptv543.com/Smart.php?id=afc_twn
 亚洲美食,http://51.89.166.17:3002/index.php?id=afc_twn
 亚洲美食,https://smt.passwdword.xyz/Smart.php?id=afc_twn
+亚洲旅游,http://smt.iptv543.com/Smart.php?id=asiatravel_twn
 亚洲旅游,http://51.89.166.17:3002/index.php?id=asiatravel_twn
 亚洲旅游,https://smt.passwdword.xyz/Smart.php?id=asiatravel_twn
+亚洲TLC,http://smt.iptv543.com/Smart.php?id=tlc_twn
 亚洲TLC,http://51.89.166.17:3002/index.php?id=tlc_twn
 亚洲TLC,https://smt.passwdword.xyz/Smart.php?id=tlc_twn
+EYETV 旅游,http://smt.iptv543.com/Smart.php?id=eyetvtravel_twn
 EYETV 旅游,http://51.89.166.17:3002/index.php?id=eyetvtravel_twn
 EYETV 旅游,https://smt.passwdword.xyz/Smart.php?id=eyetvtravel_twn
+MTV,http://smt.iptv543.com/Smart.php?id=mtvhd_twn
 MTV,http://51.89.166.17:3002/index.php?id=mtvhd_twn
 MTV,https://smt.passwdword.xyz/Smart.php?id=mtvhd_twn
+Discovery,http://smt.iptv543.com/Smart.php?id=discoverytwn_twn
 Discovery,http://51.89.166.17:3002/index.php?id=discoverytwn_twn
 Discovery,https://smt.passwdword.xyz/Smart.php?id=discoverytwn_twn
+
 
 
 广东频道,#genre#
@@ -939,96 +1027,3 @@ MOMO親子,p2p://142.54.189.229:2666/64df44f10007b01e056b776826a703aa.ts
 NICK JR,p2p://142.54.189.229:2666/64df5c370009277b05c661456c657811.ts
 
 
-香港167,#genre#
-翡翠台,p3p://167.114.175.6:55331/66c04cec000a20ac2dbf03c71cf661c9
-翡翠台 H.265,p3p://167.114.175.6:55331/653e4c02000ea0440c8c63fd3e5d709d
-无线新闻,p3p://167.114.175.6:55331/66c9c0df00016a4852abc2d358ee0ccb
-无线新闻,p3p://167.114.175.6:55331/653e4703000daead0c78dfb07723484e
-无线新闻 H.265,p3p://167.114.175.6:55331/653e4818000b73240c7d19181340415e
-明珠台,p3p://167.114.175.6:55331/611d99f3000116024a845bb9627404c9
-明珠台,p3p://167.114.175.6:55331/65ac34bf000aaf51b9df85914abe0ec4
-明珠台 H.265,p3p://167.114.175.6:55331/602f1ba9000814efa6f2970333d309d9
-TVB PLUS,p3p://167.114.175.6:55331/5ffbee4900066c0ddf0b8b84423c06f3
-TVB PLUS,p3p://167.114.175.6:55331/65ac341b0001d490b9dd02ac4c2c28a0
-TVB Plus H.265,p3p://167.114.175.6:55331/653e4d3e000b344f0c91357e73163f82
-TVB娱乐新闻,p3p://167.114.175.6:55331/5fe7f68d000e73d9910d2a86341258f7
-TVB黄金翡翠台,p3p://167.114.175.6:55331/653e49c20006c60f0c8397f7771b1b7b
-TVB经典,p3p://167.114.175.6:55331/5fdee1a2000b5fba6d93e51308cb7ddf
-TVB功夫台,p3p://167.114.175.6:55331/653e4a3f000b1abb0c85815c35fa0803
-TVB生活,p3p://167.114.175.6:55331/6649aff000061a1753bc59f97f596d07
-MYTV SUPER黄金华剧台,p3p://167.114.175.6:55331/652970de00011277bb14dcd76e301cc0
-MYTV SUPER华语剧,p3p://167.114.175.6:55331/653e4acf0006e0e80c87b2c8194d5791
-MYTV SUPER粤语片,p3p://167.114.175.6:55331/653e4b8d00001a450c8a973c06325101
-MYTV SUPER亚洲剧,p3p://167.114.175.6:55331/6284685e00039b52b82eeeca7a785fd
-MYTV SUPER亚洲综艺,p3p://167.114.175.6:55331/63108c86000a543bdb95705579fa26ad
-MYTV SUPER戏曲,p3p://167.114.175.6:55331/63108bd0000e4a9cdb92aa6820e833d5
-MYTV SUPER 1,p3p://167.114.175.6:55331/66c1c80e0005dd373387d38255275ffd
-MYTV SUPER 2,p3p://167.114.175.6:55331/6506d285000b06bd33dad67a652e2bfd
-凤凰资讯,p3p://167.114.175.6:55331/5fffbf860003807cedf4e1016c3c3ed2
-凤凰卫视,p3p://167.114.175.6:55331/602c73500002f4d29c90fa1270f21160
-凤凰香港,p3p://167.114.175.6:55331/5fe0b82c000cac9774c17f262e43314d
-VIUTV ,p3p://167.114.175.6:55331/611d99820007a67c4a82a3fe3cc749de
-VIUTV H.265,p3p://167.114.175.6:55331/5fed3234000c7a49a57dbd6e14af358f
-VIUTV 6,p3p://167.114.175.6:55331/5fed31e7000736e2a57c8f4c14d55d36
-VIUTV 6,p3p://167.114.175.6:55331/65ac2b5d00016c25b9badc664c7548fd
-HOY 76,p3p://167.114.175.6:55331/64838620000cd8ed32fb0d6a414411f7
-HOY 77,p3p://167.114.175.6:55331/62184bc3000cd48f11e47b06202b7e18
-HOY 78,p3p://167.114.175.6:55331/655bd22c000147307fdff68936807320
-Now新闻,p3p://167.114.175.6:55331/653e4f3d0003bdbf0c98ffaf583a6e3a
-NOW直播,p3p://167.114.175.6:55331/655fa52d000c3fc98ed0353c0e327e63
-Now财经,p3p://167.114.175.6:55331/6256e47a0007a6bb0665fa1971252f50
-Now紫金,p3p://167.114.175.6:55331/6427e42c00084703cd0c176f58dd37f1
-NOW华剧,p3p://167.114.175.6:55331/6519bc200001e7b37dbb01f124075086
-NOW剧集,p3p://167.114.175.6:55331/63ed3e1500077d30e7f449055a0846ce
-NOW星影,p3p://167.114.175.6:55331/65423b7b00047dbb1bebd20b45f374d2
-NOW星影,p3p://167.114.175.6:55331/65bf5e010005226704b84f4f048a4148
-NOW爆谷,p3p://167.114.175.6:55331/65bf60df000777a004c3831b56247b8e
-NOW爆谷,p3p://167.114.175.6:55331/65423beb00082fd01bed887e0ae23bbf
-Now Sports 1,p3p://167.114.175.6:55331/63ed464b000b911be8145d035c4e0f21
-Now Sports 2,p3p://167.114.175.6:55331/63ed46be0002b99be8161bfd62d87e90
-Now Sports 3,p3p://167.114.175.6:55331/63ed4715000c1bffe81772386f5b27f7
-Now Sports 4,p3p://167.114.175.6:55331/63ed478e000a98f2e8194a7c2bdc7fe6
-Now Sports 5,p3p://167.114.175.6:55331/63ed98c2000122f4e9567b333a74077a
-Now Sports 6,p3p://167.114.175.6:55331/63ed98d90002f8f6e956d5822ff208b1
-Now Sports 7,p3p://167.114.175.6:55331/63ed990600010efde95784d4529f16d2
-Now Sports Prime,p3p://167.114.175.6:55331/644edbcc0004d5a765428da71f967a86
-Now Sports plus,p3p://167.114.175.6:55331/65a442ed000e5f029ad7146558606385
-Now Sports 英超,p3p://167.114.175.6:55331/65acf008000b26e4bcbb1adc24476b3f
-Now Sports 英超 1,p3p://167.114.175.6:55331/65acf67000097b14bcd420b61c625794
-Now Sports 英超 2,p3p://167.114.175.6:55331/65acf6f10009e7c7bcd618bb761d6a04
-Now Sports 英超 3,p3p://167.114.175.6:55331/65acf79400084f85bcd8950b07ac3a9c
-Now Sports 英超 4,p3p://167.114.175.6:55331/65acf8030004e3b7bcda45c377ed2ceb
-Now Sports 英超 5,p3p://167.114.175.6:55331/65acf86800013c78bcdbcf4d77120c33
-Now NBA TV,p3p://167.114.175.6:55331/65a587500007bc039fca3566638e69af
-RTHK31,p3p://167.114.175.6:55331/6109ec88000eed44fda7d8ff6e487ce1
-RTHK32,p3p://167.114.175.6:55331/6109eca300044552fda83fbc4a2f6a1b
-RTHK33,p3p://167.114.175.6:55331/6649b63b0005235553d4eeaa04665f78
-RTHK34,p3p://167.114.175.6:55331/6649b6c000029bce53d6f58d6f880e70
-RTHK35,p3p://167.114.175.6:55331/6649b7100008096b53d82f711ddb55de
-智慧跑马,p3p://167.114.175.6:55331/66e860ba000b17abca4b7ac11c665324
-有线赛马18,p3p://167.114.175.6:55331/66e85b81000bcd1eca37145143a407c7
-有线赛马18,p3p://167.114.175.6:55331/64db58eb000d759e8a08afbc7bd65062
-澳门Macau,p3p://167.114.175.6:55331/64c2611000018873288116d70e04175d
-澳门资讯,p3p://167.114.175.6:55331/644ed21e000dd9a7651cc03a565575f7
-星空卫视,p3p://167.114.175.6:55331/64ee40d1000cfcc5d3e2330305817be2
-天映频道(粤语),p3p://167.114.175.6:55331/65bf577300077e84049eb5316df2149c
-天映频道(国语),p3p://167.114.175.6:55331/6471b0bb00011e09ed51d397629e4f55
-天映频道(国语),p3p://167.114.175.6:55331/65bf5a9a0005aa9d04ab0515203f3b8b
-美亚电影(国),p3p://167.114.175.6:55331/64c3653f0007f6812c7970122ff43531
-美亚电影(粤),p3p://167.114.175.6:55331/655f8ccc0007d2578e70f934113a2428
-Animax HK,p3p://167.114.175.6:55331/6506d1a00000a99a33d7555a4b747caa
-Axn HK,p3p://167.114.175.6:55331/66d23a53000d25d573c606e3274f26c5
-Bein Sport 1,p3p://167.114.175.6:55331/667b10d1000e2b38149def9902d56b98
-Bein Sport 2,p3p://167.114.175.6:55331/667b119a00012c7814a0fd5f0a4144be
-Bein Sport 3,p3p://167.114.175.6:55331/667b130b000bb1a114a6a17a06ea671a
-C+频道,p3p://167.114.175.6:55331/65ac2e740004fbd2b9c6ef2b03744ac0
-China Movie HK,p3p://167.114.175.6:55331/662d2e1d000ed37ab1ab644476d62081
-Cinemax HK,p3p://167.114.175.6:55331/65b1767d00058cdcce68527c3131148e
-Fight Sports,p3p://167.114.175.6:55331/65a4480e000eb9449aeb1d5a33663b73
-HBO(粤),p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
-Love Nature 4k,p3p://167.114.175.6:55331/655fa9280009c6278edfc1176731425f
-Movie Movie,p3p://167.114.175.6:55331/65dcc1a600054e9777850be46bdc075d
-PopC 电影,p3p://167.114.175.6:55331/663e9212000a54b4285005cd59217563
-Thrill,p3p://167.114.175.6:55331/630c2b9400044df5ca7abd7159677c41
-TVN HK,p3p://167.114.175.6:55331/6506c6930009ab3233ac2cd3018a6125
-ZooMoo,p3p://167.114.175.6:55331/65679bc200084412adeb40284be664e6
