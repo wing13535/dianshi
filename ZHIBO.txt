@@ -3,18 +3,23 @@
 鳳凰中文,http://171.88.68.68:7088/rtp/239.93.0.162:2192
 鳳凰中文,http://home.yixi.pro:10043/rtp/239.93.0.162:2192
 鳳凰中文,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.162:2192
+鳳凰中文,http://r.jdshipin.com/cCCzW
 鳳凰中文,http://108.181.20.181/livehttpplay?channel_id=20065
 鳳凰中文,http://108.181.20.181/livehttpplay?channel_id=30014
 鳯凰資訊,http://yulang132.cn:4022/rtp/239.93.0.162:2192
 鳯凰資訊,http://171.88.68.68:7088/rtp/239.93.0.162:2192
 鳯凰資訊,http://home.yixi.pro:10043/rtp/239.93.0.162:2192
 鳯凰資訊,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.118:2191
+鳯凰資訊,http://r.jdshipin.com/0Rp07
 鳯凰資訊,http://108.181.20.181/livehttpplay?channel_id=20066
 鳯凰資訊,http://108.181.20.181/livehttpplay?channel_id=30015
+鳳凰香港,http://r.jdshipin.com/yDoTN
 鳳凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 鳳凰香港,http://108.181.20.181/livehttpplay?channel_id=20067
 鳳凰香港,http://108.181.20.181/livehttpplay?channel_id=30016
 鳳凰香港,http://vallest.uk/livehttpplay?channel_id=20067
+
+
 
 中天新聞,http://smt.iptv543.com/Smart.php?id=ctinews
 中天新聞,https://1357.koyeb.app/smart.php?id=ctinews&token=1234
@@ -22,24 +27,28 @@
 中天新聞,http://tlive24.uk/livehttpplay?channel_id=20163
 中天新聞,http://51.89.166.17:3002/index.php?id=ctinews
 中天新聞,https://smt.passwdword.xyz/Smart.php?id=ctinews
+中天新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
 寰宇新聞,http://smt.iptv543.com/Smart.php?id=huanyuxinwen_twn
 寰宇新聞,https://1357.koyeb.app/smart.php?id=huanyuxinwen_twn&token=1234
 寰宇新聞,http://51.89.166.17:3002/index.php?id=huanyuxinwen_twn
 寰宇新聞,https://smt.passwdword.xyz/Smart.php?id=huanyuxinwen_twn
+寰宇新聞,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
 TVBS新聞,http://smt.iptv543.com/Smart.php?id=tvbs_n
 TVBS新聞,https://1357.koyeb.app/smart.php?id=tvbs_n&token=1234
 TVBS新聞,http://51.89.166.17:3002/index.php?id=tvbs_n
 TVBS新聞,https://smt.passwdword.xyz/Smart.php?id=tvbs_n
+TVBS新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
 東森新聞,http://smt.iptv543.com/Smart.php?id=ettvnews
 東森新聞,https://1357.koyeb.app/smart.php?id=ettvnews&token=1234
 東森新聞,http://51.89.166.17:3002/index.php?id=ettvnews
 東森新聞,https://smt.passwdword.xyz/Smart.php?id=ettvnews
+東森新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
 中視新聞,http://smt.iptv543.com/Smart.php?id=zhongshinews_twn
 中視新聞,https://1357.koyeb.app/smart.php?id=zhongshinews_twn&token=1234
 中視新聞,http://123.51.136.80:8302/0.ts
 中視新聞,http://51.89.166.17:3002/index.php?id=zhongshinews_twn
 中視新聞,https://smt.passwdword.xyz/Smart.php?id=zhongshinews_twn
-
+中視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
 
 
 NOW新聞,https://hls.168.us.kg/u/332/master.m3u8
@@ -297,14 +306,17 @@ HBO家庭,https://smt.passwdword.xyz/Smart.php?id=hbohit_twn
 鳳凰中文,http://171.88.68.68:7088/rtp/239.93.0.162:2192
 鳳凰中文,http://home.yixi.pro:10043/rtp/239.93.0.162:2192
 鳳凰中文,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.162:2192
+鳳凰中文,http://r.jdshipin.com/cCCzW
 鳳凰中文,http://108.181.20.181/livehttpplay?channel_id=20065
 鳳凰中文,http://108.181.20.181/livehttpplay?channel_id=30014
 鳯凰資訊,http://yulang132.cn:4022/rtp/239.93.0.162:2192
 鳯凰資訊,http://171.88.68.68:7088/rtp/239.93.0.162:2192
 鳯凰資訊,http://home.yixi.pro:10043/rtp/239.93.0.162:2192
 鳯凰資訊,http://shawn1057.myqnapcloud.com:4022/rtp/239.93.0.118:2191
+鳯凰資訊,http://r.jdshipin.com/0Rp07
 鳯凰資訊,http://108.181.20.181/livehttpplay?channel_id=20066
 鳯凰資訊,http://108.181.20.181/livehttpplay?channel_id=30015
+鳳凰香港,http://r.jdshipin.com/yDoTN
 鳳凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 鳳凰香港,http://108.181.20.181/livehttpplay?channel_id=20067
 鳳凰香港,http://108.181.20.181/livehttpplay?channel_id=30016
@@ -313,6 +325,7 @@ HBO家庭,https://smt.passwdword.xyz/Smart.php?id=hbohit_twn
 NOW新聞,https://hls.168.us.kg/u/332/master.m3u8
 NOW新聞,https://cdn.163189.xyz/163189/now
 NOW新聞,https://yang-1989.eu.org/live/now-332
+無線新聞台,http://r.jdshipin.com/CkuBd
 無線新聞台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14930.ts
 無線新聞台,http://hls.168.us.kg/u/83/master.m3u8
 無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
@@ -326,18 +339,22 @@ HOY78,http://hls.168.us.kg/u/78/master.m3u8
 NOW直播,http://hls.168.us.kg/u/331/master.m3u8
 NOW财经,http://hls.168.us.kg/u/333/master.m3u8
 
-
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://hls.168.us.kg/u/81/master.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19499.ts
+明珠台,http://r.jdshipin.com/jUx8K
 明珠台,http://hls.168.us.kg/u/84/master.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
 Ftv1时代,http://tlive24.uk/livehttpplay?channel_id=50208
 Ftv2时代,http://tlive24.uk/livehttpplay?channel_id=50318
+TVB1, https://6.cdn.loc.cc/163189.php?id=tvb1
 TVB1, http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14927.ts
+TVB Plus,http://r.jdshipin.com/ndGgS
 TVB Plus,http://hls.168.us.kg/u/82/master.m3u8
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB J1,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14926.ts
@@ -347,6 +364,7 @@ TVBE,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14929.ts
 HOY76,http://hls.168.us.kg/u/76/master.m3u8
 HOY77,http://hls.168.us.kg/u/77/master.m3u8
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+VIUTV,http://r.jdshipin.com/vSJvl
 VIUTV,http://hls.168.us.kg/u/99/master.m3u8
 ViuTV,http://vallest.uk/livehttpplay?channel_id=20131
 ViuTV,http://vallest.uk/livehttpplay?channel_id=30032
@@ -355,9 +373,11 @@ ViuTVSix,http://vallest.uk/livehttpplay?channel_id=20132
 ViuTVSix,http://vallest.uk/livehttpplay?channel_id=30033
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+TVB 星河台,http://r.jdshipin.com/Voac4
 TVB 星河台,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB 星河台,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB 华丽台,http://php.jdshipin.com/smt.php?id=Tvbjade
+TVB 华丽台,http://r.jdshipin.com/thuYX
 TVB 千禧經典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 TVB 千禧經典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
 TVB 千禧經典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
@@ -376,7 +396,7 @@ Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro 欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
 
-
+http://mytv.cdn.loc.cc/o12.php?id=fct
 
 Now爆谷台,http://pulltest-bj.alivecdn.com/live/hktv-09ali20mp.flv
 Now星影台,http://pulltest-bj.alivecdn.com/live/hktv-09ali21mp.flv
@@ -411,23 +431,29 @@ Now HK Now Sports 4K 617,http://vocotv.pro:80/0000011/0000011/715557
 中天新聞,http://tlive24.uk/livehttpplay?channel_id=20163
 中天新聞,http://51.89.166.17:3002/index.php?id=ctinews
 中天新聞,https://smt.passwdword.xyz/Smart.php?id=ctinews
+中天新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
 寰宇新聞,http://smt.iptv543.com/Smart.php?id=huanyuxinwen_twn
 寰宇新聞,https://1357.koyeb.app/smart.php?id=huanyuxinwen_twn&token=1234
 寰宇新聞,http://51.89.166.17:3002/index.php?id=huanyuxinwen_twn
 寰宇新聞,https://smt.passwdword.xyz/Smart.php?id=huanyuxinwen_twn
+寰宇新聞,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
 TVBS新聞,http://smt.iptv543.com/Smart.php?id=tvbs_n
 TVBS新聞,https://1357.koyeb.app/smart.php?id=tvbs_n&token=1234
 TVBS新聞,http://51.89.166.17:3002/index.php?id=tvbs_n
 TVBS新聞,https://smt.passwdword.xyz/Smart.php?id=tvbs_n
+TVBS新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
 東森新聞,http://smt.iptv543.com/Smart.php?id=ettvnews
 東森新聞,https://1357.koyeb.app/smart.php?id=ettvnews&token=1234
 東森新聞,http://51.89.166.17:3002/index.php?id=ettvnews
 東森新聞,https://smt.passwdword.xyz/Smart.php?id=ettvnews
+東森新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
 中視新聞,http://smt.iptv543.com/Smart.php?id=zhongshinews_twn
 中視新聞,https://1357.koyeb.app/smart.php?id=zhongshinews_twn&token=1234
 中視新聞,http://123.51.136.80:8302/0.ts
 中視新聞,http://51.89.166.17:3002/index.php?id=zhongshinews_twn
 中視新聞,https://smt.passwdword.xyz/Smart.php?id=zhongshinews_twn
+中視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
+
 
 非凡新聞,http://smt.iptv543.com/Smart.php?id=feifannews_twn
 非凡新聞,https://1357.koyeb.app/smart.php?id=feifannews_twn&token=1234
