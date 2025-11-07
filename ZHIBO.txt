@@ -1,5 +1,5 @@
 新闻频道,#genre#
-鳳鳳凰中文,http://home.yixi.pro:10043/rtp/239.93.0.162:2192
+鳳凰中文,http://home.yixi.pro:10043/rtp/239.93.0.162:2192
 鳳凰中文,http://yulang132.cn:4022/rtp/239.93.0.162:2192
 鳳凰中文,http://r.jdshipin.com/cCCzW
 鳳凰中文,http://108.181.20.181/livehttpplay?channel_id=20065
@@ -292,7 +292,7 @@ HBO家庭,https://smt.passwdword.xyz/Smart.php?id=hbohit_twn
 
 
 香港频道,#genre#
-鳳鳳凰中文,http://home.yixi.pro:10043/rtp/239.93.0.162:2192
+鳳凰中文,http://home.yixi.pro:10043/rtp/239.93.0.162:2192
 鳳凰中文,http://yulang132.cn:4022/rtp/239.93.0.162:2192
 鳳凰中文,http://r.jdshipin.com/cCCzW
 鳳凰中文,http://108.181.20.181/livehttpplay?channel_id=20065
