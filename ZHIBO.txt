@@ -1,36 +1,33 @@
 新闻频道,#genre#
-鳳凰中文,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
-鳳凰中文,http://cdn6.163189.xyz/163189/fhzw
 鳳凰中文,http://r.jdshipin.com/cCCzW
-鳯凰資訊,https://625179-46417c-1753.kylintv.tv/live/pxinhd_iphone.m3u8
-鳯凰資訊,http://cdn6.163189.xyz/163189/fhzx
+鳳凰中文,https://cdn6.cc.cd/163189/fhzw
 鳯凰資訊,http://r.jdshipin.com/0Rp07
-鳳凰香港,https://625179-46417c-1753.kylintv.tv/live/pxhkus_iphone.m3u8
-鳳凰香港,http://cdn6.163189.xyz/163189/fhhk
+鳯凰資訊,https://cdn6.cc.cd/163189/fhzx
 鳳凰香港,http://r.jdshipin.com/yDoTN
+鳳凰香港,https://cdn6.cc.cd/163189/fhhk
 
-中天新聞,https://625179-46417c-1753.kylintv.tv/live/cti_iphone.m3u8
-中天新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
-中天新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
-寰宇新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=36
-寰宇新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=262
-TVBS新聞,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
-TVBS新聞, https://ha.msbot.dpdns.org/4gtv_api.php?id=291
-TVBS新聞, https://ha.msbot.dpdns.org/4gtv_api.php?id=473
-東森新聞, https://ha.msbot.dpdns.org/4gtv_api.php?id=234
-東森新聞, https://ha.msbot.dpdns.org/4gtv_api.php?id=292
-中視新聞, https://ha.msbot.dpdns.org/4gtv_api.php?id=33
-中視新聞, https://ha.msbot.dpdns.org/4gtv_api.php?id=258
+NOW新聞,http://rihou.cc:555/tv/[Cx]Now新闻
+NOW新聞,https://fast.hidns.vip/163189/now
+無線新聞台,https://cdn6.cc.cd/163189/wxxw
+娛樂新聞台,https://cdn6.cc.cd/163189/ylxw
+HOY78,https://fast.hidns.vip/163189/hoy78
 
-NOW新聞,http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
-NOW新聞,http://cdn2.163189.xyz/163189/now
-NOW新聞,https://cdn.163189.xyz/163189/now
-NOW新聞,https://cdn.19891230.eu.org/hk/now-332/index.m3u8
-無線新聞台,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
-無線新聞台,http://cdn6.163189.xyz/163189/wxxw
-無線新聞台,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
-娛樂新聞台,http://cdn6.163189.xyz/163189/ylxw
-HOY78,http://cdn.163189.xyz/163189/hoy78
+
+中天新聞,http://173.208.234.146/live/ctinews.m3u8
+中天新聞,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
+
+寰宇新聞,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
+
+
+TVBS新聞,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
+
+東森新聞, 
+
+中視新聞, 
+
+
+
+
 
 CCTV1,rtp://@239.77.1.17:5146
 CCTV1,http://z.d4p.cn:8000/rtp/239.49.8.19:9614
@@ -167,10 +164,10 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 粤语喜剧,https://live.metshop.top/huya/11352894
 粤语连续剧,http://lxajh.top/tv/douyu.php?id=1226741
 
-Now爆谷台,http://pulltest-bj.alivecdn.com/live/hktv-09ali20mp.flv
-Now星影台,http://pulltest-bj.alivecdn.com/live/hktv-09ali21mp.flv
-天映電影台,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19439.ts
-美亚电影台,hhttps://tvb.go-iptv.ggff.net/stream/tvb/hk/master.m3u8?u=admins&p=fa956b808c8f8e3b59be14d7d584761e041a8359d58ba7e1829f12605d76203a
+美亚电影,http://173.208.234.146/live/mymovie.m3u8
+天映频道,http://173.208.234.146/live/typd.m3u8
+NOW星影台,http://173.208.234.146/live/nowxy.m3u8
+NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
 
 緯來電影台,https://3065.koyeb.app/smt.php?id=videolandmovie&token=1234
 緯來電影台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=videolandmovie&token=abcd1234
@@ -208,59 +205,53 @@ HBO 家庭,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=hbo
 
 
 香港频道,#genre#
-鳳凰中文,http://cdn6.163189.xyz/163189/fhzw
 鳳凰中文,http://r.jdshipin.com/cCCzW
-鳯凰資訊,http://cdn6.163189.xyz/163189/fhzx
+鳳凰中文,https://cdn6.cc.cd/163189/fhzw
 鳯凰資訊,http://r.jdshipin.com/0Rp07
-鳳凰香港,http://cdn6.163189.xyz/163189/fhhk
+鳯凰資訊,https://cdn6.cc.cd/163189/fhzx
 鳳凰香港,http://r.jdshipin.com/yDoTN
+鳳凰香港,https://cdn6.cc.cd/163189/fhhk
 
-NOW新聞,https://cdn.163189.xyz/163189/now
-NOW新聞,https://cdn.19891230.eu.org/hk/now-332/index.m3u8
-無線新聞台,http://cdn6.163189.xyz/163189/wxxw
-無線新聞台,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
-娛樂新聞台,http://cdn6.163189.xyz/163189/ylxw
-HOY78,http://cdn.163189.xyz/163189/hoy78
+NOW新聞,https://fast.hidns.vip/163189/now
+無線新聞台,https://cdn6.cc.cd/163189/wxxw
+娛樂新聞台,https://cdn6.cc.cd/163189/ylxw
+HOY78,https://fast.hidns.vip/163189/hoy78
 
 
-翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/62WM7
-明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
-明珠台,http://o11.163189.xyz/stream/tvb/mzt/
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct4k/
+明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
 明珠台,http://r.jdshipin.com/jUx8K
-翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
-TVB1, https://6.cdn.loc.cc/163189.php?id=tvb1
-TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+翡翠剧集台,https://cdn6.cc.cd/163189/tvbd
+TVB1, https://cdn6.cc.cd/163189/tvb1
+TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
 TVB Plus,http://r.jdshipin.com/ndGgS
-TVB Plus,http://hls.168.us.kg/u/82/master.m3u8
-TVB J1,http://cdn6.163189.xyz/163189/j1
+
+TVB J1,https://cdn6.cc.cd/163189/j1
 HOY76,https://cdn11.163189.xyz/163189/hoy76
-HOY77,http://cdn6.163189.xyz/163189/hoy
-HOY77,http://cdn.163189.xyz/163189/hoy
+HOY77,https://fast.hidns.vip/163189/hoy
+HOY77,https://cdn6.cc.cd/163189/hoy
 VIUTV,http://r.jdshipin.com/vSJvl
-VIUTV,https://cdn.19891230.eu.org/hk/ViuTV/index.m3u8
-VIUTV,https://cdn.163189.xyz/163189/viu
-ViuTVSixhttps://cdn10.163189.xyz/163189/viu6/
-ViuTVSix,https://cdn.19891230.eu.org/hk/ViuTVsix/index.m3u8
-RTHK31,http://cdn.163189.xyz/163189/rthk31
-RTHK32,http://cdn.163189.xyz/163189/rthk32
+VIUTV,https://10.fast.hidns.vip/163189/viu/
+ViuTVSix,https://10.fast.hidns.vip/163189/viu6/
+RTHK31,https://fast.hidns.vip/163189/rthk31
+RTHK32,https://fast.hidns.vip/163189/rthk32
 TVB 星河台,http://r.jdshipin.com/Voac4
-TVB 星河台,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB 星河台,http://php.jdshipin.com/smt.php?id=Xinhe
+
 TVB 华丽台,http://r.jdshipin.com/thuYX
-TVB 千禧經典台,https://o11.163189.xyz/stream/live/tvbc/
-亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+TVB 千禧經典台,https://cdn3.indevs.in/stream/live/tvbc/
+亚洲武侠,https://cdn6.cc.cd/163189/yzwx
 黄金华剧台,http://r.jdshipin.com/62WM7
-Astro AOD,http://o11.163189.xyz/stream/live/aod/
-Astro AEC,http://o11.163189.xyz/stream/live/aec/
-爱奇艺,http://o11.163189.xyz/stream/live/iqiyi/
-Astro QJ,http://o11.163189.xyz/stream/live/qj/
-Astro 欢喜台,http://o11.163189.xyz/stream/live/hxt/
-
-天映電影台,https://o11.163189.xyz/stream/live/typd/
-
+黄金华剧台,https://10.fast.hidns.vip/163189/hjhjt/
+Astro AOD,https://cdn3.indevs.in/stream/live/aod/
+Astro AEC,https://cdn3.indevs.in/stream/live/aec/
+Astro QJ,https://cdn3.indevs.in/stream/live/qj/
+Astro欢喜台,https://cdn3.indevs.in/stream/live/hxt/
+爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
+天映频道,https://cdn3.indevs.in/stream/live/typd/
+天映经典,https://cdn3.indevs.in/stream/live/ccm/
 
 
 
