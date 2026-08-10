@@ -6,6 +6,7 @@
 鳳凰香港,http://r.jdshipin.com/yDoTN
 鳳凰香港,https://cdn6.cc.cd/163189/fhhk
 
+NOW新聞,https://cdn.123.rr.kg/163189/now
 NOW新聞,http://rihou.cc:555/tv/[Cx]Now新闻
 NOW新聞,https://fast.hidns.vip/163189/now
 無線新聞台,https://cdn6.cc.cd/163189/wxxw
@@ -15,15 +16,11 @@ HOY78,https://fast.hidns.vip/163189/hoy78
 
 中天新聞,http://173.208.234.146/live/ctinews.m3u8
 中天新聞,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
-
+寰宇新聞,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 寰宇新聞,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
-
-
-TVBS新聞,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
-
-東森新聞, 
-
-中視新聞, 
+TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+東森新聞, https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+中視新聞, https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 
 
 
