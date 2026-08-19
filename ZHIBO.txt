@@ -5,7 +5,7 @@
 鳯凰資訊,https://cdn6.cc.cd/163189/fhzx
 鳳凰香港,http://r.jdshipin.com/yDoTN
 鳳凰香港,https://cdn6.cc.cd/163189/fhhk
-
+NOW新聞,https://cdn.qd.je/163189/now
 NOW新聞,https://cdn.123.rr.kg/163189/now
 NOW新聞,http://rihou.cc:555/tv/[Cx]Now新闻
 NOW新聞,https://fast.hidns.vip/163189/now
@@ -231,11 +231,766 @@ TVB J1,https://cdn6.cc.cd/163189/j1
 HOY76,https://cdn11.163189.xyz/163189/hoy76
 HOY77,https://fast.hidns.vip/163189/hoy
 HOY77,https://cdn6.cc.cd/163189/hoy
+VIUTV,https://cdn.qd.je/163189/viu
 VIUTV,http://r.jdshipin.com/vSJvl
 VIUTV,https://10.fast.hidns.vip/163189/viu/
+ViuTVSix,https://cdn.qd.je/163189/viu6
 ViuTVSix,https://10.fast.hidns.vip/163189/viu6/
+RTHK31,https://cdn.qd.je/163189/rthk31
 RTHK31,https://fast.hidns.vip/163189/rthk31
+RTHK32,https://cdn.qd.je/163189/rthk32
 RTHK32,https://fast.hidns.vip/163189/rthk32
+TVB 星河台,https://cdn.qd.je/163189/tvbxh
+TVB 星河台,http://r.jdshipin.com/Voac4
+
+TVB 华丽台,http://r.jdshipin.com/thuYX
+TVB 千禧經典台,https://cdn3.indevs.in/stream/live/tvbc/
+亚洲武侠,https://cdn6.cc.cd/163189/yzwx
+黄金华剧台,http://r.jdshipin.com/62WM7
+黄金华剧台,https://10.fast.hidns.vip/163189/hjhjt/
+Astro AOD,https://cdn3.indevs.in/stream/live/aod/
+Astro AEC,https://cdn3.indevs.in/stream/live/aec/
+Astro QJ,https://cdn3.indevs.in/stream/live/qj/
+Astro欢喜台,https://cdn3.indevs.in/stream/live/hxt/
+爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
+天映频道,https://cdn3.indevs.in/stream/live/typd/
+天映经典,https://cdn3.indevs.in/stream/live/ccm/
+
+
+
+
+台湾频道,#genre#
+中天新聞, https://3065.koyeb.app/smt.php?id=ctinews&token=1234
+中天新聞, https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ctinews&token=abcd1234
+寰宇新聞, https://3065.koyeb.app/smt.php?id=huanyuxinwen_twn&token=1234
+寰宇新聞, https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=huanyuxinwen_twn&token=abcd1234
+TVBS新聞, https://3065.koyeb.app/smt.php?id=tvbs_n&token=1234
+TVBS新聞, https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=tvbs_n&token=abcd1234
+東森新聞, https://3065.koyeb.app/smt.php?id=ettvnews&token=1234
+東森新聞, https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ettvnews&token=abcd1234
+中視新聞, https://3065.koyeb.app/smt.php?id=zhongshinews_twn&token=1234
+中視新聞, https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=zhongshinews_twn&token=abcd1234
+
+非凡新聞, https://3065.koyeb.app/smt.php?id=feifannews_twn&token=1234
+非凡新聞, https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=feifannews_twn&token=abcd1234
+年代新聞, https://3065.koyeb.app/smt.php?id=niandainews_twn&token=1234
+年代新聞, https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=niandainews_twn&token=abcd1234
+台視新聞, https://3065.koyeb.app/smt.php?id=ttvnews_twn&token=1234
+台視新聞, https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ttvnews_twn&token=abcd1234
+民視新聞, https://3065.koyeb.app/smt.php?id=ftvnew_taiwan&token=1234
+民視新聞, https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ftvnew_taiwan&token=abcd1234
+
+公視,https://3065.koyeb.app/smt.php?id=ctv_taiwan&token=1234
+公視,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ctv_taiwan&token=abcd1234
+華視,https://3065.koyeb.app/smt.php?id=ctshd_twn&token=1234
+華視,,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ctshd_twn&token=abcd1234
+民視,https://3065.koyeb.app/smt.php?id=ftvhd_taiwan&token=1234
+民視,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ftvhd_taiwan&token=abcd1234
+台視,https://3065.koyeb.app/smt.php?id=ttv_taiwan&token=1234
+台視,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ttv_taiwan&token=abcd1234
+中視,https://3065.koyeb.app/smt.php?id=zhongshihd_twn&token=1234
+中視,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=zhongshihd_twn&token=abcd1234
+八大第一台,https://3065.koyeb.app/smt.php?id=badafirst&token=1234
+八大第一台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=badafirst&token=abcd1234
+八大綜合台,https://3065.koyeb.app/smt.php?id=badazhonghe&token=1234
+八大綜合台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=badazhonghe&token=abcd1234
+八大戏剧台,https://3065.koyeb.app/smt.php?id=badadrama&token=1234
+八大戏剧台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=badadrama&token=abcd1234
+八大娱乐台,https://3065.koyeb.app/smt.php?id=badaentertain&token=1234
+八大娱乐台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=badaentertain&token=abcd1234
+東森戏剧台,https://3065.koyeb.app/smt.php?id=ettvdrama&token=1234
+東森戏剧台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ettvdrama&token=abcd1234
+東森超視台,https://3065.koyeb.app/smt.php?id=ettvsuper&token=1234
+東森超視台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ettvsuper&token=abcd1234
+東森綜合台,https://3065.koyeb.app/smt.php?id=ettvzhonghe&token=1234
+東森綜合台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ettvzhonghe&token=abcd1234
+三立戲劇台,https://3065.koyeb.app/smt.php?id=sanlixiju_twn&token=1234
+三立戲劇台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=sanlixiju_twn&token=abcd1234
+三立都会台,https://3065.koyeb.app/smt.php?id=sanlidouhui&token=1234
+三立都会台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=sanlidouhui&token=abcd1234
+三立綜合台,https://3065.koyeb.app/smt.php?id=sanlizhonghe&token=1234
+三立綜合台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=sanlizhonghe&token=abcd1234
+三立台灣台,https://3065.koyeb.app/smt.php?id=sanlitaiwan&token=1234
+三立台灣台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=sanlitaiwan&token=abcd1234
+緯來綜合台,https://3065.koyeb.app/smt.php?id=videolandyule&token=1234
+緯來綜合台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=videolandyule&token=abcd1234
+緯來日本台,https://3065.koyeb.app/smt.php?id=videolandjapan&token=1234
+緯來日本台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=videolandjapan&token=abcd1234
+緯來育樂台,https://3065.koyeb.app/smt.php?id=videolandyule&token=1234
+緯來育樂台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=videolandyule&token=abcd1234
+緯來精彩台,https://3065.koyeb.app/smt.php?id=videolandspecial_twn&token=1234
+緯來精彩台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=videolandspecial_twn&token=abcd1234
+愛爾達綜合台,https://3065.koyeb.app/smt.php?id=eltazonghe_twn&token=1234
+愛爾達綜合台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=eltazonghe_twn&token=abcd1234
+中天娱乐台,https://3065.koyeb.app/smt.php?id=ctient&token=1234
+中天娱乐台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ctient&token=abcd1234
+中天綜合台,https://3065.koyeb.app/smt.php?id=ctizhonghe&token=1234
+中天綜合台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ctizhonghe&token=abcd1234
+中天亞洲台,https://3065.koyeb.app/smt.php?id=ctiasia_twn&token=1234
+中天亞洲台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ctiasia_twn&token=abcd1234
+TVBS,https://3065.koyeb.app/smt.php?id=tvbs&token=1234
+TVBS,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=tvbs&token=abcd1234
+TVBS 歡樂台,https://3065.koyeb.app/smt.php?id=tvbshuanle_twn&token=1234
+TVBS 歡樂台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=tvbshuanle_twn&token=abcd1234
+民视台湾台,https://3065.koyeb.app/smt.php?id=ftvtaiwan_twn&token=1234
+民视台湾台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ftvtaiwan_twn&token=abcd1234
+寰宇台湾台,https://3065.koyeb.app/smt.php?id=huanyuxinwen_twn&token=1234
+寰宇台湾台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=huanyuxinwen_twn&token=abcd1234
+靖天国际,https://3065.koyeb.app/smt.php?id=jingtianintl_twn&token=1234
+靖天国际,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=jingtianintl_twn&token=abcd1234
+三立戲劇台,https://3065.koyeb.app/smt.php?id=sanlixiju_twn&token=1234
+三立戲劇台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=sanlixiju_twn&token=abcd1234
+龍華戲劇台,https://3065.koyeb.app/smt.php?id=lunghuaxiju_twn&token=1234
+龍華戲劇台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=lunghuaxiju_twn&token=abcd1234
+龍華偶像台,https://3065.koyeb.app/smt.php?id=lunghuaidol_twn&token=1234
+龍華偶像台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=lunghuaidol_twn&token=abcd1234
+龍華经典,https://3065.koyeb.app/smt.php?id=lunghuajingdian_twn&token=1234
+龍華经典,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=lunghuajingdian_twn&token=abcd1234
+EYETV 戏剧,https://3065.koyeb.app/smt.php?id=eltayingju_twn&token=1234
+EYETV 戏剧,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=eltayingju_twn&token=abcd1234
+大爱 1 台,https://3065.koyeb.app/smt.php?id=daai_twn&token=1234
+大爱 1 台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=daai_twn&token=abcd1234
+大爱 2 台,https://3065.koyeb.app/smt.php?id=daai2_twn&token=1234
+大爱 2 台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=daai2_twn&token=abcd1234
+华艺综合,https://3065.koyeb.app/smt.php?id=weishichinese_twn&token=1234
+华艺综合,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=weishichinese_twn&token=abcd1234
+
+
+緯來電影台,https://3065.koyeb.app/smt.php?id=videolandmovie&token=1234
+緯來電影台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=videolandmovie&token=abcd1234
+東森電影台,https://3065.koyeb.app/smt.php?id=ettvmovie&token=1234
+東森電影台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ettvmovie&token=abcd1234
+東森洋片,https://3065.koyeb.app/smt.php?id=ettvwestern&token=1234
+東森洋片,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ettvwestern&token=abcd1234
+龍華電影,https://3065.koyeb.app/smt.php?id=xingwei_movie&token=1234
+龍華電影,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=xingwei_movie&token=abcd1234
+龍華洋片,https://3065.koyeb.app/smt.php?id=lunghuawestern_twn&token=1234
+龍華洋片,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=lunghuawestern_twn&token=abcd1234
+龍華經典,https://3065.koyeb.app/smt.php?id=lunghuajingdian_twn&token=1234
+龍華經典,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=lunghuajingdian_twn&token=abcd1234
+HOB,https://3065.koyeb.app/smt.php?id=hbohd_twn&token=1234
+HOB,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=hbohd_twn&token=abcd1234
+AMC,https://3065.koyeb.app/smt.php?id=axn_twn&token=1234
+AMC,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=axn_twn&token=abcd1234
+ARIRANG,https://3065.koyeb.app/smt.php?id=arirang_twn&token=1234
+ARIRANG,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=arirang_twn&token=abcd1234
+AXN 电影,https://3065.koyeb.app/smt.php?id=axn_twn&token=1234
+AXN 电影,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=axn_twn&token=abcd1234
+CINEMAX,https://3065.koyeb.app/smt.php?id=cinemax_twn&token=1234
+CINEMAX,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=cinemax_twn&token=abcd1234
+HBO 家庭,https://3065.koyeb.app/smt.php?id=hbohit_twn&token=1234
+HBO 家庭,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=hbohit_twn&token=abcd1234
+好莱坞电影,https://3065.koyeb.app/smt.php?id=hollywoodmovies_twn&token=1234
+好莱坞电影,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=hollywoodmovies_twn&token=abcd1234
+龙祥电影,https://3065.koyeb.app/smt.php?id=lungxiangtime_twn&token=1234
+龙祥电影,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=lungxiangtime_twn&token=abcd1234
+
+緯來體育,https://3065.koyeb.app/smt.php?id=videolandsport&token=1234
+緯來體育,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=videolandsport&token=abcd1234
+愛爾達體育 1 台,https://3065.koyeb.app/smt.php?id=eltasport_twn&token=1234
+愛爾達體育 1 台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=eltasport_twn&token=abcd1234
+愛爾達體育 2 台,https://3065.koyeb.app/smt.php?id=eltasport2_twn&token=1234
+愛爾達體育 2 台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=eltasport2_twn&token=abcd1234
+愛爾達體育 3 台,https://3065.koyeb.app/smt.php?id=eltasport3_twn&token=1234
+愛爾達體育 3 台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=eltasport3_twn&token=abcd1234
+DAZN1 台,https://3065.koyeb.app/smt.php?id=golfchannel_twn&token=1234
+DAZN1 台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=golfchannel_twn&token=abcd1234
+博斯運動 1 台,https://3065.koyeb.app/smt.php?id=bosisport1_twn&token=1234
+博斯運動 1 台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=bosisport1_twn&token=abcd1234
+博斯運動 2 台,https://3065.koyeb.app/smt.php?id=bosisport2_twn&token=1234
+博斯運動 2 台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=bosisport2_twn&token=abcd1234
+博斯无限,https://3065.koyeb.app/smt.php?id=bosiunlimited_twn&token=1234
+博斯无限,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=bosiunlimited_twn&token=abcd1234
+博斯高球 1,https://3065.koyeb.app/smt.php?id=bosigolf1_twn&token=1234
+博斯高球 1,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=bosigolf1_twn&token=abcd1234
+博斯高球 2,https://3065.koyeb.app/smt.php?id=bosigolf2_twn&token=1234
+博斯高球 2,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=bosigolf2_twn&token=abcd1234
+博斯网球,https://3065.koyeb.app/smt.php?id=bositennis_twn&token=1234
+博斯网球,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=bositennis_twn&token=abcd1234
+
+东森幼幼,https://3065.koyeb.app/smt.php?id=yoyo_twn&token=1234
+东森幼幼,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=yoyo_twn&token=abcd1234
+靖天卡通台,https://3065.koyeb.app/smt.php?id=jingtiancartoon_twn&token=1234
+靖天卡通台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=jingtiancartoon_twn&token=abcd1234
+
+探索亚洲,https://3065.koyeb.app/smt.php?id=discoverytwn_twn&token=1234
+探索亚洲,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=discoverytwn_twn&token=abcd1234
+国家地理,https://3065.koyeb.app/smt.php?id=natgeohd_twn&token=1234
+国家地理,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=natgeohd_twn&token=abcd1234
+野生动物,https://3065.koyeb.app/smt.php?id=natgeowild_twn&token=1234
+野生动物,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=natgeowild_twn&token=abcd1234
+动物星球,https://3065.koyeb.app/smt.php?id=animalplanet_twn&token=1234
+动物星球,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=animalplanet_twn&token=abcd1234
+美食星球,https://3065.koyeb.app/smt.php?id=foodplanet_twn&token=1234
+美食星球,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=foodplanet_twn&token=abcd1234
+亚洲美食,https://3065.koyeb.app/smt.php?id=afc_twn&token=1234
+亚洲美食,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=afc_twn&token=abcd1234
+亚洲旅游,https://3065.koyeb.app/smt.php?id=asiatravel_twn&token=1234
+亚洲旅游,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=asiatravel_twn&token=abcd1234
+亚洲 TLC,https://3065.koyeb.app/smt.php?id=tlc_twn&token=1234
+亚洲 TLC,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=tlc_twn&token=abcd1234
+EYETV 旅游,https://3065.koyeb.app/smt.php?id=eyetvtravel_twn&token=1234
+EYETV 旅游,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=eyetvtravel_twn&token=abcd1234
+MTV,https://3065.koyeb.app/smt.php?id=mtvhd_twn&token=1234
+MTV,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=mtvhd_twn&token=abcd1234
+Discovery,https://3065.koyeb.app/smt.php?id=discoverytwn_twn&token=1234
+Discovery,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=discoverytwn_twn&token=abcd1234
+
+
+
+[00001-00006]
+广东频道,#genre#
+广东体育,rtp://@239.77.0.112:5146
+广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://ipv4-go.825939.xyz:4033/udp/239.77.0.112:5146
+广东体育,http://ikuai.huase.ltd:8888/rtp/239.77.0.112:5146
+广东体育,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.112:5146
+广东体育,http://pr.19760929.xyz:9688/rtp/239.77.0.112:5146
+广东体育,http://net.manyee.net:18888/rtp/239.77.0.112:5146
+广东体育,http://www.8888866.xyz:10000/rtp/239.77.0.112:5146
+
+广东民生,rtp://@239.77.0.225:5146
+广东民生,http://ipv4-go.825939.xyz:4033/udp/239.77.0.225:5146
+广东民生,http://ikuai.huase.ltd:8888/rtp/239.77.0.225:5146
+广东民生,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.225:5146
+广东民生,http://pr.19760929.xyz:9688/rtp/239.77.0.225:5146
+广东民生,http://net.manyee.net:18888/rtp/239.77.0.225:5146
+广东民生,http://www.8888866.xyz:10000/rtp/239.77.0.225:5146
+
+广东新闻,rtp://@239.77.0.173:5146
+广东新闻,http://ipv4-go.825939.xyz:4033/udp/239.77.0.173:5146
+广东新闻,http://ikuai.huase.ltd:8888/rtp/239.77.0.168:5146
+广东新闻,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.173:5146
+广东新闻,http://pr.19760929.xyz:9688/rtp/239.77.0.173:5146
+广东新闻,http://net.manyee.net:18888/rtp/239.77.0.173:5146
+广东新闻,http://www.8888866.xyz:10000/rtp/239.77.0.168:5146
+
+广东珠江,rtp://@239.77.0.1:5146
+广东珠江,http://ipv4-go.825939.xyz:4033/udp/239.77.0.1:5146
+广东珠江,http://ikuai.huase.ltd:8888/rtp/239.77.0.1:5146
+广东珠江,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.1:5146
+广东珠江,http://pr.19760929.xyz:9688/rtp/239.77.0.1:5146
+广东珠江,http://net.manyee.net:18888/rtp/239.77.0.1:5146
+广东珠江,http://www.8888866.xyz:10000/rtp/239.77.0.1:5146
+
+大湾区卫视,rtp://@239.77.0.215:5146
+大湾区卫视,http://ipv4-go.825939.xyz:4033/udp/239.77.0.215:5146
+大湾区卫视,http://ikuai.huase.ltd:8888/rtp/239.77.0.215:5146
+大湾区卫视,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.215:5146
+大湾区卫视,http://pr.19760929.xyz:9688/rtp/239.77.0.215:5146
+大湾区卫视,http://net.manyee.net:18888/rtp/239.77.0.215:5146
+大湾区卫视,http://www.8888866.xyz:10000/rtp/239.77.0.215:5146
+
+广东影视,rtp://@239.77.0.217:5146
+广东影视,http://ipv4-go.825939.xyz:4033/udp/239.77.0.217:5146
+广东影视,http://ikuai.huase.ltd:8888/rtp/239.77.0.217:5146
+广东影视,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.217:5146
+广东影视,http://pr.19760929.xyz:9688/rtp/239.77.0.217:5146
+广东影视,http://net.manyee.net:18888/rtp/239.77.0.217:5146
+广东影视,http://www.8888866.xyz:10000/rtp/239.77.0.217:5146
+
+广东卫视,rtp://@239.77.1.19:5146
+广东卫视,http://ipv4-go.825939.xyz:4033/udp/239.77.1.19:5146
+广东卫视,http://ikuai.huase.ltd:8888/rtp/239.77.1.19:5146
+广东卫视,http://yahao.myqnapcloud.com:4022/rtp/239.77.1.19:5146
+广东卫视,http://pr.19760929.xyz:9688/rtp/239.77.1.19:5146
+广东卫视,http://net.manyee.net:18888/rtp/239.77.1.19:5146
+广东卫视,http://www.8888866.xyz:10000/rtp/239.77.1.19:5146
+
+广东经济,rtp://@239.77.0.167:5146
+广东经济,http://ipv4-go.825939.xyz:4033/udp/239.77.0.167:5146
+广东经济,http://ikuai.huase.ltd:8888/rtp/239.77.0.167:5146
+广东经济,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.167:5146
+广东经济,http://pr.19760929.xyz:9688/rtp/239.77.0.167:5146
+广东经济,http://net.manyee.net:18888/rtp/239.77.0.167:5146
+广东经济,http://www.8888866.xyz:10000/rtp/239.77.0.167:5146
+
+
+央视频道,#genre#
+CCTV1,http://z.d4p.cn:8000/rtp/239.49.8.19:9614
+CCTV2,http://z.d4p.cn:8000/rtp/239.49.8.50:9802
+CCTV3,http://z.d4p.cn:8000/rtp/239.49.8.74:8000
+CCTV4,http://z.d4p.cn:8000/rtp/239.49.8.51:9806
+CCTV5,http://z.d4p.cn:8000/rtp/239.49.0.29:8000
+CCTV5+,http://z.d4p.cn:8000/rtp/239.49.8.18:9610
+CCTV6,http://z.d4p.cn:8000/rtp/239.49.8.76:8000
+CCTV7,http://z.d4p.cn:8000/rtp/239.49.0.126:8000
+CCTV8,http://z.d4p.cn:8000/rtp/239.49.8.77:8000
+CCTV9,http://z.d4p.cn:8000/rtp/239.49.8.53:9814
+CCTV10,http://z.d4p.cn:8000/rtp/239.49.8.54:9818
+CCTV11,http://z.d4p.cn:8000/rtp/239.49.0.127:8000
+CCTV12,http://z.d4p.cn:8000/rtp/239.49.8.135:6000
+CCTV13,http://z.d4p.cn:8000/rtp/239.49.8.109:8000
+CCTV14,http://z.d4p.cn:8000/rtp/239.49.8.56:9826
+CCTV15,http://z.d4p.cn:8000/rtp/239.49.0.128:8000
+CCTV16,http://z.d4p.cn:8000/rtp/239.49.8.31:8000
+CCTV17,http://z.d4p.cn:8000/rtp/239.49.8.52:9810
+CCTV4k,http://z.d4p.cn:8000/rtp/239.49.0.82:8000
+
+
+
+CCTV1,http://pr.19760929.xyz:9688/udp/239.77.1.17:5146
+CCTV2,http://pr.19760929.xyz:9688/udp/239.77.1.158:5146
+CCTV3,http://pr.19760929.xyz:9688/udp/239.77.0.169:5146
+CCTV4,http://pr.19760929.xyz:9688/udp/239.77.1.163:5146
+CCTV5,http://pr.19760929.xyz:9688/udp/239.77.0.170:5146
+CCTV5+,http://pr.19760929.xyz:9688/udp/239.77.0.87:5146
+CCTV6,http://pr.19760929.xyz:9688/udp/239.77.0.171:5146
+CCTV7,http://pr.19760929.xyz:9688/udp/239.77.1.159:5146
+CCTV8,http://pr.19760929.xyz:9688/udp/239.77.0.172:5146
+CCTV9,http://pr.19760929.xyz:9688/udp/239.77.1.160:5146
+CCTV10,http://pr.19760929.xyz:9688/udp/239.77.1.113:5146
+CCTV11,http://pr.19760929.xyz:9688/udp/239.77.1.238:5146
+CCTV12,http://pr.19760929.xyz:9688/udp/239.77.1.10:5146
+CCTV13,http://pr.19760929.xyz:9688/udp/239.77.0.188:5146
+CCTV14,http://pr.19760929.xyz:9688/udp/239.77.1.161:5146
+CCTV15,http://pr.19760929.xyz:9688/udp/239.77.1.239:5146
+CCTV16,http://pr.19760929.xyz:9688/udp/239.77.0.165:5146
+CCTV17,http://pr.19760929.xyz:9688/udp/239.77.1.121:5146
+
+
+
+CCTV1,http://www.1328099.xyz:9688/udp/239.77.1.17:5146
+CCTV2,http://www.1328099.xyz:9688/udp/239.77.1.158:5146
+CCTV3,http://www.1328099.xyz:9688/udp/239.77.0.169:5146
+CCTV4,http://www.1328099.xyz:9688/udp/239.77.1.163:5146
+CCTV5,http://www.1328099.xyz:9688/udp/239.77.0.170:5146
+CCTV5+,http://www.1328099.xyz:9688/udp/239.77.0.87:5146
+CCTV6,http://www.1328099.xyz:9688/udp/239.77.0.171:5146
+CCTV7,http://www.1328099.xyz:9688/udp/239.77.1.159:5146
+CCTV8,http://www.1328099.xyz:9688/udp/239.77.0.172:5146
+CCTV9,http://www.1328099.xyz:9688/udp/239.77.1.160:5146
+CCTV10,http://www.1328099.xyz:9688/udp/239.77.1.113:5146
+CCTV11,http://www.1328099.xyz:9688/udp/239.77.1.238:5146
+CCTV12,http://www.1328099.xyz:9688/udp/239.77.1.10:5146
+CCTV13,http://www.1328099.xyz:9688/udp/239.77.0.188:5146
+CCTV14,http://www.1328099.xyz:9688/udp/239.77.1.161:5146
+CCTV15,http://www.1328099.xyz:9688/udp/239.77.1.239:5146
+CCTV16,http://www.1328099.xyz:9688/udp/239.77.0.165:5146
+CCTV17,http://www.1328099.xyz:9688/udp/239.77.1.121:5146
+
+CCTV1,http://nas.jk960.cn:8686/udp/239.77.0.129:5146
+CCTV2,http://nas.jk960.cn:8686/udp/239.77.1.158:5146
+CCTV3,http://nas.jk960.cn:8686/udp/239.77.0.169:5146
+CCTV4,http://nas.jk960.cn:8686/udp/239.77.1.163:5146
+CCTV5,http://nas.jk960.cn:8686/udp/239.77.0.170:5146
+CCTV5+,http://nas.jk960.cn:8686/udp/239.77.0.87:5146
+CCTV6,http://nas.jk960.cn:8686/udp/239.77.0.171:5146
+CCTV7,http://nas.jk960.cn:8686/udp/239.77.1.159:5146
+CCTV8,http://nas.jk960.cn:8686/udp/239.77.0.172:5146
+CCTV9,http://nas.jk960.cn:8686/udp/239.77.1.160:5146
+CCTV10,http://nas.jk960.cn:8686/udp/239.77.1.113:5146
+CCTV11,http://nas.jk960.cn:8686/udp/239.77.1.238:5146
+CCTV12,http://nas.jk960.cn:8686/udp/239.77.1.10:5146
+CCTV13,http://nas.jk960.cn:8686/udp/239.77.0.188:5146
+CCTV14,http://nas.jk960.cn:8686/udp/239.77.1.161:5146
+CCTV15,http://nas.jk960.cn:8686/udp/239.77.1.239:5146
+CCTV16,http://nas.jk960.cn:8686/udp/239.77.0.165:5146
+CCTV17,http://nas.jk960.cn:8686/udp/239.77.1.121:5146
+
+
+
+
+
+
+
+
+卫视频道,#genre#
+北京卫视,http://z.d4p.cn:8000/rtp/239.49.8.141:6000
+东方卫视,http://z.d4p.cn:8000/rtp/239.49.8.140:6000
+浙江卫视,http://z.d4p.cn:8000/rtp/239.49.8.139:6000
+江苏卫视,http://z.d4p.cn:8000/rtp/239.49.8.138:6000
+湖南卫视,http://z.d4p.cn:8000/rtp/239.49.8.142:6000
+广东卫视,http://z.d4p.cn:8000/rtp/239.49.8.143:6000
+深圳卫视,http://z.d4p.cn:8000/rtp/239.49.8.145:6000
+四川卫视,http://z.d4p.cn:8000/rtp/239.49.8.110:8000
+山东卫视,http://z.d4p.cn:8000/rtp/239.49.8.146:6000
+山西卫视,http://z.d4p.cn:8000/rtp/239.49.1.55:8000
+天津卫视,http://z.d4p.cn:8000/rtp/239.49.8.148:6000
+安徽卫视,http://z.d4p.cn:8000/rtp/239.49.8.80:8000
+重庆卫视,http://z.d4p.cn:8000/rtp/239.49.8.149:6000
+东南卫视,http://z.d4p.cn:8000/rtp/239.49.8.112:8000
+河北卫视,http://z.d4p.cn:8000/rtp/239.49.8.114:8000
+湖北卫视,http://z.d4p.cn:8000/rtp/239.49.8.147:6000
+河南卫视,http://z.d4p.cn:8000/rtp/239.49.8.29:8000
+江西卫视,http://z.d4p.cn:8000/rtp/239.49.8.111:8000
+广西卫视,http://z.d4p.cn:8000/rtp/239.49.8.10:8000
+海南卫视,http://z.d4p.cn:8000/rtp/239.49.8.83:8000
+辽宁卫视,http://z.d4p.cn:8000/rtp/239.49.8.48:8000
+黑龙江卫视,http://z.d4p.cn:8000/rtp/239.49.8.144:6000
+吉林卫视,http://z.d4p.cn:8000/rtp/239.49.8.113:8000
+云南卫视,http://z.d4p.cn:8000/rtp/239.49.0.177:8000
+贵州卫视,http://z.d4p.cn:8000/rtp/239.49.8.49:8000
+甘肃卫视,http://z.d4p.cn:8000/rtp://239.49.0.250:8000
+青海卫视,http://z.d4p.cn:8000/rtp/239.49.0.81:8000
+宁夏卫视,http://z.d4p.cn:8000/rtp://239.49.1.60:8000
+三沙卫视,http://z.d4p.cn:8000/rtp/239.49.0.167:8000
+西藏卫视,http://z.d4p.cn:8000/rtp/239.49.1.56:8000
+新疆卫视,http://z.d4p.cn:8000/rtp/239.49.1.57:8000
+兵团卫视,http://z.d4p.cn:8000/rtp/239.49.1.58:8000
+
+湖南卫视,http://pr.19760929.xyz:9688/udp/239.77.1.5:5146
+浙江卫视,http://pr.19760929.xyz:9688/udp/239.77.1.33:5146
+江苏卫视,http://pr.19760929.xyz:9688/udp/239.77.0.90:5146
+东方卫视,http://pr.19760929.xyz:9688/udp/239.77.1.218:5146
+广东卫视,http://pr.19760929.xyz:9688/udp/239.77.0.166:5146
+安徽卫视,http://pr.19760929.xyz:9688/udp/239.77.1.92:5146
+北京卫视,http://pr.19760929.xyz:9688/udp/239.77.1.4:5146
+天津卫视,http://pr.19760929.xyz:9688/udp/239.77.0.131:5146
+山东卫视,http://pr.19760929.xyz:9688/udp/239.77.1.142:5146
+江西卫视,http://pr.19760929.xyz:9688/udp/239.77.1.219:5146
+湖北卫视,http://pr.19760929.xyz:9688/udp/239.77.0.128:5146
+辽宁卫视,http://pr.19760929.xyz:9688/udp/239.77.1.103:5146
+黑龙江卫视,http://pr.19760929.xyz:9688/udp/239.77.0.124:5146
+贵州卫视,http://pr.19760929.xyz:9688/udp/239.77.1.221:5146
+四川卫视,http://pr.19760929.xyz:9688/udp/239.77.1.215:5146
+河南卫视,http://pr.19760929.xyz:9688/udp/239.77.1.229:5146
+云南卫视,http://pr.19760929.xyz:9688/udp/239.253.43.37:5146
+重庆卫视,http://pr.19760929.xyz:9688/udp/239.77.1.162:5146
+河北卫视,http://pr.19760929.xyz:9688/udp/239.77.1.214:5146
+东南卫视,http://pr.19760929.xyz:9688/udp/239.77.0.146:5146
+广西卫视,http://pr.19760929.xyz:9688/udp/239.253.43.36:5146
+吉林卫视,http://pr.19760929.xyz:9688/udp/239.77.1.111:5146
+青海卫视,http://pr.19760929.xyz:9688/udp/239.253.43.125:5146
+海南卫视,http://pr.19760929.xyz:9688/udp/239.253.43.35:5146
+甘肃卫视,http://pr.19760929.xyz:9688/udp/239.77.0.189:5146
+三沙卫视,http://pr.19760929.xyz:9688/udp/239.253.43.113:5146
+
+湖南卫视,http://www.1328099.xyz:9688/udp/239.77.1.5:5146
+浙江卫视,http://www.1328099.xyz:9688/udp/239.77.1.33:5146
+江苏卫视,http://www.1328099.xyz:9688/udp/239.77.0.90:5146
+东方卫视,http://www.1328099.xyz:9688/udp/239.77.1.218:5146
+广东卫视,http://www.1328099.xyz:9688/udp/239.77.0.166:5146
+安徽卫视,http://www.1328099.xyz:9688/udp/239.77.1.92:5146
+北京卫视,http://www.1328099.xyz:9688/udp/239.77.1.4:5146
+天津卫视,http://www.1328099.xyz:9688/udp/239.77.0.131:5146
+山东卫视,http://www.1328099.xyz:9688/udp/239.77.1.142:5146
+江西卫视,http://www.1328099.xyz:9688/udp/239.77.1.219:5146
+湖北卫视,http://www.1328099.xyz:9688/udp/239.77.0.128:5146
+辽宁卫视,http://www.1328099.xyz:9688/udp/239.77.1.103:5146
+黑龙江卫视,http://www.1328099.xyz:9688/udp/239.77.0.124:5146
+贵州卫视,http://www.1328099.xyz:9688/udp/239.77.1.221:5146
+四川卫视,http://www.1328099.xyz:9688/udp/239.77.1.215:5146
+河南卫视,http://www.1328099.xyz:9688/udp/239.77.1.229:5146
+云南卫视,http://www.1328099.xyz:9688/udp/239.253.43.37:5146
+重庆卫视,http://www.1328099.xyz:9688/udp/239.77.1.162:5146
+河北卫视,http://www.1328099.xyz:9688/udp/239.77.1.214:5146
+东南卫视,http://www.1328099.xyz:9688/udp/239.77.0.146:5146
+广西卫视,http://www.1328099.xyz:9688/udp/239.253.43.36:5146
+吉林卫视,http://www.1328099.xyz:9688/udp/239.77.1.111:5146
+青海卫视,http://www.1328099.xyz:9688/udp/239.253.43.125:5146
+海南卫视,http://www.1328099.xyz:9688/udp/239.253.43.35:5146
+甘肃卫视,http://www.1328099.xyz:9688/udp/239.77.0.189:5146
+三沙卫视,http://www.1328099.xyz:9688/udp/239.253.43.113:5146
+
+湖南卫视,http://nas.jk960.cn:8686/udp/239.77.1.5:5146
+浙江卫视,http://nas.jk960.cn:8686/udp/239.77.1.33:5146
+江苏卫视,http://nas.jk960.cn:8686/udp/239.77.0.90:5146
+东方卫视,http://nas.jk960.cn:8686/udp/239.77.1.218:5146
+广东卫视,http://nas.jk960.cn:8686/udp/239.77.0.166:5146
+安徽卫视,http://nas.jk960.cn:8686/udp/239.77.1.92:5146
+北京卫视,http://nas.jk960.cn:8686/udp/239.77.1.4:5146
+天津卫视,http://nas.jk960.cn:8686/udp/239.77.0.131:5146
+山东卫视,http://nas.jk960.cn:8686/udp/239.77.1.142:5146
+江西卫视,http://nas.jk960.cn:8686/udp/239.77.1.219:5146
+湖北卫视,http://nas.jk960.cn:8686/udp/239.77.0.128:5146
+辽宁卫视,http://nas.jk960.cn:8686/udp/239.77.1.103:5146
+黑龙江卫视,http://nas.jk960.cn:8686/udp/239.77.0.124:5146
+贵州卫视,http://nas.jk960.cn:8686/udp/239.77.1.221:5146
+四川卫视,http://nas.jk960.cn:8686/udp/239.77.1.215:5146
+河南卫视,http://nas.jk960.cn:8686/udp/239.77.1.229:5146
+云南卫视,http://nas.jk960.cn:8686/udp/239.253.43.37:5146
+重庆卫视,http://nas.jk960.cn:8686/udp/239.77.1.162:5146
+河北卫视,http://nas.jk960.cn:8686/udp/239.77.1.214:5146
+东南卫视,http://nas.jk960.cn:8686/udp/239.77.0.146:5146
+广西卫视,http://nas.jk960.cn:8686/udp/239.253.43.36:5146
+吉林卫视,http://nas.jk960.cn:8686/udp/239.77.1.111:5146
+青海卫视,http://nas.jk960.cn:8686/udp/239.253.43.125:5146
+海南卫视,http://nas.jk960.cn:8686/udp/239.253.43.35:5146
+甘肃卫视,http://nas.jk960.cn:8686/udp/239.77.0.189:5146
+三沙卫视,http://nas.jk960.cn:8686/udp/239.253.43.113:5146
+
+睛彩竞技,http://z.d4p.cn:8000/rtp/239.49.8.39:8000
+睛彩篮球,http://z.d4p.cn:8000/rtp/239.49.8.42:8000
+睛彩青少,http://z.d4p.cn:8000/rtp/239.49.8.46:8000
+
+
+
+
+
+
+
+儿童频道,#genre#
+亲子趣学,http://home.yixi.pro:10043/rtp/239.94.1.156:5140
+百变课堂,http://home.yixi.pro:10043/rtp/239.94.1.43:5140
+少儿天地,http://home.yixi.pro:10043/rtp/239.94.1.138:5140
+宝宝动画,http://home.yixi.pro:10043/rtp/239.94.1.32:5140
+爱宠宠物,http://home.yixi.pro:10043/rtp/239.94.1.145:5140
+乐龄学堂,http://home.yixi.pro:10043/rtp/239.94.1.155:5140
+青春动漫,http://home.yixi.pro:10043/rtp/239.94.1.34:5140
+金鹰卡通,http://home.yixi.pro:10043/rtp/239.45.0.38:5140
+卡酷少儿,http://liuwenxiaokevin.top:14044/rtp/239.45.0.8:5140
+动漫秀场,http://liuwenxiaokevin.top:14044/rtp/239.45.3.134:5140
+哈哈炫动,http://liuwenxiaokevin.top:14044/rtp/239.45.1.55:5140
+
+
+
+
+
+其他频道,#genre#
+求索纪录,http://home.yixi.pro:10043/rtp/239.94.1.142:5140 	
+乐游,http://home.yixi.pro:10043/rtp/239.94.1.164:5140
+金鹰纪实,http://home.yixi.pro:10043/rtp/239.94.1.1:5140
+环球旅游,http://home.yixi.pro:10043/rtp/239.94.1.147:5140
+求索动物,http://ygbh.site/php/bfgd.php?id=287
+求索生活,http://ygbh.site/php/bfgd.php?id=288
+求索地理,http://ygbh.site/php/bfgd.php?id=286
+
+
+
+新闻频道,#genre#
+鳳凰中文,http://r.jdshipin.com/cCCzW
+鳳凰中文,https://cdn6.cc.cd/163189/fhzw
+鳯凰資訊,http://r.jdshipin.com/0Rp07
+鳯凰資訊,https://cdn6.cc.cd/163189/fhzx
+鳳凰香港,http://r.jdshipin.com/yDoTN
+鳳凰香港,https://cdn6.cc.cd/163189/fhhk
+NOW新聞,https://cdn.qd.je/163189/now
+NOW新聞,https://cdn.123.rr.kg/163189/now
+NOW新聞,http://rihou.cc:555/tv/[Cx]Now新闻
+NOW新聞,https://fast.hidns.vip/163189/now
+無線新聞台,https://cdn6.cc.cd/163189/wxxw
+娛樂新聞台,https://cdn6.cc.cd/163189/ylxw
+HOY78,https://fast.hidns.vip/163189/hoy78
+
+中天新聞,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
+中天新聞,http://173.208.234.146/live/ctinews.m3u8
+中天新聞,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
+寰宇新聞,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
+寰宇新聞,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
+寰宇新聞,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
+TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
+TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+東森新聞,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
+東森新聞, https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+中視新聞, http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
+中視新聞, https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
+
+
+
+
+
+CCTV1,rtp://@239.77.1.17:5146
+CCTV1,http://z.d4p.cn:8000/rtp/239.49.8.19:9614
+CCTV1,http://liuwenxiaokevin.top:14044/rtp/239.45.3.145:5140
+CCTV1,http://home.yixi.pro:10043/rtp/239.93.0.58:5140
+CCTV1,http://nas.cdbackup.cn:8888/rtp/239.93.0.58:5140
+CCTV4,rtp://@239.77.1.163:5146
+CCTV4,http://z.d4p.cn:8000/rtp/239.49.8.51:9806
+CCTV4,http://liuwenxiaokevin.top:14044/rtp/239.45.0.2:5140
+CCTV4,http://home.yixi.pro:10043/rtp/239.93.1.105:5140
+CCTV4,http://nas.cdbackup.cn:8888/rtp/239.93.1.105:5140
+CCTV7,rtp://@239.77.1.159:5146
+CCTV7,http://z.d4p.cn:8000/rtp/239.49.0.126:8000
+CCTV7,http://liuwenxiaokevin.top:14044/rtp/239.45.3.56:5140
+CCTV7,http://home.yixi.pro:10043/rtp/239.93.1.67:5140
+CCTV7,http://nas.cdbackup.cn:8888/rtp/239.93.1.67:5140
+CCTV13,rtp://@239.77.0.188:5146
+CCTV13,http://z.d4p.cn:8000/rtp/239.49.8.109:8000
+CCTV13,http://liuwenxiaokevin.top:14044/rtp/239.45.1.198:5140
+CCTV13,http://home.yixi.pro:10043/rtp/239.93.0.66:5140
+CCTV13,http://nas.cdbackup.cn:8888/rtp/239.93.0.66:5140
+
+
+广东民生,rtp://@239.77.0.225:5146
+广东民生,http://ikuai.huase.ltd:8888/rtp/239.77.0.225:5146
+广东民生,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.225:5146
+广东民生,http://pr.19760929.xyz:9688/rtp/239.77.0.225:5146
+广东民生,http://net.manyee.net:18888/rtp/239.77.0.225:5146
+广东民生,http://www.8888866.xyz:10000/rtp/239.77.0.225:5146
+广东新闻,rtp://@239.77.0.173:5146
+广东新闻,http://ikuai.huase.ltd:8888/rtp/239.77.0.168:5146
+广东新闻,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.173:5146
+广东新闻,http://pr.19760929.xyz:9688/rtp/239.77.0.173:5146
+广东新闻,http://net.manyee.net:18888/rtp/239.77.0.173:5146
+广东新闻,http://www.8888866.xyz:10000/rtp/239.77.0.168:5146
+
+华视新聞, http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
+非凡新聞, 
+年代新聞, 
+台視新聞, 
+民視新聞, http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
+镜新聞,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
+
+
+
+
+体育频道,#genre#
+广东体育,rtp://@239.77.0.112:5146
+广东体育,http://cdn2.163189.xyz/163189/gdty
+CCTV5,rtp://@239.77.0.170:5146
+CCTV5,http://z.d4p.cn:8000/rtp/239.49.8.75:8000
+CCTV5,http://liuwenxiaokevin.top:14044/rtp/239.45.1.69:5140
+CCTV5,http://home.yixi.pro:10043/rtp/239.93.42.37:5140
+CCTV5,http://nas.cdbackup.cn:8888/rtp/239.93.42.37:5140
+CCTV5+,rtp://@239.77.0.87:5146
+CCTV5+,http://z.d4p.cn:8000/rtp/239.49.8.18:9610
+CCTV5+,http://liuwenxiaokevin.top:14044/rtp/239.45.0.34:5140
+CCTV5+,http://home.yixi.pro:10043/rtp/239.93.1.173:5140
+CCTV5+,http://nas.cdbackup.cn:8888/rtp/239.93.1.36:8004
+CCTV16,rtp://@239.77.0.165:5146
+CCTV16,http://z.d4p.cn:8000/rtp/239.49.8.31:8000
+CCTV16,http://liuwenxiaokevin.top:14044/rtp/239.45.0.10:5140
+CCTV16,http://home.yixi.pro:10043/rtp/239.93.42.54:5140
+CCTV16,http://nas.cdbackup.cn:8888/rtp/239.93.42.54:5140
+
+Now Sports PRIME,http://vocotv.pro:80/0000011/0000011/715559
+Now HK Premier Sports 1,http://vocotv.pro:80/0000011/0000011/715574
+Now HK Premier Sports 2,http://vocotv.pro:80/0000011/0000011/715573
+Now HK Premier Sports 3,http://vocotv.pro:80/0000011/0000011/715572
+Now HK Premier Sports 4,http://vocotv.pro:80/0000011/0000011/715571
+Now HK Premier Sports 5,http://vocotv.pro:80/0000011/0000011/715570
+Now HK Premier Sports 6,http://vocotv.pro:80/0000011/0000011/715569
+Now HK Premier Sports 7,http://vocotv.pro:80/0000011/0000011/715568
+Now HK Premier Sports 8,http://vocotv.pro:80/0000011/0000011/715567
+Now HK Now Sports 1,http://vocotv.pro:80/0000011/0000011/715566
+Now HK Now Sports 2,http://vocotv.pro:80/0000011/0000011/715565
+Now HK Now Sports 3,http://vocotv.pro:80/0000011/0000011/715564
+Now HK Now Sports 4,http://vocotv.pro:80/0000011/0000011/715563
+Now HK Now Sports 5,http://vocotv.pro:80/0000011/0000011/715562
+Now HK Now Sports 6,http://vocotv.pro:80/0000011/0000011/715561
+Now HK Now Sports 7,http://vocotv.pro:80/0000011/0000011/715560
+Now HK Now Sports 4K 616,http://vocotv.pro:80/0000011/0000011/715558
+Now HK Now Sports 4K 617,http://vocotv.pro:80/0000011/0000011/715557
+
+
+
+緯來體育,https://3065.koyeb.app/smt.php?id=videolandsport&token=1234
+緯來體育,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=videolandsport&token=abcd1234
+愛爾達體育 1 台,https://3065.koyeb.app/smt.php?id=eltasport_twn&token=1234
+愛爾達體育 1 台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=eltasport_twn&token=abcd1234
+愛爾達體育 2 台,https://3065.koyeb.app/smt.php?id=eltasport2_twn&token=1234
+愛爾達體育 2 台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=eltasport2_twn&token=abcd1234
+愛爾達體育 3 台,https://3065.koyeb.app/smt.php?id=eltasport3_twn&token=1234
+愛爾達體育 3 台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=eltasport3_twn&token=abcd1234
+DAZN1 台,https://3065.koyeb.app/smt.php?id=golfchannel_twn&token=1234
+DAZN1 台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=golfchannel_twn&token=abcd1234
+博斯運動 1 台,https://3065.koyeb.app/smt.php?id=bosisport1_twn&token=1234
+博斯運動 1 台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=bosisport1_twn&token=abcd1234
+博斯運動 2 台,https://3065.koyeb.app/smt.php?id=bosisport2_twn&token=1234
+博斯運動 2 台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=bosisport2_twn&token=abcd1234
+博斯无限,https://3065.koyeb.app/smt.php?id=bosiunlimited_twn&token=1234
+博斯无限,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=bosiunlimited_twn&token=abcd1234
+博斯高球 1,https://3065.koyeb.app/smt.php?id=bosigolf1_twn&token=1234
+博斯高球 1,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=bosigolf1_twn&token=abcd1234
+博斯高球 2,https://3065.koyeb.app/smt.php?id=bosigolf2_twn&token=1234
+博斯高球 2,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=bosigolf2_twn&token=abcd1234
+博斯网球,https://3065.koyeb.app/smt.php?id=bositennis_twn&token=1234
+博斯网球,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=bositennis_twn&token=abcd1234
+
+百事通超级体育,http://liuwenxiaokevin.top:14044/rtp/239.45.3.139:5140
+百事通超级体育,http://op.aklim.dpdns.org:18885/rtp/239.45.3.139:5140
+劲爆体育,http://119.32.12.22:2903/udp/224.1.100.129:11111 
+IHOT体育,http://nas.yzs10000.com:17777/rtp/239.94.1.144:5140
+IHOT赛车,http://liuwenxiaokevin.top:14044/rtp/239.94.1.144:5140
+五星体育,http://liuwenxiaokevin.top:14044/rtp/239.45.3.210:5140
+五星体育,http://op.aklim.dpdns.org:18885/rtp/239.45.3.210:5140
+五星体育,http://cdn9.163189.xyz/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
+睛彩篮球,rtp://239.77.1.21:5146
+睛彩篮球,http://o.1680000.xyz:12346/rtp/239.77.1.21:5146
+睛彩竞技,rtp://239.77.1.20:5146
+睛彩竞技,http://o.1680000.xyz:12346/rtp/239.77.1.20:5146
+英雄联盟1,http://live.iill.top/bilibili.php?id=6
+英雄联盟2,http://live.iill.top/huya.php?id=660001
+英雄联盟3,http://live.iill.top/douyu.php?id=288016
+Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+
+
+电影频道,#genre#
+周星驰,https://live.metshop.top/huya/11336587
+粤语喜剧,https://live.metshop.top/huya/11352894
+粤语连续剧,http://lxajh.top/tv/douyu.php?id=1226741
+
+美亚电影,http://173.208.234.146/live/mymovie.m3u8
+天映频道,http://173.208.234.146/live/typd.m3u8
+NOW星影台,http://173.208.234.146/live/nowxy.m3u8
+NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
+
+緯來電影台,https://3065.koyeb.app/smt.php?id=videolandmovie&token=1234
+緯來電影台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=videolandmovie&token=abcd1234
+東森電影台,https://3065.koyeb.app/smt.php?id=ettvmovie&token=1234
+東森電影台,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ettvmovie&token=abcd1234
+東森洋片,https://3065.koyeb.app/smt.php?id=ettvwestern&token=1234
+東森洋片,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=ettvwestern&token=abcd1234
+龍華電影,https://3065.koyeb.app/smt.php?id=xingwei_movie&token=1234
+龍華電影,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=xingwei_movie&token=abcd1234
+龍華洋片,https://3065.koyeb.app/smt.php?id=lunghuawestern_twn&token=1234
+龍華洋片,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=lunghuawestern_twn&token=abcd1234
+龍華經典,https://3065.koyeb.app/smt.php?id=lunghuajingdian_twn&token=1234
+龍華經典,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=lunghuajingdian_twn&token=abcd1234
+HOB,https://3065.koyeb.app/smt.php?id=hbohd_twn&token=1234
+HOB,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=hbohd_twn&token=abcd1234
+AMC,https://3065.koyeb.app/smt.php?id=axn_twn&token=1234
+AMC,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=axn_twn&token=abcd1234
+ARIRANG,https://3065.koyeb.app/smt.php?id=arirang_twn&token=1234
+ARIRANG,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=arirang_twn&token=abcd1234
+AXN 电影,https://3065.koyeb.app/smt.php?id=axn_twn&token=1234
+AXN 电影,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=axn_twn&token=abcd1234
+CINEMAX,https://3065.koyeb.app/smt.php?id=cinemax_twn&token=1234
+CINEMAX,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=cinemax_twn&token=abcd1234
+HBO 家庭,https://3065.koyeb.app/smt.php?id=hbohit_twn&token=1234
+HBO 家庭,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=hbohit_twn&token=abcd1234
+好莱坞电影,https://3065.koyeb.app/smt.php?id=hollywoodmovies_twn&token=1234
+好莱坞电影,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=hollywoodmovies_twn&token=abcd1234
+龙祥电影,https://3065.koyeb.app/smt.php?id=lungxiangtime_twn&token=1234
+龙祥电影,https://ctfwmbitweou.ap-southeast-1.clawcloudrun.com/smart.php?id=lungxiangtime_twn&token=abcd1234
+
+风味人间,https://live.metshop.top/huya/26355760
+亮剑电视轮播,https://live.metshop.top/huya/30080238
+雪豹电视轮播,https://live.metshop.top/huya/29580970
+科幻梦工场播,https://live.metshop.top/huya/15152155
+
+
+香港频道,#genre#
+鳳凰中文,http://r.jdshipin.com/cCCzW
+鳳凰中文,https://cdn6.cc.cd/163189/fhzw
+鳯凰資訊,http://r.jdshipin.com/0Rp07
+鳯凰資訊,https://cdn6.cc.cd/163189/fhzx
+鳳凰香港,http://r.jdshipin.com/yDoTN
+鳳凰香港,https://cdn6.cc.cd/163189/fhhk
+
+NOW新聞,https://fast.hidns.vip/163189/now
+無線新聞台,https://cdn6.cc.cd/163189/wxxw
+娛樂新聞台,https://cdn6.cc.cd/163189/ylxw
+HOY78,https://fast.hidns.vip/163189/hoy78
+
+
+
+翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct4k/
+明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
+明珠台,http://r.jdshipin.com/jUx8K
+翡翠剧集台,https://cdn6.cc.cd/163189/tvbd
+TVB1, https://cdn6.cc.cd/163189/tvb1
+TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
+TVB Plus,http://r.jdshipin.com/ndGgS
+
+TVB J1,https://cdn6.cc.cd/163189/j1
+HOY76,https://cdn11.163189.xyz/163189/hoy76
+HOY77,https://fast.hidns.vip/163189/hoy
+HOY77,https://cdn6.cc.cd/163189/hoy
+VIUTV,https://cdn.qd.je/163189/viu
+VIUTV,http://r.jdshipin.com/vSJvl
+VIUTV,https://10.fast.hidns.vip/163189/viu/
+ViuTVSix,https://cdn.qd.je/163189/viu6
+ViuTVSix,https://10.fast.hidns.vip/163189/viu6/
+RTHK31,https://cdn.qd.je/163189/rthk31
+RTHK31,https://fast.hidns.vip/163189/rthk31
+RTHK32,https://cdn.qd.je/163189/rthk32
+RTHK32,https://fast.hidns.vip/163189/rthk32
+TVB 星河台,https://cdn.qd.je/163189/tvbxh
 TVB 星河台,http://r.jdshipin.com/Voac4
 
 TVB 华丽台,http://r.jdshipin.com/thuYX
