@@ -18,6 +18,7 @@ NOW新聞,https://fast.hidns.vip/163189/now
 娛樂新聞台,https://cdn6.cc.cd/163189/ylxw
 HOY78,https://fast.hidns.vip/163189/hoy78
 
+中天新聞,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8 
 中天新聞,http://216.23.101.10:16998/smt/1923?token=Tconfig123
 中天新聞,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 中天新聞,http://173.208.234.146/live/ctinews.m3u8
@@ -26,12 +27,15 @@ HOY78,https://fast.hidns.vip/163189/hoy78
 寰宇新聞,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 寰宇新聞,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 寰宇新聞,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
+TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8 
 TVBS新聞,http://216.23.101.10:16998/smt/738?token=Tconfig123
 TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+東森新聞,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8 
 東森新聞,http://216.23.101.10:16998/smt/544?token=Tconfig123
 東森新聞,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 東森新聞, https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+中視新聞, https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8 
 中視新聞, http://216.23.101.10:16998/smt/1989?token=Tconfig123
 中視新聞, http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
 中視新聞, https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
@@ -58,12 +62,15 @@ CCTV7,http://www.happyic.cn:10000/udp/239.10.0.208:1025
 CCTV13,http://www.happyic.cn:10000/udp/239.10.0.198:1025
 
 
+
 广东民生,rtp://@239.77.0.225:5146
-广东民生,http://home.8v8.fun:4333/udp/239.77.0.225:5146
 广东民生,http://www.happyic.cn:10000/udp/239.11.0.80:1025
+广东民生,http://120.238.84.45:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+广东民生,http://home.8v8.fun:4333/udp/239.77.0.225:5146
 广东新闻,rtp://@239.77.0.173:5146
-广东新闻,http://home.8v8.fun:4333/udp/239.77.0.173:5146
 广东新闻,http://www.happyic.cn:10000/udp/239.10.0.199:1025
+广东新闻,http://120.238.84.45:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://home.8v8.fun:4333/udp/239.77.0.173:5146
 
 华视新聞, http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
 民視新聞, http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
@@ -74,9 +81,9 @@ CCTV13,http://www.happyic.cn:10000/udp/239.10.0.198:1025
 
 体育频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
-广东体育,http://home.8v8.fun:4333/udp/239.77.0.168:5146
 广东体育,http://www.happyic.cn:10000/udp/239.10.0.47:1025
-CCTV5,rtp://239.77.0.170:5146
+广东体育,http://120.238.84.45:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://home.8v8.fun:4333/udp/239.77.0.168:5146CCTV5,rtp://239.77.0.170:5146
 CCTV5+,rtp://239.77.1.31:5146
 CCTV16,rtp://239.77.0.165:5146
 CCTV5,http://107.150.60.122/live/cctv5hd.m3u
@@ -120,10 +127,10 @@ NOW新聞,https://fast.hidns.vip/163189/now
 娛樂新聞台,https://cdn6.cc.cd/163189/ylxw
 HOY78,https://fast.hidns.vip/163189/hoy78
 
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台,http://c.123.rr.kg/163189/fct
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,https://cdn3.indevs.in/stream/tvb/fct4k/
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
 明珠台,http://r.jdshipin.com/jUx8K
 翡翠剧集台,https://cdn6.cc.cd/163189/tvbd
@@ -229,29 +236,37 @@ amc電影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1784702901150
 
 广东频道,#genre#
 广东体育,rtp://@239.77.0.112:5146
-广东体育,http://home.8v8.fun:4333/udp/239.77.0.168:5146
 广东体育,http://www.happyic.cn:10000/udp/239.10.0.47:1025
+广东体育,http://120.238.84.45:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://home.8v8.fun:4333/udp/239.77.0.168:5146
 广东民生,rtp://@239.77.0.225:5146
-广东民生,http://home.8v8.fun:4333/udp/239.77.0.225:5146
 广东民生,http://www.happyic.cn:10000/udp/239.11.0.80:1025
+广东民生,http://120.238.84.45:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+广东民生,http://home.8v8.fun:4333/udp/239.77.0.225:5146
 广东新闻,rtp://@239.77.0.173:5146
-广东新闻,http://home.8v8.fun:4333/udp/239.77.0.173:5146
 广东新闻,http://www.happyic.cn:10000/udp/239.10.0.199:1025
+广东新闻,http://120.238.84.45:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://home.8v8.fun:4333/udp/239.77.0.173:5146
 广东珠江,rtp://@239.77.0.1:5146
-广东珠江,http://home.8v8.fun:4333/udp/239.77.0.1:5146
 广东珠江,http://www.happyic.cn:10000/udp/239.10.0.63:1025
+广东珠江,http://120.238.84.45:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://home.8v8.fun:4333/udp/239.77.0.1:5146
 大湾区卫视,rtp://@239.77.0.215:5146
-大湾区卫视,http://home.8v8.fun:4333/udp/239.77.0.215:5146
 大湾区卫视,http://www.happyic.cn:10000/udp/239.11.0.78:1025
+大湾区卫视,http://120.238.84.45:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+大湾区卫视,http://home.8v8.fun:4333/udp/239.77.0.215:5146
 广东影视,rtp://@239.77.0.217:5146
-广东影视,http://home.8v8.fun:4333/udp/239.77.0.217:5146
 广东影视,http://www.happyic.cn:10000/udp/239.11.0.79:1025
+广东影视,http://120.238.84.45:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://home.8v8.fun:4333/udp/239.77.0.217:5146
 广东卫视,rtp://@239.77.1.19:5146
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 广东卫视,http://www.happyic.cn:10000/udp/239.10.0.45:1025
 广东经济,rtp://@239.77.0.167:5146
-广东经济,http://home.8v8.fun:4333/udp/239.77.0.167:5146
 广东经济,http://www.happyic.cn:10000/udp/239.10.0.46:1025
+广东经济,http://120.238.84.45:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+广东经济,http://home.8v8.fun:4333/udp/239.77.0.167:5146
+
 
 央视频道,#genre#
 CCTV1,rtp://239.77.1.17:5146
