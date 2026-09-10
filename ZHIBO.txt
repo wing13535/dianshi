@@ -1,28 +1,24 @@
 新闻频道,#genre#
+鳳凰中文,http://120.237.39.10:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 鳳凰中文,http://c.123.rr.kg/163189/fhzw
 鳳凰中文,http://r.jdshipin.com/cCCzW
 鳳凰中文,https://cdn6.cc.cd/163189/fhzw
+鳯凰資訊,http://120.237.39.10:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 鳯凰資訊,http://c.123.rr.kg/163189/fhzx
 鳯凰資訊,http://r.jdshipin.com/0Rp07
 鳯凰資訊,https://cdn6.cc.cd/163189/fhzx
+鳳凰香港,http://120.234.44.98:18180/TV00000000000000000024@HHZT
 鳳凰香港,http://c.123.rr.kg/163189/fhhk
 鳳凰香港,http://r.jdshipin.com/yDoTN
 鳳凰香港,https://cdn6.cc.cd/163189/fhhk
-NOW新聞,https://cdn.qd.je/163189/now
-NOW新聞,https://cdn.123.rr.kg/163189/now
-NOW新聞,http://rihou.cc:555/tv/[Cx]Now新闻
-NOW新聞,https://fast.hidns.vip/163189/now
-無線新聞台,http://c.123.rr.kg/163189/wxxw
-無線新聞台,https://cdn6.cc.cd/163189/wxxw
-娛樂新聞台,http://c.123.rr.kg/163189/ylxw
-娛樂新聞台,https://cdn6.cc.cd/163189/ylxw
-HOY78,https://fast.hidns.vip/163189/hoy78
 
+中天新聞,https://my5353.com/ztxw
 中天新聞,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8 
 中天新聞,http://216.23.101.10:16998/smt/1923?token=Tconfig123
 中天新聞,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 中天新聞,http://173.208.234.146/live/ctinews.m3u8
 中天新聞,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
+寰宇新聞,http://nmk.ioapk.com:5050/of-litv-longturn14/index.m3u8
 寰宇新聞,http://216.23.101.10:16998/smt/2501?token=Tconfig123
 寰宇新聞,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 寰宇新聞,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
@@ -108,12 +104,15 @@ NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
 
 
 香港频道,#genre#
+鳳凰中文,http://120.237.39.10:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 鳳凰中文,http://c.123.rr.kg/163189/fhzw
 鳳凰中文,http://r.jdshipin.com/cCCzW
 鳳凰中文,https://cdn6.cc.cd/163189/fhzw
+鳯凰資訊,http://120.237.39.10:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 鳯凰資訊,http://c.123.rr.kg/163189/fhzx
 鳯凰資訊,http://r.jdshipin.com/0Rp07
 鳯凰資訊,https://cdn6.cc.cd/163189/fhzx
+鳳凰香港,http://120.234.44.98:18180/TV00000000000000000024@HHZT
 鳳凰香港,http://c.123.rr.kg/163189/fhhk
 鳳凰香港,http://r.jdshipin.com/yDoTN
 鳳凰香港,https://cdn6.cc.cd/163189/fhhk
