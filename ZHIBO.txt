@@ -146,6 +146,7 @@ HOY78,https://fast.hidns.vip/163189/hoy78
 明珠台,http://r.jdshipin.com/jUx8K
 翡翠剧集台,https://cdn6.cc.cd/163189/tvbd
 TVB1, https://cdn6.cc.cd/163189/tvb1
+TVB Plus,https://10.fast.hidns.vip/163189/tvbp/
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
 TVB Plus,http://r.jdshipin.com/ndGgS
 
@@ -153,15 +154,18 @@ TVB J1,https://cdn6.cc.cd/163189/j1
 HOY76,https://cdn11.163189.xyz/163189/hoy76
 HOY77,https://fast.hidns.vip/163189/hoy
 HOY77,https://cdn6.cc.cd/163189/hoy
+VIUTV,https://10.fast.hidns.vip/163189/viu/
 VIUTV,https://cdn.qd.je/163189/viu
 VIUTV,http://r.jdshipin.com/vSJvl
 VIUTV,https://10.fast.hidns.vip/163189/viu/
+ViuTVSix,https://10.fast.hidns.vip/163189/viu6/
 ViuTVSix,https://cdn.qd.je/163189/viu6
 ViuTVSix,https://10.fast.hidns.vip/163189/viu6/
 RTHK31,https://cdn.qd.je/163189/rthk31
 RTHK31,https://fast.hidns.vip/163189/rthk31
 RTHK32,https://cdn.qd.je/163189/rthk32
 RTHK32,https://fast.hidns.vip/163189/rthk32
+TVB 星河台,https://10.fast.hidns.vip/163189/xinghe/
 TVB 星河台,https://cdn.qd.je/163189/tvbxh
 TVB 星河台,http://r.jdshipin.com/Voac4
 
