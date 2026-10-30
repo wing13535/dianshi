@@ -11,6 +11,7 @@
 鳯凰資訊,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.36:5140
 鳯凰資訊,http://120.237.39.10:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 鳯凰資訊,http://yulang132.cn:4022/rtp/239.94.2.49:5140
+鳳凰香港,http://xsmt.ccwu.cc/xsmt/smt.php?id=1345
 鳳凰香港,http://zdxing.com:2222/fengshows-hongkong.flv
 鳳凰香港,http://xiangz.qzz.io:8031/php/fhx.php?id=fhhk
 鳳凰香港,http://120.234.44.98:18180/TV00000000000000000024@HHZT
@@ -107,7 +108,7 @@ NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
 
 
 香港频道,#genre#
-凰中文,http://gq.scvip.net.cn:8100/rtp/239.93.5.31:8012
+鳳凰中文,http://gq.scvip.net.cn:8100/rtp/239.93.5.31:8012
 鳳凰中文,http://ak.ws.sc.cn:8100/rtp/239.93.5.31:8012
 鳳凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
 鳳凰中文,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.35:5140
@@ -119,6 +120,7 @@ NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
 鳯凰資訊,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.36:5140
 鳯凰資訊,http://120.237.39.10:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 鳯凰資訊,http://yulang132.cn:4022/rtp/239.94.2.49:5140
+鳳凰香港,http://xsmt.ccwu.cc/xsmt/smt.php?id=1345
 鳳凰香港,http://zdxing.com:2222/fengshows-hongkong.flv
 鳳凰香港,http://xiangz.qzz.io:8031/php/fhx.php?id=fhhk
 鳳凰香港,http://120.234.44.98:18180/TV00000000000000000024@HHZT
@@ -181,66 +183,118 @@ Astro欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 
 
 台湾频道,#genre#
-CinemaWorld,http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1784702901150
-DreamWorks 夢工廠動畫,http://4gtv.cnlive.club/channel/n451655ef/index.m3u8?q=1784702901150
-KLT-靖天國際台,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1784702901150
-LiveABC互動英語頻道,http://4gtv.cnlive.club/channel/2a571abf/index.m3u8?q=1784702901150
-MOMO親子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1784702901150
-Nice TV 靖天歡樂台,http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8?q=1784702901150
-Nick Jr. 兒童頻道,http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1784702901150
-ROCK Action,http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784702901150
-TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784702901150
-TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1784702901150
-TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1784702901150
-TVBS歡樂台,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1784702901150
-TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1784702901150
-TVBS綜藝台,http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1784702901150
-amc電影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1784702901150
-三立新聞iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
-三立綜合台,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1784702901150
-中天新聞台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
-中視,http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1784702901150
-中視新聞,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784702901150
-人間衛視,http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1784702901150
-八大精彩台,http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1784702901150
-八大綜藝台,http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1784702901150
-公視戲劇,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1784702901150
-原住民族電視台,http://4gtv.cnlive.club/channel/4f20dc68/index.m3u8?q=1784702901150
-大愛二台,http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8?q=1784702901150
-大愛電視,http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1784702901150
-客家電視台,http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1784702901150
-寰宇新聞台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784702901150
-寰宇新聞台灣台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1784702901150
-尼克兒童頻道,http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1784702901150
-影迷數位電影台,http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1784702901150
-東森新聞台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1784702901150
-東森財經新聞台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1784702901150
-民視,http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1784702901150
-民視台灣台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1784702901150
-民視新聞台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1784702901150
-民視第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1784702901150
-民視綜藝台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1784702901150
-精選動漫台,http://4gtv.cnlive.club/channel/n1ecb3c7f/index.m3u8?q=1784702901150
-經典卡通台,http://4gtv.cnlive.club/channel/n2faf04ad/index.m3u8?q=1784702901150
-經典電影台,http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1784702901150
-華視,http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1784702901150
-華視新聞,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784702901150
-豬哥亮歌廳秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1784702901150
-達文西頻道,http://4gtv.cnlive.club/channel/n1d7d9ddb/index.m3u8?q=1784702901150
-采昌影劇台,http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1784702901150
-金光布袋戲,http://4gtv.cnlive.club/channel/n125d8ecd/index.m3u8?q=1784702901150
-鏡電視新聞台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1784702901150
-靖天卡通台,http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1784702901150
-靖天戲劇台,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1784702901150
-靖天日本台,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1784702901150
-靖天映畫,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1784702901150
-靖天綜合台,http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1784702901150
-靖天育樂台,http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1784702901150
-靖天資訊台,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1784702901150
-靖天電影台,http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1784702901150
-靖洋卡通Nice Bingo,http://4gtv.cnlive.club/channel/n15c65427/index.m3u8?q=1784702901150
-靖洋戲劇台,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1784702901150
-
+民视,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv002
+中视,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv040
+华视,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv041
+三立综合,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live207
+东森新闻,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv152
+台视新闻,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv051
+华视新闻,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv052
+民视新闻,https://www.caonizuzong.cc.cd/4gtv?id=live-ftv13
+三立新闻iNEWS,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live089
+TVBS新闻,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv072
+TVBS,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv073
+东森财经新闻,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv153
+中视新闻,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv074
+中天新闻,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv009
+寰宇新闻,https://www.caonizuzong.cc.cd/4gtv?id=litv-longturn14
+寰宇新闻台湾,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv156
+民视第一,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv003
+民视台湾,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv001
+TVBS精采,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv067
+大爱电视,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv007
+中视经典,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv080
+好消息,https://www.caonizuzong.cc.cd/4gtv?id=litv-ftv16
+好消息2,https://www.caonizuzong.cc.cd/4gtv?id=litv-ftv17
+客家电视,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv043
+八大综综艺,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv039
+中视菁采,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv064
+爱尔达娱乐,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv070
+靖天综合,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv046
+靖天日本,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv047
+新唐人亚太,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live050
+ARIRANG阿里郎频道,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv079
+Global Trekker,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live112
+原住民族电视,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live014
+东森购物四,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live049
+LiveABC互动英语频道,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live030
+达文西频道,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv018
+ELTV生活英语,https://www.caonizuzong.cc.cd/4gtv?id=litv-longturn20
+Nick Jr. 儿童频道,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live032
+尼克儿童频道,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live105
+DreamWorks 梦工厂动画,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live017
+靖天卡通,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv044
+靖洋卡通Nice Bingo,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv057
+MOMO亲子,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live107
+东森购物一,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live047
+SBN全球财经,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live060
+寰宇财经,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv158
+东森购物二,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live046
+民视综艺,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv004
+猪哥亮歌厅秀,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv006
+靖天育乐,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv062
+靖天国际,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv063
+靖天欢乐,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv054
+靖天资讯,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv065
+TVBS欢乐,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv068
+TVBS综艺,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live087
+TVBS台剧,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live088
+韩国娱乐,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv016
+ROCK Entertainment,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live080
+Lifetime 娱乐频道,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live029
+电影原声,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live031
+TRACEUrban,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv082
+MTVLiveHD音乐频道,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live025
+MezzoLiveHD,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv083
+CLASSICA古典乐,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv059
+东森购物三,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live048
+TRACESportStars,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv077
+智林体育,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv101
+时尚运动X,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv014
+车迷TV,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live201
+GINXEsportsTV,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv053
+PetClubTV,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live110
+民视旅游Fre,https://www.caonizuzong.cc.cd/4gtv?id=litv-ftv07
+滚动力rollor,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live012
+亚洲旅游,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv076
+fun探索娱乐,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live011
+幸福空间居家,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live206
+LoveNature,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live208
+History历史频道,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live026
+爱尔达生活旅游,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live120
+LUXETVChannel,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live121
+TV5MONDESTYLEHD生活时尚,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live122
+公视戏剧,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv042
+民视影剧,https://www.caonizuzong.cc.cd/4gtv?id=litv-ftv09
+HITS频道,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live620
+八大精彩,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv034
+霹雳布袋戏,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live145
+靖天戏剧,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv058
+靖洋戏剧,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv045
+CI罪案侦查频道,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live027
+视纳华仁纪实频道,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv013
+影迷数位纪实,https://www.caonizuzong.cc.cd/4gtv?id=litv-ftv15
+金光布袋戏,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live144
+ROCKAction,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live138
+采昌影剧,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv049
+靖天映画,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv055
+靖天电影,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv061
+影迷数位电影,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv011
+amc电影,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv017
+CinemaWorld,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live069
+我的欧洲电影,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live157
+大爱二,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live106
+人间卫视,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live008
+VOA美国之音,https://www.caonizuzong.cc.cd/4gtv?id=litv-ftv03
+CNBCAsia财经,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live130
+DW德国之声,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live071
+国会频道1,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv084
+国会频道2,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv085
+经典电影,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live021
+经典卡通,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live022
+精选动漫,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live024
+戏剧免费看1,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live010
+镜电视新闻,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-4gtv07
 
 
 
@@ -470,6 +524,29 @@ CCTV4K,http://www.happyic.cn:10000/udp/239.11.0.162:1025
 内蒙古卫视,http://www.happyic.cn:10000/udp/239.10.0.163:1025
 
 
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 1 (cloud) 
+http://tv.cloudcdn.me/live.ts?channelId=129128&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 2 (cloud)
+http://tv.cloudcdn.me/live.ts?channelId=129129&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 3 (cloud) 
+http://tv.cloudcdn.me/live.ts?channelId=129130&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 4 (cloud) 
+http://tv.cloudcdn.me/live.ts?channelId=129131&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 5 (cloud) 
+http://tv.cloudcdn.me/live.ts?channelId=129132&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 6 (cloud) 
+http://tv.cloudcdn.me/live.ts?channelId=129133&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 7 (cloud) 
+http://tv.cloudcdn.me/live.ts?channelId=129134&uid=10223&deviceMac=00:1A:79:07:07:43
 
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/wxwJhrzN/ezgif-8c4bb8cf3abef1ee.png",BOSI GOLF
+http://125.227.210.55:3059/VideoInput/play.ts
 
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/tC11FCDk/ezgif-89ea0975facc171f.png",BOSI SPORT 1
+http://125.227.210.55:8173/VideoInput/play.ts
 
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/tTCJJXY3/ezgif-844501451d7b987f.png",BOSI SPORT 2
+http://125.227.210.55:1061/VideoInput/play.ts
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/0yT7zJsp/ezgif-8011a0a93c0fd019.png",BOSI TENNIS
+http://125.227.210.55:3060/VideoInput/play.ts
