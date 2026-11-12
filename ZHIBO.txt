@@ -144,9 +144,9 @@ NOW新聞,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 娛樂新聞台,http://c.123.rr.kg/163189/ylxw
 娛樂新聞台,https://cdn6.cc.cd/163189/ylxw
 HOY78,https://fast.hidns.vip/163189/hoy78
-
+翡翠台,http://112.92.129.58:9898/hls/91/index.m3u8
 翡翠台,http://120.234.44.98:18180/TV00000000000000000032@HHZT
-翡翠台,http://120.198.84.146:9901/tsfile/live/1020_1.m3u8
+翡翠台,http://xsmt.ccwu.cc/xsmt/smt.php?id=1939
 翡翠台,http://120.238.94.82:9901/tsfile/live/1007_1.m3u8
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台,http://c.123.rr.kg/163189/fct
