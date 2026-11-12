@@ -105,7 +105,8 @@ CCTV16,http://www.happyic.cn:10000/udp/239.11.0.126:1025
 周星驰,https://lbds.us.ci/11336587
 粤语喜剧,https://lbds.us.ci/11352894
 粤语电视剧,http://live.nctv.top/douyu1.php?id=1226741
-美亚电影,http://173.208.234.146/live/mymovie.m3u8
+美亞電影台,http://103.172.187.30:12000/stream/mytv/null-9//master.m3u8
+美亞電影台,http://103.172.187.30:12000/stream/mytv/null-2//master.m3u8
 天映频道,https://hkfa.2025link.site/43rd_HK_Film_Awards/astro_celestial_movies
 NOW星影台,http://173.208.234.146/live/nowxy.m3u8
 NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
@@ -134,16 +135,17 @@ NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
 鳳凰香港,http://ccav.zone.id/php/fh.php?id=3
 鳳凰香港,http://120.234.44.98:18180/TV00000000000000000024@HHZT
 
-
-NOW新聞,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 NOW新聞,https://fast.hidns.vip/163189/now
+NOW新聞,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
+無線新聞台,http://103.172.187.30:12000/stream/mytv/null//master.m3u8
 無線新聞台,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
+無線新聞台,http://120.234.44.98:18180/TV00000000000000000034@HHZT
 
 娛樂新聞台,http://c.123.rr.kg/163189/ylxw
 娛樂新聞台,https://cdn6.cc.cd/163189/ylxw
 HOY78,https://fast.hidns.vip/163189/hoy78
 
-翡翠台,http://120.198.103.68:9901/tsfile/live/1007_1.m3u8
+翡翠台,http://120.234.44.98:18180/TV00000000000000000032@HHZT
 翡翠台,http://120.198.84.146:9901/tsfile/live/1020_1.m3u8
 翡翠台,http://120.238.94.82:9901/tsfile/live/1007_1.m3u8
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct4k/
@@ -151,7 +153,7 @@ HOY78,https://fast.hidns.vip/163189/hoy78
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/62WM7
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
-明珠台,http://r.jdshipin.com/jUx8K
+明珠台,http://120.234.44.98:18180/TV00000000000000000035@HHZT
 翡翠剧集台,https://cdn6.cc.cd/163189/tvbd
 TVB1, https://cdn6.cc.cd/163189/tvb1
 TVB Plus,https://10.fast.hidns.vip/163189/tvbp/
@@ -183,6 +185,7 @@ TVB 星河台,https://cdn3.indevs.in/stream/live/tvbxh/
 亚洲武侠,https://cdn6.cc.cd/163189/yzwx
 黄金华剧台,http://r.jdshipin.com/62WM7
 黄金华剧台,https://10.fast.hidns.vip/163189/hjhjt/
+亞洲劇台,http://103.172.187.30:12000/stream/mytv/null-11//master.m3u8
 Astro AOD,https://cdn3.indevs.in/stream/live/aod/
 Astro AEC,https://cdn3.indevs.in/stream/live/aec/
 Astro QJ,https://cdn3.indevs.in/stream/live/qj/
@@ -190,6 +193,8 @@ Astro欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 天映頻道,https://cdn3.indevs.in/stream/live/typd/
 天映經典,https://cdn3.indevs.in/stream/live/ccm/
+美亞電影台,http://103.172.187.30:12000/stream/mytv/null-9//master.m3u8
+
 
 NOW SPORTS 1 (cloud) ,http://tv.cloudcdn.me/live.ts?channelId=129128&uid=10223&deviceMac=00:1A:79:07:07:43
 NOW SPORTS 2 (cloud),http://tv.cloudcdn.me/live.ts?channelId=129129&uid=10223&deviceMac=00:1A:79:07:07:43
